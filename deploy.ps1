@@ -1,156 +1,103 @@
-# Get repository root based on script location (src/WebApps/TravelWebApp/deploy.ps1 -> 3 levels up)
-$repoRoot = Resolve-Path (Join-Path $PSScriptRoot "../../..")
-$oldDir = Get-Location
+$ErrorActionPreference = "Stop"
+$ProgressPreference    = "SilentlyContinue"
 
-# Change directory to repo root to execute dotnet and wrangler commands
-Set-Location $repoRoot
+# -- Configuration -------------------------------------------------------------
+$AppName           = "TravelWebApp"
+$CsprojPath        = Join-Path $PSScriptRoot "$AppName.csproj"
+$PublishDir        = "C:\Public\$AppName"
+$PublicRepoUrl     = "https://github.com/Kapambwe/$AppName.git"
+$GitHubPagesBranch = "gh-pages"
+$GitHubPagesUrl    = "https://Kapambwe.github.io/$AppName/"
 
-$appName = "TravelWebApp"
-$projectPath = "src/WebApps/TravelWebApp/TravelWebApp.csproj"
-$cloudflareName = "travel-webapp"
+Write-Host ""
+Write-Host "========================================" -ForegroundColor Magenta
+Write-Host "DEPLOYING: $AppName to GitHub Pages" -ForegroundColor Magenta
+Write-Host "========================================" -ForegroundColor Magenta
+Write-Host ""
 
-# Check for required environment variables
-if (-not $env:CLOUDFLARE_API_TOKEN) {
-    Write-Error "CLOUDFLARE_API_TOKEN environment variable is not set"
-    Set-Location $oldDir
+# 1. Build and Publish locally
+$tempDir = Join-Path ([System.IO.Path]::GetTempPath()) ("$AppName-$(Get-Random)")
+Write-Host "Building and publishing $AppName in Release mode..." -ForegroundColor Yellow
+
+dotnet publish $CsprojPath -c Release -o $tempDir --nologo
+if ($LASTEXITCODE -ne 0) {
+    Write-Error "dotnet publish failed (exit $LASTEXITCODE)"
+    exit 1
+}
+Write-Host "  [OK] Build complete." -ForegroundColor Green
+
+$wwwrootSrc = Join-Path $tempDir "wwwroot"
+if (-not (Test-Path $wwwrootSrc)) {
+    $wwwrootSrc = $tempDir
+}
+
+# Add .nojekyll to prevent Jekyll from ignoring Blazor files starting with underscore
+$noJekyll = Join-Path $wwwrootSrc ".nojekyll"
+if (-not (Test-Path $noJekyll)) {
+    Out-File -FilePath $noJekyll -InputObject "" -Encoding ascii
+    Write-Host "  [OK] .nojekyll file created." -ForegroundColor Green
+}
+
+# Add .gitattributes to force binary treatment and prevent git from converting line endings
+$gitAttributes = Join-Path $wwwrootSrc ".gitattributes"
+if (-not (Test-Path $gitAttributes)) {
+    Out-File -FilePath $gitAttributes -InputObject "* binary" -Encoding ascii
+    Write-Host "  [OK] .gitattributes file created." -ForegroundColor Green
+}
+
+# Fix base href in published index.html for subdirectory hosting
+$indexPath = Join-Path $wwwrootSrc "index.html"
+if (Test-Path $indexPath) {
+    $html = Get-Content $indexPath -Raw
+    $baseTag = '<base href="/' + $AppName + '/" />'
+    $html = $html -replace '(?s)<!-- Smart base path.*?<\/script>', $baseTag
+    Set-Content $indexPath -Value $html -NoNewline -Encoding utf8
+    Write-Host "  [OK] Patched index.html base href to '/$AppName/'" -ForegroundColor Green
+}
+
+# Refresh local publish deployment directory
+Write-Host "Refreshing deployment directory $PublishDir..." -ForegroundColor Yellow
+if (Test-Path $PublishDir) {
+    Get-ChildItem -Path $PublishDir -Force |
+        Where-Object { $_.Name -ne ".git" } |
+        Remove-Item -Recurse -Force
+} else {
+    New-Item -Path $PublishDir -ItemType Directory | Out-Null
+}
+
+# Copy files
+Copy-Item -Path "$wwwrootSrc\*" -Destination $PublishDir -Recurse -Force
+Write-Host "  [OK] Files copied to deploy folder." -ForegroundColor Green
+
+# Clean up temp build folder
+Remove-Item -Path $tempDir -Recurse -Force -ErrorAction SilentlyContinue
+
+# Initialize/configure git in the public publish folder
+if (-not (Test-Path (Join-Path $PublishDir ".git"))) {
+    Write-Host "Initializing git repository in $PublishDir..." -ForegroundColor Yellow
+    git -C $PublishDir init -b $GitHubPagesBranch
+    git -C $PublishDir remote add origin $PublicRepoUrl
+} else {
+    git -C $PublishDir remote set-url origin $PublicRepoUrl
+}
+
+git -C $PublishDir config core.autocrlf false
+
+# Commit and force push to origin/gh-pages
+Write-Host "Committing and force-pushing to $GitHubPagesBranch branch..." -ForegroundColor Yellow
+git -C $PublishDir add -A
+$timestamp = Get-Date -Format "yyyy-MM-dd HH:mm"
+$commitMsg = "deploy: " + $AppName + " - " + $timestamp
+git -C $PublishDir commit -m $commitMsg --allow-empty --quiet
+git -C $PublishDir push origin $GitHubPagesBranch --force
+
+if ($LASTEXITCODE -ne 0) {
+    Write-Error "Git push failed!"
     exit 1
 }
 
-if (-not $env:CLOUDFLARE_ACCOUNT_ID) {
-    Write-Error "CLOUDFLARE_ACCOUNT_ID environment variable is not set"
-    Set-Location $oldDir
-    exit 1
-}
-
-# Function to create Cloudflare Pages project via API
-function New-CloudflareProject {
-    param(
-        [string]$ProjectName,
-        [string]$AccountId,
-        [string]$ApiToken
-    )
-    
-    Write-Host "Checking if project '$ProjectName' exists..." -ForegroundColor Yellow
-    
-    # Check if project already exists
-    $headers = @{
-        "Authorization" = "Bearer $ApiToken"
-        "Content-Type" = "application/json"
-    }
-    
-    $checkUrl = "https://api.cloudflare.com/client/v4/accounts/$AccountId/pages/projects/$ProjectName"
-    
-    try {
-        $response = Invoke-RestMethod -Uri $checkUrl -Headers $headers -Method Get -ErrorAction Stop
-        Write-Host "  Project already exists, skipping creation." -ForegroundColor Green
-        return $true
-    }
-    catch {
-        if ($_.Exception.Response.StatusCode -eq 404) {
-            Write-Host "  Project doesn't exist, creating..." -ForegroundColor Yellow
-            
-            # Create the project
-            $createUrl = "https://api.cloudflare.com/client/v4/accounts/$AccountId/pages/projects"
-            $body = @{
-                name = $ProjectName
-                production_branch = "main"
-            } | ConvertTo-Json
-            
-            try {
-                $createResponse = Invoke-RestMethod -Uri $createUrl -Headers $headers -Method Post -Body $body -ErrorAction Stop
-                Write-Host "  ✓ Project created successfully!" -ForegroundColor Green
-                return $true
-            }
-            catch {
-                Write-Error "Failed to create project: $_"
-                return $false
-            }
-        }
-        else {
-            Write-Error "Failed to check project: $_"
-            return $false
-        }
-    }
-}
-
-Write-Host "`n========================================" -ForegroundColor Magenta
-Write-Host "STEP 1: Creating Cloudflare Pages Project" -ForegroundColor Magenta
-Write-Host "========================================`n" -ForegroundColor Magenta
-
-$created = New-CloudflareProject -ProjectName $cloudflareName -AccountId $env:CLOUDFLARE_ACCOUNT_ID -ApiToken $env:CLOUDFLARE_API_TOKEN
-if (-not $created) {
-    Write-Warning "Failed to create project for $appName, deployment may fail"
-}
-
-Write-Host "`n========================================" -ForegroundColor Magenta
-Write-Host "STEP 2: Building and Deploying $appName" -ForegroundColor Magenta
-Write-Host "========================================`n" -ForegroundColor Magenta
-
-try {
-    # Check if project file exists
-    if (-not (Test-Path $projectPath)) {
-        throw "Project file not found at: $projectPath"
-    }
-    
-    # Restore dependencies
-    Write-Host "Restoring dependencies..." -ForegroundColor Yellow
-    dotnet restore $projectPath
-    if ($LASTEXITCODE -ne 0) {
-        throw "Failed to restore dependencies"
-    }
-    
-    # Build the project
-    Write-Host "Building project..." -ForegroundColor Yellow
-    dotnet build $projectPath --configuration Release --no-restore
-    if ($LASTEXITCODE -ne 0) {
-        throw "Failed to build project"
-    }
-    
-    # Publish the project
-    Write-Host "Publishing project..." -ForegroundColor Yellow
-    $publishDir = "publish/$appName"
-    dotnet publish $projectPath --configuration Release --output $publishDir --no-build
-    if ($LASTEXITCODE -ne 0) {
-        throw "Failed to publish project"
-    }
-    
-    # Fix base href in published index.html for Cloudflare Pages (uses root path)
-    $indexHtml = Join-Path $publishDir "wwwroot/index.html"
-    if (Test-Path $indexHtml) {
-        $html = Get-Content $indexHtml -Raw
-        $html = $html -replace '(?s)<!-- Smart base path.*?<\/script>', '<base href="/TravelWebApp/" />'
-        Set-Content $indexHtml -Value $html -NoNewline -Encoding utf8
-        Write-Host "  ✓ Patched index.html base href to '/TravelWebApp/' for deployment" -ForegroundColor Green
-    }
-    
-    # Deploy to Cloudflare Pages using Wrangler
-    Write-Host "Deploying to Cloudflare Pages..." -ForegroundColor Yellow
-    $wwwrootPath = Join-Path $publishDir "wwwroot"
-    
-    if (-not (Test-Path $wwwrootPath)) {
-        throw "wwwroot folder not found at: $wwwrootPath"
-    }
-    
-    # Deploy using wrangler pages deploy
-    Write-Host "  Project name: $cloudflareName" -ForegroundColor Cyan
-    Write-Host "  Deploying from: $wwwrootPath" -ForegroundColor Cyan
-    
-    wrangler pages deploy $wwwrootPath --project-name=$cloudflareName --branch=main --commit-dirty
-        
-    if ($LASTEXITCODE -ne 0) {
-        throw "Failed to deploy to Cloudflare Pages"
-    }
-    
-    Write-Host "`n✓ Successfully deployed $appName to Cloudflare Pages" -ForegroundColor Green
-    
-    # Clean up publish directory
-    Remove-Item -Path $publishDir -Recurse -Force -ErrorAction SilentlyContinue
-    
-} catch {
-    Write-Error "Failed to deploy $appName: $_"
-    Set-Location $oldDir
-    exit 1
-}
-
-# Restore original working directory
-Set-Location $oldDir
+Write-Host ""
+Write-Host "[OK] Successfully deployed $AppName to GitHub Pages!" -ForegroundColor Green
+Write-Host "Live URL: $GitHubPagesUrl" -ForegroundColor Cyan
+Write-Host "(Please note it may take ~1 minute for GitHub Pages to update)" -ForegroundColor Gray
+Write-Host ""
