@@ -118,9 +118,9 @@ try {
     $indexHtml = Join-Path $publishDir "wwwroot/index.html"
     if (Test-Path $indexHtml) {
         $html = Get-Content $indexHtml -Raw
-        $html = $html -replace '(?s)<!-- Smart base path.*?<\/script>', '<base href="/" />'
+        $html = $html -replace '(?s)<!-- Smart base path.*?<\/script>', '<base href="/TravelWebApp/" />'
         Set-Content $indexHtml -Value $html -NoNewline -Encoding utf8
-        Write-Host "  ✓ Patched index.html base href to '/' for Cloudflare Pages deployment" -ForegroundColor Green
+        Write-Host "  ✓ Patched index.html base href to '/TravelWebApp/' for deployment" -ForegroundColor Green
     }
     
     # Deploy to Cloudflare Pages using Wrangler
