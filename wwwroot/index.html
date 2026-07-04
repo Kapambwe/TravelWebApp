@@ -5,7 +5,25 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>TravelSA - Discover Africa</title>
-    <base href="/" />
+    <!-- Smart base path for GitHub Pages and Cloudflare Pages -->
+    <script>
+        // Detect platform and set appropriate base path
+        (function () {
+            var basePath = '/';
+            
+            // GitHub Pages detection (*.github.io)
+            if (window.location.hostname.endsWith('.github.io')) {
+                // Extract repository name from path
+                var pathParts = window.location.pathname.split('/').filter(p => p);
+                if (pathParts.length > 0) {
+                    basePath = '/' + pathParts[0] + '/';
+                }
+            }
+            // Cloudflare Pages, localhost, or custom domains use root
+            
+            document.write('<base href="' + basePath + '" />');
+        })();
+    </script>
     <link rel="preload" id="webassembly" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
