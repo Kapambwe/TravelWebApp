@@ -1,0 +1,136 @@
+[
+  {
+    "id": 1,
+    "estimateNumber": "EST-2025-001",
+    "customerId": 6,
+    "customerName": "Mumba Creative Agency Group",
+    "estimateDateDaysAgo": 34,
+    "expirationDateDaysFromNow": 31,
+    "status": "Accepted",
+    "subTotal": 3285773.74,
+    "taxRate": 15,
+    "taxAmount": 492866.06,
+    "total": 3778639.8,
+    "terms": "Net 30",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 34,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Performance Fee",
+        "quantity": 4,
+        "unitPrice": 821443.44,
+        "amount": 3285773.74,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 33
+  },
+  {
+    "id": 2,
+    "estimateNumber": "EST-2025-002",
+    "customerId": 9,
+    "customerName": "Kaputo Entertainment Holdings",
+    "estimateDateDaysAgo": 13,
+    "expirationDateDaysFromNow": 22,
+    "status": "Accepted",
+    "subTotal": 2930591.42,
+    "taxRate": 16,
+    "taxAmount": 468894.63,
+    "total": 3399486.05,
+    "terms": "Net 30",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 13,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Streaming Royalty",
+        "quantity": 4,
+        "unitPrice": 732647.85,
+        "amount": 2930591.42,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 12
+  },
+  {
+    "id": 3,
+    "estimateNumber": "EST-2025-003",
+    "customerId": 13,
+    "customerName": "Kabwe Media Holdings",
+    "estimateDateDaysAgo": 9,
+    "expirationDateDaysFromNow": 33,
+    "status": "Draft",
+    "subTotal": 95957.05,
+    "taxRate": 18,
+    "taxAmount": 17272.27,
+    "total": 113229.32,
+    "terms": "Net 30",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 9,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Collaboration Fee",
+        "quantity": 5,
+        "unitPrice": 19191.41,
+        "amount": 95957.05,
+        "itemType": "Service"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "estimateNumber": "EST-2025-004",
+    "customerId": 4,
+    "customerName": "Banda Entertainment Ltd",
+    "estimateDateDaysAgo": 9,
+    "expirationDateDaysFromNow": 17,
+    "status": "Sent",
+    "subTotal": 3365591.06,
+    "taxRate": 0,
+    "taxAmount": 0.0,
+    "total": 3365591.06,
+    "terms": "Net 45",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 9,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Music Licensing",
+        "quantity": 5,
+        "unitPrice": 673118.21,
+        "amount": 3365591.06,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 8
+  },
+  {
+    "id": 5,
+    "estimateNumber": "EST-2025-005",
+    "customerId": 3,
+    "customerName": "Bwalya Media Ltd",
+    "estimateDateDaysAgo": 7,
+    "expirationDateDaysFromNow": 32,
+    "status": "Accepted",
+    "subTotal": 3318394.82,
+    "taxRate": 15,
+    "taxAmount": 497759.22,
+    "total": 3816154.04,
+    "terms": "Net 30",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 7,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Streaming Royalty",
+        "quantity": 5,
+        "unitPrice": 663678.96,
+        "amount": 3318394.82,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 6
+  }
+]

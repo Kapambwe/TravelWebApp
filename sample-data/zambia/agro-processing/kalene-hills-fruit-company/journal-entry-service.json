@@ -1,0 +1,272 @@
+[
+  {
+    "id": "je-0001",
+    "entryDate": "2025-08-25",
+    "description": "Transaction 1: Processing operations",
+    "account": "1000",
+    "debit": 24675.79,
+    "credit": 0,
+    "reference": "REF-0001"
+  },
+  {
+    "id": "je-0002",
+    "entryDate": "2025-09-21",
+    "description": "Transaction 2: Packaging operations",
+    "account": "1001",
+    "debit": 0,
+    "credit": 11572.21,
+    "reference": "REF-0002"
+  },
+  {
+    "id": "je-0003",
+    "entryDate": "2025-09-07",
+    "description": "Transaction 3: Packaging operations",
+    "account": "1002",
+    "debit": 23789.82,
+    "credit": 0,
+    "reference": "REF-0003"
+  },
+  {
+    "id": "je-0004",
+    "entryDate": "2025-09-03",
+    "description": "Transaction 4: Packaging operations",
+    "account": "1003",
+    "debit": 0,
+    "credit": 13538.18,
+    "reference": "REF-0004"
+  },
+  {
+    "id": "je-0005",
+    "entryDate": "2025-07-28",
+    "description": "Transaction 5: Packaging operations",
+    "account": "1004",
+    "debit": 11786.81,
+    "credit": 0,
+    "reference": "REF-0005"
+  },
+  {
+    "id": "je-0006",
+    "entryDate": "2025-07-28",
+    "description": "Transaction 6: Harvesting operations",
+    "account": "1005",
+    "debit": 0,
+    "credit": 11611.15,
+    "reference": "REF-0006"
+  },
+  {
+    "id": "je-0007",
+    "entryDate": "2025-07-26",
+    "description": "Transaction 7: Processing operations",
+    "account": "1006",
+    "debit": 12074.11,
+    "credit": 0,
+    "reference": "REF-0007"
+  },
+  {
+    "id": "je-0008",
+    "entryDate": "2025-12-27",
+    "description": "Transaction 8: Harvesting operations",
+    "account": "1007",
+    "debit": 0,
+    "credit": 8032.54,
+    "reference": "REF-0008"
+  },
+  {
+    "id": "je-0009",
+    "entryDate": "2025-10-14",
+    "description": "Transaction 9: Harvesting operations",
+    "account": "1008",
+    "debit": 17780.68,
+    "credit": 0,
+    "reference": "REF-0009"
+  },
+  {
+    "id": "je-0010",
+    "entryDate": "2025-12-09",
+    "description": "Transaction 10: Quality Control operations",
+    "account": "1009",
+    "debit": 0,
+    "credit": 5654.55,
+    "reference": "REF-0010"
+  },
+  {
+    "id": "je-0011",
+    "entryDate": "2025-07-24",
+    "description": "Transaction 11: Packaging operations",
+    "account": "1010",
+    "debit": 18312.16,
+    "credit": 0,
+    "reference": "REF-0011"
+  },
+  {
+    "id": "je-0012",
+    "entryDate": "2025-08-16",
+    "description": "Transaction 12: Harvesting operations",
+    "account": "1011",
+    "debit": 0,
+    "credit": 10238.37,
+    "reference": "REF-0012"
+  },
+  {
+    "id": "je-0013",
+    "entryDate": "2026-01-15",
+    "description": "Transaction 13: Processing operations",
+    "account": "1012",
+    "debit": 16825.78,
+    "credit": 0,
+    "reference": "REF-0013"
+  },
+  {
+    "id": "je-0014",
+    "entryDate": "2025-12-25",
+    "description": "Transaction 14: Packaging operations",
+    "account": "1013",
+    "debit": 0,
+    "credit": 23731.66,
+    "reference": "REF-0014"
+  },
+  {
+    "id": "je-0015",
+    "entryDate": "2025-08-29",
+    "description": "Transaction 15: Processing operations",
+    "account": "1014",
+    "debit": 1818.76,
+    "credit": 0,
+    "reference": "REF-0015"
+  },
+  {
+    "id": "je-0016",
+    "entryDate": "2025-11-17",
+    "description": "Transaction 16: Packaging operations",
+    "account": "1015",
+    "debit": 0,
+    "credit": 1040.96,
+    "reference": "REF-0016"
+  },
+  {
+    "id": "je-0017",
+    "entryDate": "2025-11-24",
+    "description": "Transaction 17: Processing operations",
+    "account": "1016",
+    "debit": 8854.86,
+    "credit": 0,
+    "reference": "REF-0017"
+  },
+  {
+    "id": "je-0018",
+    "entryDate": "2025-10-29",
+    "description": "Transaction 18: Packaging operations",
+    "account": "1017",
+    "debit": 0,
+    "credit": 6844.3,
+    "reference": "REF-0018"
+  },
+  {
+    "id": "je-0019",
+    "entryDate": "2025-10-01",
+    "description": "Transaction 19: Processing operations",
+    "account": "1018",
+    "debit": 9420.66,
+    "credit": 0,
+    "reference": "REF-0019"
+  },
+  {
+    "id": "je-0020",
+    "entryDate": "2025-08-19",
+    "description": "Transaction 20: Harvesting operations",
+    "account": "1019",
+    "debit": 0,
+    "credit": 9637.31,
+    "reference": "REF-0020"
+  },
+  {
+    "id": "je-0021",
+    "entryDate": "2025-10-12",
+    "description": "Transaction 21: Harvesting operations",
+    "account": "1020",
+    "debit": 20118.58,
+    "credit": 0,
+    "reference": "REF-0021"
+  },
+  {
+    "id": "je-0022",
+    "entryDate": "2025-12-21",
+    "description": "Transaction 22: Processing operations",
+    "account": "1021",
+    "debit": 0,
+    "credit": 7713.55,
+    "reference": "REF-0022"
+  },
+  {
+    "id": "je-0023",
+    "entryDate": "2025-08-25",
+    "description": "Transaction 23: Harvesting operations",
+    "account": "1022",
+    "debit": 16050.18,
+    "credit": 0,
+    "reference": "REF-0023"
+  },
+  {
+    "id": "je-0024",
+    "entryDate": "2026-01-09",
+    "description": "Transaction 24: Processing operations",
+    "account": "1023",
+    "debit": 0,
+    "credit": 18341.06,
+    "reference": "REF-0024"
+  },
+  {
+    "id": "je-0025",
+    "entryDate": "2025-12-16",
+    "description": "Transaction 25: Harvesting operations",
+    "account": "1024",
+    "debit": 1180.56,
+    "credit": 0,
+    "reference": "REF-0025"
+  },
+  {
+    "id": "je-0026",
+    "entryDate": "2025-12-02",
+    "description": "Transaction 26: Processing operations",
+    "account": "1025",
+    "debit": 0,
+    "credit": 4321.17,
+    "reference": "REF-0026"
+  },
+  {
+    "id": "je-0027",
+    "entryDate": "2025-09-05",
+    "description": "Transaction 27: Harvesting operations",
+    "account": "1026",
+    "debit": 6115.19,
+    "credit": 0,
+    "reference": "REF-0027"
+  },
+  {
+    "id": "je-0028",
+    "entryDate": "2025-12-15",
+    "description": "Transaction 28: Quality Control operations",
+    "account": "1027",
+    "debit": 0,
+    "credit": 11198.86,
+    "reference": "REF-0028"
+  },
+  {
+    "id": "je-0029",
+    "entryDate": "2025-09-12",
+    "description": "Transaction 29: Harvesting operations",
+    "account": "1028",
+    "debit": 14113.5,
+    "credit": 0,
+    "reference": "REF-0029"
+  },
+  {
+    "id": "je-0030",
+    "entryDate": "2025-11-09",
+    "description": "Transaction 30: Harvesting operations",
+    "account": "1029",
+    "debit": 0,
+    "credit": 23161.13,
+    "reference": "REF-0030"
+  }
+]

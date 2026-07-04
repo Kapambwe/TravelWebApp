@@ -1,0 +1,37 @@
+[
+  {
+    "id":1,"estimateNumber":"EST-2025-001","customerId":1,"customerName":"Zambia Revenue Authority",
+    "estimateDateDaysAgo":90,"expirationDateDaysFromNow":30,"sentDateDaysAgo":85,
+    "status":"Sent","subTotal":36000000.00,"taxRate":16,"taxAmount":5760000.00,"total":41760000.00,
+    "terms":"Net 30","createdBy":"Mwansa Tembo - Sales Director","createdDateDaysAgo":90,
+    "lines":[{"lineNumber":1,"description":"ZRA Annual Staff Canteen Supply Contract - 12 Months","quantity":12,"unitPrice":3000000.00,"amount":36000000.00,"itemType":"Service"}]
+  },
+  {
+    "id":2,"estimateNumber":"EST-2025-002","customerId":10,"customerName":"Konkola Copper Mines Welfare",
+    "estimateDateDaysAgo":60,"expirationDateDaysFromNow":60,
+    "status":"Open","subTotal":22800000.00,"taxRate":16,"taxAmount":3648000.00,"total":26448000.00,
+    "terms":"Net 30","createdBy":"Chanda Phiri - Sales Manager","createdDateDaysAgo":60,
+    "lines":[{"lineNumber":1,"description":"Corporate Food Hampers - 1200 Units","quantity":1200,"unitPrice":19000.00,"amount":22800000.00,"itemType":"Product"}]
+  },
+  {
+    "id":3,"estimateNumber":"EST-2025-003","customerId":4,"customerName":"Mopani Copper Mines Staff Welfare",
+    "estimateDateDaysAgo":45,"expirationDateDaysFromNow":90,"sentDateDaysAgo":40,"acceptedDateDaysAgo":20,
+    "status":"Accepted","subTotal":15600000.00,"taxRate":16,"taxAmount":2496000.00,"total":18096000.00,
+    "terms":"Net 30","createdBy":"Chanda Phiri - Sales Manager","createdDateDaysAgo":45,
+    "lines":[{"lineNumber":1,"description":"Monthly Dry Goods Supply - Mopani Mines 12 Months","quantity":12,"unitPrice":1300000.00,"amount":15600000.00,"itemType":"Service"}]
+  },
+  {
+    "id":4,"estimateNumber":"EST-2025-004","customerId":6,"customerName":"First National Bank Zambia",
+    "estimateDateDaysAgo":30,"expirationDateDaysFromNow":30,
+    "status":"Open","subTotal":8400000.00,"taxRate":16,"taxAmount":1344000.00,"total":9744000.00,
+    "terms":"Net 30","createdBy":"Mwansa Tembo - Sales Director","createdDateDaysAgo":30,
+    "lines":[{"lineNumber":1,"description":"Corporate Beverages & Confectionery - Annual Contract","quantity":12,"unitPrice":700000.00,"amount":8400000.00,"itemType":"Service"}]
+  },
+  {
+    "id":5,"estimateNumber":"EST-2025-005","customerId":9,"customerName":"Lusaka City Council Catering",
+    "estimateDateDaysAgo":15,"expirationDateDaysFromNow":75,
+    "status":"Draft","subTotal":4800000.00,"taxRate":16,"taxAmount":768000.00,"total":5568000.00,
+    "terms":"Net 30","createdBy":"Chanda Phiri - Sales Manager","createdDateDaysAgo":15,
+    "lines":[{"lineNumber":1,"description":"Emergency Food Package Standard - 800 Units","quantity":800,"unitPrice":6000.00,"amount":4800000.00,"itemType":"Product"}]
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "id": "prod-001",
+    "productName": "Advertising - Variant 1",
+    "description": "Quality Advertising product",
+    "category": "Operational",
+    "unitPrice": 6723.17,
+    "quantityInStock": 309,
+    "reorderLevel": 43,
+    "supplier": "News Agencies"
+  },
+  {
+    "id": "prod-002",
+    "productName": "Newspaper Distribution - Variant 2",
+    "description": "Quality Advertising product",
+    "category": "Operational",
+    "unitPrice": 2884.21,
+    "quantityInStock": 376,
+    "reorderLevel": 43,
+    "supplier": "Press Equipment Suppliers"
+  },
+  {
+    "id": "prod-003",
+    "productName": "Magazine Publishing - Variant 3",
+    "description": "Quality Magazine Publishing product",
+    "category": "Operational",
+    "unitPrice": 9482.86,
+    "quantityInStock": 175,
+    "reorderLevel": 8,
+    "supplier": "News Agencies"
+  },
+  {
+    "id": "prod-004",
+    "productName": "Advertising - Variant 4",
+    "description": "Quality Newspaper Distribution product",
+    "category": "Operational",
+    "unitPrice": 8409.58,
+    "quantityInStock": 141,
+    "reorderLevel": 41,
+    "supplier": "Advertisers"
+  },
+  {
+    "id": "prod-005",
+    "productName": "Newspaper Distribution - Variant 5",
+    "description": "Quality Magazine Publishing product",
+    "category": "Operational",
+    "unitPrice": 6608.86,
+    "quantityInStock": 236,
+    "reorderLevel": 10,
+    "supplier": "Press Equipment Suppliers"
+  },
+  {
+    "id": "prod-006",
+    "productName": "Newspaper Distribution - Variant 6",
+    "description": "Quality Advertising product",
+    "category": "Operational",
+    "unitPrice": 8760.17,
+    "quantityInStock": 465,
+    "reorderLevel": 22,
+    "supplier": "Advertisers"
+  },
+  {
+    "id": "prod-007",
+    "productName": "Advertising - Variant 7",
+    "description": "Quality Newspaper Distribution product",
+    "category": "Operational",
+    "unitPrice": 2757.7,
+    "quantityInStock": 361,
+    "reorderLevel": 31,
+    "supplier": "News Agencies"
+  },
+  {
+    "id": "prod-008",
+    "productName": "Advertising - Variant 8",
+    "description": "Quality Advertising product",
+    "category": "Operational",
+    "unitPrice": 6287.93,
+    "quantityInStock": 54,
+    "reorderLevel": 41,
+    "supplier": "Press Equipment Suppliers"
+  },
+  {
+    "id": "prod-009",
+    "productName": "Newspaper Distribution - Variant 9",
+    "description": "Quality Advertising product",
+    "category": "Operational",
+    "unitPrice": 7920.18,
+    "quantityInStock": 440,
+    "reorderLevel": 37,
+    "supplier": "Advertisers"
+  },
+  {
+    "id": "prod-010",
+    "productName": "Newspaper Distribution - Variant 10",
+    "description": "Quality Advertising product",
+    "category": "Operational",
+    "unitPrice": 1261.01,
+    "quantityInStock": 87,
+    "reorderLevel": 34,
+    "supplier": "News Agencies"
+  },
+  {
+    "id": "prod-011",
+    "productName": "Magazine Publishing - Variant 11",
+    "description": "Quality Advertising product",
+    "category": "Operational",
+    "unitPrice": 7251.22,
+    "quantityInStock": 224,
+    "reorderLevel": 21,
+    "supplier": "Advertisers"
+  },
+  {
+    "id": "prod-012",
+    "productName": "Advertising - Variant 12",
+    "description": "Quality Online News product",
+    "category": "Operational",
+    "unitPrice": 4839.15,
+    "quantityInStock": 35,
+    "reorderLevel": 29,
+    "supplier": "News Agencies"
+  },
+  {
+    "id": "prod-013",
+    "productName": "Newspaper Distribution - Variant 13",
+    "description": "Quality Newspaper Distribution product",
+    "category": "Operational",
+    "unitPrice": 5185.24,
+    "quantityInStock": 319,
+    "reorderLevel": 48,
+    "supplier": "Press Equipment Suppliers"
+  },
+  {
+    "id": "prod-014",
+    "productName": "Online News - Variant 14",
+    "description": "Quality Magazine Publishing product",
+    "category": "Operational",
+    "unitPrice": 8095.99,
+    "quantityInStock": 165,
+    "reorderLevel": 26,
+    "supplier": "Press Equipment Suppliers"
+  },
+  {
+    "id": "prod-015",
+    "productName": "Magazine Publishing - Variant 15",
+    "description": "Quality Online News product",
+    "category": "Operational",
+    "unitPrice": 8335.19,
+    "quantityInStock": 290,
+    "reorderLevel": 12,
+    "supplier": "News Agencies"
+  },
+  {
+    "id": "prod-016",
+    "productName": "Magazine Publishing - Variant 16",
+    "description": "Quality Advertising product",
+    "category": "Operational",
+    "unitPrice": 9223.42,
+    "quantityInStock": 219,
+    "reorderLevel": 50,
+    "supplier": "Press Equipment Suppliers"
+  },
+  {
+    "id": "prod-017",
+    "productName": "Magazine Publishing - Variant 17",
+    "description": "Quality Magazine Publishing product",
+    "category": "Operational",
+    "unitPrice": 7524.97,
+    "quantityInStock": 109,
+    "reorderLevel": 22,
+    "supplier": "News Agencies"
+  },
+  {
+    "id": "prod-018",
+    "productName": "Newspaper Distribution - Variant 18",
+    "description": "Quality Online News product",
+    "category": "Operational",
+    "unitPrice": 4763.35,
+    "quantityInStock": 480,
+    "reorderLevel": 17,
+    "supplier": "News Agencies"
+  },
+  {
+    "id": "prod-019",
+    "productName": "Online News - Variant 19",
+    "description": "Quality Advertising product",
+    "category": "Operational",
+    "unitPrice": 7132.95,
+    "quantityInStock": 115,
+    "reorderLevel": 24,
+    "supplier": "News Agencies"
+  },
+  {
+    "id": "prod-020",
+    "productName": "Online News - Variant 20",
+    "description": "Quality Newspaper Distribution product",
+    "category": "Operational",
+    "unitPrice": 5283.81,
+    "quantityInStock": 318,
+    "reorderLevel": 13,
+    "supplier": "Press Equipment Suppliers"
+  },
+  {
+    "id": "prod-021",
+    "productName": "Magazine Publishing - Variant 21",
+    "description": "Quality Advertising product",
+    "category": "Operational",
+    "unitPrice": 6562.86,
+    "quantityInStock": 457,
+    "reorderLevel": 25,
+    "supplier": "News Agencies"
+  },
+  {
+    "id": "prod-022",
+    "productName": "Advertising - Variant 22",
+    "description": "Quality Newspaper Distribution product",
+    "category": "Operational",
+    "unitPrice": 3335.13,
+    "quantityInStock": 262,
+    "reorderLevel": 26,
+    "supplier": "Advertisers"
+  },
+  {
+    "id": "prod-023",
+    "productName": "Online News - Variant 23",
+    "description": "Quality Newspaper Distribution product",
+    "category": "Operational",
+    "unitPrice": 9695.51,
+    "quantityInStock": 128,
+    "reorderLevel": 34,
+    "supplier": "Press Equipment Suppliers"
+  },
+  {
+    "id": "prod-024",
+    "productName": "Magazine Publishing - Variant 24",
+    "description": "Quality Online News product",
+    "category": "Operational",
+    "unitPrice": 3327.56,
+    "quantityInStock": 132,
+    "reorderLevel": 23,
+    "supplier": "Press Equipment Suppliers"
+  },
+  {
+    "id": "prod-025",
+    "productName": "Magazine Publishing - Variant 25",
+    "description": "Quality Online News product",
+    "category": "Operational",
+    "unitPrice": 697.84,
+    "quantityInStock": 460,
+    "reorderLevel": 24,
+    "supplier": "Press Equipment Suppliers"
+  },
+  {
+    "id": "prod-026",
+    "productName": "Advertising - Variant 26",
+    "description": "Quality Advertising product",
+    "category": "Operational",
+    "unitPrice": 6251.3,
+    "quantityInStock": 352,
+    "reorderLevel": 8,
+    "supplier": "News Agencies"
+  },
+  {
+    "id": "prod-027",
+    "productName": "Advertising - Variant 27",
+    "description": "Quality Online News product",
+    "category": "Operational",
+    "unitPrice": 765.71,
+    "quantityInStock": 152,
+    "reorderLevel": 31,
+    "supplier": "Advertisers"
+  },
+  {
+    "id": "prod-028",
+    "productName": "Online News - Variant 28",
+    "description": "Quality Newspaper Distribution product",
+    "category": "Operational",
+    "unitPrice": 7903.32,
+    "quantityInStock": 492,
+    "reorderLevel": 5,
+    "supplier": "News Agencies"
+  },
+  {
+    "id": "prod-029",
+    "productName": "Newspaper Distribution - Variant 29",
+    "description": "Quality Newspaper Distribution product",
+    "category": "Operational",
+    "unitPrice": 5866.0,
+    "quantityInStock": 481,
+    "reorderLevel": 41,
+    "supplier": "Press Equipment Suppliers"
+  },
+  {
+    "id": "prod-030",
+    "productName": "Advertising - Variant 30",
+    "description": "Quality Newspaper Distribution product",
+    "category": "Operational",
+    "unitPrice": 7090.2,
+    "quantityInStock": 445,
+    "reorderLevel": 22,
+    "supplier": "Press Equipment Suppliers"
+  }
+]

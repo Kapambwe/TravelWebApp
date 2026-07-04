@@ -1,0 +1,114 @@
+{
+  "companyName": "Great North Road Academy",
+  "companyAddress": "Livingstone, Zambia",
+  "companyTaxId": "TPIN-1801568-GNRA",
+  "generatedDate": "2025-09-30",
+  "currency": "ZMW",
+  "period": {
+    "from": "2025-01-01",
+    "to": "2025-09-30"
+  },
+  "customerStatements": [
+    {
+      "customerId": 1,
+      "customerName": "Zain Investments Ltd",
+      "customerEmail": "admin@zain.co.zm",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-02-24",
+          "reference": "INV-Z-2025-017",
+          "description": "Examination & certification fee",
+          "debit": 2892500,
+          "credit": 0.0,
+          "balance": 2892500
+        },
+        {
+          "date": "2025-04-14",
+          "reference": "PMT-Z-2025-016",
+          "description": "Partial payment received",
+          "debit": 0.0,
+          "credit": 2892500,
+          "balance": 0.0
+        }
+      ],
+      "closingBalance": 0.0,
+      "status": "Settled"
+    },
+    {
+      "customerId": 2,
+      "customerName": "Zambezi Enterprises Ltd",
+      "customerEmail": "billing@zambezi.com",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-03-08",
+          "reference": "INV-Z-2025-023",
+          "description": "Academic services fee",
+          "debit": 2877500,
+          "credit": 0.0,
+          "balance": 2877500
+        },
+        {
+          "date": "2025-04-23",
+          "reference": "PMT-Z-2025-024",
+          "description": "Payment received - bank transfer",
+          "debit": 0.0,
+          "credit": 2877500,
+          "balance": 0.0
+        }
+      ],
+      "closingBalance": 0.0,
+      "status": "Settled"
+    },
+    {
+      "customerId": 3,
+      "customerName": "Chambeshi Holdings PLC",
+      "customerEmail": "contact@chambeshi.com",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-06-28",
+          "reference": "INV-Z-2025-031",
+          "description": "Professional development course",
+          "debit": 2796000,
+          "credit": 0.0,
+          "balance": 2796000
+        }
+      ],
+      "closingBalance": 2796000,
+      "status": "Outstanding"
+    },
+    {
+      "customerId": 4,
+      "customerName": "Zain Partners Co.",
+      "customerEmail": "contact@zain.co.zm",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-06-19",
+          "reference": "INV-Z-2025-041",
+          "description": "E-learning license fee",
+          "debit": 2493500,
+          "credit": 0.0,
+          "balance": 2493500
+        }
+      ],
+      "closingBalance": 2493500,
+      "status": "Outstanding"
+    }
+  ],
+  "summary": {
+    "totalInvoiced": 11059500,
+    "totalReceived": 5770000,
+    "totalOutstanding": 5289500,
+    "totalOverdue": 5289500.0,
+    "agingSummary": {
+      "current": 0.0,
+      "days1to30": 0.0,
+      "days31to60": 0.0,
+      "days61to90": 5289500.0,
+      "over90days": 0.0
+    }
+  }
+}

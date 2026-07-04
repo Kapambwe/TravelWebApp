@@ -1,0 +1,302 @@
+[
+  {
+    "id": "referral-001",
+    "referrerName": "John Banda 1",
+    "referrerId": "user-001",
+    "referredName": "Mary Phiri 1",
+    "referredEmail": "kambole.siame@business.com",
+    "referralDate": "2025-05-13",
+    "status": "Pending",
+    "commission": 500.0
+  },
+  {
+    "id": "referral-002",
+    "referrerName": "John Banda 1",
+    "referrerId": "user-001",
+    "referredName": "Mary Phiri 1",
+    "referredEmail": "kambole.siame@business.com",
+    "referralDate": "2025-05-13",
+    "status": "Pending",
+    "commission": 500.0
+  },
+  {
+    "id": "referral-003",
+    "referrerName": "John Banda 1",
+    "referrerId": "user-001",
+    "referredName": "Mary Phiri 1",
+    "referredEmail": "kambole.siame@business.com",
+    "referralDate": "2025-05-13",
+    "status": "Pending",
+    "commission": 500.0
+  },
+  {
+    "id": "referral-004",
+    "referrerName": "John Banda 1",
+    "referrerId": "user-001",
+    "referredName": "Mary Phiri 1",
+    "referredEmail": "kambole.siame@business.com",
+    "referralDate": "2025-05-13",
+    "status": "Pending",
+    "commission": 500.0
+  },
+  {
+    "id": "referral-005",
+    "referrerName": "John Banda 1",
+    "referrerId": "user-001",
+    "referredName": "Mary Phiri 1",
+    "referredEmail": "kambole.siame@business.com",
+    "referralDate": "2025-05-13",
+    "status": "Pending",
+    "commission": 500.0
+  },
+  {
+    "id": "referral-006",
+    "referrerName": "John Banda 1",
+    "referrerId": "user-001",
+    "referredName": "Mary Phiri 1",
+    "referredEmail": "kambole.siame@business.com",
+    "referralDate": "2025-05-13",
+    "status": "Pending",
+    "commission": 500.0
+  },
+  {
+    "id": "referral-007",
+    "referrerName": "John Banda 1",
+    "referrerId": "user-001",
+    "referredName": "Mary Phiri 1",
+    "referredEmail": "kambole.siame@business.com",
+    "referralDate": "2025-05-13",
+    "status": "Pending",
+    "commission": 500.0
+  },
+  {
+    "id": "referral-008",
+    "referrerName": "John Banda 1",
+    "referrerId": "user-001",
+    "referredName": "Mary Phiri 1",
+    "referredEmail": "kambole.siame@business.com",
+    "referralDate": "2025-05-13",
+    "status": "Pending",
+    "commission": 500.0
+  },
+  {
+    "id": "referral-009",
+    "referrerName": "John Banda 1",
+    "referrerId": "user-001",
+    "referredName": "Mary Phiri 1",
+    "referredEmail": "kambole.siame@business.com",
+    "referralDate": "2025-05-13",
+    "status": "Pending",
+    "commission": 500.0
+  },
+  {
+    "id": "referral-010",
+    "referrerName": "John Banda 1",
+    "referrerId": "user-001",
+    "referredName": "Mary Phiri 1",
+    "referredEmail": "kambole.siame@business.com",
+    "referralDate": "2025-05-13",
+    "status": "Pending",
+    "commission": 500.0
+  },
+  {
+    "id": "referral-011",
+    "referrerName": "John Banda 1",
+    "referrerId": "user-001",
+    "referredName": "Mary Phiri 1",
+    "referredEmail": "kambole.siame@business.com",
+    "referralDate": "2025-05-13",
+    "status": "Pending",
+    "commission": 500.0
+  },
+  {
+    "id": "referral-012",
+    "referrerName": "John Banda 1",
+    "referrerId": "user-001",
+    "referredName": "Mary Phiri 1",
+    "referredEmail": "kambole.siame@business.com",
+    "referralDate": "2025-05-13",
+    "status": "Pending",
+    "commission": 500.0
+  },
+  {
+    "id": "referral-013",
+    "referrerName": "John Banda 1",
+    "referrerId": "user-001",
+    "referredName": "Mary Phiri 1",
+    "referredEmail": "kambole.siame@business.com",
+    "referralDate": "2025-05-13",
+    "status": "Pending",
+    "commission": 500.0
+  },
+  {
+    "id": "referral-014",
+    "referrerName": "John Banda 1",
+    "referrerId": "user-001",
+    "referredName": "Mary Phiri 1",
+    "referredEmail": "kambole.siame@business.com",
+    "referralDate": "2025-05-13",
+    "status": "Pending",
+    "commission": 500.0
+  },
+  {
+    "id": "referral-015",
+    "referrerName": "John Banda 1",
+    "referrerId": "user-001",
+    "referredName": "Mary Phiri 1",
+    "referredEmail": "kambole.siame@business.com",
+    "referralDate": "2025-05-13",
+    "status": "Pending",
+    "commission": 500.0
+  },
+  {
+    "id": "referral-016",
+    "referrerName": "John Banda 1",
+    "referrerId": "user-001",
+    "referredName": "Mary Phiri 1",
+    "referredEmail": "kambole.siame@business.com",
+    "referralDate": "2025-05-13",
+    "status": "Pending",
+    "commission": 500.0
+  },
+  {
+    "id": "referral-017",
+    "referrerName": "John Banda 1",
+    "referrerId": "user-001",
+    "referredName": "Mary Phiri 1",
+    "referredEmail": "kambole.siame@business.com",
+    "referralDate": "2025-05-13",
+    "status": "Pending",
+    "commission": 500.0
+  },
+  {
+    "id": "referral-018",
+    "referrerName": "John Banda 1",
+    "referrerId": "user-001",
+    "referredName": "Mary Phiri 1",
+    "referredEmail": "kambole.siame@business.com",
+    "referralDate": "2025-05-13",
+    "status": "Pending",
+    "commission": 500.0
+  },
+  {
+    "id": "referral-019",
+    "referrerName": "John Banda 1",
+    "referrerId": "user-001",
+    "referredName": "Mary Phiri 1",
+    "referredEmail": "kambole.siame@business.com",
+    "referralDate": "2025-05-13",
+    "status": "Pending",
+    "commission": 500.0
+  },
+  {
+    "id": "referral-020",
+    "referrerName": "John Banda 1",
+    "referrerId": "user-001",
+    "referredName": "Mary Phiri 1",
+    "referredEmail": "kambole.siame@business.com",
+    "referralDate": "2025-05-13",
+    "status": "Pending",
+    "commission": 500.0
+  },
+  {
+    "id": "referral-021",
+    "referrerName": "John Banda 1",
+    "referrerId": "user-001",
+    "referredName": "Mary Phiri 1",
+    "referredEmail": "kambole.siame@business.com",
+    "referralDate": "2025-05-13",
+    "status": "Pending",
+    "commission": 500.0
+  },
+  {
+    "id": "referral-022",
+    "referrerName": "John Banda 1",
+    "referrerId": "user-001",
+    "referredName": "Mary Phiri 1",
+    "referredEmail": "kambole.siame@business.com",
+    "referralDate": "2025-05-13",
+    "status": "Pending",
+    "commission": 500.0
+  },
+  {
+    "id": "referral-023",
+    "referrerName": "John Banda 1",
+    "referrerId": "user-001",
+    "referredName": "Mary Phiri 1",
+    "referredEmail": "kambole.siame@business.com",
+    "referralDate": "2025-05-13",
+    "status": "Pending",
+    "commission": 500.0
+  },
+  {
+    "id": "referral-024",
+    "referrerName": "John Banda 1",
+    "referrerId": "user-001",
+    "referredName": "Mary Phiri 1",
+    "referredEmail": "kambole.siame@business.com",
+    "referralDate": "2025-05-13",
+    "status": "Pending",
+    "commission": 500.0
+  },
+  {
+    "id": "referral-025",
+    "referrerName": "John Banda 1",
+    "referrerId": "user-001",
+    "referredName": "Mary Phiri 1",
+    "referredEmail": "kambole.siame@business.com",
+    "referralDate": "2025-05-13",
+    "status": "Pending",
+    "commission": 500.0
+  },
+  {
+    "id": "referral-026",
+    "referrerName": "John Banda 1",
+    "referrerId": "user-001",
+    "referredName": "Mary Phiri 1",
+    "referredEmail": "kambole.siame@business.com",
+    "referralDate": "2025-05-13",
+    "status": "Pending",
+    "commission": 500.0
+  },
+  {
+    "id": "referral-027",
+    "referrerName": "John Banda 1",
+    "referrerId": "user-001",
+    "referredName": "Mary Phiri 1",
+    "referredEmail": "kambole.siame@business.com",
+    "referralDate": "2025-05-13",
+    "status": "Pending",
+    "commission": 500.0
+  },
+  {
+    "id": "referral-028",
+    "referrerName": "John Banda 1",
+    "referrerId": "user-001",
+    "referredName": "Mary Phiri 1",
+    "referredEmail": "kambole.siame@business.com",
+    "referralDate": "2025-05-13",
+    "status": "Pending",
+    "commission": 500.0
+  },
+  {
+    "id": "referral-029",
+    "referrerName": "John Banda 1",
+    "referrerId": "user-001",
+    "referredName": "Mary Phiri 1",
+    "referredEmail": "kambole.siame@business.com",
+    "referralDate": "2025-05-13",
+    "status": "Pending",
+    "commission": 500.0
+  },
+  {
+    "id": "referral-030",
+    "referrerName": "John Banda 1",
+    "referrerId": "user-001",
+    "referredName": "Mary Phiri 1",
+    "referredEmail": "kambole.siame@business.com",
+    "referralDate": "2025-05-13",
+    "status": "Pending",
+    "commission": 500.0
+  }
+]

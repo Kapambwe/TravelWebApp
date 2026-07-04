@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "paymentNumber": "PAY-2025-001",
+    "invoiceId": 6,
+    "customerId": 3,
+    "clientName": "Mwamba Creative Agency Ltd",
+    "amount": 1731638.04,
+    "paymentDate": "2024-12-16T00:00:00",
+    "paymentMethod": "Bank Transfer",
+    "referenceNumber": "TRF-20250315-001"
+  },
+  {
+    "id": 2,
+    "paymentNumber": "PAY-2025-002",
+    "invoiceId": 12,
+    "customerId": 3,
+    "clientName": "Mwamba Creative Agency Ltd",
+    "amount": 384386.65,
+    "paymentDate": "2025-01-09T00:00:00",
+    "paymentMethod": "Cheque",
+    "referenceNumber": "CHQ-20250315-002"
+  },
+  {
+    "id": 3,
+    "paymentNumber": "PAY-2025-003",
+    "invoiceId": 12,
+    "customerId": 3,
+    "clientName": "Mwamba Creative Agency Ltd",
+    "amount": 384386.65,
+    "paymentDate": "2025-02-26T00:00:00",
+    "paymentMethod": "Mobile Money",
+    "referenceNumber": "MMO-20250315-003"
+  },
+  {
+    "id": 4,
+    "paymentNumber": "PAY-2025-004",
+    "invoiceId": 12,
+    "customerId": 3,
+    "clientName": "Mwamba Creative Agency Ltd",
+    "amount": 384386.65,
+    "paymentDate": "2025-03-03T00:00:00",
+    "paymentMethod": "Bank Transfer",
+    "referenceNumber": "TRF-20250315-004"
+  },
+  {
+    "id": 5,
+    "paymentNumber": "PAY-2025-005",
+    "invoiceId": 2,
+    "customerId": 1,
+    "clientName": "Ngosa Media Enterprises",
+    "amount": 3924009.03,
+    "paymentDate": "2025-02-14T00:00:00",
+    "paymentMethod": "Mobile Money",
+    "referenceNumber": "MMO-20250315-005"
+  },
+  {
+    "id": 6,
+    "paymentNumber": "PAY-2025-006",
+    "invoiceId": 2,
+    "customerId": 1,
+    "clientName": "Ngosa Media Enterprises",
+    "amount": 3924009.03,
+    "paymentDate": "2025-02-18T00:00:00",
+    "paymentMethod": "Cheque",
+    "referenceNumber": "CHQ-20250315-006"
+  },
+  {
+    "id": 7,
+    "paymentNumber": "PAY-2025-007",
+    "invoiceId": 7,
+    "customerId": 7,
+    "clientName": "Zimba Entertainment Enterprises",
+    "amount": 4357855.93,
+    "paymentDate": "2025-01-15T00:00:00",
+    "paymentMethod": "Mobile Money",
+    "referenceNumber": "MMO-20250315-007"
+  },
+  {
+    "id": 8,
+    "paymentNumber": "PAY-2025-008",
+    "invoiceId": 12,
+    "customerId": 3,
+    "clientName": "Mwamba Creative Agency Ltd",
+    "amount": 384386.65,
+    "paymentDate": "2025-02-14T00:00:00",
+    "paymentMethod": "Cash",
+    "referenceNumber": "CASH-20250315-008"
+  },
+  {
+    "id": 9,
+    "paymentNumber": "PAY-2025-009",
+    "invoiceId": 11,
+    "customerId": 8,
+    "clientName": "Tembo Productions Enterprises",
+    "amount": 748029.02,
+    "paymentDate": "2025-01-10T00:00:00",
+    "paymentMethod": "Mobile Money",
+    "referenceNumber": "MMO-20250315-009"
+  },
+  {
+    "id": 10,
+    "paymentNumber": "PAY-2025-010",
+    "invoiceId": 13,
+    "customerId": 4,
+    "clientName": "Banda Creative Agency Solutions",
+    "amount": 381435.31,
+    "paymentDate": "2025-02-24T00:00:00",
+    "paymentMethod": "Bank Transfer",
+    "referenceNumber": "TRF-20250315-010"
+  }
+]

@@ -1,0 +1,82 @@
+{
+  "companyName": "Zamtel (Zambia Telecommunications Company Limited)",
+  "companyAddress": "ZamTel House, Buteko Avenue, Lusaka, Zambia",
+  "companyTaxId": "TPIN-5678901-ZTL",
+  "generatedDate": "2025-09-30",
+  "currency": "ZMW",
+  "period": {"from": "2025-01-01", "to": "2025-09-30"},
+  "customerStatements": [
+    {
+      "customerId": 1,
+      "customerName": "Government of Zambia ICT Ministry",
+      "customerEmail": "c.mwale@ictministry.gov.zm",
+      "openingBalance": 0.00,
+      "transactions": [
+        {"date":"2025-01-15","reference":"INV-2025-001","description":"Government ICT Infrastructure - Monthly Fee","debit":9500000.00,"credit":0.00,"balance":9500000.00},
+        {"date":"2025-02-10","reference":"PAY-2025-001","description":"Payment received - Bank Transfer","debit":0.00,"credit":9500000.00,"balance":0.00}
+      ],
+      "closingBalance": 0.00,
+      "status": "Settled"
+    },
+    {
+      "customerId": 5,
+      "customerName": "Ministry of Finance ICT",
+      "customerEmail": "s.mumba@mof.gov.zm",
+      "openingBalance": 0.00,
+      "transactions": [
+        {"date":"2025-02-15","reference":"INV-2025-005","description":"Ministry Finance Secure Network","debit":5400000.00,"credit":0.00,"balance":5400000.00},
+        {"date":"2025-03-10","reference":"PAY-2025-008","description":"Partial Payment received - Bank Transfer","debit":0.00,"credit":2700000.00,"balance":2700000.00}
+      ],
+      "closingBalance": 2700000.00,
+      "status": "Outstanding"
+    },
+    {
+      "customerId": 6,
+      "customerName": "ZNBC National Broadcaster",
+      "customerEmail": "m.lungu@znbc.co.zm",
+      "openingBalance": 0.00,
+      "transactions": [
+        {"date":"2025-01-05","reference":"INV-2025-006","description":"ZNBC Broadcast Transmission","debit":7800000.00,"credit":0.00,"balance":7800000.00},
+        {"date":"2025-02-25","reference":"PAY-2025-009","description":"Partial Payment received - Bank Transfer","debit":0.00,"credit":2500000.00,"balance":5300000.00}
+      ],
+      "closingBalance": 5300000.00,
+      "status": "Overdue"
+    },
+    {
+      "customerId": 10,
+      "customerName": "Zambia Air Force Communications",
+      "customerEmail": "p.nkonde@zaf.mil.zm",
+      "openingBalance": 0.00,
+      "transactions": [
+        {"date":"2025-04-01","reference":"INV-2025-010","description":"Data Center Co-location Services","debit":8500000.00,"credit":0.00,"balance":8500000.00}
+      ],
+      "closingBalance": 8500000.00,
+      "status": "Overdue"
+    },
+    {
+      "customerId": 12,
+      "customerName": "Zambia Revenue Authority ICT Division",
+      "customerEmail": "s.mutale@zra.org.zm",
+      "openingBalance": 0.00,
+      "transactions": [
+        {"date":"2025-04-05","reference":"INV-2025-012","description":"Enterprise Voice and Data Package","debit":4200000.00,"credit":0.00,"balance":4200000.00},
+        {"date":"2025-05-01","reference":"PAY-2025-010","description":"Partial Payment received - Bank Transfer","debit":0.00,"credit":1200000.00,"balance":3000000.00}
+      ],
+      "closingBalance": 3000000.00,
+      "status": "Overdue"
+    }
+  ],
+  "summary": {
+    "totalInvoiced": 35400000,
+    "totalReceived": 15900000,
+    "totalOutstanding": 19500000,
+    "totalOverdue": 16800000,
+    "agingSummary": {
+      "current": 0,
+      "days1to30": 2700000,
+      "days31to60": 0,
+      "days61to90": 0,
+      "over90days": 16800000
+    }
+  }
+}

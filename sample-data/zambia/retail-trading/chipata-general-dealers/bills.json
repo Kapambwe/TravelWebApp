@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "billNumber": "BILL-2025-001",
+    "vendorName": "Lungu Retail Ltd",
+    "description": "Warehouse Rent",
+    "billDate": "2024-12-16T00:00:00",
+    "dueDate": "2024-12-31T00:00:00",
+    "amount": 2557946.91,
+    "paidAmount": 0.0,
+    "status": "Overdue"
+  },
+  {
+    "id": 2,
+    "billNumber": "BILL-2025-002",
+    "vendorName": "Musonda Traders Co.",
+    "description": "Display Fixtures",
+    "billDate": "2025-03-09T00:00:00",
+    "dueDate": "2025-04-08T00:00:00",
+    "amount": 2320495.74,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 3,
+    "billNumber": "BILL-2025-003",
+    "vendorName": "Musonda Trading Group",
+    "description": "Import Duties & Levies",
+    "billDate": "2024-11-29T00:00:00",
+    "dueDate": "2025-01-13T00:00:00",
+    "amount": 2760185.8,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 4,
+    "billNumber": "BILL-2025-004",
+    "vendorName": "Musonda Trading Group",
+    "description": "Product Purchase",
+    "billDate": "2025-02-23T00:00:00",
+    "dueDate": "2025-03-10T00:00:00",
+    "amount": 2629859.1,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 5,
+    "billNumber": "BILL-2025-005",
+    "vendorName": "Mutale Traders Ltd",
+    "description": "Store Maintenance",
+    "billDate": "2025-01-27T00:00:00",
+    "dueDate": "2025-02-11T00:00:00",
+    "amount": 1387942.22,
+    "paidAmount": 1387942.22,
+    "status": "Paid"
+  },
+  {
+    "id": 6,
+    "billNumber": "BILL-2025-006",
+    "vendorName": "Lungu Retail Ltd",
+    "description": "Display Fixtures",
+    "billDate": "2025-01-29T00:00:00",
+    "dueDate": "2025-02-13T00:00:00",
+    "amount": 814351.44,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 7,
+    "billNumber": "BILL-2025-007",
+    "vendorName": "Lungu Retail Ltd",
+    "description": "Product Purchase",
+    "billDate": "2024-12-10T00:00:00",
+    "dueDate": "2025-01-24T00:00:00",
+    "amount": 1592224.82,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 8,
+    "billNumber": "BILL-2025-008",
+    "vendorName": "Siame Commerce Enterprises",
+    "description": "Warehouse Rent",
+    "billDate": "2024-12-03T00:00:00",
+    "dueDate": "2025-01-02T00:00:00",
+    "amount": 1718058.96,
+    "paidAmount": 0.0,
+    "status": "Overdue"
+  },
+  {
+    "id": 9,
+    "billNumber": "BILL-2025-009",
+    "vendorName": "Kaputo Commerce Enterprises",
+    "description": "Logistics & Delivery",
+    "billDate": "2025-01-19T00:00:00",
+    "dueDate": "2025-03-05T00:00:00",
+    "amount": 2991274.95,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 10,
+    "billNumber": "BILL-2025-010",
+    "vendorName": "Musonda Trading Group",
+    "description": "Import Duties & Levies",
+    "billDate": "2024-12-08T00:00:00",
+    "dueDate": "2024-12-23T00:00:00",
+    "amount": 2461289.71,
+    "paidAmount": 0.0,
+    "status": "Open"
+  }
+]

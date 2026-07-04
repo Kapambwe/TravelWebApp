@@ -1,0 +1,242 @@
+[
+  {
+    "id": "budget-001",
+    "budgetName": "Maintenance Budget 1",
+    "category": "Administration",
+    "amount": 73052.73,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-002",
+    "budgetName": "Flight Operations Budget 2",
+    "category": "Marketing",
+    "amount": 87827.78,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-003",
+    "budgetName": "Ground Services Budget 3",
+    "category": "Marketing",
+    "amount": 99529.85,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-004",
+    "budgetName": "Maintenance Budget 4",
+    "category": "Development",
+    "amount": 49407.29,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-005",
+    "budgetName": "Maintenance Budget 5",
+    "category": "Administration",
+    "amount": 54303.6,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-006",
+    "budgetName": "Ground Services Budget 6",
+    "category": "Development",
+    "amount": 78263.79,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-007",
+    "budgetName": "Flight Operations Budget 7",
+    "category": "Marketing",
+    "amount": 46402.09,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-008",
+    "budgetName": "Catering Budget 8",
+    "category": "Administration",
+    "amount": 13229.89,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-009",
+    "budgetName": "Flight Operations Budget 9",
+    "category": "Development",
+    "amount": 24480.61,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-010",
+    "budgetName": "Ground Services Budget 10",
+    "category": "Marketing",
+    "amount": 21623.28,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-011",
+    "budgetName": "Ground Services Budget 11",
+    "category": "Operations",
+    "amount": 20491.79,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-012",
+    "budgetName": "Ground Services Budget 12",
+    "category": "Marketing",
+    "amount": 57052.34,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-013",
+    "budgetName": "Maintenance Budget 13",
+    "category": "Development",
+    "amount": 71433.43,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-014",
+    "budgetName": "Maintenance Budget 14",
+    "category": "Marketing",
+    "amount": 68689.2,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-015",
+    "budgetName": "Ground Services Budget 15",
+    "category": "Development",
+    "amount": 80027.43,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-016",
+    "budgetName": "Flight Operations Budget 16",
+    "category": "Administration",
+    "amount": 30750.07,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-017",
+    "budgetName": "Flight Operations Budget 17",
+    "category": "Marketing",
+    "amount": 53672.16,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-018",
+    "budgetName": "Maintenance Budget 18",
+    "category": "Administration",
+    "amount": 76925.77,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-019",
+    "budgetName": "Maintenance Budget 19",
+    "category": "Operations",
+    "amount": 27395.45,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-020",
+    "budgetName": "Catering Budget 20",
+    "category": "Operations",
+    "amount": 20003.97,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-021",
+    "budgetName": "Catering Budget 21",
+    "category": "Operations",
+    "amount": 51119.13,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-022",
+    "budgetName": "Catering Budget 22",
+    "category": "Development",
+    "amount": 52864.68,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-023",
+    "budgetName": "Catering Budget 23",
+    "category": "Marketing",
+    "amount": 69558.59,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-024",
+    "budgetName": "Maintenance Budget 24",
+    "category": "Development",
+    "amount": 89051.13,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-025",
+    "budgetName": "Ground Services Budget 25",
+    "category": "Marketing",
+    "amount": 48854.31,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-026",
+    "budgetName": "Catering Budget 26",
+    "category": "Development",
+    "amount": 95464.72,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-027",
+    "budgetName": "Maintenance Budget 27",
+    "category": "Development",
+    "amount": 19575.11,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-028",
+    "budgetName": "Flight Operations Budget 28",
+    "category": "Operations",
+    "amount": 81538.48,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-029",
+    "budgetName": "Ground Services Budget 29",
+    "category": "Operations",
+    "amount": 42808.07,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-030",
+    "budgetName": "Catering Budget 30",
+    "category": "Operations",
+    "amount": 53431.1,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  }
+]

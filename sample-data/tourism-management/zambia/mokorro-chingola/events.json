@@ -1,0 +1,22 @@
+﻿[
+    {
+        "Capacity":  250,
+        "HasEquipment":  true,
+        "IsAvailable":  true,
+        "Id":  1,
+        "Location":  "Conference Wing",
+        "Name":  "Mwanawasa Ballroom",
+        "HasCatering":  true,
+        "HourlyRate":  8000
+    },
+    {
+        "Capacity":  20,
+        "HasEquipment":  true,
+        "IsAvailable":  true,
+        "Id":  2,
+        "Location":  "Executive Floor",
+        "Name":  "Chambishi Boardroom",
+        "HasCatering":  true,
+        "HourlyRate":  3500
+    }
+]

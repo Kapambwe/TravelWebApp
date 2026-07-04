@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "billNumber": "BILL-2025-001",
+    "vendorName": "Musonda Digital Media Inc.",
+    "description": "Printing Costs",
+    "billDate": "2024-09-23T00:00:00",
+    "dueDate": "2024-11-07T00:00:00",
+    "amount": 2297832.33,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 2,
+    "billNumber": "BILL-2025-002",
+    "vendorName": "Phiri Communications Enterprises",
+    "description": "Broadcasting Equipment Hire",
+    "billDate": "2024-10-04T00:00:00",
+    "dueDate": "2024-11-03T00:00:00",
+    "amount": 1741824.68,
+    "paidAmount": 1196210.78,
+    "status": "PartiallyPaid"
+  },
+  {
+    "id": 3,
+    "billNumber": "BILL-2025-003",
+    "vendorName": "Kaputo Media Enterprises",
+    "description": "Studio Production Costs",
+    "billDate": "2024-12-30T00:00:00",
+    "dueDate": "2025-01-14T00:00:00",
+    "amount": 78757.66,
+    "paidAmount": 0.0,
+    "status": "Overdue"
+  },
+  {
+    "id": 4,
+    "billNumber": "BILL-2025-004",
+    "vendorName": "Phiri Communications Enterprises",
+    "description": "License Fees",
+    "billDate": "2025-03-07T00:00:00",
+    "dueDate": "2025-04-06T00:00:00",
+    "amount": 3376063.82,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 5,
+    "billNumber": "BILL-2025-005",
+    "vendorName": "Kabwe Digital Media Holdings",
+    "description": "Studio Production Costs",
+    "billDate": "2024-12-31T00:00:00",
+    "dueDate": "2025-01-15T00:00:00",
+    "amount": 3304893.23,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 6,
+    "billNumber": "BILL-2025-006",
+    "vendorName": "Zulu Communications Group",
+    "description": "Content Distribution",
+    "billDate": "2025-02-21T00:00:00",
+    "dueDate": "2025-04-07T00:00:00",
+    "amount": 1495721.29,
+    "paidAmount": 0.0,
+    "status": "Overdue"
+  },
+  {
+    "id": 7,
+    "billNumber": "BILL-2025-007",
+    "vendorName": "Kabwe Digital Media Holdings",
+    "description": "Studio Production Costs",
+    "billDate": "2024-12-01T00:00:00",
+    "dueDate": "2024-12-31T00:00:00",
+    "amount": 253340.2,
+    "paidAmount": 138218.61,
+    "status": "PartiallyPaid"
+  },
+  {
+    "id": 8,
+    "billNumber": "BILL-2025-008",
+    "vendorName": "Mwale Digital Media Holdings",
+    "description": "Broadcasting Equipment Hire",
+    "billDate": "2024-09-30T00:00:00",
+    "dueDate": "2024-11-14T00:00:00",
+    "amount": 603486.04,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 9,
+    "billNumber": "BILL-2025-009",
+    "vendorName": "Musonda Publishers Ltd",
+    "description": "Freelancer Fees",
+    "billDate": "2024-12-18T00:00:00",
+    "dueDate": "2025-01-17T00:00:00",
+    "amount": 725376.41,
+    "paidAmount": 0.0,
+    "status": "Overdue"
+  },
+  {
+    "id": 10,
+    "billNumber": "BILL-2025-010",
+    "vendorName": "Musonda Publishers Ltd",
+    "description": "Broadcasting Equipment Hire",
+    "billDate": "2024-11-23T00:00:00",
+    "dueDate": "2025-01-07T00:00:00",
+    "amount": 221297.3,
+    "paidAmount": 221297.3,
+    "status": "Paid"
+  }
+]

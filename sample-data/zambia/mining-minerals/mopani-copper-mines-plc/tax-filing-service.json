@@ -1,0 +1,302 @@
+[
+  {
+    "id": "tf-001",
+    "filingType": "VAT Return",
+    "period": "January 2024",
+    "filingDate": "2025-04-03",
+    "dueDate": "2025-11-08",
+    "status": "On Hold",
+    "taxAmount": 16000.0,
+    "reference": "VAT-2024-001"
+  },
+  {
+    "id": "tf-002",
+    "filingType": "VAT Return",
+    "period": "January 2024",
+    "filingDate": "2025-08-07",
+    "dueDate": "2026-01-07",
+    "status": "Pending",
+    "taxAmount": 16000.0,
+    "reference": "VAT-2024-001"
+  },
+  {
+    "id": "tf-003",
+    "filingType": "VAT Return",
+    "period": "January 2024",
+    "filingDate": "2025-11-29",
+    "dueDate": "2025-07-18",
+    "status": "Pending",
+    "taxAmount": 16000.0,
+    "reference": "VAT-2024-001"
+  },
+  {
+    "id": "tf-004",
+    "filingType": "VAT Return",
+    "period": "January 2024",
+    "filingDate": "2025-07-01",
+    "dueDate": "2025-04-26",
+    "status": "Cancelled",
+    "taxAmount": 16000.0,
+    "reference": "VAT-2024-001"
+  },
+  {
+    "id": "tf-005",
+    "filingType": "VAT Return",
+    "period": "January 2024",
+    "filingDate": "2025-02-15",
+    "dueDate": "2025-10-14",
+    "status": "Draft",
+    "taxAmount": 16000.0,
+    "reference": "VAT-2024-001"
+  },
+  {
+    "id": "tf-006",
+    "filingType": "VAT Return",
+    "period": "January 2024",
+    "filingDate": "2025-07-08",
+    "dueDate": "2025-04-12",
+    "status": "Active",
+    "taxAmount": 16000.0,
+    "reference": "VAT-2024-001"
+  },
+  {
+    "id": "tf-007",
+    "filingType": "VAT Return",
+    "period": "January 2024",
+    "filingDate": "2025-12-24",
+    "dueDate": "2025-10-06",
+    "status": "Cancelled",
+    "taxAmount": 16000.0,
+    "reference": "VAT-2024-001"
+  },
+  {
+    "id": "tf-008",
+    "filingType": "VAT Return",
+    "period": "January 2024",
+    "filingDate": "2025-07-29",
+    "dueDate": "2025-09-02",
+    "status": "Approved",
+    "taxAmount": 16000.0,
+    "reference": "VAT-2024-001"
+  },
+  {
+    "id": "tf-009",
+    "filingType": "VAT Return",
+    "period": "January 2024",
+    "filingDate": "2025-01-21",
+    "dueDate": "2025-09-13",
+    "status": "Draft",
+    "taxAmount": 16000.0,
+    "reference": "VAT-2024-001"
+  },
+  {
+    "id": "tf-010",
+    "filingType": "VAT Return",
+    "period": "January 2024",
+    "filingDate": "2025-04-04",
+    "dueDate": "2025-02-24",
+    "status": "On Hold",
+    "taxAmount": 16000.0,
+    "reference": "VAT-2024-001"
+  },
+  {
+    "id": "tf-011",
+    "filingType": "VAT Return",
+    "period": "January 2024",
+    "filingDate": "2025-12-30",
+    "dueDate": "2025-03-20",
+    "status": "On Hold",
+    "taxAmount": 16000.0,
+    "reference": "VAT-2024-001"
+  },
+  {
+    "id": "tf-012",
+    "filingType": "VAT Return",
+    "period": "January 2024",
+    "filingDate": "2025-09-15",
+    "dueDate": "2026-01-09",
+    "status": "Pending",
+    "taxAmount": 16000.0,
+    "reference": "VAT-2024-001"
+  },
+  {
+    "id": "tf-013",
+    "filingType": "VAT Return",
+    "period": "January 2024",
+    "filingDate": "2025-09-16",
+    "dueDate": "2025-10-01",
+    "status": "On Hold",
+    "taxAmount": 16000.0,
+    "reference": "VAT-2024-001"
+  },
+  {
+    "id": "tf-014",
+    "filingType": "VAT Return",
+    "period": "January 2024",
+    "filingDate": "2025-12-22",
+    "dueDate": "2025-10-24",
+    "status": "Cancelled",
+    "taxAmount": 16000.0,
+    "reference": "VAT-2024-001"
+  },
+  {
+    "id": "tf-015",
+    "filingType": "VAT Return",
+    "period": "January 2024",
+    "filingDate": "2025-04-23",
+    "dueDate": "2025-01-21",
+    "status": "Approved",
+    "taxAmount": 16000.0,
+    "reference": "VAT-2024-001"
+  },
+  {
+    "id": "tf-016",
+    "filingType": "VAT Return",
+    "period": "January 2024",
+    "filingDate": "2025-11-29",
+    "dueDate": "2025-04-06",
+    "status": "Completed",
+    "taxAmount": 16000.0,
+    "reference": "VAT-2024-001"
+  },
+  {
+    "id": "tf-017",
+    "filingType": "VAT Return",
+    "period": "January 2024",
+    "filingDate": "2025-12-27",
+    "dueDate": "2025-10-14",
+    "status": "Active",
+    "taxAmount": 16000.0,
+    "reference": "VAT-2024-001"
+  },
+  {
+    "id": "tf-018",
+    "filingType": "VAT Return",
+    "period": "January 2024",
+    "filingDate": "2025-10-19",
+    "dueDate": "2025-11-11",
+    "status": "Completed",
+    "taxAmount": 16000.0,
+    "reference": "VAT-2024-001"
+  },
+  {
+    "id": "tf-019",
+    "filingType": "VAT Return",
+    "period": "January 2024",
+    "filingDate": "2025-05-07",
+    "dueDate": "2025-04-13",
+    "status": "Draft",
+    "taxAmount": 16000.0,
+    "reference": "VAT-2024-001"
+  },
+  {
+    "id": "tf-020",
+    "filingType": "VAT Return",
+    "period": "January 2024",
+    "filingDate": "2025-07-29",
+    "dueDate": "2025-11-07",
+    "status": "Draft",
+    "taxAmount": 16000.0,
+    "reference": "VAT-2024-001"
+  },
+  {
+    "id": "tf-021",
+    "filingType": "VAT Return",
+    "period": "January 2024",
+    "filingDate": "2025-04-17",
+    "dueDate": "2025-05-27",
+    "status": "Pending",
+    "taxAmount": 16000.0,
+    "reference": "VAT-2024-001"
+  },
+  {
+    "id": "tf-022",
+    "filingType": "VAT Return",
+    "period": "January 2024",
+    "filingDate": "2025-10-19",
+    "dueDate": "2025-10-18",
+    "status": "Draft",
+    "taxAmount": 16000.0,
+    "reference": "VAT-2024-001"
+  },
+  {
+    "id": "tf-023",
+    "filingType": "VAT Return",
+    "period": "January 2024",
+    "filingDate": "2025-10-10",
+    "dueDate": "2025-07-26",
+    "status": "On Hold",
+    "taxAmount": 16000.0,
+    "reference": "VAT-2024-001"
+  },
+  {
+    "id": "tf-024",
+    "filingType": "VAT Return",
+    "period": "January 2024",
+    "filingDate": "2025-06-01",
+    "dueDate": "2025-02-01",
+    "status": "Completed",
+    "taxAmount": 16000.0,
+    "reference": "VAT-2024-001"
+  },
+  {
+    "id": "tf-025",
+    "filingType": "VAT Return",
+    "period": "January 2024",
+    "filingDate": "2025-09-20",
+    "dueDate": "2025-01-26",
+    "status": "Pending",
+    "taxAmount": 16000.0,
+    "reference": "VAT-2024-001"
+  },
+  {
+    "id": "tf-026",
+    "filingType": "VAT Return",
+    "period": "January 2024",
+    "filingDate": "2025-03-04",
+    "dueDate": "2025-05-21",
+    "status": "Rejected",
+    "taxAmount": 16000.0,
+    "reference": "VAT-2024-001"
+  },
+  {
+    "id": "tf-027",
+    "filingType": "VAT Return",
+    "period": "January 2024",
+    "filingDate": "2025-11-02",
+    "dueDate": "2025-06-20",
+    "status": "Draft",
+    "taxAmount": 16000.0,
+    "reference": "VAT-2024-001"
+  },
+  {
+    "id": "tf-028",
+    "filingType": "VAT Return",
+    "period": "January 2024",
+    "filingDate": "2025-05-20",
+    "dueDate": "2025-08-15",
+    "status": "Rejected",
+    "taxAmount": 16000.0,
+    "reference": "VAT-2024-001"
+  },
+  {
+    "id": "tf-029",
+    "filingType": "VAT Return",
+    "period": "January 2024",
+    "filingDate": "2025-10-06",
+    "dueDate": "2025-11-27",
+    "status": "Completed",
+    "taxAmount": 16000.0,
+    "reference": "VAT-2024-001"
+  },
+  {
+    "id": "tf-030",
+    "filingType": "VAT Return",
+    "period": "January 2024",
+    "filingDate": "2025-08-01",
+    "dueDate": "2026-01-16",
+    "status": "Active",
+    "taxAmount": 16000.0,
+    "reference": "VAT-2024-001"
+  }
+]

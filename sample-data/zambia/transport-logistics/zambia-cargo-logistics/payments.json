@@ -1,0 +1,189 @@
+[
+  {
+    "id": 1,
+    "paymentNumber": "PAY-2025-001",
+    "invoiceId": 9,
+    "customerId": 5,
+    "clientName": "Bwalya Cargo Limited",
+    "amount": 267126.77,
+    "paymentDate": "2024-12-15T00:00:00",
+    "paymentMethod": "Mobile Money",
+    "referenceNumber": "MMO-20250315-001"
+  },
+  {
+    "id": 2,
+    "paymentNumber": "PAY-2025-002",
+    "invoiceId": 8,
+    "customerId": 5,
+    "clientName": "Bwalya Cargo Limited",
+    "amount": 2352990.31,
+    "paymentDate": "2025-01-12T00:00:00",
+    "paymentMethod": "Bank Transfer",
+    "referenceNumber": "TRF-20250315-002"
+  },
+  {
+    "id": 3,
+    "paymentNumber": "PAY-2025-003",
+    "invoiceId": 5,
+    "customerId": 6,
+    "clientName": "Sakala Logistics Limited",
+    "amount": 1825155.0,
+    "paymentDate": "2025-01-04T00:00:00",
+    "paymentMethod": "Mobile Money",
+    "referenceNumber": "MMO-20250315-003"
+  },
+  {
+    "id": 4,
+    "paymentNumber": "PAY-2025-004",
+    "invoiceId": 8,
+    "customerId": 5,
+    "clientName": "Bwalya Cargo Limited",
+    "amount": 2352990.31,
+    "paymentDate": "2024-12-23T00:00:00",
+    "paymentMethod": "Bank Transfer",
+    "referenceNumber": "TRF-20250315-004"
+  },
+  {
+    "id": 5,
+    "paymentNumber": "PAY-2025-005",
+    "invoiceId": 8,
+    "customerId": 5,
+    "clientName": "Bwalya Cargo Limited",
+    "amount": 2352990.31,
+    "paymentDate": "2025-02-05T00:00:00",
+    "paymentMethod": "Bank Transfer",
+    "referenceNumber": "TRF-20250315-005"
+  },
+  {
+    "id": 6,
+    "paymentNumber": "PAY-2025-006",
+    "invoiceId": 8,
+    "customerId": 5,
+    "clientName": "Bwalya Cargo Limited",
+    "amount": 2352990.31,
+    "paymentDate": "2025-01-26T00:00:00",
+    "paymentMethod": "Mobile Money",
+    "referenceNumber": "MMO-20250315-006"
+  },
+  {
+    "id": 7,
+    "paymentNumber": "PAY-2025-007",
+    "invoiceId": 1,
+    "customerId": 3,
+    "clientName": "Mutale Haulage Enterprises",
+    "amount": 4643766.61,
+    "paymentDate": "2025-02-20T00:00:00",
+    "paymentMethod": "Mobile Money",
+    "referenceNumber": "MMO-20250315-007"
+  },
+  {
+    "id": 8,
+    "paymentNumber": "PAY-2025-008",
+    "invoiceId": 9,
+    "customerId": 5,
+    "clientName": "Bwalya Cargo Limited",
+    "amount": 267126.77,
+    "paymentDate": "2025-01-16T00:00:00",
+    "paymentMethod": "Bank Transfer",
+    "referenceNumber": "TRF-20250315-008"
+  },
+  {
+    "id": 9,
+    "paymentNumber": "PAY-2025-009",
+    "invoiceId": 5,
+    "customerId": 6,
+    "clientName": "Sakala Logistics Limited",
+    "amount": 1825155.0,
+    "paymentDate": "2025-02-09T00:00:00",
+    "paymentMethod": "Bank Transfer",
+    "referenceNumber": "TRF-20250315-009"
+  },
+  {
+    "id": 10,
+    "paymentNumber": "PAY-2025-010",
+    "invoiceId": 1,
+    "customerId": 3,
+    "clientName": "Mutale Haulage Enterprises",
+    "amount": 4643766.61,
+    "paymentDate": "2025-01-22T00:00:00",
+    "paymentMethod": "Bank Transfer",
+    "referenceNumber": "TRF-20250315-010"
+  },
+  {
+    "id": 11,
+    "paymentNumber": "PAY-2025-011",
+    "invoiceId": 6,
+    "customerId": 8,
+    "clientName": "Sakala Haulage Holdings",
+    "amount": 1697067.82,
+    "paymentDate": "2025-02-11T00:00:00",
+    "paymentMethod": "Bank Transfer",
+    "referenceNumber": "TRF-20250315-011"
+  },
+  {
+    "id": 12,
+    "paymentNumber": "PAY-2025-012",
+    "invoiceId": 8,
+    "customerId": 5,
+    "clientName": "Bwalya Cargo Limited",
+    "amount": 2352990.31,
+    "paymentDate": "2025-02-23T00:00:00",
+    "paymentMethod": "Bank Transfer",
+    "referenceNumber": "TRF-20250315-012"
+  },
+  {
+    "id": 13,
+    "paymentNumber": "PAY-2025-013",
+    "invoiceId": 9,
+    "customerId": 5,
+    "clientName": "Bwalya Cargo Limited",
+    "amount": 267126.77,
+    "paymentDate": "2025-03-12T00:00:00",
+    "paymentMethod": "Bank Transfer",
+    "referenceNumber": "TRF-20250315-013"
+  },
+  {
+    "id": 14,
+    "paymentNumber": "PAY-2025-014",
+    "invoiceId": 5,
+    "customerId": 6,
+    "clientName": "Sakala Logistics Limited",
+    "amount": 1825155.0,
+    "paymentDate": "2025-01-24T00:00:00",
+    "paymentMethod": "Mobile Money",
+    "referenceNumber": "MMO-20250315-014"
+  },
+  {
+    "id": 15,
+    "paymentNumber": "PAY-2025-015",
+    "invoiceId": 9,
+    "customerId": 5,
+    "clientName": "Bwalya Cargo Limited",
+    "amount": 267126.77,
+    "paymentDate": "2025-01-17T00:00:00",
+    "paymentMethod": "Bank Transfer",
+    "referenceNumber": "TRF-20250315-015"
+  },
+  {
+    "id": 16,
+    "paymentNumber": "PAY-2025-016",
+    "invoiceId": 5,
+    "customerId": 6,
+    "clientName": "Sakala Logistics Limited",
+    "amount": 1825155.0,
+    "paymentDate": "2025-01-01T00:00:00",
+    "paymentMethod": "Bank Transfer",
+    "referenceNumber": "TRF-20250315-016"
+  },
+  {
+    "id": 17,
+    "paymentNumber": "PAY-2025-017",
+    "invoiceId": 8,
+    "customerId": 5,
+    "clientName": "Bwalya Cargo Limited",
+    "amount": 2352990.31,
+    "paymentDate": "2025-01-24T00:00:00",
+    "paymentMethod": "Bank Transfer",
+    "referenceNumber": "TRF-20250315-017"
+  }
+]

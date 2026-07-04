@@ -1,0 +1,11 @@
+﻿{
+    "TotalBookings":  240,
+    "CommissionRate":  10,
+    "Id":  1,
+    "TotalRevenue":  4120000,
+    "Name":  "Copperbelt Corporate Travels",
+    "Phone":  "+260966123456",
+    "IsActive":  true,
+    "ContactPerson":  "Grace Musonda",
+    "Email":  "grace@cbttravel.zm"
+}

@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1,
+    "poNumber": "PO-2025-001",
+    "vendorName": "Phiri Productions Enterprises",
+    "description": "Sound & Lighting Hire",
+    "orderDate": "2025-01-27T00:00:00",
+    "expectedDate": "2025-02-23T00:00:00",
+    "amount": 2510169.21,
+    "receivedAmount": 0.0,
+    "status": "Cancelled",
+    "approvalStatus": "Approved",
+    "approvedBy": "Finance Manager"
+  },
+  {
+    "id": 2,
+    "poNumber": "PO-2025-002",
+    "vendorName": "Phiri Productions Inc.",
+    "description": "PR Campaign",
+    "orderDate": "2025-02-08T00:00:00",
+    "expectedDate": "2025-03-08T00:00:00",
+    "amount": 33632.95,
+    "receivedAmount": 0.0,
+    "status": "Open",
+    "approvalStatus": "Pending",
+    "approvedBy": "CFO"
+  },
+  {
+    "id": 3,
+    "poNumber": "PO-2025-003",
+    "vendorName": "Kabwe Productions Inc.",
+    "description": "Studio Recording Session",
+    "orderDate": "2024-12-23T00:00:00",
+    "expectedDate": "2025-01-11T00:00:00",
+    "amount": 633290.41,
+    "receivedAmount": 633290.41,
+    "status": "Closed",
+    "approvalStatus": "Approved",
+    "approvedBy": "Procurement Officer"
+  },
+  {
+    "id": 4,
+    "poNumber": "PO-2025-004",
+    "vendorName": "Zulu Productions Holdings",
+    "description": "Studio Recording Session",
+    "orderDate": "2025-01-02T00:00:00",
+    "expectedDate": "2025-01-15T00:00:00",
+    "amount": 401724.91,
+    "receivedAmount": 401724.91,
+    "status": "Closed",
+    "approvalStatus": "Approved",
+    "approvedBy": "CEO"
+  },
+  {
+    "id": 5,
+    "poNumber": "PO-2025-005",
+    "vendorName": "Bwalya Productions Solutions",
+    "description": "Studio Recording Session",
+    "orderDate": "2025-01-12T00:00:00",
+    "expectedDate": "2025-01-23T00:00:00",
+    "amount": 148221.18,
+    "receivedAmount": 32114.19,
+    "status": "PartiallyReceived",
+    "approvalStatus": "Approved",
+    "approvedBy": "Finance Manager"
+  },
+  {
+    "id": 6,
+    "poNumber": "PO-2025-006",
+    "vendorName": "Mutale Creative Agency Co.",
+    "description": "Music Video Production",
+    "orderDate": "2024-12-16T00:00:00",
+    "expectedDate": "2025-01-14T00:00:00",
+    "amount": 2580948.12,
+    "receivedAmount": 0.0,
+    "status": "Open",
+    "approvalStatus": "Pending",
+    "approvedBy": "CEO"
+  }
+]

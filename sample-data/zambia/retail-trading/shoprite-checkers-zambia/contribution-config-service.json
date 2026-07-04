@@ -1,0 +1,242 @@
+[
+  {
+    "id": "cc-001",
+    "contributionType": "NAPSA",
+    "employeeRate": 5.0,
+    "employerRate": 5.0,
+    "maxSalary": null,
+    "minSalary": 0
+  },
+  {
+    "id": "cc-002",
+    "contributionType": "NHIMA",
+    "employeeRate": 1.0,
+    "employerRate": 1.0,
+    "maxSalary": null,
+    "minSalary": 0
+  },
+  {
+    "id": "cc-003",
+    "contributionType": "NAPSA",
+    "employeeRate": 5.0,
+    "employerRate": 5.0,
+    "maxSalary": null,
+    "minSalary": 0
+  },
+  {
+    "id": "cc-004",
+    "contributionType": "NHIMA",
+    "employeeRate": 1.0,
+    "employerRate": 1.0,
+    "maxSalary": null,
+    "minSalary": 0
+  },
+  {
+    "id": "cc-005",
+    "contributionType": "NAPSA",
+    "employeeRate": 5.0,
+    "employerRate": 5.0,
+    "maxSalary": null,
+    "minSalary": 0
+  },
+  {
+    "id": "cc-006",
+    "contributionType": "NHIMA",
+    "employeeRate": 1.0,
+    "employerRate": 1.0,
+    "maxSalary": null,
+    "minSalary": 0
+  },
+  {
+    "id": "cc-007",
+    "contributionType": "NAPSA",
+    "employeeRate": 5.0,
+    "employerRate": 5.0,
+    "maxSalary": null,
+    "minSalary": 0
+  },
+  {
+    "id": "cc-008",
+    "contributionType": "NHIMA",
+    "employeeRate": 1.0,
+    "employerRate": 1.0,
+    "maxSalary": null,
+    "minSalary": 0
+  },
+  {
+    "id": "cc-009",
+    "contributionType": "NAPSA",
+    "employeeRate": 5.0,
+    "employerRate": 5.0,
+    "maxSalary": null,
+    "minSalary": 0
+  },
+  {
+    "id": "cc-010",
+    "contributionType": "NHIMA",
+    "employeeRate": 1.0,
+    "employerRate": 1.0,
+    "maxSalary": null,
+    "minSalary": 0
+  },
+  {
+    "id": "cc-011",
+    "contributionType": "NAPSA",
+    "employeeRate": 5.0,
+    "employerRate": 5.0,
+    "maxSalary": null,
+    "minSalary": 0
+  },
+  {
+    "id": "cc-012",
+    "contributionType": "NHIMA",
+    "employeeRate": 1.0,
+    "employerRate": 1.0,
+    "maxSalary": null,
+    "minSalary": 0
+  },
+  {
+    "id": "cc-013",
+    "contributionType": "NAPSA",
+    "employeeRate": 5.0,
+    "employerRate": 5.0,
+    "maxSalary": null,
+    "minSalary": 0
+  },
+  {
+    "id": "cc-014",
+    "contributionType": "NHIMA",
+    "employeeRate": 1.0,
+    "employerRate": 1.0,
+    "maxSalary": null,
+    "minSalary": 0
+  },
+  {
+    "id": "cc-015",
+    "contributionType": "NAPSA",
+    "employeeRate": 5.0,
+    "employerRate": 5.0,
+    "maxSalary": null,
+    "minSalary": 0
+  },
+  {
+    "id": "cc-016",
+    "contributionType": "NHIMA",
+    "employeeRate": 1.0,
+    "employerRate": 1.0,
+    "maxSalary": null,
+    "minSalary": 0
+  },
+  {
+    "id": "cc-017",
+    "contributionType": "NAPSA",
+    "employeeRate": 5.0,
+    "employerRate": 5.0,
+    "maxSalary": null,
+    "minSalary": 0
+  },
+  {
+    "id": "cc-018",
+    "contributionType": "NHIMA",
+    "employeeRate": 1.0,
+    "employerRate": 1.0,
+    "maxSalary": null,
+    "minSalary": 0
+  },
+  {
+    "id": "cc-019",
+    "contributionType": "NAPSA",
+    "employeeRate": 5.0,
+    "employerRate": 5.0,
+    "maxSalary": null,
+    "minSalary": 0
+  },
+  {
+    "id": "cc-020",
+    "contributionType": "NHIMA",
+    "employeeRate": 1.0,
+    "employerRate": 1.0,
+    "maxSalary": null,
+    "minSalary": 0
+  },
+  {
+    "id": "cc-021",
+    "contributionType": "NAPSA",
+    "employeeRate": 5.0,
+    "employerRate": 5.0,
+    "maxSalary": null,
+    "minSalary": 0
+  },
+  {
+    "id": "cc-022",
+    "contributionType": "NHIMA",
+    "employeeRate": 1.0,
+    "employerRate": 1.0,
+    "maxSalary": null,
+    "minSalary": 0
+  },
+  {
+    "id": "cc-023",
+    "contributionType": "NAPSA",
+    "employeeRate": 5.0,
+    "employerRate": 5.0,
+    "maxSalary": null,
+    "minSalary": 0
+  },
+  {
+    "id": "cc-024",
+    "contributionType": "NHIMA",
+    "employeeRate": 1.0,
+    "employerRate": 1.0,
+    "maxSalary": null,
+    "minSalary": 0
+  },
+  {
+    "id": "cc-025",
+    "contributionType": "NAPSA",
+    "employeeRate": 5.0,
+    "employerRate": 5.0,
+    "maxSalary": null,
+    "minSalary": 0
+  },
+  {
+    "id": "cc-026",
+    "contributionType": "NHIMA",
+    "employeeRate": 1.0,
+    "employerRate": 1.0,
+    "maxSalary": null,
+    "minSalary": 0
+  },
+  {
+    "id": "cc-027",
+    "contributionType": "NAPSA",
+    "employeeRate": 5.0,
+    "employerRate": 5.0,
+    "maxSalary": null,
+    "minSalary": 0
+  },
+  {
+    "id": "cc-028",
+    "contributionType": "NHIMA",
+    "employeeRate": 1.0,
+    "employerRate": 1.0,
+    "maxSalary": null,
+    "minSalary": 0
+  },
+  {
+    "id": "cc-029",
+    "contributionType": "NAPSA",
+    "employeeRate": 5.0,
+    "employerRate": 5.0,
+    "maxSalary": null,
+    "minSalary": 0
+  },
+  {
+    "id": "cc-030",
+    "contributionType": "NHIMA",
+    "employeeRate": 1.0,
+    "employerRate": 1.0,
+    "maxSalary": null,
+    "minSalary": 0
+  }
+]

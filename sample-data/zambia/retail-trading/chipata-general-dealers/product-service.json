@@ -1,0 +1,272 @@
+[
+  {
+    "id": "prod-001",
+    "productName": "Maize Meal",
+    "productCode": "SKU-33274",
+    "category": "General Retail",
+    "price": 8911.96,
+    "cost": 3590.06,
+    "description": "Quality Maize Meal for general retail business"
+  },
+  {
+    "id": "prod-002",
+    "productName": "Sugar",
+    "productCode": "SKU-83620",
+    "category": "General Retail",
+    "price": 9680.76,
+    "cost": 5645.17,
+    "description": "Quality Sugar for general retail business"
+  },
+  {
+    "id": "prod-003",
+    "productName": "Cooking Oil",
+    "productCode": "SKU-30003",
+    "category": "General Retail",
+    "price": 9159.45,
+    "cost": 4899.53,
+    "description": "Quality Cooking Oil for general retail business"
+  },
+  {
+    "id": "prod-004",
+    "productName": "Soap",
+    "productCode": "SKU-83620",
+    "category": "General Retail",
+    "price": 11577.23,
+    "cost": 3854.1,
+    "description": "Quality Soap for general retail business"
+  },
+  {
+    "id": "prod-005",
+    "productName": "Detergent",
+    "productCode": "SKU-45881",
+    "category": "General Retail",
+    "price": 13897.12,
+    "cost": 7417.08,
+    "description": "Quality Detergent for general retail business"
+  },
+  {
+    "id": "prod-006",
+    "productName": "Tea",
+    "productCode": "SKU-62088",
+    "category": "General Retail",
+    "price": 4059.24,
+    "cost": 5148.04,
+    "description": "Quality Tea for general retail business"
+  },
+  {
+    "id": "prod-007",
+    "productName": "Coffee",
+    "productCode": "SKU-41348",
+    "category": "General Retail",
+    "price": 11978.73,
+    "cost": 874.27,
+    "description": "Quality Coffee for general retail business"
+  },
+  {
+    "id": "prod-008",
+    "productName": "Salt",
+    "productCode": "SKU-34222",
+    "category": "General Retail",
+    "price": 13021.07,
+    "cost": 7753.17,
+    "description": "Quality Salt for general retail business"
+  },
+  {
+    "id": "prod-009",
+    "productName": "Spices",
+    "productCode": "SKU-52642",
+    "category": "General Retail",
+    "price": 2508.81,
+    "cost": 1646.04,
+    "description": "Quality Spices for general retail business"
+  },
+  {
+    "id": "prod-010",
+    "productName": "Canned Foods",
+    "productCode": "SKU-99502",
+    "category": "General Retail",
+    "price": 12032.25,
+    "cost": 1966.12,
+    "description": "Quality Canned Foods for general retail business"
+  },
+  {
+    "id": "prod-011",
+    "productName": "Matches",
+    "productCode": "SKU-25877",
+    "category": "General Retail",
+    "price": 4345.11,
+    "cost": 3198.17,
+    "description": "Quality Matches for general retail business"
+  },
+  {
+    "id": "prod-012",
+    "productName": "Candles",
+    "productCode": "SKU-37010",
+    "category": "General Retail",
+    "price": 5246.92,
+    "cost": 1721.08,
+    "description": "Quality Candles for general retail business"
+  },
+  {
+    "id": "prod-013",
+    "productName": "Rice",
+    "productCode": "SKU-18622",
+    "category": "General Retail",
+    "price": 5335.82,
+    "cost": 6336.5,
+    "description": "Quality Rice for general retail business"
+  },
+  {
+    "id": "prod-014",
+    "productName": "Maize Meal",
+    "productCode": "SKU-81081",
+    "category": "General Retail",
+    "price": 8332.73,
+    "cost": 509.24,
+    "description": "Quality Maize Meal for general retail business"
+  },
+  {
+    "id": "prod-015",
+    "productName": "Sugar",
+    "productCode": "SKU-75708",
+    "category": "General Retail",
+    "price": 12842.27,
+    "cost": 2001.46,
+    "description": "Quality Sugar for general retail business"
+  },
+  {
+    "id": "prod-016",
+    "productName": "Cooking Oil",
+    "productCode": "SKU-89163",
+    "category": "General Retail",
+    "price": 7442.78,
+    "cost": 3639.65,
+    "description": "Quality Cooking Oil for general retail business"
+  },
+  {
+    "id": "prod-017",
+    "productName": "Soap",
+    "productCode": "SKU-68644",
+    "category": "General Retail",
+    "price": 4183.14,
+    "cost": 5560.01,
+    "description": "Quality Soap for general retail business"
+  },
+  {
+    "id": "prod-018",
+    "productName": "Detergent",
+    "productCode": "SKU-22832",
+    "category": "General Retail",
+    "price": 6077.92,
+    "cost": 6231.68,
+    "description": "Quality Detergent for general retail business"
+  },
+  {
+    "id": "prod-019",
+    "productName": "Tea",
+    "productCode": "SKU-95341",
+    "category": "General Retail",
+    "price": 6196.29,
+    "cost": 3915.82,
+    "description": "Quality Tea for general retail business"
+  },
+  {
+    "id": "prod-020",
+    "productName": "Coffee",
+    "productCode": "SKU-54119",
+    "category": "General Retail",
+    "price": 7279.85,
+    "cost": 1382.71,
+    "description": "Quality Coffee for general retail business"
+  },
+  {
+    "id": "prod-021",
+    "productName": "Salt",
+    "productCode": "SKU-11841",
+    "category": "General Retail",
+    "price": 9248.52,
+    "cost": 1626.3,
+    "description": "Quality Salt for general retail business"
+  },
+  {
+    "id": "prod-022",
+    "productName": "Spices",
+    "productCode": "SKU-57724",
+    "category": "General Retail",
+    "price": 2680.18,
+    "cost": 246.31,
+    "description": "Quality Spices for general retail business"
+  },
+  {
+    "id": "prod-023",
+    "productName": "Canned Foods",
+    "productCode": "SKU-58901",
+    "category": "General Retail",
+    "price": 3999.4,
+    "cost": 3187.78,
+    "description": "Quality Canned Foods for general retail business"
+  },
+  {
+    "id": "prod-024",
+    "productName": "Matches",
+    "productCode": "SKU-76178",
+    "category": "General Retail",
+    "price": 11773.24,
+    "cost": 6844.23,
+    "description": "Quality Matches for general retail business"
+  },
+  {
+    "id": "prod-025",
+    "productName": "Candles",
+    "productCode": "SKU-21518",
+    "category": "General Retail",
+    "price": 5755.95,
+    "cost": 7998.03,
+    "description": "Quality Candles for general retail business"
+  },
+  {
+    "id": "prod-026",
+    "productName": "Rice",
+    "productCode": "SKU-21279",
+    "category": "General Retail",
+    "price": 14973.58,
+    "cost": 1126.36,
+    "description": "Quality Rice for general retail business"
+  },
+  {
+    "id": "prod-027",
+    "productName": "Maize Meal",
+    "productCode": "SKU-56786",
+    "category": "General Retail",
+    "price": 10845.46,
+    "cost": 3925.05,
+    "description": "Quality Maize Meal for general retail business"
+  },
+  {
+    "id": "prod-028",
+    "productName": "Sugar",
+    "productCode": "SKU-55102",
+    "category": "General Retail",
+    "price": 5706.86,
+    "cost": 3153.41,
+    "description": "Quality Sugar for general retail business"
+  },
+  {
+    "id": "prod-029",
+    "productName": "Cooking Oil",
+    "productCode": "SKU-99139",
+    "category": "General Retail",
+    "price": 3465.78,
+    "cost": 879.66,
+    "description": "Quality Cooking Oil for general retail business"
+  },
+  {
+    "id": "prod-030",
+    "productName": "Soap",
+    "productCode": "SKU-71149",
+    "category": "General Retail",
+    "price": 14005.76,
+    "cost": 889.09,
+    "description": "Quality Soap for general retail business"
+  }
+]

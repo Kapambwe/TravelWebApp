@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1,
+    "poNumber": "PO-2025-001",
+    "vendorName": "Mulenga Authority Limited",
+    "description": "Civil Construction Works",
+    "orderDate": "2025-01-03T00:00:00",
+    "expectedDate": "2025-01-31T00:00:00",
+    "amount": 1251941.67,
+    "receivedAmount": 0.0,
+    "status": "Open",
+    "approvalStatus": "Pending",
+    "approvedBy": "Finance Manager"
+  },
+  {
+    "id": 2,
+    "poNumber": "PO-2025-002",
+    "vendorName": "Mwale Agency Ltd",
+    "description": "IT Systems & Services",
+    "orderDate": "2025-01-19T00:00:00",
+    "expectedDate": "2025-01-26T00:00:00",
+    "amount": 109077.73,
+    "receivedAmount": 109077.73,
+    "status": "Closed",
+    "approvalStatus": "Approved",
+    "approvedBy": "CEO"
+  },
+  {
+    "id": 3,
+    "poNumber": "PO-2025-003",
+    "vendorName": "Mwale Agency Ltd",
+    "description": "Consulting Fees",
+    "orderDate": "2025-02-22T00:00:00",
+    "expectedDate": "2025-03-18T00:00:00",
+    "amount": 200109.23,
+    "receivedAmount": 123469.11,
+    "status": "PartiallyReceived",
+    "approvalStatus": "Approved",
+    "approvedBy": "CFO"
+  },
+  {
+    "id": 4,
+    "poNumber": "PO-2025-004",
+    "vendorName": "Mwamba Authority Solutions",
+    "description": "Civil Construction Works",
+    "orderDate": "2024-12-21T00:00:00",
+    "expectedDate": "2025-01-19T00:00:00",
+    "amount": 2429328.2,
+    "receivedAmount": 0.0,
+    "status": "Cancelled",
+    "approvalStatus": "Approved",
+    "approvedBy": "CEO"
+  },
+  {
+    "id": 5,
+    "poNumber": "PO-2025-005",
+    "vendorName": "Zulu Board Holdings",
+    "description": "Civil Construction Works",
+    "orderDate": "2025-01-31T00:00:00",
+    "expectedDate": "2025-02-15T00:00:00",
+    "amount": 619192.75,
+    "receivedAmount": 0.0,
+    "status": "Cancelled",
+    "approvalStatus": "Pending",
+    "approvedBy": "CFO"
+  },
+  {
+    "id": 6,
+    "poNumber": "PO-2025-006",
+    "vendorName": "Musonda Board Ltd",
+    "description": "IT Systems & Services",
+    "orderDate": "2024-12-29T00:00:00",
+    "expectedDate": "2025-01-17T00:00:00",
+    "amount": 2263920.92,
+    "receivedAmount": 0.0,
+    "status": "Cancelled",
+    "approvalStatus": "Approved",
+    "approvedBy": "CFO"
+  }
+]

@@ -1,0 +1,12 @@
+﻿{
+    "Capacity":  18,
+    "Id":  306,
+    "RegistrationNumber":  "ZM-KEL-36",
+    "VehicleType":  2,
+    "FuelType":  "Diesel",
+    "Name":  "Kasama Tour Bus",
+    "NextServiceDue":  "2024-11-15",
+    "Status":  0,
+    "LastServiceDate":  "2024-05-15",
+    "FuelLevel":  0.92
+}

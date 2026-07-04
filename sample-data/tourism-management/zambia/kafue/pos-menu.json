@@ -1,0 +1,30 @@
+﻿[
+    {
+        "Price":  420,
+        "Category":  0,
+        "Name":  "Char-grilled T-Bone Steak",
+        "Id":  1,
+        "IsAvailable":  true
+    },
+    {
+        "Price":  380,
+        "Category":  0,
+        "Name":  "Fried Whole Bream Fish",
+        "Id":  2,
+        "IsAvailable":  true
+    },
+    {
+        "Price":  120,
+        "Category":  1,
+        "Name":  "Mosi Lager Beer",
+        "Id":  3,
+        "IsAvailable":  true
+    },
+    {
+        "Price":  850,
+        "Category":  3,
+        "Name":  "Luangwa Valley Carved Leopard",
+        "Id":  4,
+        "IsAvailable":  true
+    }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "billNumber": "BILL-2025-001",
+    "vendorName": "Phiri Industries Solutions",
+    "description": "Chemical Inputs",
+    "billDate": "2024-12-13T00:00:00",
+    "dueDate": "2025-01-27T00:00:00",
+    "amount": 464210.44,
+    "paidAmount": 0.0,
+    "status": "Overdue"
+  },
+  {
+    "id": 2,
+    "billNumber": "BILL-2025-002",
+    "vendorName": "Mutale Factory Ltd Inc.",
+    "description": "Equipment Maintenance",
+    "billDate": "2024-11-28T00:00:00",
+    "dueDate": "2024-12-28T00:00:00",
+    "amount": 2162550.41,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 3,
+    "billNumber": "BILL-2025-003",
+    "vendorName": "Mwamba Factory Ltd Inc.",
+    "description": "Raw Materials Purchase",
+    "billDate": "2025-02-28T00:00:00",
+    "dueDate": "2025-04-14T00:00:00",
+    "amount": 1650095.95,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 4,
+    "billNumber": "BILL-2025-004",
+    "vendorName": "Mulenga Industrial Enterprises",
+    "description": "Chemical Inputs",
+    "billDate": "2025-01-23T00:00:00",
+    "dueDate": "2025-03-09T00:00:00",
+    "amount": 841319.12,
+    "paidAmount": 490249.38,
+    "status": "PartiallyPaid"
+  },
+  {
+    "id": 5,
+    "billNumber": "BILL-2025-005",
+    "vendorName": "Bwalya Industrial Group",
+    "description": "Raw Materials Purchase",
+    "billDate": "2025-01-18T00:00:00",
+    "dueDate": "2025-02-02T00:00:00",
+    "amount": 1588624.64,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 6,
+    "billNumber": "BILL-2025-006",
+    "vendorName": "Mwale Products Co.",
+    "description": "Chemical Inputs",
+    "billDate": "2024-11-05T00:00:00",
+    "dueDate": "2024-12-20T00:00:00",
+    "amount": 426641.24,
+    "paidAmount": 0.0,
+    "status": "Overdue"
+  },
+  {
+    "id": 7,
+    "billNumber": "BILL-2025-007",
+    "vendorName": "Lungu Industries Co.",
+    "description": "Chemical Inputs",
+    "billDate": "2024-10-22T00:00:00",
+    "dueDate": "2024-11-21T00:00:00",
+    "amount": 505096.7,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 8,
+    "billNumber": "BILL-2025-008",
+    "vendorName": "Bwalya Industrial Group",
+    "description": "Transport & Distribution",
+    "billDate": "2024-12-31T00:00:00",
+    "dueDate": "2025-01-15T00:00:00",
+    "amount": 2127202.96,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 9,
+    "billNumber": "BILL-2025-009",
+    "vendorName": "Bwalya Industrial Group",
+    "description": "Chemical Inputs",
+    "billDate": "2024-12-12T00:00:00",
+    "dueDate": "2025-01-11T00:00:00",
+    "amount": 2034102.99,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 10,
+    "billNumber": "BILL-2025-010",
+    "vendorName": "Lungu Industries Co.",
+    "description": "Equipment Maintenance",
+    "billDate": "2024-12-02T00:00:00",
+    "dueDate": "2024-12-17T00:00:00",
+    "amount": 770398.2,
+    "paidAmount": 433820.77,
+    "status": "PartiallyPaid"
+  },
+  {
+    "id": 11,
+    "billNumber": "BILL-2025-011",
+    "vendorName": "Mwamba Factory Ltd Inc.",
+    "description": "Chemical Inputs",
+    "billDate": "2024-11-05T00:00:00",
+    "dueDate": "2024-12-20T00:00:00",
+    "amount": 2841379.74,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 12,
+    "billNumber": "BILL-2025-012",
+    "vendorName": "Bwalya Industrial Group",
+    "description": "Chemical Inputs",
+    "billDate": "2025-01-14T00:00:00",
+    "dueDate": "2025-02-28T00:00:00",
+    "amount": 698623.04,
+    "paidAmount": 0.0,
+    "status": "Open"
+  }
+]

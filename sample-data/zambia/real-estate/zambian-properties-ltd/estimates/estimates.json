@@ -1,0 +1,136 @@
+[
+  {
+    "id": 1,
+    "estimateNumber": "EST-2025-001",
+    "customerId": 4,
+    "customerName": "Banda Realty Solutions",
+    "estimateDateDaysAgo": 20,
+    "expirationDateDaysFromNow": 30,
+    "status": "Accepted",
+    "subTotal": 2495348.81,
+    "taxRate": 16,
+    "taxAmount": 399255.81,
+    "total": 2894604.62,
+    "terms": "Net 45",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 20,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Monthly Rental Income",
+        "quantity": 1,
+        "unitPrice": 2495348.81,
+        "amount": 2495348.81,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 19
+  },
+  {
+    "id": 2,
+    "estimateNumber": "EST-2025-002",
+    "customerId": 7,
+    "customerName": "Mulenga Investments Inc.",
+    "estimateDateDaysAgo": 14,
+    "expirationDateDaysFromNow": 25,
+    "status": "Open",
+    "subTotal": 3115340.06,
+    "taxRate": 18,
+    "taxAmount": 560761.21,
+    "total": 3676101.27,
+    "terms": "Net 30",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 14,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Car Park Fee",
+        "quantity": 2,
+        "unitPrice": 1557670.03,
+        "amount": 3115340.06,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 13
+  },
+  {
+    "id": 3,
+    "estimateNumber": "EST-2025-003",
+    "customerId": 13,
+    "customerName": "Phiri Properties Group",
+    "estimateDateDaysAgo": 48,
+    "expirationDateDaysFromNow": 16,
+    "status": "Draft",
+    "subTotal": 697854.6,
+    "taxRate": 15,
+    "taxAmount": 104678.19,
+    "total": 802532.79,
+    "terms": "Net 15",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 48,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Car Park Fee",
+        "quantity": 3,
+        "unitPrice": 232618.2,
+        "amount": 697854.6,
+        "itemType": "Service"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "estimateNumber": "EST-2025-004",
+    "customerId": 9,
+    "customerName": "Kabwe Estate Agents Holdings",
+    "estimateDateDaysAgo": 57,
+    "expirationDateDaysFromNow": 33,
+    "status": "Declined",
+    "subTotal": 2381458.06,
+    "taxRate": 16,
+    "taxAmount": 381033.29,
+    "total": 2762491.35,
+    "terms": "Net 30",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 57,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Car Park Fee",
+        "quantity": 5,
+        "unitPrice": 476291.61,
+        "amount": 2381458.06,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 56
+  },
+  {
+    "id": 5,
+    "estimateNumber": "EST-2025-005",
+    "customerId": 2,
+    "customerName": "Ngosa Realty Holdings",
+    "estimateDateDaysAgo": 38,
+    "expirationDateDaysFromNow": 16,
+    "status": "Expired",
+    "subTotal": 979165.54,
+    "taxRate": 18,
+    "taxAmount": 176249.8,
+    "total": 1155415.34,
+    "terms": "Net 15",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 38,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Service Charge",
+        "quantity": 2,
+        "unitPrice": 489582.77,
+        "amount": 979165.54,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 37
+  }
+]

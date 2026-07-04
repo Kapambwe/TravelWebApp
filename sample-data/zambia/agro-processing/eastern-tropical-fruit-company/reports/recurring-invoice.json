@@ -1,0 +1,22 @@
+{
+  "customers": [
+    "Mopani Copper Mines",
+    "First Quantum Minerals",
+    "Konkola Copper Mines",
+    "Copperbelt Energy Corporation",
+    "Zambia Sugar"
+  ],
+  "recurrencePatterns": [
+    "Monthly",
+    "Quarterly",
+    "Semi-Annually",
+    "Annually"
+  ],
+  "paymentTerms": [
+    "Due on Receipt",
+    "Net 15",
+    "Net 30",
+    "Net 60",
+    "Net 90"
+  ]
+}

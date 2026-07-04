@@ -1,0 +1,272 @@
+[
+  {
+    "id": "prod-001",
+    "productName": "Beaded Necklaces",
+    "productCode": "SKU-31322",
+    "category": "Crafts",
+    "price": 10072.81,
+    "cost": 4177.55,
+    "description": "Quality Beaded Necklaces for crafts business"
+  },
+  {
+    "id": "prod-002",
+    "productName": "Woven Baskets",
+    "productCode": "SKU-21808",
+    "category": "Crafts",
+    "price": 14951.5,
+    "cost": 1800.1,
+    "description": "Quality Woven Baskets for crafts business"
+  },
+  {
+    "id": "prod-003",
+    "productName": "Wood Carvings",
+    "productCode": "SKU-39279",
+    "category": "Crafts",
+    "price": 5494.83,
+    "cost": 7063.26,
+    "description": "Quality Wood Carvings for crafts business"
+  },
+  {
+    "id": "prod-004",
+    "productName": "Stone Sculptures",
+    "productCode": "SKU-44306",
+    "category": "Crafts",
+    "price": 4826.71,
+    "cost": 5357.22,
+    "description": "Quality Stone Sculptures for crafts business"
+  },
+  {
+    "id": "prod-005",
+    "productName": "Leather Items",
+    "productCode": "SKU-66702",
+    "category": "Crafts",
+    "price": 11637.93,
+    "cost": 4838.95,
+    "description": "Quality Leather Items for crafts business"
+  },
+  {
+    "id": "prod-006",
+    "productName": "Decorated Gourds",
+    "productCode": "SKU-56090",
+    "category": "Crafts",
+    "price": 960.36,
+    "cost": 7130.39,
+    "description": "Quality Decorated Gourds for crafts business"
+  },
+  {
+    "id": "prod-007",
+    "productName": "Ceramic Pots",
+    "productCode": "SKU-25017",
+    "category": "Crafts",
+    "price": 10437.68,
+    "cost": 2522.13,
+    "description": "Quality Ceramic Pots for crafts business"
+  },
+  {
+    "id": "prod-008",
+    "productName": "Traditional Art",
+    "productCode": "SKU-33121",
+    "category": "Crafts",
+    "price": 6744.15,
+    "cost": 1206.44,
+    "description": "Quality Traditional Art for crafts business"
+  },
+  {
+    "id": "prod-009",
+    "productName": "Souvenir Items",
+    "productCode": "SKU-42508",
+    "category": "Crafts",
+    "price": 6556.11,
+    "cost": 3782.35,
+    "description": "Quality Souvenir Items for crafts business"
+  },
+  {
+    "id": "prod-010",
+    "productName": "Hand-carved Statues",
+    "productCode": "SKU-86086",
+    "category": "Crafts",
+    "price": 2240.56,
+    "cost": 3249.79,
+    "description": "Quality Hand-carved Statues for crafts business"
+  },
+  {
+    "id": "prod-011",
+    "productName": "Beaded Necklaces",
+    "productCode": "SKU-88047",
+    "category": "Crafts",
+    "price": 7058.98,
+    "cost": 1698.37,
+    "description": "Quality Beaded Necklaces for crafts business"
+  },
+  {
+    "id": "prod-012",
+    "productName": "Woven Baskets",
+    "productCode": "SKU-13146",
+    "category": "Crafts",
+    "price": 2952.33,
+    "cost": 5642.05,
+    "description": "Quality Woven Baskets for crafts business"
+  },
+  {
+    "id": "prod-013",
+    "productName": "Wood Carvings",
+    "productCode": "SKU-26158",
+    "category": "Crafts",
+    "price": 2616.62,
+    "cost": 6809.98,
+    "description": "Quality Wood Carvings for crafts business"
+  },
+  {
+    "id": "prod-014",
+    "productName": "Stone Sculptures",
+    "productCode": "SKU-61181",
+    "category": "Crafts",
+    "price": 10109.14,
+    "cost": 644.12,
+    "description": "Quality Stone Sculptures for crafts business"
+  },
+  {
+    "id": "prod-015",
+    "productName": "Leather Items",
+    "productCode": "SKU-16789",
+    "category": "Crafts",
+    "price": 11617.52,
+    "cost": 5219.38,
+    "description": "Quality Leather Items for crafts business"
+  },
+  {
+    "id": "prod-016",
+    "productName": "Decorated Gourds",
+    "productCode": "SKU-41772",
+    "category": "Crafts",
+    "price": 12145.84,
+    "cost": 7861.06,
+    "description": "Quality Decorated Gourds for crafts business"
+  },
+  {
+    "id": "prod-017",
+    "productName": "Ceramic Pots",
+    "productCode": "SKU-53054",
+    "category": "Crafts",
+    "price": 10522.97,
+    "cost": 543.93,
+    "description": "Quality Ceramic Pots for crafts business"
+  },
+  {
+    "id": "prod-018",
+    "productName": "Traditional Art",
+    "productCode": "SKU-60502",
+    "category": "Crafts",
+    "price": 2061.88,
+    "cost": 6035.17,
+    "description": "Quality Traditional Art for crafts business"
+  },
+  {
+    "id": "prod-019",
+    "productName": "Souvenir Items",
+    "productCode": "SKU-90639",
+    "category": "Crafts",
+    "price": 13764.64,
+    "cost": 5437.94,
+    "description": "Quality Souvenir Items for crafts business"
+  },
+  {
+    "id": "prod-020",
+    "productName": "Hand-carved Statues",
+    "productCode": "SKU-75164",
+    "category": "Crafts",
+    "price": 9619.08,
+    "cost": 6614.97,
+    "description": "Quality Hand-carved Statues for crafts business"
+  },
+  {
+    "id": "prod-021",
+    "productName": "Beaded Necklaces",
+    "productCode": "SKU-45528",
+    "category": "Crafts",
+    "price": 2557.66,
+    "cost": 1335.75,
+    "description": "Quality Beaded Necklaces for crafts business"
+  },
+  {
+    "id": "prod-022",
+    "productName": "Woven Baskets",
+    "productCode": "SKU-17039",
+    "category": "Crafts",
+    "price": 11845.05,
+    "cost": 7038.78,
+    "description": "Quality Woven Baskets for crafts business"
+  },
+  {
+    "id": "prod-023",
+    "productName": "Wood Carvings",
+    "productCode": "SKU-96163",
+    "category": "Crafts",
+    "price": 6835.62,
+    "cost": 2279.29,
+    "description": "Quality Wood Carvings for crafts business"
+  },
+  {
+    "id": "prod-024",
+    "productName": "Stone Sculptures",
+    "productCode": "SKU-75816",
+    "category": "Crafts",
+    "price": 8141.39,
+    "cost": 7743.85,
+    "description": "Quality Stone Sculptures for crafts business"
+  },
+  {
+    "id": "prod-025",
+    "productName": "Leather Items",
+    "productCode": "SKU-89698",
+    "category": "Crafts",
+    "price": 12204.93,
+    "cost": 1764.31,
+    "description": "Quality Leather Items for crafts business"
+  },
+  {
+    "id": "prod-026",
+    "productName": "Decorated Gourds",
+    "productCode": "SKU-96353",
+    "category": "Crafts",
+    "price": 12863.61,
+    "cost": 6426.04,
+    "description": "Quality Decorated Gourds for crafts business"
+  },
+  {
+    "id": "prod-027",
+    "productName": "Ceramic Pots",
+    "productCode": "SKU-43056",
+    "category": "Crafts",
+    "price": 4203.31,
+    "cost": 2280.76,
+    "description": "Quality Ceramic Pots for crafts business"
+  },
+  {
+    "id": "prod-028",
+    "productName": "Traditional Art",
+    "productCode": "SKU-10318",
+    "category": "Crafts",
+    "price": 11941.36,
+    "cost": 4014.12,
+    "description": "Quality Traditional Art for crafts business"
+  },
+  {
+    "id": "prod-029",
+    "productName": "Souvenir Items",
+    "productCode": "SKU-83666",
+    "category": "Crafts",
+    "price": 921.5,
+    "cost": 3697.76,
+    "description": "Quality Souvenir Items for crafts business"
+  },
+  {
+    "id": "prod-030",
+    "productName": "Hand-carved Statues",
+    "productCode": "SKU-76999",
+    "category": "Crafts",
+    "price": 5508.25,
+    "cost": 627.42,
+    "description": "Quality Hand-carved Statues for crafts business"
+  }
+]

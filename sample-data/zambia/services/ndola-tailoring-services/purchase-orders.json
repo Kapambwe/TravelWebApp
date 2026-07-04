@@ -1,0 +1,93 @@
+[
+  {
+    "id": 1,
+    "poNumber": "PO-2025-001",
+    "vendorName": "Kabwe Services Limited",
+    "description": "Subcontractor Fees",
+    "orderDate": "2025-02-23T00:00:00",
+    "expectedDate": "2025-03-05T00:00:00",
+    "amount": 590082.99,
+    "receivedAmount": 590082.99,
+    "status": "Closed",
+    "approvalStatus": "Approved",
+    "approvedBy": "Procurement Officer"
+  },
+  {
+    "id": 2,
+    "poNumber": "PO-2025-002",
+    "vendorName": "Kabwe Services Limited",
+    "description": "Tools & Equipment",
+    "orderDate": "2024-12-24T00:00:00",
+    "expectedDate": "2025-01-06T00:00:00",
+    "amount": 442418.89,
+    "receivedAmount": 442418.89,
+    "status": "Closed",
+    "approvalStatus": "Approved",
+    "approvedBy": "CFO"
+  },
+  {
+    "id": 3,
+    "poNumber": "PO-2025-003",
+    "vendorName": "Zulu Technical Services Ltd",
+    "description": "Materials Purchase",
+    "orderDate": "2025-01-08T00:00:00",
+    "expectedDate": "2025-01-29T00:00:00",
+    "amount": 802089.52,
+    "receivedAmount": 0.0,
+    "status": "Open",
+    "approvalStatus": "Approved",
+    "approvedBy": "CEO"
+  },
+  {
+    "id": 4,
+    "poNumber": "PO-2025-004",
+    "vendorName": "Sakala Maintenance Group",
+    "description": "Materials Purchase",
+    "orderDate": "2025-03-11T00:00:00",
+    "expectedDate": "2025-03-30T00:00:00",
+    "amount": 2875158.7,
+    "receivedAmount": 1683936.44,
+    "status": "PartiallyReceived",
+    "approvalStatus": "Pending",
+    "approvedBy": "Finance Manager"
+  },
+  {
+    "id": 5,
+    "poNumber": "PO-2025-005",
+    "vendorName": "Lungu Solutions Limited",
+    "description": "Subcontractor Fees",
+    "orderDate": "2025-02-11T00:00:00",
+    "expectedDate": "2025-03-01T00:00:00",
+    "amount": 991583.93,
+    "receivedAmount": 337410.19,
+    "status": "PartiallyReceived",
+    "approvalStatus": "Approved",
+    "approvedBy": "CFO"
+  },
+  {
+    "id": 6,
+    "poNumber": "PO-2025-006",
+    "vendorName": "Chileshe Technical Services Co.",
+    "description": "Transport & Delivery",
+    "orderDate": "2025-01-15T00:00:00",
+    "expectedDate": "2025-01-27T00:00:00",
+    "amount": 483116.13,
+    "receivedAmount": 0.0,
+    "status": "Cancelled",
+    "approvalStatus": "Pending",
+    "approvedBy": "Procurement Officer"
+  },
+  {
+    "id": 7,
+    "poNumber": "PO-2025-007",
+    "vendorName": "Lungu Solutions Limited",
+    "description": "Workshop Overheads",
+    "orderDate": "2025-01-23T00:00:00",
+    "expectedDate": "2025-02-06T00:00:00",
+    "amount": 861824.74,
+    "receivedAmount": 861824.74,
+    "status": "Closed",
+    "approvalStatus": "Approved",
+    "approvedBy": "CEO"
+  }
+]

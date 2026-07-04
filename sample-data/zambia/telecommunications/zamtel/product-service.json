@@ -1,0 +1,302 @@
+[
+  {
+    "id": "prod-001",
+    "productName": "Data Plans - Variant 1",
+    "description": "Quality Fixed Line product",
+    "category": "Operational",
+    "unitPrice": 3451.24,
+    "quantityInStock": 332,
+    "reorderLevel": 40,
+    "supplier": "Satellite Operators"
+  },
+  {
+    "id": "prod-002",
+    "productName": "Broadband - Variant 2",
+    "description": "Quality Fixed Line product",
+    "category": "Operational",
+    "unitPrice": 7326.26,
+    "quantityInStock": 325,
+    "reorderLevel": 24,
+    "supplier": "Equipment Manufacturers"
+  },
+  {
+    "id": "prod-003",
+    "productName": "Roaming Services - Variant 3",
+    "description": "Quality Fixed Line product",
+    "category": "Operational",
+    "unitPrice": 1774.91,
+    "quantityInStock": 457,
+    "reorderLevel": 24,
+    "supplier": "Equipment Manufacturers"
+  },
+  {
+    "id": "prod-004",
+    "productName": "Mobile Services - Variant 4",
+    "description": "Quality Fixed Line product",
+    "category": "Operational",
+    "unitPrice": 8369.11,
+    "quantityInStock": 109,
+    "reorderLevel": 49,
+    "supplier": "Infrastructure Providers"
+  },
+  {
+    "id": "prod-005",
+    "productName": "Broadband - Variant 5",
+    "description": "Quality Broadband product",
+    "category": "Operational",
+    "unitPrice": 8462.39,
+    "quantityInStock": 374,
+    "reorderLevel": 46,
+    "supplier": "Infrastructure Providers"
+  },
+  {
+    "id": "prod-006",
+    "productName": "Data Plans - Variant 6",
+    "description": "Quality Fixed Line product",
+    "category": "Operational",
+    "unitPrice": 8610.11,
+    "quantityInStock": 37,
+    "reorderLevel": 17,
+    "supplier": "Satellite Operators"
+  },
+  {
+    "id": "prod-007",
+    "productName": "Roaming Services - Variant 7",
+    "description": "Quality Roaming Services product",
+    "category": "Operational",
+    "unitPrice": 3633.21,
+    "quantityInStock": 313,
+    "reorderLevel": 25,
+    "supplier": "Equipment Manufacturers"
+  },
+  {
+    "id": "prod-008",
+    "productName": "Broadband - Variant 8",
+    "description": "Quality Mobile Services product",
+    "category": "Operational",
+    "unitPrice": 9668.28,
+    "quantityInStock": 87,
+    "reorderLevel": 37,
+    "supplier": "Equipment Manufacturers"
+  },
+  {
+    "id": "prod-009",
+    "productName": "Roaming Services - Variant 9",
+    "description": "Quality Mobile Services product",
+    "category": "Operational",
+    "unitPrice": 7752.4,
+    "quantityInStock": 33,
+    "reorderLevel": 35,
+    "supplier": "Equipment Manufacturers"
+  },
+  {
+    "id": "prod-010",
+    "productName": "Data Plans - Variant 10",
+    "description": "Quality Fixed Line product",
+    "category": "Operational",
+    "unitPrice": 5048.5,
+    "quantityInStock": 189,
+    "reorderLevel": 19,
+    "supplier": "Satellite Operators"
+  },
+  {
+    "id": "prod-011",
+    "productName": "Fixed Line - Variant 11",
+    "description": "Quality Mobile Services product",
+    "category": "Operational",
+    "unitPrice": 1516.51,
+    "quantityInStock": 366,
+    "reorderLevel": 8,
+    "supplier": "Infrastructure Providers"
+  },
+  {
+    "id": "prod-012",
+    "productName": "Roaming Services - Variant 12",
+    "description": "Quality Data Plans product",
+    "category": "Operational",
+    "unitPrice": 4923.04,
+    "quantityInStock": 143,
+    "reorderLevel": 38,
+    "supplier": "Satellite Operators"
+  },
+  {
+    "id": "prod-013",
+    "productName": "Mobile Services - Variant 13",
+    "description": "Quality Data Plans product",
+    "category": "Operational",
+    "unitPrice": 3398.88,
+    "quantityInStock": 459,
+    "reorderLevel": 10,
+    "supplier": "Satellite Operators"
+  },
+  {
+    "id": "prod-014",
+    "productName": "Broadband - Variant 14",
+    "description": "Quality Broadband product",
+    "category": "Operational",
+    "unitPrice": 2827.59,
+    "quantityInStock": 175,
+    "reorderLevel": 32,
+    "supplier": "Infrastructure Providers"
+  },
+  {
+    "id": "prod-015",
+    "productName": "Fixed Line - Variant 15",
+    "description": "Quality Roaming Services product",
+    "category": "Operational",
+    "unitPrice": 8507.36,
+    "quantityInStock": 247,
+    "reorderLevel": 47,
+    "supplier": "Satellite Operators"
+  },
+  {
+    "id": "prod-016",
+    "productName": "Fixed Line - Variant 16",
+    "description": "Quality Fixed Line product",
+    "category": "Operational",
+    "unitPrice": 7388.14,
+    "quantityInStock": 279,
+    "reorderLevel": 24,
+    "supplier": "Infrastructure Providers"
+  },
+  {
+    "id": "prod-017",
+    "productName": "Fixed Line - Variant 17",
+    "description": "Quality Mobile Services product",
+    "category": "Operational",
+    "unitPrice": 5528.06,
+    "quantityInStock": 464,
+    "reorderLevel": 17,
+    "supplier": "Equipment Manufacturers"
+  },
+  {
+    "id": "prod-018",
+    "productName": "Fixed Line - Variant 18",
+    "description": "Quality Roaming Services product",
+    "category": "Operational",
+    "unitPrice": 6255.31,
+    "quantityInStock": 244,
+    "reorderLevel": 14,
+    "supplier": "Satellite Operators"
+  },
+  {
+    "id": "prod-019",
+    "productName": "Data Plans - Variant 19",
+    "description": "Quality Mobile Services product",
+    "category": "Operational",
+    "unitPrice": 3338.9,
+    "quantityInStock": 22,
+    "reorderLevel": 19,
+    "supplier": "Infrastructure Providers"
+  },
+  {
+    "id": "prod-020",
+    "productName": "Fixed Line - Variant 20",
+    "description": "Quality Data Plans product",
+    "category": "Operational",
+    "unitPrice": 3102.21,
+    "quantityInStock": 354,
+    "reorderLevel": 41,
+    "supplier": "Satellite Operators"
+  },
+  {
+    "id": "prod-021",
+    "productName": "Fixed Line - Variant 21",
+    "description": "Quality Fixed Line product",
+    "category": "Operational",
+    "unitPrice": 814.63,
+    "quantityInStock": 95,
+    "reorderLevel": 37,
+    "supplier": "Satellite Operators"
+  },
+  {
+    "id": "prod-022",
+    "productName": "Fixed Line - Variant 22",
+    "description": "Quality Fixed Line product",
+    "category": "Operational",
+    "unitPrice": 1820.27,
+    "quantityInStock": 292,
+    "reorderLevel": 27,
+    "supplier": "Infrastructure Providers"
+  },
+  {
+    "id": "prod-023",
+    "productName": "Roaming Services - Variant 23",
+    "description": "Quality Mobile Services product",
+    "category": "Operational",
+    "unitPrice": 6209.15,
+    "quantityInStock": 361,
+    "reorderLevel": 48,
+    "supplier": "Equipment Manufacturers"
+  },
+  {
+    "id": "prod-024",
+    "productName": "Fixed Line - Variant 24",
+    "description": "Quality Fixed Line product",
+    "category": "Operational",
+    "unitPrice": 9352.26,
+    "quantityInStock": 39,
+    "reorderLevel": 13,
+    "supplier": "Satellite Operators"
+  },
+  {
+    "id": "prod-025",
+    "productName": "Fixed Line - Variant 25",
+    "description": "Quality Data Plans product",
+    "category": "Operational",
+    "unitPrice": 3935.96,
+    "quantityInStock": 465,
+    "reorderLevel": 31,
+    "supplier": "Equipment Manufacturers"
+  },
+  {
+    "id": "prod-026",
+    "productName": "Data Plans - Variant 26",
+    "description": "Quality Fixed Line product",
+    "category": "Operational",
+    "unitPrice": 2363.41,
+    "quantityInStock": 349,
+    "reorderLevel": 6,
+    "supplier": "Infrastructure Providers"
+  },
+  {
+    "id": "prod-027",
+    "productName": "Fixed Line - Variant 27",
+    "description": "Quality Data Plans product",
+    "category": "Operational",
+    "unitPrice": 1579.4,
+    "quantityInStock": 140,
+    "reorderLevel": 7,
+    "supplier": "Satellite Operators"
+  },
+  {
+    "id": "prod-028",
+    "productName": "Fixed Line - Variant 28",
+    "description": "Quality Data Plans product",
+    "category": "Operational",
+    "unitPrice": 4803.99,
+    "quantityInStock": 175,
+    "reorderLevel": 21,
+    "supplier": "Infrastructure Providers"
+  },
+  {
+    "id": "prod-029",
+    "productName": "Data Plans - Variant 29",
+    "description": "Quality Roaming Services product",
+    "category": "Operational",
+    "unitPrice": 8035.45,
+    "quantityInStock": 39,
+    "reorderLevel": 48,
+    "supplier": "Infrastructure Providers"
+  },
+  {
+    "id": "prod-030",
+    "productName": "Data Plans - Variant 30",
+    "description": "Quality Data Plans product",
+    "category": "Operational",
+    "unitPrice": 9688.58,
+    "quantityInStock": 61,
+    "reorderLevel": 27,
+    "supplier": "Satellite Operators"
+  }
+]

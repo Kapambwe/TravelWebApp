@@ -1,0 +1,217 @@
+[
+  {
+    "id": 1,
+    "estimateNumber": "EST-2025-001",
+    "customerId": 1,
+    "customerName": "Bwalya Traders Limited",
+    "estimateDateDaysAgo": 29,
+    "expirationDateDaysFromNow": 31,
+    "status": "Sent",
+    "subTotal": 2570300.5,
+    "taxRate": 0,
+    "taxAmount": 0.0,
+    "total": 2570300.5,
+    "terms": "Net 45",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 29,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Electronics Supply",
+        "quantity": 1,
+        "unitPrice": 2570300.5,
+        "amount": 2570300.5,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 28
+  },
+  {
+    "id": 2,
+    "estimateNumber": "EST-2025-002",
+    "customerId": 2,
+    "customerName": "Sakala Commerce Limited",
+    "estimateDateDaysAgo": 55,
+    "expirationDateDaysFromNow": 32,
+    "status": "Accepted",
+    "subTotal": 3386202.62,
+    "taxRate": 16,
+    "taxAmount": 541792.42,
+    "total": 3927995.04,
+    "terms": "Net 45",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 55,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Auto Parts",
+        "quantity": 5,
+        "unitPrice": 677240.52,
+        "amount": 3386202.62,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 54
+  },
+  {
+    "id": 3,
+    "estimateNumber": "EST-2025-003",
+    "customerId": 9,
+    "customerName": "Chileshe Commerce Enterprises",
+    "estimateDateDaysAgo": 34,
+    "expirationDateDaysFromNow": 31,
+    "status": "Accepted",
+    "subTotal": 1868317.88,
+    "taxRate": 15,
+    "taxAmount": 280247.68,
+    "total": 2148565.56,
+    "terms": "Net 30",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 34,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Clothing & Textiles",
+        "quantity": 4,
+        "unitPrice": 467079.47,
+        "amount": 1868317.88,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 33
+  },
+  {
+    "id": 4,
+    "estimateNumber": "EST-2025-004",
+    "customerId": 14,
+    "customerName": "Zulu Merchants Group",
+    "estimateDateDaysAgo": 38,
+    "expirationDateDaysFromNow": 36,
+    "status": "Draft",
+    "subTotal": 3389368.23,
+    "taxRate": 18,
+    "taxAmount": 610086.28,
+    "total": 3999454.51,
+    "terms": "Net 45",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 38,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Hardware Products",
+        "quantity": 2,
+        "unitPrice": 1694684.11,
+        "amount": 3389368.23,
+        "itemType": "Service"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "estimateNumber": "EST-2025-005",
+    "customerId": 10,
+    "customerName": "Musonda Trading Solutions",
+    "estimateDateDaysAgo": 46,
+    "expirationDateDaysFromNow": 16,
+    "status": "Accepted",
+    "subTotal": 581769.62,
+    "taxRate": 18,
+    "taxAmount": 104718.53,
+    "total": 686488.15,
+    "terms": "Net 30",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 46,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Electronics Supply",
+        "quantity": 2,
+        "unitPrice": 290884.81,
+        "amount": 581769.62,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 45
+  },
+  {
+    "id": 6,
+    "estimateNumber": "EST-2025-006",
+    "customerId": 9,
+    "customerName": "Chileshe Commerce Enterprises",
+    "estimateDateDaysAgo": 35,
+    "expirationDateDaysFromNow": 24,
+    "status": "Expired",
+    "subTotal": 715441.02,
+    "taxRate": 16,
+    "taxAmount": 114470.56,
+    "total": 829911.58,
+    "terms": "Net 30",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 35,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Electronics Supply",
+        "quantity": 5,
+        "unitPrice": 143088.2,
+        "amount": 715441.02,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 34
+  },
+  {
+    "id": 7,
+    "estimateNumber": "EST-2025-007",
+    "customerId": 7,
+    "customerName": "Chanda Trading Co.",
+    "estimateDateDaysAgo": 28,
+    "expirationDateDaysFromNow": 21,
+    "status": "Sent",
+    "subTotal": 643972.06,
+    "taxRate": 16,
+    "taxAmount": 103035.53,
+    "total": 747007.59,
+    "terms": "Net 15",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 28,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Craft & Curio Products",
+        "quantity": 1,
+        "unitPrice": 643972.06,
+        "amount": 643972.06,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 27
+  },
+  {
+    "id": 8,
+    "estimateNumber": "EST-2025-008",
+    "customerId": 3,
+    "customerName": "Banda Retail Enterprises",
+    "estimateDateDaysAgo": 45,
+    "expirationDateDaysFromNow": 22,
+    "status": "Sent",
+    "subTotal": 3559408.26,
+    "taxRate": 15,
+    "taxAmount": 533911.24,
+    "total": 4093319.5,
+    "terms": "Net 30",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 45,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Hardware Products",
+        "quantity": 5,
+        "unitPrice": 711881.65,
+        "amount": 3559408.26,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 44
+  }
+]

@@ -1,0 +1,242 @@
+[
+  {
+    "id": "budget-001",
+    "budgetName": "Packaging Budget 1",
+    "category": "Administration",
+    "amount": 42040.2,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-002",
+    "budgetName": "Packaging Budget 2",
+    "category": "Operations",
+    "amount": 83688.67,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-003",
+    "budgetName": "Packaging Budget 3",
+    "category": "Operations",
+    "amount": 21477.28,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-004",
+    "budgetName": "Production Budget 4",
+    "category": "Operations",
+    "amount": 17929.31,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-005",
+    "budgetName": "Logistics Budget 5",
+    "category": "Marketing",
+    "amount": 16959.27,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-006",
+    "budgetName": "Quality Testing Budget 6",
+    "category": "Operations",
+    "amount": 26136.36,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-007",
+    "budgetName": "Logistics Budget 7",
+    "category": "Marketing",
+    "amount": 71779.28,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-008",
+    "budgetName": "Production Budget 8",
+    "category": "Development",
+    "amount": 12402.76,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-009",
+    "budgetName": "Logistics Budget 9",
+    "category": "Marketing",
+    "amount": 10912.19,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-010",
+    "budgetName": "Production Budget 10",
+    "category": "Marketing",
+    "amount": 45551.63,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-011",
+    "budgetName": "Logistics Budget 11",
+    "category": "Administration",
+    "amount": 94186.04,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-012",
+    "budgetName": "Quality Testing Budget 12",
+    "category": "Administration",
+    "amount": 94154.39,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-013",
+    "budgetName": "Quality Testing Budget 13",
+    "category": "Administration",
+    "amount": 99633.08,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-014",
+    "budgetName": "Packaging Budget 14",
+    "category": "Operations",
+    "amount": 20873.09,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-015",
+    "budgetName": "Packaging Budget 15",
+    "category": "Administration",
+    "amount": 77775.97,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-016",
+    "budgetName": "Quality Testing Budget 16",
+    "category": "Marketing",
+    "amount": 72219.59,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-017",
+    "budgetName": "Quality Testing Budget 17",
+    "category": "Administration",
+    "amount": 13754.55,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-018",
+    "budgetName": "Quality Testing Budget 18",
+    "category": "Marketing",
+    "amount": 44442.41,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-019",
+    "budgetName": "Production Budget 19",
+    "category": "Marketing",
+    "amount": 10289.33,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-020",
+    "budgetName": "Logistics Budget 20",
+    "category": "Marketing",
+    "amount": 46281.19,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-021",
+    "budgetName": "Packaging Budget 21",
+    "category": "Operations",
+    "amount": 56259.62,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-022",
+    "budgetName": "Logistics Budget 22",
+    "category": "Operations",
+    "amount": 91438.67,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-023",
+    "budgetName": "Quality Testing Budget 23",
+    "category": "Development",
+    "amount": 91331.78,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-024",
+    "budgetName": "Packaging Budget 24",
+    "category": "Marketing",
+    "amount": 19181.81,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-025",
+    "budgetName": "Packaging Budget 25",
+    "category": "Development",
+    "amount": 43022.47,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-026",
+    "budgetName": "Quality Testing Budget 26",
+    "category": "Marketing",
+    "amount": 71811.33,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-027",
+    "budgetName": "Production Budget 27",
+    "category": "Administration",
+    "amount": 85557.64,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-028",
+    "budgetName": "Production Budget 28",
+    "category": "Marketing",
+    "amount": 31824.78,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-029",
+    "budgetName": "Production Budget 29",
+    "category": "Marketing",
+    "amount": 70340.9,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-030",
+    "budgetName": "Quality Testing Budget 30",
+    "category": "Administration",
+    "amount": 29356.07,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  }
+]

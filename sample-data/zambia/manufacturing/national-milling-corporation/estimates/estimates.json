@@ -1,0 +1,189 @@
+[
+  {
+    "id": 1,
+    "estimateNumber": "EST-2025-001",
+    "customerId": 2,
+    "customerName": "Mwale Products Limited",
+    "estimateDateDaysAgo": 55,
+    "expirationDateDaysFromNow": 15,
+    "status": "Draft",
+    "subTotal": 2689538.81,
+    "taxRate": 0,
+    "taxAmount": 0.0,
+    "total": 2689538.81,
+    "terms": "Net 45",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 55,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Industrial Chemicals",
+        "quantity": 4,
+        "unitPrice": 672384.7,
+        "amount": 2689538.81,
+        "itemType": "Service"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "estimateNumber": "EST-2025-002",
+    "customerId": 7,
+    "customerName": "Kaputo Factory Ltd Enterprises",
+    "estimateDateDaysAgo": 8,
+    "expirationDateDaysFromNow": 29,
+    "status": "Sent",
+    "subTotal": 763879.85,
+    "taxRate": 16,
+    "taxAmount": 122220.78,
+    "total": 886100.63,
+    "terms": "Net 45",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 8,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Building Materials",
+        "quantity": 3,
+        "unitPrice": 254626.62,
+        "amount": 763879.85,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 7
+  },
+  {
+    "id": 3,
+    "estimateNumber": "EST-2025-003",
+    "customerId": 5,
+    "customerName": "Zimba Factory Ltd Co.",
+    "estimateDateDaysAgo": 24,
+    "expirationDateDaysFromNow": 25,
+    "status": "Sent",
+    "subTotal": 1116076.53,
+    "taxRate": 18,
+    "taxAmount": 200893.78,
+    "total": 1316970.31,
+    "terms": "Net 30",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 24,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Sugar Products",
+        "quantity": 5,
+        "unitPrice": 223215.31,
+        "amount": 1116076.53,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 23
+  },
+  {
+    "id": 4,
+    "estimateNumber": "EST-2025-004",
+    "customerId": 3,
+    "customerName": "Zimba Industrial Enterprises",
+    "estimateDateDaysAgo": 50,
+    "expirationDateDaysFromNow": 36,
+    "status": "Draft",
+    "subTotal": 3381461.82,
+    "taxRate": 16,
+    "taxAmount": 541033.89,
+    "total": 3922495.71,
+    "terms": "Net 15",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 50,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Milled Flour",
+        "quantity": 2,
+        "unitPrice": 1690730.91,
+        "amount": 3381461.82,
+        "itemType": "Service"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "estimateNumber": "EST-2025-005",
+    "customerId": 12,
+    "customerName": "Phiri Industrial Ltd",
+    "estimateDateDaysAgo": 39,
+    "expirationDateDaysFromNow": 43,
+    "status": "Accepted",
+    "subTotal": 1186461.81,
+    "taxRate": 18,
+    "taxAmount": 213563.13,
+    "total": 1400024.94,
+    "terms": "Net 30",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 39,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Sugar Products",
+        "quantity": 3,
+        "unitPrice": 395487.27,
+        "amount": 1186461.81,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 38
+  },
+  {
+    "id": 6,
+    "estimateNumber": "EST-2025-006",
+    "customerId": 9,
+    "customerName": "Lungu Factory Ltd Solutions",
+    "estimateDateDaysAgo": 7,
+    "expirationDateDaysFromNow": 26,
+    "status": "Accepted",
+    "subTotal": 180703.08,
+    "taxRate": 0,
+    "taxAmount": 0.0,
+    "total": 180703.08,
+    "terms": "Net 30",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 7,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Sugar Products",
+        "quantity": 4,
+        "unitPrice": 45175.77,
+        "amount": 180703.08,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 6
+  },
+  {
+    "id": 7,
+    "estimateNumber": "EST-2025-007",
+    "customerId": 6,
+    "customerName": "Mulenga Manufacturing Inc.",
+    "estimateDateDaysAgo": 8,
+    "expirationDateDaysFromNow": 16,
+    "status": "Sent",
+    "subTotal": 2292003.42,
+    "taxRate": 16,
+    "taxAmount": 366720.55,
+    "total": 2658723.97,
+    "terms": "Net 45",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 8,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Building Materials",
+        "quantity": 2,
+        "unitPrice": 1146001.71,
+        "amount": 2292003.42,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 7
+  }
+]

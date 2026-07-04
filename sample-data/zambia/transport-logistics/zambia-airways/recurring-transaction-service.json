@@ -1,0 +1,302 @@
+[
+  {
+    "id": "recurring-transaction-001",
+    "description": "Monthly Rent Payment",
+    "amount": 83558.78,
+    "frequency": "Monthly",
+    "startDate": "2025-06-11",
+    "endDate": "2025-09-29",
+    "accountId": "acc-001",
+    "category": "Expense"
+  },
+  {
+    "id": "recurring-transaction-002",
+    "description": "Monthly Rent Payment",
+    "amount": 83558.78,
+    "frequency": "Monthly",
+    "startDate": "2025-06-11",
+    "endDate": "2025-09-29",
+    "accountId": "acc-001",
+    "category": "Expense"
+  },
+  {
+    "id": "recurring-transaction-003",
+    "description": "Monthly Rent Payment",
+    "amount": 83558.78,
+    "frequency": "Monthly",
+    "startDate": "2025-06-11",
+    "endDate": "2025-09-29",
+    "accountId": "acc-001",
+    "category": "Expense"
+  },
+  {
+    "id": "recurring-transaction-004",
+    "description": "Monthly Rent Payment",
+    "amount": 83558.78,
+    "frequency": "Monthly",
+    "startDate": "2025-06-11",
+    "endDate": "2025-09-29",
+    "accountId": "acc-001",
+    "category": "Expense"
+  },
+  {
+    "id": "recurring-transaction-005",
+    "description": "Monthly Rent Payment",
+    "amount": 83558.78,
+    "frequency": "Monthly",
+    "startDate": "2025-06-11",
+    "endDate": "2025-09-29",
+    "accountId": "acc-001",
+    "category": "Expense"
+  },
+  {
+    "id": "recurring-transaction-006",
+    "description": "Monthly Rent Payment",
+    "amount": 83558.78,
+    "frequency": "Monthly",
+    "startDate": "2025-06-11",
+    "endDate": "2025-09-29",
+    "accountId": "acc-001",
+    "category": "Expense"
+  },
+  {
+    "id": "recurring-transaction-007",
+    "description": "Monthly Rent Payment",
+    "amount": 83558.78,
+    "frequency": "Monthly",
+    "startDate": "2025-06-11",
+    "endDate": "2025-09-29",
+    "accountId": "acc-001",
+    "category": "Expense"
+  },
+  {
+    "id": "recurring-transaction-008",
+    "description": "Monthly Rent Payment",
+    "amount": 83558.78,
+    "frequency": "Monthly",
+    "startDate": "2025-06-11",
+    "endDate": "2025-09-29",
+    "accountId": "acc-001",
+    "category": "Expense"
+  },
+  {
+    "id": "recurring-transaction-009",
+    "description": "Monthly Rent Payment",
+    "amount": 83558.78,
+    "frequency": "Monthly",
+    "startDate": "2025-06-11",
+    "endDate": "2025-09-29",
+    "accountId": "acc-001",
+    "category": "Expense"
+  },
+  {
+    "id": "recurring-transaction-010",
+    "description": "Monthly Rent Payment",
+    "amount": 83558.78,
+    "frequency": "Monthly",
+    "startDate": "2025-06-11",
+    "endDate": "2025-09-29",
+    "accountId": "acc-001",
+    "category": "Expense"
+  },
+  {
+    "id": "recurring-transaction-011",
+    "description": "Monthly Rent Payment",
+    "amount": 83558.78,
+    "frequency": "Monthly",
+    "startDate": "2025-06-11",
+    "endDate": "2025-09-29",
+    "accountId": "acc-001",
+    "category": "Expense"
+  },
+  {
+    "id": "recurring-transaction-012",
+    "description": "Monthly Rent Payment",
+    "amount": 83558.78,
+    "frequency": "Monthly",
+    "startDate": "2025-06-11",
+    "endDate": "2025-09-29",
+    "accountId": "acc-001",
+    "category": "Expense"
+  },
+  {
+    "id": "recurring-transaction-013",
+    "description": "Monthly Rent Payment",
+    "amount": 83558.78,
+    "frequency": "Monthly",
+    "startDate": "2025-06-11",
+    "endDate": "2025-09-29",
+    "accountId": "acc-001",
+    "category": "Expense"
+  },
+  {
+    "id": "recurring-transaction-014",
+    "description": "Monthly Rent Payment",
+    "amount": 83558.78,
+    "frequency": "Monthly",
+    "startDate": "2025-06-11",
+    "endDate": "2025-09-29",
+    "accountId": "acc-001",
+    "category": "Expense"
+  },
+  {
+    "id": "recurring-transaction-015",
+    "description": "Monthly Rent Payment",
+    "amount": 83558.78,
+    "frequency": "Monthly",
+    "startDate": "2025-06-11",
+    "endDate": "2025-09-29",
+    "accountId": "acc-001",
+    "category": "Expense"
+  },
+  {
+    "id": "recurring-transaction-016",
+    "description": "Monthly Rent Payment",
+    "amount": 83558.78,
+    "frequency": "Monthly",
+    "startDate": "2025-06-11",
+    "endDate": "2025-09-29",
+    "accountId": "acc-001",
+    "category": "Expense"
+  },
+  {
+    "id": "recurring-transaction-017",
+    "description": "Monthly Rent Payment",
+    "amount": 83558.78,
+    "frequency": "Monthly",
+    "startDate": "2025-06-11",
+    "endDate": "2025-09-29",
+    "accountId": "acc-001",
+    "category": "Expense"
+  },
+  {
+    "id": "recurring-transaction-018",
+    "description": "Monthly Rent Payment",
+    "amount": 83558.78,
+    "frequency": "Monthly",
+    "startDate": "2025-06-11",
+    "endDate": "2025-09-29",
+    "accountId": "acc-001",
+    "category": "Expense"
+  },
+  {
+    "id": "recurring-transaction-019",
+    "description": "Monthly Rent Payment",
+    "amount": 83558.78,
+    "frequency": "Monthly",
+    "startDate": "2025-06-11",
+    "endDate": "2025-09-29",
+    "accountId": "acc-001",
+    "category": "Expense"
+  },
+  {
+    "id": "recurring-transaction-020",
+    "description": "Monthly Rent Payment",
+    "amount": 83558.78,
+    "frequency": "Monthly",
+    "startDate": "2025-06-11",
+    "endDate": "2025-09-29",
+    "accountId": "acc-001",
+    "category": "Expense"
+  },
+  {
+    "id": "recurring-transaction-021",
+    "description": "Monthly Rent Payment",
+    "amount": 83558.78,
+    "frequency": "Monthly",
+    "startDate": "2025-06-11",
+    "endDate": "2025-09-29",
+    "accountId": "acc-001",
+    "category": "Expense"
+  },
+  {
+    "id": "recurring-transaction-022",
+    "description": "Monthly Rent Payment",
+    "amount": 83558.78,
+    "frequency": "Monthly",
+    "startDate": "2025-06-11",
+    "endDate": "2025-09-29",
+    "accountId": "acc-001",
+    "category": "Expense"
+  },
+  {
+    "id": "recurring-transaction-023",
+    "description": "Monthly Rent Payment",
+    "amount": 83558.78,
+    "frequency": "Monthly",
+    "startDate": "2025-06-11",
+    "endDate": "2025-09-29",
+    "accountId": "acc-001",
+    "category": "Expense"
+  },
+  {
+    "id": "recurring-transaction-024",
+    "description": "Monthly Rent Payment",
+    "amount": 83558.78,
+    "frequency": "Monthly",
+    "startDate": "2025-06-11",
+    "endDate": "2025-09-29",
+    "accountId": "acc-001",
+    "category": "Expense"
+  },
+  {
+    "id": "recurring-transaction-025",
+    "description": "Monthly Rent Payment",
+    "amount": 83558.78,
+    "frequency": "Monthly",
+    "startDate": "2025-06-11",
+    "endDate": "2025-09-29",
+    "accountId": "acc-001",
+    "category": "Expense"
+  },
+  {
+    "id": "recurring-transaction-026",
+    "description": "Monthly Rent Payment",
+    "amount": 83558.78,
+    "frequency": "Monthly",
+    "startDate": "2025-06-11",
+    "endDate": "2025-09-29",
+    "accountId": "acc-001",
+    "category": "Expense"
+  },
+  {
+    "id": "recurring-transaction-027",
+    "description": "Monthly Rent Payment",
+    "amount": 83558.78,
+    "frequency": "Monthly",
+    "startDate": "2025-06-11",
+    "endDate": "2025-09-29",
+    "accountId": "acc-001",
+    "category": "Expense"
+  },
+  {
+    "id": "recurring-transaction-028",
+    "description": "Monthly Rent Payment",
+    "amount": 83558.78,
+    "frequency": "Monthly",
+    "startDate": "2025-06-11",
+    "endDate": "2025-09-29",
+    "accountId": "acc-001",
+    "category": "Expense"
+  },
+  {
+    "id": "recurring-transaction-029",
+    "description": "Monthly Rent Payment",
+    "amount": 83558.78,
+    "frequency": "Monthly",
+    "startDate": "2025-06-11",
+    "endDate": "2025-09-29",
+    "accountId": "acc-001",
+    "category": "Expense"
+  },
+  {
+    "id": "recurring-transaction-030",
+    "description": "Monthly Rent Payment",
+    "amount": 83558.78,
+    "frequency": "Monthly",
+    "startDate": "2025-06-11",
+    "endDate": "2025-09-29",
+    "accountId": "acc-001",
+    "category": "Expense"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "programId": "prog-lps-alumni-001",
+    "name": "Lusaka Primary Alumni",
+    "status": "Active",
+    "rewardType": "Percentage",
+    "percentageRate": 0.04,
+    "recurringMonths": 12,
+    "startDate": "2026-01-01T00:00:00Z",
+    "description": "4% commission for alumni referrals"
+  },
+  {
+    "programId": "prog-lps-parent-001",
+    "name": "Parent Ambassadors",
+    "status": "Active",
+    "rewardType": "Credit",
+    "creditPerMonth": 50.0,
+    "recurringMonths": 6,
+    "startDate": "2026-01-01T00:00:00Z",
+    "description": "$50/month tuition credit for 6 months"
+  }
+]

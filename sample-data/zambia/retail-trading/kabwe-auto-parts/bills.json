@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "billNumber": "BILL-2025-001",
+    "vendorName": "Zimba Trading Inc.",
+    "description": "Warehouse Rent",
+    "billDate": "2025-01-20T00:00:00",
+    "dueDate": "2025-03-06T00:00:00",
+    "amount": 1504968.57,
+    "paidAmount": 1504968.57,
+    "status": "Paid"
+  },
+  {
+    "id": 2,
+    "billNumber": "BILL-2025-002",
+    "vendorName": "Ngosa Merchants Enterprises",
+    "description": "Import Duties & Levies",
+    "billDate": "2025-03-12T00:00:00",
+    "dueDate": "2025-04-26T00:00:00",
+    "amount": 2579374.49,
+    "paidAmount": 2579374.49,
+    "status": "Paid"
+  },
+  {
+    "id": 3,
+    "billNumber": "BILL-2025-003",
+    "vendorName": "Phiri Retail Enterprises",
+    "description": "Import Duties & Levies",
+    "billDate": "2025-02-24T00:00:00",
+    "dueDate": "2025-04-10T00:00:00",
+    "amount": 797473.61,
+    "paidAmount": 0.0,
+    "status": "Overdue"
+  },
+  {
+    "id": 4,
+    "billNumber": "BILL-2025-004",
+    "vendorName": "Phiri Retail Enterprises",
+    "description": "Product Purchase",
+    "billDate": "2024-12-21T00:00:00",
+    "dueDate": "2025-01-05T00:00:00",
+    "amount": 1043892.54,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 5,
+    "billNumber": "BILL-2025-005",
+    "vendorName": "Kaputo Merchants Enterprises",
+    "description": "Store Maintenance",
+    "billDate": "2025-01-21T00:00:00",
+    "dueDate": "2025-02-20T00:00:00",
+    "amount": 2746923.24,
+    "paidAmount": 0.0,
+    "status": "Overdue"
+  },
+  {
+    "id": 6,
+    "billNumber": "BILL-2025-006",
+    "vendorName": "Zimba Trading Inc.",
+    "description": "Logistics & Delivery",
+    "billDate": "2024-09-21T00:00:00",
+    "dueDate": "2024-10-21T00:00:00",
+    "amount": 3463029.44,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 7,
+    "billNumber": "BILL-2025-007",
+    "vendorName": "Zimba Trading Inc.",
+    "description": "Product Purchase",
+    "billDate": "2024-11-22T00:00:00",
+    "dueDate": "2025-01-06T00:00:00",
+    "amount": 3118780.5,
+    "paidAmount": 3118780.5,
+    "status": "Paid"
+  },
+  {
+    "id": 8,
+    "billNumber": "BILL-2025-008",
+    "vendorName": "Mwamba Trading Holdings",
+    "description": "Import Duties & Levies",
+    "billDate": "2024-11-25T00:00:00",
+    "dueDate": "2024-12-10T00:00:00",
+    "amount": 863456.67,
+    "paidAmount": 501724.14,
+    "status": "PartiallyPaid"
+  },
+  {
+    "id": 9,
+    "billNumber": "BILL-2025-009",
+    "vendorName": "Kaputo Merchants Enterprises",
+    "description": "Logistics & Delivery",
+    "billDate": "2025-02-22T00:00:00",
+    "dueDate": "2025-04-08T00:00:00",
+    "amount": 1685761.4,
+    "paidAmount": 1095058.64,
+    "status": "PartiallyPaid"
+  },
+  {
+    "id": 10,
+    "billNumber": "BILL-2025-010",
+    "vendorName": "Ngosa Merchants Enterprises",
+    "description": "Warehouse Rent",
+    "billDate": "2025-02-19T00:00:00",
+    "dueDate": "2025-03-06T00:00:00",
+    "amount": 1266648.13,
+    "paidAmount": 0.0,
+    "status": "Overdue"
+  }
+]

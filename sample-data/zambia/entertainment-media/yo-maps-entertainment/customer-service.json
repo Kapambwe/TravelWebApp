@@ -1,0 +1,32 @@
+[
+  {
+    "id": "cust-yomaps-001",
+    "customerName": "ZMB Music Distributors",
+    "email": "sales@zmbmusic.co.zm",
+    "phone": "+260-97-1234567",
+    "address": "Cairo Road, Lusaka",
+    "taxId": "TPIN-1001234567",
+    "creditLimit": 30000.0,
+    "outstandingBalance": 12500.0
+  },
+  {
+    "id": "cust-yomaps-002",
+    "customerName": "Digital Streaming Services Ltd",
+    "email": "partnerships@streamzm.com",
+    "phone": "+260-96-7654321",
+    "address": "Levy Junction, Lusaka",
+    "taxId": "TPIN-1001234568",
+    "creditLimit": 50000.0,
+    "outstandingBalance": 0.0
+  },
+  {
+    "id": "cust-yomaps-003",
+    "customerName": "Property Tenants Association",
+    "email": "admin@tenants.co.zm",
+    "phone": "+260-95-1112223",
+    "address": "Roma, Lusaka",
+    "taxId": "TPIN-1001234569",
+    "creditLimit": 20000.0,
+    "outstandingBalance": 8500.0
+  }
+]

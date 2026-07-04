@@ -1,0 +1,109 @@
+{
+  "vendors": [
+    {
+      "id": 1,
+      "vendorName": "Zimba Kaputo",
+      "companyName": "Musonda Productions Inc.",
+      "contactPerson": "Zimba Kaputo",
+      "email": "zimbakaputo@kaputo.co.zm",
+      "phone": "+260 432 564 104",
+      "city": "Kitwe",
+      "country": "Zambia",
+      "defaultPaymentTerms": "Net 15",
+      "taxId": "TAX-749422",
+      "totalAmountOwed": 95106.2
+    },
+    {
+      "id": 2,
+      "vendorName": "Malama Kaputo",
+      "companyName": "Kaputo Entertainment Ltd",
+      "contactPerson": "Malama Kaputo",
+      "email": "malamakaputo@kaputo.co.zm",
+      "phone": "+260 454 634 853",
+      "city": "Lusaka",
+      "country": "Zambia",
+      "defaultPaymentTerms": "Net 30",
+      "taxId": "TAX-251228",
+      "totalAmountOwed": 474185.02
+    },
+    {
+      "id": 3,
+      "vendorName": "Chisanga Zimba",
+      "companyName": "Musonda Music Group Inc.",
+      "contactPerson": "Chisanga Zimba",
+      "email": "chisangazimb@zimba.co.zm",
+      "phone": "+260 911 894 120",
+      "city": "Ndola",
+      "country": "Zambia",
+      "defaultPaymentTerms": "Net 30",
+      "taxId": "TAX-843989",
+      "totalAmountOwed": 860019.78
+    },
+    {
+      "id": 4,
+      "vendorName": "Mumba Mulenga",
+      "companyName": "Lungu Entertainment Holdings",
+      "contactPerson": "Mumba Mulenga",
+      "email": "mumbamulenga@mulenga.co.zm",
+      "phone": "+260 523 191 234",
+      "city": "Lusaka",
+      "country": "Zambia",
+      "defaultPaymentTerms": "Net 15",
+      "taxId": "TAX-269399",
+      "totalAmountOwed": 12520.93
+    },
+    {
+      "id": 5,
+      "vendorName": "Kaputo Kabwe",
+      "companyName": "Zimba Music Group Group",
+      "contactPerson": "Kaputo Kabwe",
+      "email": "kaputokabwe@kabwe.co.zm",
+      "phone": "+260 527 424 977",
+      "city": "Chipata",
+      "country": "Zambia",
+      "defaultPaymentTerms": "Net 45",
+      "taxId": "TAX-480391",
+      "totalAmountOwed": 379766.1
+    },
+    {
+      "id": 6,
+      "vendorName": "Mwamba Banda",
+      "companyName": "Mutale Media Solutions",
+      "contactPerson": "Mwamba Banda",
+      "email": "mwambabanda@banda.co.zm",
+      "phone": "+260 601 872 559",
+      "city": "Kitwe",
+      "country": "Zambia",
+      "defaultPaymentTerms": "Net 45",
+      "taxId": "TAX-423595",
+      "totalAmountOwed": 380791.13
+    },
+    {
+      "id": 7,
+      "vendorName": "Chisanga Sakala",
+      "companyName": "Phiri Entertainment Co.",
+      "contactPerson": "Chisanga Sakala",
+      "email": "chisangasaka@sakala.co.zm",
+      "phone": "+260 099 112 607",
+      "city": "Kitwe",
+      "country": "Zambia",
+      "defaultPaymentTerms": "Net 30",
+      "taxId": "TAX-765961",
+      "totalAmountOwed": 167360.32
+    },
+    {
+      "id": 8,
+      "vendorName": "Siame Lungu",
+      "companyName": "Zimba Media Solutions",
+      "contactPerson": "Siame Lungu",
+      "email": "siamelungu@lungu.co.zm",
+      "phone": "+260 874 102 066",
+      "city": "Chingola",
+      "country": "Zambia",
+      "defaultPaymentTerms": "Net 30",
+      "taxId": "TAX-697738",
+      "totalAmountOwed": 69956.12
+    }
+  ],
+  "vendorCredits": []
+}

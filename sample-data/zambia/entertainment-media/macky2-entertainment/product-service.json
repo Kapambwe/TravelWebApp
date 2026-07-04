@@ -1,0 +1,252 @@
+[
+  {
+    "id": "prod-mk2-001",
+    "productName": "Legendary Album - Digital",
+    "description": "Award-winning hip-hop album",
+    "category": "Music",
+    "unitPrice": 60.00,
+    "quantityInStock": 9999,
+    "reorderLevel": 0,
+    "supplier": "Self-Produced"
+  },
+  {
+    "id": "prod-mk2-002",
+    "productName": "Legendary Album - Physical CD",
+    "description": "Physical CD with special packaging",
+    "category": "Music",
+    "unitPrice": 120.00,
+    "quantityInStock": 380,
+    "reorderLevel": 40,
+    "supplier": "CD Manufacturing Zambia"
+  },
+  {
+    "id": "prod-mk2-003",
+    "productName": "Concert Ticket - VIP Platinum",
+    "description": "Platinum VIP access with backstage pass",
+    "category": "Events",
+    "unitPrice": 800.00,
+    "quantityInStock": 50,
+    "reorderLevel": 10,
+    "supplier": "Event Ticketing Ltd"
+  },
+  {
+    "id": "prod-mk2-004",
+    "productName": "Concert Ticket - VIP Gold",
+    "description": "Gold VIP seating",
+    "category": "Events",
+    "unitPrice": 500.00,
+    "quantityInStock": 100,
+    "reorderLevel": 20,
+    "supplier": "Event Ticketing Ltd"
+  },
+  {
+    "id": "prod-mk2-005",
+    "productName": "Concert Ticket - General",
+    "description": "General admission ticket",
+    "category": "Events",
+    "unitPrice": 250.00,
+    "quantityInStock": 600,
+    "reorderLevel": 100,
+    "supplier": "Event Ticketing Ltd"
+  },
+  {
+    "id": "prod-mk2-006",
+    "productName": "Hip-Hop Show Performance",
+    "description": "Live hip-hop performance booking",
+    "category": "Services",
+    "unitPrice": 45000.00,
+    "quantityInStock": 1,
+    "reorderLevel": 0,
+    "supplier": "Self-Service"
+  },
+  {
+    "id": "prod-mk2-007",
+    "productName": "Streaming Revenue - Spotify",
+    "description": "Monthly Spotify royalties",
+    "category": "Royalties",
+    "unitPrice": 11000.00,
+    "quantityInStock": 1,
+    "reorderLevel": 0,
+    "supplier": "Spotify"
+  },
+  {
+    "id": "prod-mk2-008",
+    "productName": "Streaming Revenue - Apple Music",
+    "description": "Monthly Apple Music royalties",
+    "category": "Royalties",
+    "unitPrice": 9500.00,
+    "quantityInStock": 1,
+    "reorderLevel": 0,
+    "supplier": "Apple Music"
+  },
+  {
+    "id": "prod-mk2-009",
+    "productName": "Streaming Revenue - YouTube",
+    "description": "Monthly YouTube ad revenue",
+    "category": "Royalties",
+    "unitPrice": 15000.00,
+    "quantityInStock": 1,
+    "reorderLevel": 0,
+    "supplier": "YouTube"
+  },
+  {
+    "id": "prod-mk2-010",
+    "productName": "Corporate Event Performance",
+    "description": "Performance at corporate events",
+    "category": "Services",
+    "unitPrice": 55000.00,
+    "quantityInStock": 1,
+    "reorderLevel": 0,
+    "supplier": "Self-Service"
+  },
+  {
+    "id": "prod-mk2-011",
+    "productName": "Brand Ambassador Deal",
+    "description": "Monthly brand ambassadorship",
+    "category": "Endorsements",
+    "unitPrice": 35000.00,
+    "quantityInStock": 1,
+    "reorderLevel": 0,
+    "supplier": "Brand Partnerships"
+  },
+  {
+    "id": "prod-mk2-012",
+    "productName": "Macky 2 Merchandise - T-Shirt",
+    "description": "Official branded t-shirt",
+    "category": "Merchandise",
+    "unitPrice": 150.00,
+    "quantityInStock": 400,
+    "reorderLevel": 60,
+    "supplier": "Merchandise Manufacturers Ltd"
+  },
+  {
+    "id": "prod-mk2-013",
+    "productName": "Macky 2 Merchandise - Snapback",
+    "description": "Official branded snapback cap",
+    "category": "Merchandise",
+    "unitPrice": 100.00,
+    "quantityInStock": 250,
+    "reorderLevel": 40,
+    "supplier": "Merchandise Manufacturers Ltd"
+  },
+  {
+    "id": "prod-mk2-014",
+    "productName": "Macky 2 Merchandise - Jacket",
+    "description": "Premium branded jacket",
+    "category": "Merchandise",
+    "unitPrice": 350.00,
+    "quantityInStock": 120,
+    "reorderLevel": 20,
+    "supplier": "Merchandise Manufacturers Ltd"
+  },
+  {
+    "id": "prod-mk2-015",
+    "productName": "Music Festival Headlining",
+    "description": "Festival headline performance",
+    "category": "Services",
+    "unitPrice": 75000.00,
+    "quantityInStock": 1,
+    "reorderLevel": 0,
+    "supplier": "Self-Service"
+  },
+  {
+    "id": "prod-mk2-016",
+    "productName": "Social Media Brand Post",
+    "description": "Sponsored social media post",
+    "category": "Services",
+    "unitPrice": 12000.00,
+    "quantityInStock": 1,
+    "reorderLevel": 0,
+    "supplier": "Self-Service"
+  },
+  {
+    "id": "prod-mk2-017",
+    "productName": "Artist Collaboration",
+    "description": "Feature on another artist's song",
+    "category": "Services",
+    "unitPrice": 25000.00,
+    "quantityInStock": 1,
+    "reorderLevel": 0,
+    "supplier": "Self-Service"
+  },
+  {
+    "id": "prod-mk2-018",
+    "productName": "Property Rental - Commercial",
+    "description": "Monthly commercial property rental income",
+    "category": "Real Estate",
+    "unitPrice": 15000.00,
+    "quantityInStock": 1,
+    "reorderLevel": 0,
+    "supplier": "Property Management"
+  },
+  {
+    "id": "prod-mk2-019",
+    "productName": "Property Rental - Residential",
+    "description": "Monthly residential property rental",
+    "category": "Real Estate",
+    "unitPrice": 6500.00,
+    "quantityInStock": 1,
+    "reorderLevel": 0,
+    "supplier": "Property Management"
+  },
+  {
+    "id": "prod-mk2-020",
+    "productName": "Music Production Services",
+    "description": "Professional music production for other artists",
+    "category": "Services",
+    "unitPrice": 20000.00,
+    "quantityInStock": 1,
+    "reorderLevel": 0,
+    "supplier": "Self-Service"
+  },
+  {
+    "id": "prod-mk2-021",
+    "productName": "Radio Show Hosting",
+    "description": "Monthly radio show hosting fee",
+    "category": "Services",
+    "unitPrice": 8000.00,
+    "quantityInStock": 1,
+    "reorderLevel": 0,
+    "supplier": "Self-Service"
+  },
+  {
+    "id": "prod-mk2-022",
+    "productName": "Music Licensing - Film/TV",
+    "description": "License fee for song usage",
+    "category": "Licensing",
+    "unitPrice": 15000.00,
+    "quantityInStock": 1,
+    "reorderLevel": 0,
+    "supplier": "Media Licensing"
+  },
+  {
+    "id": "prod-mk2-023",
+    "productName": "Radio Airplay Royalties",
+    "description": "Monthly radio play royalties",
+    "category": "Royalties",
+    "unitPrice": 6000.00,
+    "quantityInStock": 1,
+    "reorderLevel": 0,
+    "supplier": "ZAMCOPS"
+  },
+  {
+    "id": "prod-mk2-024",
+    "productName": "VIP Meet & Greet Package",
+    "description": "Exclusive meet and greet session",
+    "category": "Services",
+    "unitPrice": 2000.00,
+    "quantityInStock": 40,
+    "reorderLevel": 10,
+    "supplier": "Self-Service"
+  },
+  {
+    "id": "prod-mk2-025",
+    "productName": "Music Video Cameo Appearance",
+    "description": "Cameo in other artists' music videos",
+    "category": "Services",
+    "unitPrice": 10000.00,
+    "quantityInStock": 1,
+    "reorderLevel": 0,
+    "supplier": "Self-Service"
+  }
+]

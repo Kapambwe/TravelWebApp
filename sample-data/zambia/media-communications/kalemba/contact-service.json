@@ -1,0 +1,272 @@
+[
+  {
+    "id": "contact-001",
+    "firstName": "John",
+    "lastName": "Smith",
+    "email": "contact1@business.zm",
+    "phone": "+260-216-508726",
+    "jobTitle": "Manager",
+    "company": "Paper Suppliers"
+  },
+  {
+    "id": "contact-002",
+    "firstName": "Mary",
+    "lastName": "Johnson",
+    "email": "contact2@business.zm",
+    "phone": "+260-216-719759",
+    "jobTitle": "Supervisor",
+    "company": "Paper Suppliers"
+  },
+  {
+    "id": "contact-003",
+    "firstName": "Peter",
+    "lastName": "Williams",
+    "email": "contact3@business.zm",
+    "phone": "+260-216-412637",
+    "jobTitle": "Manager",
+    "company": "Printing Equipment"
+  },
+  {
+    "id": "contact-004",
+    "firstName": "Grace",
+    "lastName": "Brown",
+    "email": "contact4@business.zm",
+    "phone": "+260-094-854281",
+    "jobTitle": "Coordinator",
+    "company": "Government Agencies"
+  },
+  {
+    "id": "contact-005",
+    "firstName": "David",
+    "lastName": "Jones",
+    "email": "contact5@business.zm",
+    "phone": "+260-095-974359",
+    "jobTitle": "Specialist",
+    "company": "Paper Suppliers"
+  },
+  {
+    "id": "contact-006",
+    "firstName": "John",
+    "lastName": "Smith",
+    "email": "contact6@business.zm",
+    "phone": "+260-217-114364",
+    "jobTitle": "Officer",
+    "company": "Ink Manufacturers"
+  },
+  {
+    "id": "contact-007",
+    "firstName": "Mary",
+    "lastName": "Johnson",
+    "email": "contact7@business.zm",
+    "phone": "+260-097-200556",
+    "jobTitle": "Supervisor",
+    "company": "Retailers"
+  },
+  {
+    "id": "contact-008",
+    "firstName": "Peter",
+    "lastName": "Williams",
+    "email": "contact8@business.zm",
+    "phone": "+260-095-465997",
+    "jobTitle": "Supervisor",
+    "company": "Printing Equipment"
+  },
+  {
+    "id": "contact-009",
+    "firstName": "Grace",
+    "lastName": "Brown",
+    "email": "contact9@business.zm",
+    "phone": "+260-097-753285",
+    "jobTitle": "Supervisor",
+    "company": "Ink Manufacturers"
+  },
+  {
+    "id": "contact-010",
+    "firstName": "David",
+    "lastName": "Jones",
+    "email": "contact10@business.zm",
+    "phone": "+260-216-527988",
+    "jobTitle": "Coordinator",
+    "company": "Ink Manufacturers"
+  },
+  {
+    "id": "contact-011",
+    "firstName": "John",
+    "lastName": "Smith",
+    "email": "contact11@business.zm",
+    "phone": "+260-095-764848",
+    "jobTitle": "Specialist",
+    "company": "Retailers"
+  },
+  {
+    "id": "contact-012",
+    "firstName": "Mary",
+    "lastName": "Johnson",
+    "email": "contact12@business.zm",
+    "phone": "+260-097-960078",
+    "jobTitle": "Coordinator",
+    "company": "Ink Manufacturers"
+  },
+  {
+    "id": "contact-013",
+    "firstName": "Peter",
+    "lastName": "Williams",
+    "email": "contact13@business.zm",
+    "phone": "+260-095-709970",
+    "jobTitle": "Specialist",
+    "company": "Ink Manufacturers"
+  },
+  {
+    "id": "contact-014",
+    "firstName": "Grace",
+    "lastName": "Brown",
+    "email": "contact14@business.zm",
+    "phone": "+260-097-508904",
+    "jobTitle": "Officer",
+    "company": "Retailers"
+  },
+  {
+    "id": "contact-015",
+    "firstName": "David",
+    "lastName": "Jones",
+    "email": "contact15@business.zm",
+    "phone": "+260-097-364480",
+    "jobTitle": "Specialist",
+    "company": "Printing Equipment"
+  },
+  {
+    "id": "contact-016",
+    "firstName": "John",
+    "lastName": "Smith",
+    "email": "contact16@business.zm",
+    "phone": "+260-217-393362",
+    "jobTitle": "Specialist",
+    "company": "Government Agencies"
+  },
+  {
+    "id": "contact-017",
+    "firstName": "Mary",
+    "lastName": "Johnson",
+    "email": "contact17@business.zm",
+    "phone": "+260-216-283773",
+    "jobTitle": "Supervisor",
+    "company": "Publishers"
+  },
+  {
+    "id": "contact-018",
+    "firstName": "Peter",
+    "lastName": "Williams",
+    "email": "contact18@business.zm",
+    "phone": "+260-096-648209",
+    "jobTitle": "Specialist",
+    "company": "Printing Equipment"
+  },
+  {
+    "id": "contact-019",
+    "firstName": "Grace",
+    "lastName": "Brown",
+    "email": "contact19@business.zm",
+    "phone": "+260-094-924015",
+    "jobTitle": "Supervisor",
+    "company": "Ink Manufacturers"
+  },
+  {
+    "id": "contact-020",
+    "firstName": "David",
+    "lastName": "Jones",
+    "email": "contact20@business.zm",
+    "phone": "+260-216-213889",
+    "jobTitle": "Specialist",
+    "company": "Publishers"
+  },
+  {
+    "id": "contact-021",
+    "firstName": "John",
+    "lastName": "Smith",
+    "email": "contact21@business.zm",
+    "phone": "+260-094-428890",
+    "jobTitle": "Manager",
+    "company": "Ink Manufacturers"
+  },
+  {
+    "id": "contact-022",
+    "firstName": "Mary",
+    "lastName": "Johnson",
+    "email": "contact22@business.zm",
+    "phone": "+260-217-968728",
+    "jobTitle": "Coordinator",
+    "company": "Ink Manufacturers"
+  },
+  {
+    "id": "contact-023",
+    "firstName": "Peter",
+    "lastName": "Williams",
+    "email": "contact23@business.zm",
+    "phone": "+260-217-583330",
+    "jobTitle": "Manager",
+    "company": "Ink Manufacturers"
+  },
+  {
+    "id": "contact-024",
+    "firstName": "Grace",
+    "lastName": "Brown",
+    "email": "contact24@business.zm",
+    "phone": "+260-216-661744",
+    "jobTitle": "Specialist",
+    "company": "Government Agencies"
+  },
+  {
+    "id": "contact-025",
+    "firstName": "David",
+    "lastName": "Jones",
+    "email": "contact25@business.zm",
+    "phone": "+260-216-802469",
+    "jobTitle": "Supervisor",
+    "company": "Corporations"
+  },
+  {
+    "id": "contact-026",
+    "firstName": "John",
+    "lastName": "Smith",
+    "email": "contact26@business.zm",
+    "phone": "+260-096-853868",
+    "jobTitle": "Supervisor",
+    "company": "Corporations"
+  },
+  {
+    "id": "contact-027",
+    "firstName": "Mary",
+    "lastName": "Johnson",
+    "email": "contact27@business.zm",
+    "phone": "+260-094-545886",
+    "jobTitle": "Manager",
+    "company": "Publishers"
+  },
+  {
+    "id": "contact-028",
+    "firstName": "Peter",
+    "lastName": "Williams",
+    "email": "contact28@business.zm",
+    "phone": "+260-094-118077",
+    "jobTitle": "Officer",
+    "company": "Printing Equipment"
+  },
+  {
+    "id": "contact-029",
+    "firstName": "Grace",
+    "lastName": "Brown",
+    "email": "contact29@business.zm",
+    "phone": "+260-095-781999",
+    "jobTitle": "Supervisor",
+    "company": "Ink Manufacturers"
+  },
+  {
+    "id": "contact-030",
+    "firstName": "David",
+    "lastName": "Jones",
+    "email": "contact30@business.zm",
+    "phone": "+260-095-179577",
+    "jobTitle": "Coordinator",
+    "company": "Government Agencies"
+  }
+]

@@ -1,0 +1,218 @@
+[
+  {
+    "id": 1,
+    "estimateNumber": "EST-2025-001",
+    "customerId": 12,
+    "customerName": "Musonda Media Group",
+    "estimateDateDaysAgo": 29,
+    "expirationDateDaysFromNow": 28,
+    "status": "Accepted",
+    "subTotal": 1711232.4,
+    "taxRate": 15,
+    "taxAmount": 256684.86,
+    "total": 1967917.26,
+    "terms": "Net 30",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 29,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Online Content Package",
+        "quantity": 1,
+        "unitPrice": 1711232.4,
+        "amount": 1711232.4,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 28
+  },
+  {
+    "id": 2,
+    "estimateNumber": "EST-2025-002",
+    "customerId": 2,
+    "customerName": "Siame Communications Enterprises",
+    "estimateDateDaysAgo": 25,
+    "expirationDateDaysFromNow": 20,
+    "status": "Declined",
+    "subTotal": 3494154.88,
+    "taxRate": 18,
+    "taxAmount": 628947.88,
+    "total": 4123102.76,
+    "terms": "Net 30",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 25,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Print Advertising Space",
+        "quantity": 1,
+        "unitPrice": 3494154.88,
+        "amount": 3494154.88,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 24
+  },
+  {
+    "id": 3,
+    "estimateNumber": "EST-2025-003",
+    "customerId": 15,
+    "customerName": "Lungu Media Co.",
+    "estimateDateDaysAgo": 23,
+    "expirationDateDaysFromNow": 29,
+    "status": "Declined",
+    "subTotal": 423087.98,
+    "taxRate": 0,
+    "taxAmount": 0.0,
+    "total": 423087.98,
+    "terms": "Net 45",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 23,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Radio Airtime",
+        "quantity": 1,
+        "unitPrice": 423087.98,
+        "amount": 423087.98,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 22
+  },
+  {
+    "id": 4,
+    "estimateNumber": "EST-2025-004",
+    "customerId": 5,
+    "customerName": "Phiri Broadcasting Ltd",
+    "estimateDateDaysAgo": 50,
+    "expirationDateDaysFromNow": 16,
+    "status": "Declined",
+    "subTotal": 2472836.7,
+    "taxRate": 18,
+    "taxAmount": 445110.61,
+    "total": 2917947.31,
+    "terms": "Net 45",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 50,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Radio Airtime",
+        "quantity": 4,
+        "unitPrice": 618209.18,
+        "amount": 2472836.7,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 49
+  },
+  {
+    "id": 5,
+    "estimateNumber": "EST-2025-005",
+    "customerId": 14,
+    "customerName": "Zulu Media Solutions",
+    "estimateDateDaysAgo": 31,
+    "expirationDateDaysFromNow": 25,
+    "status": "Open",
+    "subTotal": 769758.66,
+    "taxRate": 0,
+    "taxAmount": 0.0,
+    "total": 769758.66,
+    "terms": "Net 15",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 31,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Media Production",
+        "quantity": 4,
+        "unitPrice": 192439.67,
+        "amount": 769758.66,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 30
+  },
+  {
+    "id": 6,
+    "estimateNumber": "EST-2025-006",
+    "customerId": 10,
+    "customerName": "Ngosa Broadcasting Inc.",
+    "estimateDateDaysAgo": 14,
+    "expirationDateDaysFromNow": 29,
+    "status": "Declined",
+    "subTotal": 1636198.97,
+    "taxRate": 15,
+    "taxAmount": 245429.85,
+    "total": 1881628.82,
+    "terms": "Net 15",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 14,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Radio Airtime",
+        "quantity": 5,
+        "unitPrice": 327239.79,
+        "amount": 1636198.97,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 13
+  },
+  {
+    "id": 7,
+    "estimateNumber": "EST-2025-007",
+    "customerId": 3,
+    "customerName": "Chileshe Publishers Holdings",
+    "estimateDateDaysAgo": 23,
+    "expirationDateDaysFromNow": 28,
+    "status": "Open",
+    "subTotal": 3867862.6,
+    "taxRate": 15,
+    "taxAmount": 580179.39,
+    "total": 4448041.99,
+    "terms": "Net 45",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 23,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Radio Airtime",
+        "quantity": 2,
+        "unitPrice": 1933931.3,
+        "amount": 3867862.6,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 22
+  },
+  {
+    "id": 8,
+    "estimateNumber": "EST-2025-008",
+    "customerId": 3,
+    "customerName": "Chileshe Publishers Holdings",
+    "estimateDateDaysAgo": 30,
+    "expirationDateDaysFromNow": 25,
+    "status": "Open",
+    "subTotal": 2886959.57,
+    "taxRate": 16,
+    "taxAmount": 461913.53,
+    "total": 3348873.1,
+    "terms": "Net 30",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 30,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "TV Commercial Slot",
+        "quantity": 4,
+        "unitPrice": 721739.89,
+        "amount": 2886959.57,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 29
+  }
+]

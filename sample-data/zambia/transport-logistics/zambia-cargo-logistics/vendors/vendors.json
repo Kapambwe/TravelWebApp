@@ -1,0 +1,122 @@
+{
+  "vendors": [
+    {
+      "id": 1,
+      "vendorName": "Kalaba Phiri",
+      "companyName": "Ngosa Haulage Solutions",
+      "contactPerson": "Kalaba Phiri",
+      "email": "kalabaphiri@phiri.co.zm",
+      "phone": "+260 751 152 875",
+      "city": "Ndola",
+      "country": "Zambia",
+      "defaultPaymentTerms": "Due on Receipt",
+      "taxId": "TAX-503345",
+      "totalAmountOwed": 160599.62
+    },
+    {
+      "id": 2,
+      "vendorName": "Malama Kabwe",
+      "companyName": "Sakala Cargo Group",
+      "contactPerson": "Malama Kabwe",
+      "email": "malamakabwe@kabwe.co.zm",
+      "phone": "+260 309 316 239",
+      "city": "Lusaka",
+      "country": "Zambia",
+      "defaultPaymentTerms": "Net 30",
+      "taxId": "TAX-812859",
+      "totalAmountOwed": 370518.48
+    },
+    {
+      "id": 3,
+      "vendorName": "Kasonde Tembo",
+      "companyName": "Zulu Cargo Holdings",
+      "contactPerson": "Kasonde Tembo",
+      "email": "kasondetembo@tembo.co.zm",
+      "phone": "+260 618 303 241",
+      "city": "Mufulira",
+      "country": "Zambia",
+      "defaultPaymentTerms": "Net 45",
+      "taxId": "TAX-533465",
+      "totalAmountOwed": 44521.13
+    },
+    {
+      "id": 4,
+      "vendorName": "Ngosa Musonda",
+      "companyName": "Banda Haulage Limited",
+      "contactPerson": "Ngosa Musonda",
+      "email": "ngosamusonda@musonda.co.zm",
+      "phone": "+260 136 130 297",
+      "city": "Lusaka",
+      "country": "Zambia",
+      "defaultPaymentTerms": "Due on Receipt",
+      "taxId": "TAX-401846",
+      "totalAmountOwed": 190388.79
+    },
+    {
+      "id": 5,
+      "vendorName": "Ngosa Lungu",
+      "companyName": "Mwamba Transport Ltd",
+      "contactPerson": "Ngosa Lungu",
+      "email": "ngosalungu@lungu.co.zm",
+      "phone": "+260 108 924 453",
+      "city": "Kabwe",
+      "country": "Zambia",
+      "defaultPaymentTerms": "Due on Receipt",
+      "taxId": "TAX-844521",
+      "totalAmountOwed": 546822.21
+    },
+    {
+      "id": 6,
+      "vendorName": "Zimba Mumba",
+      "companyName": "Zimba Freight Ltd",
+      "contactPerson": "Zimba Mumba",
+      "email": "zimbamumba@mumba.co.zm",
+      "phone": "+260 238 343 311",
+      "city": "Chingola",
+      "country": "Zambia",
+      "defaultPaymentTerms": "Due on Receipt",
+      "taxId": "TAX-441789",
+      "totalAmountOwed": 144316.05
+    },
+    {
+      "id": 7,
+      "vendorName": "Chileshe Chanda",
+      "companyName": "Mutale Cargo Holdings",
+      "contactPerson": "Chileshe Chanda",
+      "email": "chileshechan@chanda.co.zm",
+      "phone": "+260 387 811 706",
+      "city": "Chipata",
+      "country": "Zambia",
+      "defaultPaymentTerms": "Net 45",
+      "taxId": "TAX-845083",
+      "totalAmountOwed": 270658.27
+    },
+    {
+      "id": 8,
+      "vendorName": "Kasonde Ngosa",
+      "companyName": "Mulenga Logistics Enterprises",
+      "contactPerson": "Kasonde Ngosa",
+      "email": "kasondengosa@ngosa.co.zm",
+      "phone": "+260 304 600 331",
+      "city": "Chipata",
+      "country": "Zambia",
+      "defaultPaymentTerms": "Net 45",
+      "taxId": "TAX-226979",
+      "totalAmountOwed": 217214.27
+    },
+    {
+      "id": 9,
+      "vendorName": "Mumba Mutale",
+      "companyName": "Kabwe Logistics Ltd",
+      "contactPerson": "Mumba Mutale",
+      "email": "mumbamutale@mutale.co.zm",
+      "phone": "+260 208 997 138",
+      "city": "Ndola",
+      "country": "Zambia",
+      "defaultPaymentTerms": "Net 30",
+      "taxId": "TAX-152897",
+      "totalAmountOwed": 29588.79
+    }
+  ],
+  "vendorCredits": []
+}

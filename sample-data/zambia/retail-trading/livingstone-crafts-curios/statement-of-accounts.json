@@ -1,0 +1,114 @@
+{
+  "companyName": "Livingstone Crafts Curios",
+  "companyAddress": "Chipata, Zambia",
+  "companyTaxId": "TPIN-5311858-LCC",
+  "generatedDate": "2025-09-30",
+  "currency": "ZMW",
+  "period": {
+    "from": "2025-01-01",
+    "to": "2025-09-30"
+  },
+  "customerStatements": [
+    {
+      "customerId": 1,
+      "customerName": "Copperbelt Holdings PLC",
+      "customerEmail": "finance@copperbelt.co.zm",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-03-10",
+          "reference": "INV-Z-2025-014",
+          "description": "Bulk merchandise supply - order 1571",
+          "debit": 905000,
+          "credit": 0.0,
+          "balance": 905000
+        },
+        {
+          "date": "2025-04-04",
+          "reference": "PMT-Z-2025-014",
+          "description": "Partial installment payment received",
+          "debit": 0.0,
+          "credit": 426500,
+          "balance": 478500
+        }
+      ],
+      "closingBalance": 478500,
+      "status": "Partially Paid"
+    },
+    {
+      "customerId": 2,
+      "customerName": "Kansanshi Investments Ltd",
+      "customerEmail": "admin@kansanshi.co.zm",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-09-15",
+          "reference": "INV-Z-2025-022",
+          "description": "Electronics bulk order",
+          "debit": 1595500,
+          "credit": 0.0,
+          "balance": 1595500
+        }
+      ],
+      "closingBalance": 1595500,
+      "status": "Outstanding"
+    },
+    {
+      "customerId": 3,
+      "customerName": "Chambeshi Investments Ltd",
+      "customerEmail": "contact@chambeshi.co.zm",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-06-14",
+          "reference": "INV-Z-2025-037",
+          "description": "Special order - corporate procurement",
+          "debit": 2274500,
+          "credit": 0.0,
+          "balance": 2274500
+        },
+        {
+          "date": "2025-08-01",
+          "reference": "PMT-Z-2025-032",
+          "description": "Payment received - bank transfer",
+          "debit": 0.0,
+          "credit": 2274500,
+          "balance": 0.0
+        }
+      ],
+      "closingBalance": 0.0,
+      "status": "Settled"
+    },
+    {
+      "customerId": 4,
+      "customerName": "Zain Enterprises Ltd",
+      "customerEmail": "contact@zain.co.zm",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-07-06",
+          "reference": "INV-Z-2025-049",
+          "description": "Wholesale product order - clothing & textiles",
+          "debit": 871500,
+          "credit": 0.0,
+          "balance": 871500
+        }
+      ],
+      "closingBalance": 871500,
+      "status": "Overdue"
+    }
+  ],
+  "summary": {
+    "totalInvoiced": 5646500,
+    "totalReceived": 2701000,
+    "totalOutstanding": 2945500,
+    "totalOverdue": 1350000.0,
+    "agingSummary": {
+      "current": 1595500.0,
+      "days1to30": 0.0,
+      "days31to60": 0.0,
+      "days61to90": 871500.0,
+      "over90days": 478500.0
+    }
+  }
+}

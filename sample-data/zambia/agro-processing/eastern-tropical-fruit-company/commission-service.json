@@ -1,0 +1,302 @@
+[
+  {
+    "id": "commission-001",
+    "affiliateId": "user-001",
+    "affiliateName": "John Banda 1",
+    "period": "January 2024",
+    "totalSales": 100000.0,
+    "commissionRate": 10.0,
+    "commissionAmount": 10000.0,
+    "status": "Completed"
+  },
+  {
+    "id": "commission-002",
+    "affiliateId": "user-001",
+    "affiliateName": "John Banda 1",
+    "period": "January 2024",
+    "totalSales": 100000.0,
+    "commissionRate": 10.0,
+    "commissionAmount": 10000.0,
+    "status": "Completed"
+  },
+  {
+    "id": "commission-003",
+    "affiliateId": "user-001",
+    "affiliateName": "John Banda 1",
+    "period": "January 2024",
+    "totalSales": 100000.0,
+    "commissionRate": 10.0,
+    "commissionAmount": 10000.0,
+    "status": "Completed"
+  },
+  {
+    "id": "commission-004",
+    "affiliateId": "user-001",
+    "affiliateName": "John Banda 1",
+    "period": "January 2024",
+    "totalSales": 100000.0,
+    "commissionRate": 10.0,
+    "commissionAmount": 10000.0,
+    "status": "Completed"
+  },
+  {
+    "id": "commission-005",
+    "affiliateId": "user-001",
+    "affiliateName": "John Banda 1",
+    "period": "January 2024",
+    "totalSales": 100000.0,
+    "commissionRate": 10.0,
+    "commissionAmount": 10000.0,
+    "status": "Completed"
+  },
+  {
+    "id": "commission-006",
+    "affiliateId": "user-001",
+    "affiliateName": "John Banda 1",
+    "period": "January 2024",
+    "totalSales": 100000.0,
+    "commissionRate": 10.0,
+    "commissionAmount": 10000.0,
+    "status": "Completed"
+  },
+  {
+    "id": "commission-007",
+    "affiliateId": "user-001",
+    "affiliateName": "John Banda 1",
+    "period": "January 2024",
+    "totalSales": 100000.0,
+    "commissionRate": 10.0,
+    "commissionAmount": 10000.0,
+    "status": "Completed"
+  },
+  {
+    "id": "commission-008",
+    "affiliateId": "user-001",
+    "affiliateName": "John Banda 1",
+    "period": "January 2024",
+    "totalSales": 100000.0,
+    "commissionRate": 10.0,
+    "commissionAmount": 10000.0,
+    "status": "Completed"
+  },
+  {
+    "id": "commission-009",
+    "affiliateId": "user-001",
+    "affiliateName": "John Banda 1",
+    "period": "January 2024",
+    "totalSales": 100000.0,
+    "commissionRate": 10.0,
+    "commissionAmount": 10000.0,
+    "status": "Completed"
+  },
+  {
+    "id": "commission-010",
+    "affiliateId": "user-001",
+    "affiliateName": "John Banda 1",
+    "period": "January 2024",
+    "totalSales": 100000.0,
+    "commissionRate": 10.0,
+    "commissionAmount": 10000.0,
+    "status": "Completed"
+  },
+  {
+    "id": "commission-011",
+    "affiliateId": "user-001",
+    "affiliateName": "John Banda 1",
+    "period": "January 2024",
+    "totalSales": 100000.0,
+    "commissionRate": 10.0,
+    "commissionAmount": 10000.0,
+    "status": "Completed"
+  },
+  {
+    "id": "commission-012",
+    "affiliateId": "user-001",
+    "affiliateName": "John Banda 1",
+    "period": "January 2024",
+    "totalSales": 100000.0,
+    "commissionRate": 10.0,
+    "commissionAmount": 10000.0,
+    "status": "Completed"
+  },
+  {
+    "id": "commission-013",
+    "affiliateId": "user-001",
+    "affiliateName": "John Banda 1",
+    "period": "January 2024",
+    "totalSales": 100000.0,
+    "commissionRate": 10.0,
+    "commissionAmount": 10000.0,
+    "status": "Completed"
+  },
+  {
+    "id": "commission-014",
+    "affiliateId": "user-001",
+    "affiliateName": "John Banda 1",
+    "period": "January 2024",
+    "totalSales": 100000.0,
+    "commissionRate": 10.0,
+    "commissionAmount": 10000.0,
+    "status": "Completed"
+  },
+  {
+    "id": "commission-015",
+    "affiliateId": "user-001",
+    "affiliateName": "John Banda 1",
+    "period": "January 2024",
+    "totalSales": 100000.0,
+    "commissionRate": 10.0,
+    "commissionAmount": 10000.0,
+    "status": "Completed"
+  },
+  {
+    "id": "commission-016",
+    "affiliateId": "user-001",
+    "affiliateName": "John Banda 1",
+    "period": "January 2024",
+    "totalSales": 100000.0,
+    "commissionRate": 10.0,
+    "commissionAmount": 10000.0,
+    "status": "Completed"
+  },
+  {
+    "id": "commission-017",
+    "affiliateId": "user-001",
+    "affiliateName": "John Banda 1",
+    "period": "January 2024",
+    "totalSales": 100000.0,
+    "commissionRate": 10.0,
+    "commissionAmount": 10000.0,
+    "status": "Completed"
+  },
+  {
+    "id": "commission-018",
+    "affiliateId": "user-001",
+    "affiliateName": "John Banda 1",
+    "period": "January 2024",
+    "totalSales": 100000.0,
+    "commissionRate": 10.0,
+    "commissionAmount": 10000.0,
+    "status": "Completed"
+  },
+  {
+    "id": "commission-019",
+    "affiliateId": "user-001",
+    "affiliateName": "John Banda 1",
+    "period": "January 2024",
+    "totalSales": 100000.0,
+    "commissionRate": 10.0,
+    "commissionAmount": 10000.0,
+    "status": "Completed"
+  },
+  {
+    "id": "commission-020",
+    "affiliateId": "user-001",
+    "affiliateName": "John Banda 1",
+    "period": "January 2024",
+    "totalSales": 100000.0,
+    "commissionRate": 10.0,
+    "commissionAmount": 10000.0,
+    "status": "Completed"
+  },
+  {
+    "id": "commission-021",
+    "affiliateId": "user-001",
+    "affiliateName": "John Banda 1",
+    "period": "January 2024",
+    "totalSales": 100000.0,
+    "commissionRate": 10.0,
+    "commissionAmount": 10000.0,
+    "status": "Completed"
+  },
+  {
+    "id": "commission-022",
+    "affiliateId": "user-001",
+    "affiliateName": "John Banda 1",
+    "period": "January 2024",
+    "totalSales": 100000.0,
+    "commissionRate": 10.0,
+    "commissionAmount": 10000.0,
+    "status": "Completed"
+  },
+  {
+    "id": "commission-023",
+    "affiliateId": "user-001",
+    "affiliateName": "John Banda 1",
+    "period": "January 2024",
+    "totalSales": 100000.0,
+    "commissionRate": 10.0,
+    "commissionAmount": 10000.0,
+    "status": "Completed"
+  },
+  {
+    "id": "commission-024",
+    "affiliateId": "user-001",
+    "affiliateName": "John Banda 1",
+    "period": "January 2024",
+    "totalSales": 100000.0,
+    "commissionRate": 10.0,
+    "commissionAmount": 10000.0,
+    "status": "Completed"
+  },
+  {
+    "id": "commission-025",
+    "affiliateId": "user-001",
+    "affiliateName": "John Banda 1",
+    "period": "January 2024",
+    "totalSales": 100000.0,
+    "commissionRate": 10.0,
+    "commissionAmount": 10000.0,
+    "status": "Completed"
+  },
+  {
+    "id": "commission-026",
+    "affiliateId": "user-001",
+    "affiliateName": "John Banda 1",
+    "period": "January 2024",
+    "totalSales": 100000.0,
+    "commissionRate": 10.0,
+    "commissionAmount": 10000.0,
+    "status": "Completed"
+  },
+  {
+    "id": "commission-027",
+    "affiliateId": "user-001",
+    "affiliateName": "John Banda 1",
+    "period": "January 2024",
+    "totalSales": 100000.0,
+    "commissionRate": 10.0,
+    "commissionAmount": 10000.0,
+    "status": "Completed"
+  },
+  {
+    "id": "commission-028",
+    "affiliateId": "user-001",
+    "affiliateName": "John Banda 1",
+    "period": "January 2024",
+    "totalSales": 100000.0,
+    "commissionRate": 10.0,
+    "commissionAmount": 10000.0,
+    "status": "Completed"
+  },
+  {
+    "id": "commission-029",
+    "affiliateId": "user-001",
+    "affiliateName": "John Banda 1",
+    "period": "January 2024",
+    "totalSales": 100000.0,
+    "commissionRate": 10.0,
+    "commissionAmount": 10000.0,
+    "status": "Completed"
+  },
+  {
+    "id": "commission-030",
+    "affiliateId": "user-001",
+    "affiliateName": "John Banda 1",
+    "period": "January 2024",
+    "totalSales": 100000.0,
+    "commissionRate": 10.0,
+    "commissionAmount": 10000.0,
+    "status": "Completed"
+  }
+]

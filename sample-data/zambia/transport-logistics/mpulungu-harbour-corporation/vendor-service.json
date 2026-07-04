@@ -1,0 +1,302 @@
+[
+  {
+    "id": "vendor-001",
+    "vendorName": "Shipping Lines 1",
+    "email": "vendor1@supplier.zm",
+    "phone": "+260-216-171057",
+    "address": "Port Authority, Mpulungu, Northern Province",
+    "taxId": "TPIN-4073253874",
+    "paymentTerms": "COD",
+    "accountBalance": 44981
+  },
+  {
+    "id": "vendor-002",
+    "vendorName": "Stevedoring Companies 2",
+    "email": "vendor2@supplier.zm",
+    "phone": "+260-096-728515",
+    "address": "Port Authority, Mpulungu, Northern Province",
+    "taxId": "TPIN-6427613629",
+    "paymentTerms": "COD",
+    "accountBalance": 10909
+  },
+  {
+    "id": "vendor-003",
+    "vendorName": "Equipment Leasing 3",
+    "email": "vendor3@supplier.zm",
+    "phone": "+260-216-821631",
+    "address": "Port Authority, Mpulungu, Northern Province",
+    "taxId": "TPIN-5495138542",
+    "paymentTerms": "NET60",
+    "accountBalance": 23054
+  },
+  {
+    "id": "vendor-004",
+    "vendorName": "Equipment Leasing 4",
+    "email": "vendor4@supplier.zm",
+    "phone": "+260-097-302314",
+    "address": "Port Authority, Mpulungu, Northern Province",
+    "taxId": "TPIN-5257024241",
+    "paymentTerms": "NET30",
+    "accountBalance": 40657
+  },
+  {
+    "id": "vendor-005",
+    "vendorName": "Stevedoring Companies 5",
+    "email": "vendor5@supplier.zm",
+    "phone": "+260-096-895010",
+    "address": "Port Authority, Mpulungu, Northern Province",
+    "taxId": "TPIN-3507236514",
+    "paymentTerms": "NET30",
+    "accountBalance": 11404
+  },
+  {
+    "id": "vendor-006",
+    "vendorName": "Stevedoring Companies 6",
+    "email": "vendor6@supplier.zm",
+    "phone": "+260-217-572743",
+    "address": "Port Authority, Mpulungu, Northern Province",
+    "taxId": "TPIN-2530690583",
+    "paymentTerms": "NET30",
+    "accountBalance": 2376
+  },
+  {
+    "id": "vendor-007",
+    "vendorName": "Stevedoring Companies 7",
+    "email": "vendor7@supplier.zm",
+    "phone": "+260-094-645950",
+    "address": "Port Authority, Mpulungu, Northern Province",
+    "taxId": "TPIN-8788433559",
+    "paymentTerms": "COD",
+    "accountBalance": 29939
+  },
+  {
+    "id": "vendor-008",
+    "vendorName": "Shipping Lines 8",
+    "email": "vendor8@supplier.zm",
+    "phone": "+260-096-860247",
+    "address": "Port Authority, Mpulungu, Northern Province",
+    "taxId": "TPIN-4513769853",
+    "paymentTerms": "NET30",
+    "accountBalance": 36046
+  },
+  {
+    "id": "vendor-009",
+    "vendorName": "Shipping Lines 9",
+    "email": "vendor9@supplier.zm",
+    "phone": "+260-096-624681",
+    "address": "Port Authority, Mpulungu, Northern Province",
+    "taxId": "TPIN-6228662604",
+    "paymentTerms": "NET60",
+    "accountBalance": 36176
+  },
+  {
+    "id": "vendor-010",
+    "vendorName": "Equipment Leasing 10",
+    "email": "vendor10@supplier.zm",
+    "phone": "+260-097-742615",
+    "address": "Port Authority, Mpulungu, Northern Province",
+    "taxId": "TPIN-9082769516",
+    "paymentTerms": "COD",
+    "accountBalance": 26586
+  },
+  {
+    "id": "vendor-011",
+    "vendorName": "Shipping Lines 11",
+    "email": "vendor11@supplier.zm",
+    "phone": "+260-216-177020",
+    "address": "Port Authority, Mpulungu, Northern Province",
+    "taxId": "TPIN-2131174973",
+    "paymentTerms": "COD",
+    "accountBalance": 47318
+  },
+  {
+    "id": "vendor-012",
+    "vendorName": "Shipping Lines 12",
+    "email": "vendor12@supplier.zm",
+    "phone": "+260-217-210720",
+    "address": "Port Authority, Mpulungu, Northern Province",
+    "taxId": "TPIN-9261043770",
+    "paymentTerms": "COD",
+    "accountBalance": 18912
+  },
+  {
+    "id": "vendor-013",
+    "vendorName": "Equipment Leasing 13",
+    "email": "vendor13@supplier.zm",
+    "phone": "+260-094-669847",
+    "address": "Port Authority, Mpulungu, Northern Province",
+    "taxId": "TPIN-1042643441",
+    "paymentTerms": "NET30",
+    "accountBalance": 28013
+  },
+  {
+    "id": "vendor-014",
+    "vendorName": "Equipment Leasing 14",
+    "email": "vendor14@supplier.zm",
+    "phone": "+260-094-540506",
+    "address": "Port Authority, Mpulungu, Northern Province",
+    "taxId": "TPIN-5577880782",
+    "paymentTerms": "NET30",
+    "accountBalance": 46639
+  },
+  {
+    "id": "vendor-015",
+    "vendorName": "Shipping Lines 15",
+    "email": "vendor15@supplier.zm",
+    "phone": "+260-217-191631",
+    "address": "Port Authority, Mpulungu, Northern Province",
+    "taxId": "TPIN-6430875355",
+    "paymentTerms": "COD",
+    "accountBalance": 13935
+  },
+  {
+    "id": "vendor-016",
+    "vendorName": "Equipment Leasing 16",
+    "email": "vendor16@supplier.zm",
+    "phone": "+260-095-320227",
+    "address": "Port Authority, Mpulungu, Northern Province",
+    "taxId": "TPIN-1490878330",
+    "paymentTerms": "NET60",
+    "accountBalance": 30306
+  },
+  {
+    "id": "vendor-017",
+    "vendorName": "Stevedoring Companies 17",
+    "email": "vendor17@supplier.zm",
+    "phone": "+260-097-653023",
+    "address": "Port Authority, Mpulungu, Northern Province",
+    "taxId": "TPIN-9059835665",
+    "paymentTerms": "NET30",
+    "accountBalance": 39582
+  },
+  {
+    "id": "vendor-018",
+    "vendorName": "Shipping Lines 18",
+    "email": "vendor18@supplier.zm",
+    "phone": "+260-095-635639",
+    "address": "Port Authority, Mpulungu, Northern Province",
+    "taxId": "TPIN-6711426136",
+    "paymentTerms": "NET30",
+    "accountBalance": 49415
+  },
+  {
+    "id": "vendor-019",
+    "vendorName": "Equipment Leasing 19",
+    "email": "vendor19@supplier.zm",
+    "phone": "+260-096-524776",
+    "address": "Port Authority, Mpulungu, Northern Province",
+    "taxId": "TPIN-9297634960",
+    "paymentTerms": "NET60",
+    "accountBalance": 35365
+  },
+  {
+    "id": "vendor-020",
+    "vendorName": "Shipping Lines 20",
+    "email": "vendor20@supplier.zm",
+    "phone": "+260-097-237480",
+    "address": "Port Authority, Mpulungu, Northern Province",
+    "taxId": "TPIN-3111402739",
+    "paymentTerms": "NET30",
+    "accountBalance": 18681
+  },
+  {
+    "id": "vendor-021",
+    "vendorName": "Equipment Leasing 21",
+    "email": "vendor21@supplier.zm",
+    "phone": "+260-095-737224",
+    "address": "Port Authority, Mpulungu, Northern Province",
+    "taxId": "TPIN-3990101341",
+    "paymentTerms": "COD",
+    "accountBalance": 8436
+  },
+  {
+    "id": "vendor-022",
+    "vendorName": "Equipment Leasing 22",
+    "email": "vendor22@supplier.zm",
+    "phone": "+260-216-234341",
+    "address": "Port Authority, Mpulungu, Northern Province",
+    "taxId": "TPIN-3024289085",
+    "paymentTerms": "NET30",
+    "accountBalance": 32388
+  },
+  {
+    "id": "vendor-023",
+    "vendorName": "Equipment Leasing 23",
+    "email": "vendor23@supplier.zm",
+    "phone": "+260-096-906398",
+    "address": "Port Authority, Mpulungu, Northern Province",
+    "taxId": "TPIN-5380740636",
+    "paymentTerms": "NET30",
+    "accountBalance": 42271
+  },
+  {
+    "id": "vendor-024",
+    "vendorName": "Equipment Leasing 24",
+    "email": "vendor24@supplier.zm",
+    "phone": "+260-096-744917",
+    "address": "Port Authority, Mpulungu, Northern Province",
+    "taxId": "TPIN-6846315334",
+    "paymentTerms": "COD",
+    "accountBalance": 42349
+  },
+  {
+    "id": "vendor-025",
+    "vendorName": "Stevedoring Companies 25",
+    "email": "vendor25@supplier.zm",
+    "phone": "+260-096-861228",
+    "address": "Port Authority, Mpulungu, Northern Province",
+    "taxId": "TPIN-7307857451",
+    "paymentTerms": "NET60",
+    "accountBalance": 14533
+  },
+  {
+    "id": "vendor-026",
+    "vendorName": "Stevedoring Companies 26",
+    "email": "vendor26@supplier.zm",
+    "phone": "+260-094-754278",
+    "address": "Port Authority, Mpulungu, Northern Province",
+    "taxId": "TPIN-2847498753",
+    "paymentTerms": "NET30",
+    "accountBalance": 33969
+  },
+  {
+    "id": "vendor-027",
+    "vendorName": "Equipment Leasing 27",
+    "email": "vendor27@supplier.zm",
+    "phone": "+260-216-738768",
+    "address": "Port Authority, Mpulungu, Northern Province",
+    "taxId": "TPIN-6874415011",
+    "paymentTerms": "NET60",
+    "accountBalance": 37029
+  },
+  {
+    "id": "vendor-028",
+    "vendorName": "Stevedoring Companies 28",
+    "email": "vendor28@supplier.zm",
+    "phone": "+260-095-262444",
+    "address": "Port Authority, Mpulungu, Northern Province",
+    "taxId": "TPIN-3858555855",
+    "paymentTerms": "NET30",
+    "accountBalance": 3061
+  },
+  {
+    "id": "vendor-029",
+    "vendorName": "Equipment Leasing 29",
+    "email": "vendor29@supplier.zm",
+    "phone": "+260-217-512957",
+    "address": "Port Authority, Mpulungu, Northern Province",
+    "taxId": "TPIN-1830668588",
+    "paymentTerms": "COD",
+    "accountBalance": 10257
+  },
+  {
+    "id": "vendor-030",
+    "vendorName": "Shipping Lines 30",
+    "email": "vendor30@supplier.zm",
+    "phone": "+260-217-938907",
+    "address": "Port Authority, Mpulungu, Northern Province",
+    "taxId": "TPIN-1119406852",
+    "paymentTerms": "NET30",
+    "accountBalance": 1984
+  }
+]

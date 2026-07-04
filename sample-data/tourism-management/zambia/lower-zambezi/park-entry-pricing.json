@@ -1,0 +1,54 @@
+﻿[
+    {
+        "PhotographyPermitFee":  200,
+        "Id":  1,
+        "PricingTier":  0,
+        "DronePermitFee":  350,
+        "VehicleFee":  50,
+        "DailyRate":  150,
+        "WeeklyRate":  700,
+        "FilmPermitFee":  2000,
+        "VisitorCategory":  0,
+        "BoatFee":  100,
+        "AnnualRate":  2500
+    },
+    {
+        "PhotographyPermitFee":  400,
+        "Id":  2,
+        "PricingTier":  1,
+        "DronePermitFee":  350,
+        "VehicleFee":  50,
+        "DailyRate":  350,
+        "WeeklyRate":  1500,
+        "FilmPermitFee":  4000,
+        "VisitorCategory":  0,
+        "BoatFee":  100,
+        "AnnualRate":  5000
+    },
+    {
+        "PhotographyPermitFee":  1000,
+        "Id":  3,
+        "PricingTier":  2,
+        "DronePermitFee":  1000,
+        "VehicleFee":  150,
+        "DailyRate":  1200,
+        "WeeklyRate":  5500,
+        "FilmPermitFee":  15000,
+        "VisitorCategory":  0,
+        "BoatFee":  300,
+        "AnnualRate":  18000
+    },
+    {
+        "PhotographyPermitFee":  1000,
+        "Id":  4,
+        "PricingTier":  2,
+        "DronePermitFee":  1000,
+        "VehicleFee":  150,
+        "DailyRate":  600,
+        "WeeklyRate":  2750,
+        "FilmPermitFee":  15000,
+        "VisitorCategory":  1,
+        "BoatFee":  300,
+        "AnnualRate":  9000
+    }
+]

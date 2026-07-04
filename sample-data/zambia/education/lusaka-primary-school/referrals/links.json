@@ -1,0 +1,24 @@
+[
+  {
+    "linkId": "lps-link-001",
+    "programId": "prog-lps-alumni-001",
+    "code": "LPS-ALUM-2026",
+    "shortLink": "https://school.app/r/lps-alum-2026",
+    "clicks": 34,
+    "signups": 10,
+    "conversions": 3,
+    "totalRevenue": 12000.00,
+    "createdDate": "2026-01-08T10:00:00Z"
+  },
+  {
+    "linkId": "lps-link-002",
+    "programId": "prog-lps-parent-001",
+    "code": "LPS-PARENT-2026",
+    "shortLink": "https://school.app/r/lps-parent-2026",
+    "clicks": 20,
+    "signups": 6,
+    "conversions": 2,
+    "totalRevenue": 8000.00,
+    "createdDate": "2026-01-12T14:30:00Z"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "id": "33333333-4444-5555-6666-777777777701",
+    "name": "Store Sales Forecast",
+    "description": "Retail sales forecast template with basket size, foot traffic, and promo uplift.",
+    "industry": "Retail Trading",
+    "icon": "store",
+    "isPublic": true,
+    "createdDate": "2026-05-01T00:00:00",
+    "features": [
+      "Foot traffic planning",
+      "Basket size forecasting",
+      "Promotion uplift modeling"
+    ]
+  },
+  {
+    "id": "33333333-4444-5555-6666-777777777702",
+    "name": "Inventory Replenishment Model",
+    "description": "Tracks stock turnover, replenishment cycles, and supplier lead times.",
+    "industry": "Retail Trading",
+    "icon": "inventory",
+    "isPublic": true,
+    "createdDate": "2026-05-01T00:00:00",
+    "features": [
+      "Stock turn analysis",
+      "Supplier lead times",
+      "Shelf availability planning"
+    ]
+  },
+  {
+    "id": "33333333-4444-5555-6666-777777777703",
+    "name": "Margin and Promotions Model",
+    "description": "Margin model for price markdowns, loyalty offers, and seasonal campaigns.",
+    "industry": "Retail Trading",
+    "icon": "price_change",
+    "isPublic": true,
+    "createdDate": "2026-05-01T00:00:00",
+    "features": [
+      "Gross margin tracking",
+      "Promotion sensitivity",
+      "Loyalty discount analysis"
+    ]
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "id": "cust-001",
+    "customerName": "Corporate Clients 1",
+    "email": "contact1@customer.zm",
+    "phone": "+260-217-681904",
+    "address": "Head Office, Simon Mwale Road, Lusaka",
+    "taxId": "TPIN-7283685369",
+    "creditLimit": 100000,
+    "outstandingBalance": 11393
+  },
+  {
+    "id": "cust-002",
+    "customerName": "Individual Users 2",
+    "email": "contact2@customer.zm",
+    "phone": "+260-096-584717",
+    "address": "Head Office, Simon Mwale Road, Lusaka",
+    "taxId": "TPIN-9867955149",
+    "creditLimit": 100000,
+    "outstandingBalance": 4915
+  },
+  {
+    "id": "cust-003",
+    "customerName": "Individual Users 3",
+    "email": "contact3@customer.zm",
+    "phone": "+260-217-497030",
+    "address": "Head Office, Simon Mwale Road, Lusaka",
+    "taxId": "TPIN-6634355403",
+    "creditLimit": 75000,
+    "outstandingBalance": 13033
+  },
+  {
+    "id": "cust-004",
+    "customerName": "Individual Users 4",
+    "email": "contact4@customer.zm",
+    "phone": "+260-217-157023",
+    "address": "Head Office, Simon Mwale Road, Lusaka",
+    "taxId": "TPIN-7553891162",
+    "creditLimit": 50000,
+    "outstandingBalance": 16951
+  },
+  {
+    "id": "cust-005",
+    "customerName": "Corporate Clients 5",
+    "email": "contact5@customer.zm",
+    "phone": "+260-097-758775",
+    "address": "Head Office, Simon Mwale Road, Lusaka",
+    "taxId": "TPIN-2894938236",
+    "creditLimit": 30000,
+    "outstandingBalance": 21194
+  },
+  {
+    "id": "cust-006",
+    "customerName": "Resellers 6",
+    "email": "contact6@customer.zm",
+    "phone": "+260-217-189531",
+    "address": "Head Office, Simon Mwale Road, Lusaka",
+    "taxId": "TPIN-7129335263",
+    "creditLimit": 20000,
+    "outstandingBalance": 2592
+  },
+  {
+    "id": "cust-007",
+    "customerName": "Government 7",
+    "email": "contact7@customer.zm",
+    "phone": "+260-096-319021",
+    "address": "Head Office, Simon Mwale Road, Lusaka",
+    "taxId": "TPIN-4445530622",
+    "creditLimit": 30000,
+    "outstandingBalance": 18119
+  },
+  {
+    "id": "cust-008",
+    "customerName": "Corporate Clients 8",
+    "email": "contact8@customer.zm",
+    "phone": "+260-094-201817",
+    "address": "Head Office, Simon Mwale Road, Lusaka",
+    "taxId": "TPIN-7466139717",
+    "creditLimit": 75000,
+    "outstandingBalance": 10467
+  },
+  {
+    "id": "cust-009",
+    "customerName": "Resellers 9",
+    "email": "contact9@customer.zm",
+    "phone": "+260-217-832011",
+    "address": "Head Office, Simon Mwale Road, Lusaka",
+    "taxId": "TPIN-1318794501",
+    "creditLimit": 100000,
+    "outstandingBalance": 9842
+  },
+  {
+    "id": "cust-010",
+    "customerName": "Resellers 10",
+    "email": "contact10@customer.zm",
+    "phone": "+260-094-661182",
+    "address": "Head Office, Simon Mwale Road, Lusaka",
+    "taxId": "TPIN-7137180223",
+    "creditLimit": 75000,
+    "outstandingBalance": 19242
+  },
+  {
+    "id": "cust-011",
+    "customerName": "Corporate Clients 11",
+    "email": "contact11@customer.zm",
+    "phone": "+260-095-874143",
+    "address": "Head Office, Simon Mwale Road, Lusaka",
+    "taxId": "TPIN-9391617167",
+    "creditLimit": 50000,
+    "outstandingBalance": 12077
+  },
+  {
+    "id": "cust-012",
+    "customerName": "Resellers 12",
+    "email": "contact12@customer.zm",
+    "phone": "+260-216-811129",
+    "address": "Head Office, Simon Mwale Road, Lusaka",
+    "taxId": "TPIN-5854263873",
+    "creditLimit": 75000,
+    "outstandingBalance": 22507
+  },
+  {
+    "id": "cust-013",
+    "customerName": "Government 13",
+    "email": "contact13@customer.zm",
+    "phone": "+260-094-694443",
+    "address": "Head Office, Simon Mwale Road, Lusaka",
+    "taxId": "TPIN-4053112507",
+    "creditLimit": 50000,
+    "outstandingBalance": 4720
+  },
+  {
+    "id": "cust-014",
+    "customerName": "Government 14",
+    "email": "contact14@customer.zm",
+    "phone": "+260-216-735204",
+    "address": "Head Office, Simon Mwale Road, Lusaka",
+    "taxId": "TPIN-8868099016",
+    "creditLimit": 75000,
+    "outstandingBalance": 15137
+  },
+  {
+    "id": "cust-015",
+    "customerName": "Corporate Clients 15",
+    "email": "contact15@customer.zm",
+    "phone": "+260-097-823923",
+    "address": "Head Office, Simon Mwale Road, Lusaka",
+    "taxId": "TPIN-5749454326",
+    "creditLimit": 20000,
+    "outstandingBalance": 11332
+  },
+  {
+    "id": "cust-016",
+    "customerName": "Individual Users 16",
+    "email": "contact16@customer.zm",
+    "phone": "+260-095-514684",
+    "address": "Head Office, Simon Mwale Road, Lusaka",
+    "taxId": "TPIN-3217586277",
+    "creditLimit": 30000,
+    "outstandingBalance": 10314
+  },
+  {
+    "id": "cust-017",
+    "customerName": "Resellers 17",
+    "email": "contact17@customer.zm",
+    "phone": "+260-096-467538",
+    "address": "Head Office, Simon Mwale Road, Lusaka",
+    "taxId": "TPIN-7646482548",
+    "creditLimit": 75000,
+    "outstandingBalance": 2652
+  },
+  {
+    "id": "cust-018",
+    "customerName": "Corporate Clients 18",
+    "email": "contact18@customer.zm",
+    "phone": "+260-095-362321",
+    "address": "Head Office, Simon Mwale Road, Lusaka",
+    "taxId": "TPIN-8954976800",
+    "creditLimit": 20000,
+    "outstandingBalance": 5635
+  },
+  {
+    "id": "cust-019",
+    "customerName": "Corporate Clients 19",
+    "email": "contact19@customer.zm",
+    "phone": "+260-217-250676",
+    "address": "Head Office, Simon Mwale Road, Lusaka",
+    "taxId": "TPIN-5893371144",
+    "creditLimit": 20000,
+    "outstandingBalance": 5601
+  },
+  {
+    "id": "cust-020",
+    "customerName": "Individual Users 20",
+    "email": "contact20@customer.zm",
+    "phone": "+260-094-179283",
+    "address": "Head Office, Simon Mwale Road, Lusaka",
+    "taxId": "TPIN-1751293351",
+    "creditLimit": 75000,
+    "outstandingBalance": 17688
+  },
+  {
+    "id": "cust-021",
+    "customerName": "Corporate Clients 21",
+    "email": "contact21@customer.zm",
+    "phone": "+260-095-323311",
+    "address": "Head Office, Simon Mwale Road, Lusaka",
+    "taxId": "TPIN-3903967553",
+    "creditLimit": 75000,
+    "outstandingBalance": 2933
+  },
+  {
+    "id": "cust-022",
+    "customerName": "Resellers 22",
+    "email": "contact22@customer.zm",
+    "phone": "+260-094-318490",
+    "address": "Head Office, Simon Mwale Road, Lusaka",
+    "taxId": "TPIN-2898781196",
+    "creditLimit": 75000,
+    "outstandingBalance": 10005
+  },
+  {
+    "id": "cust-023",
+    "customerName": "Individual Users 23",
+    "email": "contact23@customer.zm",
+    "phone": "+260-216-437608",
+    "address": "Head Office, Simon Mwale Road, Lusaka",
+    "taxId": "TPIN-2289413691",
+    "creditLimit": 50000,
+    "outstandingBalance": 10162
+  },
+  {
+    "id": "cust-024",
+    "customerName": "Government 24",
+    "email": "contact24@customer.zm",
+    "phone": "+260-216-839841",
+    "address": "Head Office, Simon Mwale Road, Lusaka",
+    "taxId": "TPIN-3679140020",
+    "creditLimit": 20000,
+    "outstandingBalance": 6852
+  },
+  {
+    "id": "cust-025",
+    "customerName": "Government 25",
+    "email": "contact25@customer.zm",
+    "phone": "+260-096-322463",
+    "address": "Head Office, Simon Mwale Road, Lusaka",
+    "taxId": "TPIN-8318885235",
+    "creditLimit": 100000,
+    "outstandingBalance": 9725
+  },
+  {
+    "id": "cust-026",
+    "customerName": "Government 26",
+    "email": "contact26@customer.zm",
+    "phone": "+260-097-581117",
+    "address": "Head Office, Simon Mwale Road, Lusaka",
+    "taxId": "TPIN-7160099874",
+    "creditLimit": 50000,
+    "outstandingBalance": 11858
+  },
+  {
+    "id": "cust-027",
+    "customerName": "Resellers 27",
+    "email": "contact27@customer.zm",
+    "phone": "+260-097-890567",
+    "address": "Head Office, Simon Mwale Road, Lusaka",
+    "taxId": "TPIN-5512626480",
+    "creditLimit": 50000,
+    "outstandingBalance": 10164
+  },
+  {
+    "id": "cust-028",
+    "customerName": "Corporate Clients 28",
+    "email": "contact28@customer.zm",
+    "phone": "+260-216-488358",
+    "address": "Head Office, Simon Mwale Road, Lusaka",
+    "taxId": "TPIN-3732449406",
+    "creditLimit": 50000,
+    "outstandingBalance": 15484
+  },
+  {
+    "id": "cust-029",
+    "customerName": "Resellers 29",
+    "email": "contact29@customer.zm",
+    "phone": "+260-096-501460",
+    "address": "Head Office, Simon Mwale Road, Lusaka",
+    "taxId": "TPIN-5199719048",
+    "creditLimit": 50000,
+    "outstandingBalance": 18138
+  },
+  {
+    "id": "cust-030",
+    "customerName": "Resellers 30",
+    "email": "contact30@customer.zm",
+    "phone": "+260-217-368890",
+    "address": "Head Office, Simon Mwale Road, Lusaka",
+    "taxId": "TPIN-5156103307",
+    "creditLimit": 20000,
+    "outstandingBalance": 10421
+  }
+]

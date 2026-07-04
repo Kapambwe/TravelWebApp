@@ -1,0 +1,302 @@
+[
+  {
+    "id": "vendor-001",
+    "vendorName": "Vehicle Maintenance 1",
+    "email": "vendor1@supplier.zm",
+    "phone": "+260-217-701301",
+    "address": "Plot 8222, Independence Avenue, Copperbelt",
+    "taxId": "TPIN-5463057801",
+    "paymentTerms": "COD",
+    "accountBalance": 36308
+  },
+  {
+    "id": "vendor-002",
+    "vendorName": "Vehicle Maintenance 2",
+    "email": "vendor2@supplier.zm",
+    "phone": "+260-094-733831",
+    "address": "Plot 7853, Cairo Road, Copperbelt",
+    "taxId": "TPIN-9825310867",
+    "paymentTerms": "NET30",
+    "accountBalance": 29847
+  },
+  {
+    "id": "vendor-003",
+    "vendorName": "Fuel Suppliers 3",
+    "email": "vendor3@supplier.zm",
+    "phone": "+260-096-939663",
+    "address": "Plot 5861, Twin Palm Road, Copperbelt",
+    "taxId": "TPIN-3551847818",
+    "paymentTerms": "COD",
+    "accountBalance": 28630
+  },
+  {
+    "id": "vendor-004",
+    "vendorName": "Vehicle Maintenance 4",
+    "email": "vendor4@supplier.zm",
+    "phone": "+260-096-286462",
+    "address": "Plot 7173, Freedom Way, Northern Province",
+    "taxId": "TPIN-5511204442",
+    "paymentTerms": "COD",
+    "accountBalance": 9447
+  },
+  {
+    "id": "vendor-005",
+    "vendorName": "Fuel Suppliers 5",
+    "email": "vendor5@supplier.zm",
+    "phone": "+260-097-593302",
+    "address": "Plot 1957, Great East Road, Southern Province",
+    "taxId": "TPIN-1660988086",
+    "paymentTerms": "NET60",
+    "accountBalance": 29060
+  },
+  {
+    "id": "vendor-006",
+    "vendorName": "Vehicle Maintenance 6",
+    "email": "vendor6@supplier.zm",
+    "phone": "+260-094-817827",
+    "address": "Plot 8361, Cairo Road, Northern Province",
+    "taxId": "TPIN-8426154609",
+    "paymentTerms": "COD",
+    "accountBalance": 12943
+  },
+  {
+    "id": "vendor-007",
+    "vendorName": "Vehicle Maintenance 7",
+    "email": "vendor7@supplier.zm",
+    "phone": "+260-096-288174",
+    "address": "Plot 5585, Cairo Road, Lusaka",
+    "taxId": "TPIN-6566685041",
+    "paymentTerms": "NET60",
+    "accountBalance": 41516
+  },
+  {
+    "id": "vendor-008",
+    "vendorName": "Vehicle Maintenance 8",
+    "email": "vendor8@supplier.zm",
+    "phone": "+260-097-765519",
+    "address": "Plot 7860, Independence Avenue, Copperbelt",
+    "taxId": "TPIN-4499129456",
+    "paymentTerms": "NET60",
+    "accountBalance": 35257
+  },
+  {
+    "id": "vendor-009",
+    "vendorName": "Vehicle Maintenance 9",
+    "email": "vendor9@supplier.zm",
+    "phone": "+260-096-775510",
+    "address": "Plot 9814, Independence Avenue, Northern Province",
+    "taxId": "TPIN-2794702627",
+    "paymentTerms": "NET60",
+    "accountBalance": 17985
+  },
+  {
+    "id": "vendor-010",
+    "vendorName": "Fuel Suppliers 10",
+    "email": "vendor10@supplier.zm",
+    "phone": "+260-216-956463",
+    "address": "Plot 2774, Independence Avenue, Lusaka",
+    "taxId": "TPIN-6574369322",
+    "paymentTerms": "NET60",
+    "accountBalance": 9701
+  },
+  {
+    "id": "vendor-011",
+    "vendorName": "Fuel Suppliers 11",
+    "email": "vendor11@supplier.zm",
+    "phone": "+260-216-386087",
+    "address": "Plot 7274, Freedom Way, Northern Province",
+    "taxId": "TPIN-1820536958",
+    "paymentTerms": "COD",
+    "accountBalance": 25585
+  },
+  {
+    "id": "vendor-012",
+    "vendorName": "Vehicle Maintenance 12",
+    "email": "vendor12@supplier.zm",
+    "phone": "+260-097-525865",
+    "address": "Plot 6854, Twin Palm Road, Lusaka",
+    "taxId": "TPIN-4947186333",
+    "paymentTerms": "NET60",
+    "accountBalance": 13834
+  },
+  {
+    "id": "vendor-013",
+    "vendorName": "Insurance Providers 13",
+    "email": "vendor13@supplier.zm",
+    "phone": "+260-217-765943",
+    "address": "Plot 3163, Cairo Road, Northern Province",
+    "taxId": "TPIN-5523832508",
+    "paymentTerms": "NET30",
+    "accountBalance": 48069
+  },
+  {
+    "id": "vendor-014",
+    "vendorName": "Insurance Providers 14",
+    "email": "vendor14@supplier.zm",
+    "phone": "+260-097-395123",
+    "address": "Plot 6827, Independence Avenue, Eastern Province",
+    "taxId": "TPIN-6234967256",
+    "paymentTerms": "NET30",
+    "accountBalance": 35506
+  },
+  {
+    "id": "vendor-015",
+    "vendorName": "Insurance Providers 15",
+    "email": "vendor15@supplier.zm",
+    "phone": "+260-095-437340",
+    "address": "Plot 3310, Freedom Way, Lusaka",
+    "taxId": "TPIN-8302456751",
+    "paymentTerms": "NET30",
+    "accountBalance": 17312
+  },
+  {
+    "id": "vendor-016",
+    "vendorName": "Insurance Providers 16",
+    "email": "vendor16@supplier.zm",
+    "phone": "+260-094-898866",
+    "address": "Plot 8768, Independence Avenue, Northern Province",
+    "taxId": "TPIN-4975351172",
+    "paymentTerms": "COD",
+    "accountBalance": 38155
+  },
+  {
+    "id": "vendor-017",
+    "vendorName": "Vehicle Maintenance 17",
+    "email": "vendor17@supplier.zm",
+    "phone": "+260-096-104981",
+    "address": "Plot 6429, Freedom Way, Southern Province",
+    "taxId": "TPIN-9423530170",
+    "paymentTerms": "NET60",
+    "accountBalance": 16740
+  },
+  {
+    "id": "vendor-018",
+    "vendorName": "Insurance Providers 18",
+    "email": "vendor18@supplier.zm",
+    "phone": "+260-216-233125",
+    "address": "Plot 2148, Cairo Road, Northern Province",
+    "taxId": "TPIN-2484167009",
+    "paymentTerms": "NET60",
+    "accountBalance": 5924
+  },
+  {
+    "id": "vendor-019",
+    "vendorName": "Vehicle Maintenance 19",
+    "email": "vendor19@supplier.zm",
+    "phone": "+260-216-140847",
+    "address": "Plot 6973, Cairo Road, Southern Province",
+    "taxId": "TPIN-9689776697",
+    "paymentTerms": "NET30",
+    "accountBalance": 29273
+  },
+  {
+    "id": "vendor-020",
+    "vendorName": "Fuel Suppliers 20",
+    "email": "vendor20@supplier.zm",
+    "phone": "+260-096-911670",
+    "address": "Plot 3228, Cairo Road, Northern Province",
+    "taxId": "TPIN-4087953020",
+    "paymentTerms": "COD",
+    "accountBalance": 29487
+  },
+  {
+    "id": "vendor-021",
+    "vendorName": "Vehicle Maintenance 21",
+    "email": "vendor21@supplier.zm",
+    "phone": "+260-097-902947",
+    "address": "Plot 3999, Freedom Way, Lusaka",
+    "taxId": "TPIN-6169150129",
+    "paymentTerms": "NET60",
+    "accountBalance": 35355
+  },
+  {
+    "id": "vendor-022",
+    "vendorName": "Vehicle Maintenance 22",
+    "email": "vendor22@supplier.zm",
+    "phone": "+260-096-998642",
+    "address": "Plot 1376, Twin Palm Road, Lusaka",
+    "taxId": "TPIN-5848296725",
+    "paymentTerms": "COD",
+    "accountBalance": 24018
+  },
+  {
+    "id": "vendor-023",
+    "vendorName": "Vehicle Maintenance 23",
+    "email": "vendor23@supplier.zm",
+    "phone": "+260-096-172584",
+    "address": "Plot 8119, Twin Palm Road, Central Province",
+    "taxId": "TPIN-4845174770",
+    "paymentTerms": "COD",
+    "accountBalance": 47365
+  },
+  {
+    "id": "vendor-024",
+    "vendorName": "Vehicle Maintenance 24",
+    "email": "vendor24@supplier.zm",
+    "phone": "+260-095-582195",
+    "address": "Plot 9758, Cairo Road, Central Province",
+    "taxId": "TPIN-6627066648",
+    "paymentTerms": "NET60",
+    "accountBalance": 28071
+  },
+  {
+    "id": "vendor-025",
+    "vendorName": "Vehicle Maintenance 25",
+    "email": "vendor25@supplier.zm",
+    "phone": "+260-216-122562",
+    "address": "Plot 8823, Twin Palm Road, Lusaka",
+    "taxId": "TPIN-2393905486",
+    "paymentTerms": "COD",
+    "accountBalance": 30166
+  },
+  {
+    "id": "vendor-026",
+    "vendorName": "Fuel Suppliers 26",
+    "email": "vendor26@supplier.zm",
+    "phone": "+260-216-432166",
+    "address": "Plot 6927, Great East Road, Central Province",
+    "taxId": "TPIN-7220209289",
+    "paymentTerms": "COD",
+    "accountBalance": 23138
+  },
+  {
+    "id": "vendor-027",
+    "vendorName": "Fuel Suppliers 27",
+    "email": "vendor27@supplier.zm",
+    "phone": "+260-217-895198",
+    "address": "Plot 9112, Cairo Road, Copperbelt",
+    "taxId": "TPIN-8743483422",
+    "paymentTerms": "NET60",
+    "accountBalance": 7845
+  },
+  {
+    "id": "vendor-028",
+    "vendorName": "Vehicle Maintenance 28",
+    "email": "vendor28@supplier.zm",
+    "phone": "+260-095-582922",
+    "address": "Plot 5478, Great East Road, Copperbelt",
+    "taxId": "TPIN-5559042076",
+    "paymentTerms": "COD",
+    "accountBalance": 12978
+  },
+  {
+    "id": "vendor-029",
+    "vendorName": "Vehicle Maintenance 29",
+    "email": "vendor29@supplier.zm",
+    "phone": "+260-095-432242",
+    "address": "Plot 6608, Twin Palm Road, Southern Province",
+    "taxId": "TPIN-6747798868",
+    "paymentTerms": "NET60",
+    "accountBalance": 38720
+  },
+  {
+    "id": "vendor-030",
+    "vendorName": "Fuel Suppliers 30",
+    "email": "vendor30@supplier.zm",
+    "phone": "+260-216-123121",
+    "address": "Plot 7584, Freedom Way, Northern Province",
+    "taxId": "TPIN-6446300305",
+    "paymentTerms": "NET60",
+    "accountBalance": 49988
+  }
+]

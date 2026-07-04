@@ -1,0 +1,191 @@
+[
+  {
+    "id": 1,
+    "estimateNumber": "EST-2025-001",
+    "customerId": 8,
+    "customerName": "Mulenga Metals Limited",
+    "estimateDateDaysAgo": 13,
+    "expirationDateDaysFromNow": 44,
+    "status": "Accepted",
+    "subTotal": 1082555.49,
+    "taxRate": 16,
+    "taxAmount": 173208.88,
+    "total": 1255764.37,
+    "terms": "Net 15",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 13,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Zinc Concentrate Supply",
+        "quantity": 4,
+        "unitPrice": 270638.87,
+        "amount": 1082555.49,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 12
+  },
+  {
+    "id": 2,
+    "estimateNumber": "EST-2025-002",
+    "customerId": 4,
+    "customerName": "Sakala Mining Co. Co.",
+    "estimateDateDaysAgo": 53,
+    "expirationDateDaysFromNow": 21,
+    "status": "Sent",
+    "subTotal": 798774.88,
+    "taxRate": 18,
+    "taxAmount": 143779.48,
+    "total": 942554.36,
+    "terms": "Net 30",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 53,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Cobalt Export",
+        "quantity": 5,
+        "unitPrice": 159754.98,
+        "amount": 798774.88,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 52
+  },
+  {
+    "id": 3,
+    "estimateNumber": "EST-2025-003",
+    "customerId": 4,
+    "customerName": "Sakala Mining Co. Co.",
+    "estimateDateDaysAgo": 30,
+    "expirationDateDaysFromNow": 41,
+    "status": "Declined",
+    "subTotal": 3009005.34,
+    "taxRate": 16,
+    "taxAmount": 481440.85,
+    "total": 3490446.19,
+    "terms": "Net 45",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 30,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Equipment Rental",
+        "quantity": 4,
+        "unitPrice": 752251.33,
+        "amount": 3009005.34,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 29
+  },
+  {
+    "id": 4,
+    "estimateNumber": "EST-2025-004",
+    "customerId": 5,
+    "customerName": "Banda Resources Solutions",
+    "estimateDateDaysAgo": 16,
+    "expirationDateDaysFromNow": 16,
+    "status": "Expired",
+    "subTotal": 1387099.55,
+    "taxRate": 18,
+    "taxAmount": 249677.92,
+    "total": 1636777.47,
+    "terms": "Net 30",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 16,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Mining Rights Fee",
+        "quantity": 1,
+        "unitPrice": 1387099.55,
+        "amount": 1387099.55,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 15
+  },
+  {
+    "id": 5,
+    "estimateNumber": "EST-2025-005",
+    "customerId": 4,
+    "customerName": "Sakala Mining Co. Co.",
+    "estimateDateDaysAgo": 44,
+    "expirationDateDaysFromNow": 25,
+    "status": "Accepted",
+    "subTotal": 926059.58,
+    "taxRate": 15,
+    "taxAmount": 138908.94,
+    "total": 1064968.52,
+    "terms": "Net 45",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 44,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Cobalt Export",
+        "quantity": 5,
+        "unitPrice": 185211.92,
+        "amount": 926059.58,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 43
+  },
+  {
+    "id": 6,
+    "estimateNumber": "EST-2025-006",
+    "customerId": 2,
+    "customerName": "Lungu Mining Co. Holdings",
+    "estimateDateDaysAgo": 48,
+    "expirationDateDaysFromNow": 27,
+    "status": "Open",
+    "subTotal": 1262703.09,
+    "taxRate": 0,
+    "taxAmount": 0.0,
+    "total": 1262703.09,
+    "terms": "Net 15",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 48,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Mineral Export Consignment",
+        "quantity": 3,
+        "unitPrice": 420901.03,
+        "amount": 1262703.09,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 47
+  },
+  {
+    "id": 7,
+    "estimateNumber": "EST-2025-007",
+    "customerId": 2,
+    "customerName": "Lungu Mining Co. Holdings",
+    "estimateDateDaysAgo": 55,
+    "expirationDateDaysFromNow": 30,
+    "status": "Expired",
+    "subTotal": 3582289.06,
+    "taxRate": 0,
+    "taxAmount": 0.0,
+    "total": 3582289.06,
+    "terms": "Net 30",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 55,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Equipment Rental",
+        "quantity": 3,
+        "unitPrice": 1194096.35,
+        "amount": 3582289.06,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 54
+  }
+]

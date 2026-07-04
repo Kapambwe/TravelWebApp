@@ -1,0 +1,101 @@
+[
+  {
+    "id": 1,
+    "billNumber": "BILL-2025-001",
+    "vendorName": "Zimba Agro Ltd",
+    "description": "Fumigation Services",
+    "billDate": "2024-10-01T00:00:00",
+    "dueDate": "2024-11-15T00:00:00",
+    "amount": 2280391.58,
+    "paidAmount": 870532.75,
+    "status": "PartiallyPaid"
+  },
+  {
+    "id": 2,
+    "billNumber": "BILL-2025-002",
+    "vendorName": "Zimba Food Industries Holdings",
+    "description": "Processing Equipment Maintenance",
+    "billDate": "2024-11-13T00:00:00",
+    "dueDate": "2024-12-28T00:00:00",
+    "amount": 1754104.35,
+    "paidAmount": 0.0,
+    "status": "Overdue"
+  },
+  {
+    "id": 3,
+    "billNumber": "BILL-2025-003",
+    "vendorName": "Mutale Farms Enterprises",
+    "description": "Cold Storage Fees",
+    "billDate": "2024-09-18T00:00:00",
+    "dueDate": "2024-10-18T00:00:00",
+    "amount": 2897108.77,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 4,
+    "billNumber": "BILL-2025-004",
+    "vendorName": "Zimba Agro Ltd",
+    "description": "Fumigation Services",
+    "billDate": "2025-01-24T00:00:00",
+    "dueDate": "2025-02-08T00:00:00",
+    "amount": 1664582.27,
+    "paidAmount": 1664582.27,
+    "status": "Paid"
+  },
+  {
+    "id": 5,
+    "billNumber": "BILL-2025-005",
+    "vendorName": "Zimba Agro Ltd",
+    "description": "Processing Equipment Maintenance",
+    "billDate": "2024-12-11T00:00:00",
+    "dueDate": "2025-01-25T00:00:00",
+    "amount": 1214847.53,
+    "paidAmount": 1214847.53,
+    "status": "Paid"
+  },
+  {
+    "id": 6,
+    "billNumber": "BILL-2025-006",
+    "vendorName": "Tembo Agricultural Group",
+    "description": "Cold Storage Fees",
+    "billDate": "2024-11-04T00:00:00",
+    "dueDate": "2024-12-04T00:00:00",
+    "amount": 2883779.3,
+    "paidAmount": 2883779.3,
+    "status": "Paid"
+  },
+  {
+    "id": 7,
+    "billNumber": "BILL-2025-007",
+    "vendorName": "Zimba Agro Ltd",
+    "description": "Cold Storage Fees",
+    "billDate": "2024-11-01T00:00:00",
+    "dueDate": "2024-11-16T00:00:00",
+    "amount": 3043230.48,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 8,
+    "billNumber": "BILL-2025-008",
+    "vendorName": "Mutale Farms Enterprises",
+    "description": "Transport Charges",
+    "billDate": "2025-03-02T00:00:00",
+    "dueDate": "2025-04-01T00:00:00",
+    "amount": 3492731.46,
+    "paidAmount": 3492731.46,
+    "status": "Paid"
+  },
+  {
+    "id": 9,
+    "billNumber": "BILL-2025-009",
+    "vendorName": "Zimba Food Industries Holdings",
+    "description": "Transport Charges",
+    "billDate": "2025-03-08T00:00:00",
+    "dueDate": "2025-04-22T00:00:00",
+    "amount": 3237533.01,
+    "paidAmount": 3237533.01,
+    "status": "Paid"
+  }
+]

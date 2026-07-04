@@ -1,0 +1,272 @@
+[
+  {
+    "id": "item-001",
+    "customerId": "cust-001",
+    "activityType": "Meeting",
+    "subject": "Quarterly Business Review",
+    "date": "2025-07-25",
+    "notes": "Discussed upcoming projects and payment terms",
+    "userId": "user-001"
+  },
+  {
+    "id": "item-002",
+    "customerId": "cust-001",
+    "activityType": "Meeting",
+    "subject": "Quarterly Business Review",
+    "date": "2025-07-25",
+    "notes": "Discussed upcoming projects and payment terms",
+    "userId": "user-001"
+  },
+  {
+    "id": "item-003",
+    "customerId": "cust-001",
+    "activityType": "Meeting",
+    "subject": "Quarterly Business Review",
+    "date": "2025-07-25",
+    "notes": "Discussed upcoming projects and payment terms",
+    "userId": "user-001"
+  },
+  {
+    "id": "item-004",
+    "customerId": "cust-001",
+    "activityType": "Meeting",
+    "subject": "Quarterly Business Review",
+    "date": "2025-07-25",
+    "notes": "Discussed upcoming projects and payment terms",
+    "userId": "user-001"
+  },
+  {
+    "id": "item-005",
+    "customerId": "cust-001",
+    "activityType": "Meeting",
+    "subject": "Quarterly Business Review",
+    "date": "2025-07-25",
+    "notes": "Discussed upcoming projects and payment terms",
+    "userId": "user-001"
+  },
+  {
+    "id": "item-006",
+    "customerId": "cust-001",
+    "activityType": "Meeting",
+    "subject": "Quarterly Business Review",
+    "date": "2025-07-25",
+    "notes": "Discussed upcoming projects and payment terms",
+    "userId": "user-001"
+  },
+  {
+    "id": "item-007",
+    "customerId": "cust-001",
+    "activityType": "Meeting",
+    "subject": "Quarterly Business Review",
+    "date": "2025-07-25",
+    "notes": "Discussed upcoming projects and payment terms",
+    "userId": "user-001"
+  },
+  {
+    "id": "item-008",
+    "customerId": "cust-001",
+    "activityType": "Meeting",
+    "subject": "Quarterly Business Review",
+    "date": "2025-07-25",
+    "notes": "Discussed upcoming projects and payment terms",
+    "userId": "user-001"
+  },
+  {
+    "id": "item-009",
+    "customerId": "cust-001",
+    "activityType": "Meeting",
+    "subject": "Quarterly Business Review",
+    "date": "2025-07-25",
+    "notes": "Discussed upcoming projects and payment terms",
+    "userId": "user-001"
+  },
+  {
+    "id": "item-010",
+    "customerId": "cust-001",
+    "activityType": "Meeting",
+    "subject": "Quarterly Business Review",
+    "date": "2025-07-25",
+    "notes": "Discussed upcoming projects and payment terms",
+    "userId": "user-001"
+  },
+  {
+    "id": "item-011",
+    "customerId": "cust-001",
+    "activityType": "Meeting",
+    "subject": "Quarterly Business Review",
+    "date": "2025-07-25",
+    "notes": "Discussed upcoming projects and payment terms",
+    "userId": "user-001"
+  },
+  {
+    "id": "item-012",
+    "customerId": "cust-001",
+    "activityType": "Meeting",
+    "subject": "Quarterly Business Review",
+    "date": "2025-07-25",
+    "notes": "Discussed upcoming projects and payment terms",
+    "userId": "user-001"
+  },
+  {
+    "id": "item-013",
+    "customerId": "cust-001",
+    "activityType": "Meeting",
+    "subject": "Quarterly Business Review",
+    "date": "2025-07-25",
+    "notes": "Discussed upcoming projects and payment terms",
+    "userId": "user-001"
+  },
+  {
+    "id": "item-014",
+    "customerId": "cust-001",
+    "activityType": "Meeting",
+    "subject": "Quarterly Business Review",
+    "date": "2025-07-25",
+    "notes": "Discussed upcoming projects and payment terms",
+    "userId": "user-001"
+  },
+  {
+    "id": "item-015",
+    "customerId": "cust-001",
+    "activityType": "Meeting",
+    "subject": "Quarterly Business Review",
+    "date": "2025-07-25",
+    "notes": "Discussed upcoming projects and payment terms",
+    "userId": "user-001"
+  },
+  {
+    "id": "item-016",
+    "customerId": "cust-001",
+    "activityType": "Meeting",
+    "subject": "Quarterly Business Review",
+    "date": "2025-07-25",
+    "notes": "Discussed upcoming projects and payment terms",
+    "userId": "user-001"
+  },
+  {
+    "id": "item-017",
+    "customerId": "cust-001",
+    "activityType": "Meeting",
+    "subject": "Quarterly Business Review",
+    "date": "2025-07-25",
+    "notes": "Discussed upcoming projects and payment terms",
+    "userId": "user-001"
+  },
+  {
+    "id": "item-018",
+    "customerId": "cust-001",
+    "activityType": "Meeting",
+    "subject": "Quarterly Business Review",
+    "date": "2025-07-25",
+    "notes": "Discussed upcoming projects and payment terms",
+    "userId": "user-001"
+  },
+  {
+    "id": "item-019",
+    "customerId": "cust-001",
+    "activityType": "Meeting",
+    "subject": "Quarterly Business Review",
+    "date": "2025-07-25",
+    "notes": "Discussed upcoming projects and payment terms",
+    "userId": "user-001"
+  },
+  {
+    "id": "item-020",
+    "customerId": "cust-001",
+    "activityType": "Meeting",
+    "subject": "Quarterly Business Review",
+    "date": "2025-07-25",
+    "notes": "Discussed upcoming projects and payment terms",
+    "userId": "user-001"
+  },
+  {
+    "id": "item-021",
+    "customerId": "cust-001",
+    "activityType": "Meeting",
+    "subject": "Quarterly Business Review",
+    "date": "2025-07-25",
+    "notes": "Discussed upcoming projects and payment terms",
+    "userId": "user-001"
+  },
+  {
+    "id": "item-022",
+    "customerId": "cust-001",
+    "activityType": "Meeting",
+    "subject": "Quarterly Business Review",
+    "date": "2025-07-25",
+    "notes": "Discussed upcoming projects and payment terms",
+    "userId": "user-001"
+  },
+  {
+    "id": "item-023",
+    "customerId": "cust-001",
+    "activityType": "Meeting",
+    "subject": "Quarterly Business Review",
+    "date": "2025-07-25",
+    "notes": "Discussed upcoming projects and payment terms",
+    "userId": "user-001"
+  },
+  {
+    "id": "item-024",
+    "customerId": "cust-001",
+    "activityType": "Meeting",
+    "subject": "Quarterly Business Review",
+    "date": "2025-07-25",
+    "notes": "Discussed upcoming projects and payment terms",
+    "userId": "user-001"
+  },
+  {
+    "id": "item-025",
+    "customerId": "cust-001",
+    "activityType": "Meeting",
+    "subject": "Quarterly Business Review",
+    "date": "2025-07-25",
+    "notes": "Discussed upcoming projects and payment terms",
+    "userId": "user-001"
+  },
+  {
+    "id": "item-026",
+    "customerId": "cust-001",
+    "activityType": "Meeting",
+    "subject": "Quarterly Business Review",
+    "date": "2025-07-25",
+    "notes": "Discussed upcoming projects and payment terms",
+    "userId": "user-001"
+  },
+  {
+    "id": "item-027",
+    "customerId": "cust-001",
+    "activityType": "Meeting",
+    "subject": "Quarterly Business Review",
+    "date": "2025-07-25",
+    "notes": "Discussed upcoming projects and payment terms",
+    "userId": "user-001"
+  },
+  {
+    "id": "item-028",
+    "customerId": "cust-001",
+    "activityType": "Meeting",
+    "subject": "Quarterly Business Review",
+    "date": "2025-07-25",
+    "notes": "Discussed upcoming projects and payment terms",
+    "userId": "user-001"
+  },
+  {
+    "id": "item-029",
+    "customerId": "cust-001",
+    "activityType": "Meeting",
+    "subject": "Quarterly Business Review",
+    "date": "2025-07-25",
+    "notes": "Discussed upcoming projects and payment terms",
+    "userId": "user-001"
+  },
+  {
+    "id": "item-030",
+    "customerId": "cust-001",
+    "activityType": "Meeting",
+    "subject": "Quarterly Business Review",
+    "date": "2025-07-25",
+    "notes": "Discussed upcoming projects and payment terms",
+    "userId": "user-001"
+  }
+]

@@ -1,0 +1,13 @@
+{
+  "companyName": "Ndola Tailoring Services",
+  "defaultCurrency": "ZMW",
+  "fiscalYearStart": "01-01",
+  "taxRate": 16.0,
+  "dateFormat": "DD/MM/YYYY",
+  "numberFormat": "en-ZM",
+  "enableMultiCurrency": false,
+  "defaultPaymentTerms": 14,
+  "companyTpin": "TPIN-9284756321",
+  "companyAddress": "Plot 445, Makishi Road, Ndola",
+  "businessType": "tailoring"
+}

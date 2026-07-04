@@ -1,0 +1,18 @@
+﻿[
+    {
+        "Id":  5,
+        "Name":  "Gift Mumba",
+        "EmployeeId":  "EMP-061",
+        "IsAvailable":  true,
+        "Specialization":  "Carnivore tracking \u0026 Ballon crew",
+        "Rating":  5
+    },
+    {
+        "Id":  6,
+        "Name":  "Loveness Sakala",
+        "EmployeeId":  "EMP-062",
+        "IsAvailable":  true,
+        "Specialization":  "Swamp ecology \u0026 Antelopes",
+        "Rating":  4.6
+    }
+]

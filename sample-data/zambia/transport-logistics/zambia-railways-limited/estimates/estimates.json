@@ -1,0 +1,189 @@
+[
+  {
+    "id": 1,
+    "estimateNumber": "EST-2025-001",
+    "customerId": 11,
+    "customerName": "Lungu Cargo Inc.",
+    "estimateDateDaysAgo": 51,
+    "expirationDateDaysFromNow": 16,
+    "status": "Sent",
+    "subTotal": 2468012.08,
+    "taxRate": 15,
+    "taxAmount": 370201.81,
+    "total": 2838213.89,
+    "terms": "Net 15",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 51,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Cross-Border Transport",
+        "quantity": 4,
+        "unitPrice": 617003.02,
+        "amount": 2468012.08,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 50
+  },
+  {
+    "id": 2,
+    "estimateNumber": "EST-2025-002",
+    "customerId": 6,
+    "customerName": "Siame Freight Co.",
+    "estimateDateDaysAgo": 20,
+    "expirationDateDaysFromNow": 20,
+    "status": "Expired",
+    "subTotal": 3592540.69,
+    "taxRate": 18,
+    "taxAmount": 646657.32,
+    "total": 4239198.01,
+    "terms": "Net 30",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 20,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Air Cargo Haulage",
+        "quantity": 2,
+        "unitPrice": 1796270.34,
+        "amount": 3592540.69,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 19
+  },
+  {
+    "id": 3,
+    "estimateNumber": "EST-2025-003",
+    "customerId": 6,
+    "customerName": "Siame Freight Co.",
+    "estimateDateDaysAgo": 31,
+    "expirationDateDaysFromNow": 19,
+    "status": "Accepted",
+    "subTotal": 1414789.95,
+    "taxRate": 18,
+    "taxAmount": 254662.19,
+    "total": 1669452.14,
+    "terms": "Net 15",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 31,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Last-Mile Delivery",
+        "quantity": 5,
+        "unitPrice": 282957.99,
+        "amount": 1414789.95,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 30
+  },
+  {
+    "id": 4,
+    "estimateNumber": "EST-2025-004",
+    "customerId": 5,
+    "customerName": "Mutale Haulage Limited",
+    "estimateDateDaysAgo": 13,
+    "expirationDateDaysFromNow": 23,
+    "status": "Expired",
+    "subTotal": 1982824.55,
+    "taxRate": 18,
+    "taxAmount": 356908.42,
+    "total": 2339732.97,
+    "terms": "Net 45",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 13,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Last-Mile Delivery",
+        "quantity": 1,
+        "unitPrice": 1982824.55,
+        "amount": 1982824.55,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 12
+  },
+  {
+    "id": 5,
+    "estimateNumber": "EST-2025-005",
+    "customerId": 1,
+    "customerName": "Zimba Haulage Ltd",
+    "estimateDateDaysAgo": 16,
+    "expirationDateDaysFromNow": 41,
+    "status": "Sent",
+    "subTotal": 888307.03,
+    "taxRate": 0,
+    "taxAmount": 0.0,
+    "total": 888307.03,
+    "terms": "Net 15",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 16,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Road Freight Services",
+        "quantity": 2,
+        "unitPrice": 444153.52,
+        "amount": 888307.03,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 15
+  },
+  {
+    "id": 6,
+    "estimateNumber": "EST-2025-006",
+    "customerId": 3,
+    "customerName": "Kaputo Logistics Holdings",
+    "estimateDateDaysAgo": 53,
+    "expirationDateDaysFromNow": 37,
+    "status": "Draft",
+    "subTotal": 2833174.84,
+    "taxRate": 0,
+    "taxAmount": 0.0,
+    "total": 2833174.84,
+    "terms": "Net 45",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 53,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Air Cargo Haulage",
+        "quantity": 5,
+        "unitPrice": 566634.97,
+        "amount": 2833174.84,
+        "itemType": "Service"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "estimateNumber": "EST-2025-007",
+    "customerId": 9,
+    "customerName": "Bwalya Transport Ltd",
+    "estimateDateDaysAgo": 5,
+    "expirationDateDaysFromNow": 36,
+    "status": "Draft",
+    "subTotal": 1626955.9,
+    "taxRate": 15,
+    "taxAmount": 244043.39,
+    "total": 1870999.29,
+    "terms": "Net 30",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 5,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Warehousing & Storage",
+        "quantity": 1,
+        "unitPrice": 1626955.9,
+        "amount": 1626955.9,
+        "itemType": "Service"
+      }
+    ]
+  }
+]

@@ -1,0 +1,21 @@
+{
+    "userId":  "user-Kafue-001",
+    "userName":  "billing@kafuenationalpark.org.zm",
+    "fullName":  "Kafue",
+    "roles":  [
+                  "Director General",
+                  "Park Warden",
+                  "Chief Ranger"
+              ],
+    "companyId":  "kfnp-001",
+    "companyName":  "Kafue National Park Wildlife Authority",
+    "permissions":  [
+                        "ViewReports",
+                        "CreateTransactions",
+                        "ApproveBudgets",
+                        "ManageParkEntry",
+                        "ManageRangers",
+                        "ViewGateFees",
+                        "ManageConservation"
+                    ]
+}

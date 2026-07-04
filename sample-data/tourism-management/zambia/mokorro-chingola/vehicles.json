@@ -1,0 +1,12 @@
+﻿{
+    "Capacity":  10,
+    "Id":  203,
+    "RegistrationNumber":  "ZM-MKC-30",
+    "VehicleType":  0,
+    "FuelType":  "Diesel",
+    "Name":  "Mokorro Open Safari Vehicle",
+    "NextServiceDue":  "2024-11-18",
+    "Status":  0,
+    "LastServiceDate":  "2024-05-18",
+    "FuelLevel":  0.8
+}

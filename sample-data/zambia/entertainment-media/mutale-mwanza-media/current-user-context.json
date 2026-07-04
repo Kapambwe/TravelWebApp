@@ -1,0 +1,20 @@
+{
+  "userId": "user-mutale-001",
+  "userName": "admin@mutalemwanza.co.zm",
+  "fullName": "Mutale Mwanza",
+  "roles": [
+    "CEO",
+    "Media Producer",
+    "Entrepreneur"
+  ],
+  "companyId": "mutale-media-001",
+  "companyName": "Mutale Mwanza Media Productions",
+  "permissions": [
+    "ViewReports",
+    "CreateTransactions",
+    "ApproveBudgets",
+    "ManageProductions",
+    "ManageContracts",
+    "ViewAnalytics"
+  ]
+}

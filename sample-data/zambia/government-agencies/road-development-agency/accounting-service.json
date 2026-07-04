@@ -1,0 +1,272 @@
+[
+  {
+    "id": "acc-001",
+    "accountName": "Cash Account 1",
+    "accountType": "Asset",
+    "accountNumber": "1000",
+    "balance": 34962.23,
+    "currency": "ZMW",
+    "description": "Main cash account for daily operations"
+  },
+  {
+    "id": "acc-002",
+    "accountName": "Accounts Receivable 2",
+    "accountType": "Asset",
+    "accountNumber": "1200",
+    "balance": 3819.31,
+    "currency": "ZMW",
+    "description": "Customer outstanding payments"
+  },
+  {
+    "id": "acc-003",
+    "accountName": "Accounts Payable 3",
+    "accountType": "Liability",
+    "accountNumber": "2000",
+    "balance": 32659.88,
+    "currency": "ZMW",
+    "description": "Vendor payments due"
+  },
+  {
+    "id": "acc-004",
+    "accountName": "Cash Account 4",
+    "accountType": "Asset",
+    "accountNumber": "1000",
+    "balance": 31959.11,
+    "currency": "ZMW",
+    "description": "Main cash account for daily operations"
+  },
+  {
+    "id": "acc-005",
+    "accountName": "Accounts Receivable 5",
+    "accountType": "Asset",
+    "accountNumber": "1200",
+    "balance": 10620.59,
+    "currency": "ZMW",
+    "description": "Customer outstanding payments"
+  },
+  {
+    "id": "acc-006",
+    "accountName": "Accounts Payable 6",
+    "accountType": "Liability",
+    "accountNumber": "2000",
+    "balance": 10018.24,
+    "currency": "ZMW",
+    "description": "Vendor payments due"
+  },
+  {
+    "id": "acc-007",
+    "accountName": "Cash Account 7",
+    "accountType": "Asset",
+    "accountNumber": "1000",
+    "balance": 39190.39,
+    "currency": "ZMW",
+    "description": "Main cash account for daily operations"
+  },
+  {
+    "id": "acc-008",
+    "accountName": "Accounts Receivable 8",
+    "accountType": "Asset",
+    "accountNumber": "1200",
+    "balance": 18970.93,
+    "currency": "ZMW",
+    "description": "Customer outstanding payments"
+  },
+  {
+    "id": "acc-009",
+    "accountName": "Accounts Payable 9",
+    "accountType": "Liability",
+    "accountNumber": "2000",
+    "balance": 14740.57,
+    "currency": "ZMW",
+    "description": "Vendor payments due"
+  },
+  {
+    "id": "acc-010",
+    "accountName": "Cash Account 10",
+    "accountType": "Asset",
+    "accountNumber": "1000",
+    "balance": 30294.86,
+    "currency": "ZMW",
+    "description": "Main cash account for daily operations"
+  },
+  {
+    "id": "acc-011",
+    "accountName": "Accounts Receivable 11",
+    "accountType": "Asset",
+    "accountNumber": "1200",
+    "balance": 32745.38,
+    "currency": "ZMW",
+    "description": "Customer outstanding payments"
+  },
+  {
+    "id": "acc-012",
+    "accountName": "Accounts Payable 12",
+    "accountType": "Liability",
+    "accountNumber": "2000",
+    "balance": 21179.66,
+    "currency": "ZMW",
+    "description": "Vendor payments due"
+  },
+  {
+    "id": "acc-013",
+    "accountName": "Cash Account 13",
+    "accountType": "Asset",
+    "accountNumber": "1000",
+    "balance": 16473.25,
+    "currency": "ZMW",
+    "description": "Main cash account for daily operations"
+  },
+  {
+    "id": "acc-014",
+    "accountName": "Accounts Receivable 14",
+    "accountType": "Asset",
+    "accountNumber": "1200",
+    "balance": 2682.54,
+    "currency": "ZMW",
+    "description": "Customer outstanding payments"
+  },
+  {
+    "id": "acc-015",
+    "accountName": "Accounts Payable 15",
+    "accountType": "Liability",
+    "accountNumber": "2000",
+    "balance": 30948.93,
+    "currency": "ZMW",
+    "description": "Vendor payments due"
+  },
+  {
+    "id": "acc-016",
+    "accountName": "Cash Account 16",
+    "accountType": "Asset",
+    "accountNumber": "1000",
+    "balance": 16209.87,
+    "currency": "ZMW",
+    "description": "Main cash account for daily operations"
+  },
+  {
+    "id": "acc-017",
+    "accountName": "Accounts Receivable 17",
+    "accountType": "Asset",
+    "accountNumber": "1200",
+    "balance": 45888.58,
+    "currency": "ZMW",
+    "description": "Customer outstanding payments"
+  },
+  {
+    "id": "acc-018",
+    "accountName": "Accounts Payable 18",
+    "accountType": "Liability",
+    "accountNumber": "2000",
+    "balance": 6033.29,
+    "currency": "ZMW",
+    "description": "Vendor payments due"
+  },
+  {
+    "id": "acc-019",
+    "accountName": "Cash Account 19",
+    "accountType": "Asset",
+    "accountNumber": "1000",
+    "balance": 5051.1,
+    "currency": "ZMW",
+    "description": "Main cash account for daily operations"
+  },
+  {
+    "id": "acc-020",
+    "accountName": "Accounts Receivable 20",
+    "accountType": "Asset",
+    "accountNumber": "1200",
+    "balance": 7309.39,
+    "currency": "ZMW",
+    "description": "Customer outstanding payments"
+  },
+  {
+    "id": "acc-021",
+    "accountName": "Accounts Payable 21",
+    "accountType": "Liability",
+    "accountNumber": "2000",
+    "balance": 39972.07,
+    "currency": "ZMW",
+    "description": "Vendor payments due"
+  },
+  {
+    "id": "acc-022",
+    "accountName": "Cash Account 22",
+    "accountType": "Asset",
+    "accountNumber": "1000",
+    "balance": 6637.52,
+    "currency": "ZMW",
+    "description": "Main cash account for daily operations"
+  },
+  {
+    "id": "acc-023",
+    "accountName": "Accounts Receivable 23",
+    "accountType": "Asset",
+    "accountNumber": "1200",
+    "balance": 31589.1,
+    "currency": "ZMW",
+    "description": "Customer outstanding payments"
+  },
+  {
+    "id": "acc-024",
+    "accountName": "Accounts Payable 24",
+    "accountType": "Liability",
+    "accountNumber": "2000",
+    "balance": 23926.01,
+    "currency": "ZMW",
+    "description": "Vendor payments due"
+  },
+  {
+    "id": "acc-025",
+    "accountName": "Cash Account 25",
+    "accountType": "Asset",
+    "accountNumber": "1000",
+    "balance": 40602.43,
+    "currency": "ZMW",
+    "description": "Main cash account for daily operations"
+  },
+  {
+    "id": "acc-026",
+    "accountName": "Accounts Receivable 26",
+    "accountType": "Asset",
+    "accountNumber": "1200",
+    "balance": 38202.66,
+    "currency": "ZMW",
+    "description": "Customer outstanding payments"
+  },
+  {
+    "id": "acc-027",
+    "accountName": "Accounts Payable 27",
+    "accountType": "Liability",
+    "accountNumber": "2000",
+    "balance": 27421.48,
+    "currency": "ZMW",
+    "description": "Vendor payments due"
+  },
+  {
+    "id": "acc-028",
+    "accountName": "Cash Account 28",
+    "accountType": "Asset",
+    "accountNumber": "1000",
+    "balance": 2069.67,
+    "currency": "ZMW",
+    "description": "Main cash account for daily operations"
+  },
+  {
+    "id": "acc-029",
+    "accountName": "Accounts Receivable 29",
+    "accountType": "Asset",
+    "accountNumber": "1200",
+    "balance": 19227.53,
+    "currency": "ZMW",
+    "description": "Customer outstanding payments"
+  },
+  {
+    "id": "acc-030",
+    "accountName": "Accounts Payable 30",
+    "accountType": "Liability",
+    "accountNumber": "2000",
+    "balance": 16062.39,
+    "currency": "ZMW",
+    "description": "Vendor payments due"
+  }
+]

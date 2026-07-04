@@ -1,0 +1,26 @@
+﻿[
+    {
+        "Capacity":  15,
+        "Id":  3,
+        "RegistrationNumber":  "ZM-LZ-201",
+        "VehicleType":  1,
+        "FuelType":  "Petrol",
+        "Name":  "Zambezi Explorer Boat",
+        "NextServiceDue":  "2024-12-01",
+        "Status":  0,
+        "LastServiceDate":  "2024-06-01",
+        "FuelLevel":  0.9
+    },
+    {
+        "Capacity":  8,
+        "Id":  4,
+        "RegistrationNumber":  "ZM-LZ-202",
+        "VehicleType":  0,
+        "FuelType":  "Diesel",
+        "Name":  "Zambezi Scout LandRover",
+        "NextServiceDue":  "2024-12-10",
+        "Status":  0,
+        "LastServiceDate":  "2024-06-10",
+        "FuelLevel":  0.65
+    }
+]

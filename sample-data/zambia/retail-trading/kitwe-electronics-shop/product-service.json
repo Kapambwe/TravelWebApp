@@ -1,0 +1,272 @@
+[
+  {
+    "id": "prod-001",
+    "productName": "Fluorescent Tubes",
+    "productCode": "SKU-17809",
+    "category": "Electronics",
+    "price": 7605.54,
+    "cost": 1156.61,
+    "description": "Quality Fluorescent Tubes for electronics business"
+  },
+  {
+    "id": "prod-002",
+    "productName": "Electrical Wiring",
+    "productCode": "SKU-61332",
+    "category": "Electronics",
+    "price": 7083.93,
+    "cost": 6518.41,
+    "description": "Quality Electrical Wiring for electronics business"
+  },
+  {
+    "id": "prod-003",
+    "productName": "Light Fixtures",
+    "productCode": "SKU-84481",
+    "category": "Electronics",
+    "price": 12544.52,
+    "cost": 4833.83,
+    "description": "Quality Light Fixtures for electronics business"
+  },
+  {
+    "id": "prod-004",
+    "productName": "Power Outlets",
+    "productCode": "SKU-90868",
+    "category": "Electronics",
+    "price": 8901.73,
+    "cost": 2954.34,
+    "description": "Quality Power Outlets for electronics business"
+  },
+  {
+    "id": "prod-005",
+    "productName": "Switches",
+    "productCode": "SKU-59967",
+    "category": "Electronics",
+    "price": 3706.09,
+    "cost": 5745.88,
+    "description": "Quality Switches for electronics business"
+  },
+  {
+    "id": "prod-006",
+    "productName": "Cables",
+    "productCode": "SKU-13290",
+    "category": "Electronics",
+    "price": 935.1,
+    "cost": 4813.08,
+    "description": "Quality Cables for electronics business"
+  },
+  {
+    "id": "prod-007",
+    "productName": "Extension Cords",
+    "productCode": "SKU-31871",
+    "category": "Electronics",
+    "price": 4217.82,
+    "cost": 2188.15,
+    "description": "Quality Extension Cords for electronics business"
+  },
+  {
+    "id": "prod-008",
+    "productName": "Generators",
+    "productCode": "SKU-89040",
+    "category": "Electronics",
+    "price": 6178.95,
+    "cost": 1087.08,
+    "description": "Quality Generators for electronics business"
+  },
+  {
+    "id": "prod-009",
+    "productName": "Solar Panels",
+    "productCode": "SKU-35985",
+    "category": "Electronics",
+    "price": 11521.71,
+    "cost": 5729.65,
+    "description": "Quality Solar Panels for electronics business"
+  },
+  {
+    "id": "prod-010",
+    "productName": "LED Bulbs",
+    "productCode": "SKU-56283",
+    "category": "Electronics",
+    "price": 4157.44,
+    "cost": 2298.42,
+    "description": "Quality LED Bulbs for electronics business"
+  },
+  {
+    "id": "prod-011",
+    "productName": "Fluorescent Tubes",
+    "productCode": "SKU-77665",
+    "category": "Electronics",
+    "price": 8665.48,
+    "cost": 4822.83,
+    "description": "Quality Fluorescent Tubes for electronics business"
+  },
+  {
+    "id": "prod-012",
+    "productName": "Electrical Wiring",
+    "productCode": "SKU-52085",
+    "category": "Electronics",
+    "price": 6557.63,
+    "cost": 7266.39,
+    "description": "Quality Electrical Wiring for electronics business"
+  },
+  {
+    "id": "prod-013",
+    "productName": "Light Fixtures",
+    "productCode": "SKU-94642",
+    "category": "Electronics",
+    "price": 10584.38,
+    "cost": 6595.81,
+    "description": "Quality Light Fixtures for electronics business"
+  },
+  {
+    "id": "prod-014",
+    "productName": "Power Outlets",
+    "productCode": "SKU-67302",
+    "category": "Electronics",
+    "price": 13810.24,
+    "cost": 4721.78,
+    "description": "Quality Power Outlets for electronics business"
+  },
+  {
+    "id": "prod-015",
+    "productName": "Switches",
+    "productCode": "SKU-92944",
+    "category": "Electronics",
+    "price": 13603.13,
+    "cost": 830.17,
+    "description": "Quality Switches for electronics business"
+  },
+  {
+    "id": "prod-016",
+    "productName": "Cables",
+    "productCode": "SKU-57890",
+    "category": "Electronics",
+    "price": 4665.73,
+    "cost": 5538.16,
+    "description": "Quality Cables for electronics business"
+  },
+  {
+    "id": "prod-017",
+    "productName": "Extension Cords",
+    "productCode": "SKU-63192",
+    "category": "Electronics",
+    "price": 2914.39,
+    "cost": 1421.08,
+    "description": "Quality Extension Cords for electronics business"
+  },
+  {
+    "id": "prod-018",
+    "productName": "Generators",
+    "productCode": "SKU-59956",
+    "category": "Electronics",
+    "price": 14195.62,
+    "cost": 7861.25,
+    "description": "Quality Generators for electronics business"
+  },
+  {
+    "id": "prod-019",
+    "productName": "Solar Panels",
+    "productCode": "SKU-86567",
+    "category": "Electronics",
+    "price": 1332.19,
+    "cost": 1263.03,
+    "description": "Quality Solar Panels for electronics business"
+  },
+  {
+    "id": "prod-020",
+    "productName": "LED Bulbs",
+    "productCode": "SKU-48160",
+    "category": "Electronics",
+    "price": 10171.59,
+    "cost": 3675.21,
+    "description": "Quality LED Bulbs for electronics business"
+  },
+  {
+    "id": "prod-021",
+    "productName": "Fluorescent Tubes",
+    "productCode": "SKU-32832",
+    "category": "Electronics",
+    "price": 5199.48,
+    "cost": 504.99,
+    "description": "Quality Fluorescent Tubes for electronics business"
+  },
+  {
+    "id": "prod-022",
+    "productName": "Electrical Wiring",
+    "productCode": "SKU-56510",
+    "category": "Electronics",
+    "price": 12363.06,
+    "cost": 6877.31,
+    "description": "Quality Electrical Wiring for electronics business"
+  },
+  {
+    "id": "prod-023",
+    "productName": "Light Fixtures",
+    "productCode": "SKU-17754",
+    "category": "Electronics",
+    "price": 9437.75,
+    "cost": 6140.22,
+    "description": "Quality Light Fixtures for electronics business"
+  },
+  {
+    "id": "prod-024",
+    "productName": "Power Outlets",
+    "productCode": "SKU-52684",
+    "category": "Electronics",
+    "price": 9110.73,
+    "cost": 4952.68,
+    "description": "Quality Power Outlets for electronics business"
+  },
+  {
+    "id": "prod-025",
+    "productName": "Switches",
+    "productCode": "SKU-11915",
+    "category": "Electronics",
+    "price": 8256.34,
+    "cost": 7549.36,
+    "description": "Quality Switches for electronics business"
+  },
+  {
+    "id": "prod-026",
+    "productName": "Cables",
+    "productCode": "SKU-16453",
+    "category": "Electronics",
+    "price": 9139.44,
+    "cost": 1898.07,
+    "description": "Quality Cables for electronics business"
+  },
+  {
+    "id": "prod-027",
+    "productName": "Extension Cords",
+    "productCode": "SKU-84109",
+    "category": "Electronics",
+    "price": 2624.74,
+    "cost": 854.95,
+    "description": "Quality Extension Cords for electronics business"
+  },
+  {
+    "id": "prod-028",
+    "productName": "Generators",
+    "productCode": "SKU-35171",
+    "category": "Electronics",
+    "price": 12561.74,
+    "cost": 1036.68,
+    "description": "Quality Generators for electronics business"
+  },
+  {
+    "id": "prod-029",
+    "productName": "Solar Panels",
+    "productCode": "SKU-66315",
+    "category": "Electronics",
+    "price": 5535.5,
+    "cost": 2730.55,
+    "description": "Quality Solar Panels for electronics business"
+  },
+  {
+    "id": "prod-030",
+    "productName": "LED Bulbs",
+    "productCode": "SKU-59651",
+    "category": "Electronics",
+    "price": 1867.67,
+    "cost": 3936.8,
+    "description": "Quality LED Bulbs for electronics business"
+  }
+]

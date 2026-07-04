@@ -1,0 +1,272 @@
+[
+  {
+    "id": "opp-001",
+    "opportunityName": "Software Implementation Project 1",
+    "accountId": "crm-001",
+    "value": 13871.68,
+    "stage": "Proposal",
+    "probability": 70,
+    "expectedCloseDate": "2025-08-26"
+  },
+  {
+    "id": "opp-002",
+    "opportunityName": "Software Implementation Project 2",
+    "accountId": "crm-001",
+    "value": 75032.41,
+    "stage": "Proposal",
+    "probability": 70,
+    "expectedCloseDate": "2025-05-20"
+  },
+  {
+    "id": "opp-003",
+    "opportunityName": "Software Implementation Project 3",
+    "accountId": "crm-001",
+    "value": 76258.87,
+    "stage": "Proposal",
+    "probability": 70,
+    "expectedCloseDate": "2025-09-01"
+  },
+  {
+    "id": "opp-004",
+    "opportunityName": "Software Implementation Project 4",
+    "accountId": "crm-001",
+    "value": 60500.49,
+    "stage": "Proposal",
+    "probability": 70,
+    "expectedCloseDate": "2025-08-06"
+  },
+  {
+    "id": "opp-005",
+    "opportunityName": "Software Implementation Project 5",
+    "accountId": "crm-001",
+    "value": 45475.29,
+    "stage": "Proposal",
+    "probability": 70,
+    "expectedCloseDate": "2025-08-18"
+  },
+  {
+    "id": "opp-006",
+    "opportunityName": "Software Implementation Project 6",
+    "accountId": "crm-001",
+    "value": 53720.49,
+    "stage": "Proposal",
+    "probability": 70,
+    "expectedCloseDate": "2025-11-03"
+  },
+  {
+    "id": "opp-007",
+    "opportunityName": "Software Implementation Project 7",
+    "accountId": "crm-001",
+    "value": 50252.95,
+    "stage": "Proposal",
+    "probability": 70,
+    "expectedCloseDate": "2025-02-17"
+  },
+  {
+    "id": "opp-008",
+    "opportunityName": "Software Implementation Project 8",
+    "accountId": "crm-001",
+    "value": 48855.14,
+    "stage": "Proposal",
+    "probability": 70,
+    "expectedCloseDate": "2025-08-06"
+  },
+  {
+    "id": "opp-009",
+    "opportunityName": "Software Implementation Project 9",
+    "accountId": "crm-001",
+    "value": 77458.97,
+    "stage": "Proposal",
+    "probability": 70,
+    "expectedCloseDate": "2025-12-11"
+  },
+  {
+    "id": "opp-010",
+    "opportunityName": "Software Implementation Project 10",
+    "accountId": "crm-001",
+    "value": 78172.91,
+    "stage": "Proposal",
+    "probability": 70,
+    "expectedCloseDate": "2025-06-18"
+  },
+  {
+    "id": "opp-011",
+    "opportunityName": "Software Implementation Project 11",
+    "accountId": "crm-001",
+    "value": 64953.08,
+    "stage": "Proposal",
+    "probability": 70,
+    "expectedCloseDate": "2025-01-21"
+  },
+  {
+    "id": "opp-012",
+    "opportunityName": "Software Implementation Project 12",
+    "accountId": "crm-001",
+    "value": 30473.8,
+    "stage": "Proposal",
+    "probability": 70,
+    "expectedCloseDate": "2025-07-09"
+  },
+  {
+    "id": "opp-013",
+    "opportunityName": "Software Implementation Project 13",
+    "accountId": "crm-001",
+    "value": 66335.9,
+    "stage": "Proposal",
+    "probability": 70,
+    "expectedCloseDate": "2025-12-13"
+  },
+  {
+    "id": "opp-014",
+    "opportunityName": "Software Implementation Project 14",
+    "accountId": "crm-001",
+    "value": 17011.79,
+    "stage": "Proposal",
+    "probability": 70,
+    "expectedCloseDate": "2025-05-12"
+  },
+  {
+    "id": "opp-015",
+    "opportunityName": "Software Implementation Project 15",
+    "accountId": "crm-001",
+    "value": 9515.12,
+    "stage": "Proposal",
+    "probability": 70,
+    "expectedCloseDate": "2025-05-13"
+  },
+  {
+    "id": "opp-016",
+    "opportunityName": "Software Implementation Project 16",
+    "accountId": "crm-001",
+    "value": 48298.07,
+    "stage": "Proposal",
+    "probability": 70,
+    "expectedCloseDate": "2025-05-14"
+  },
+  {
+    "id": "opp-017",
+    "opportunityName": "Software Implementation Project 17",
+    "accountId": "crm-001",
+    "value": 30522.74,
+    "stage": "Proposal",
+    "probability": 70,
+    "expectedCloseDate": "2025-03-06"
+  },
+  {
+    "id": "opp-018",
+    "opportunityName": "Software Implementation Project 18",
+    "accountId": "crm-001",
+    "value": 22571.09,
+    "stage": "Proposal",
+    "probability": 70,
+    "expectedCloseDate": "2026-01-17"
+  },
+  {
+    "id": "opp-019",
+    "opportunityName": "Software Implementation Project 19",
+    "accountId": "crm-001",
+    "value": 86404.58,
+    "stage": "Proposal",
+    "probability": 70,
+    "expectedCloseDate": "2026-01-15"
+  },
+  {
+    "id": "opp-020",
+    "opportunityName": "Software Implementation Project 20",
+    "accountId": "crm-001",
+    "value": 82339.32,
+    "stage": "Proposal",
+    "probability": 70,
+    "expectedCloseDate": "2025-12-19"
+  },
+  {
+    "id": "opp-021",
+    "opportunityName": "Software Implementation Project 21",
+    "accountId": "crm-001",
+    "value": 1275.13,
+    "stage": "Proposal",
+    "probability": 70,
+    "expectedCloseDate": "2025-02-10"
+  },
+  {
+    "id": "opp-022",
+    "opportunityName": "Software Implementation Project 22",
+    "accountId": "crm-001",
+    "value": 50729.2,
+    "stage": "Proposal",
+    "probability": 70,
+    "expectedCloseDate": "2025-09-12"
+  },
+  {
+    "id": "opp-023",
+    "opportunityName": "Software Implementation Project 23",
+    "accountId": "crm-001",
+    "value": 28518.33,
+    "stage": "Proposal",
+    "probability": 70,
+    "expectedCloseDate": "2025-05-24"
+  },
+  {
+    "id": "opp-024",
+    "opportunityName": "Software Implementation Project 24",
+    "accountId": "crm-001",
+    "value": 29035.48,
+    "stage": "Proposal",
+    "probability": 70,
+    "expectedCloseDate": "2025-04-24"
+  },
+  {
+    "id": "opp-025",
+    "opportunityName": "Software Implementation Project 25",
+    "accountId": "crm-001",
+    "value": 30834.63,
+    "stage": "Proposal",
+    "probability": 70,
+    "expectedCloseDate": "2025-11-14"
+  },
+  {
+    "id": "opp-026",
+    "opportunityName": "Software Implementation Project 26",
+    "accountId": "crm-001",
+    "value": 43682.05,
+    "stage": "Proposal",
+    "probability": 70,
+    "expectedCloseDate": "2025-10-06"
+  },
+  {
+    "id": "opp-027",
+    "opportunityName": "Software Implementation Project 27",
+    "accountId": "crm-001",
+    "value": 2634.7,
+    "stage": "Proposal",
+    "probability": 70,
+    "expectedCloseDate": "2025-08-10"
+  },
+  {
+    "id": "opp-028",
+    "opportunityName": "Software Implementation Project 28",
+    "accountId": "crm-001",
+    "value": 13104.66,
+    "stage": "Proposal",
+    "probability": 70,
+    "expectedCloseDate": "2025-07-29"
+  },
+  {
+    "id": "opp-029",
+    "opportunityName": "Software Implementation Project 29",
+    "accountId": "crm-001",
+    "value": 48171.77,
+    "stage": "Proposal",
+    "probability": 70,
+    "expectedCloseDate": "2025-09-14"
+  },
+  {
+    "id": "opp-030",
+    "opportunityName": "Software Implementation Project 30",
+    "accountId": "crm-001",
+    "value": 12884.4,
+    "stage": "Proposal",
+    "probability": 70,
+    "expectedCloseDate": "2025-02-14"
+  }
+]

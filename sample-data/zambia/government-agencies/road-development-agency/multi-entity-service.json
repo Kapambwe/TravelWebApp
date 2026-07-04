@@ -1,0 +1,242 @@
+[
+  {
+    "id": "me-001",
+    "entityName": "Zambia Business Solutions Ltd 1",
+    "entityType": "Subsidiary",
+    "taxId": "TPIN-3996319089",
+    "baseCurrency": "ZMW",
+    "fiscalYearEnd": "12-31"
+  },
+  {
+    "id": "me-002",
+    "entityName": "ZBS International Ltd 2",
+    "entityType": "Parent",
+    "taxId": "TPIN-3759959095",
+    "baseCurrency": "USD",
+    "fiscalYearEnd": "12-31"
+  },
+  {
+    "id": "me-003",
+    "entityName": "Zambia Business Solutions Ltd 3",
+    "entityType": "Subsidiary",
+    "taxId": "TPIN-5986146789",
+    "baseCurrency": "ZMW",
+    "fiscalYearEnd": "12-31"
+  },
+  {
+    "id": "me-004",
+    "entityName": "ZBS International Ltd 4",
+    "entityType": "Parent",
+    "taxId": "TPIN-2094127083",
+    "baseCurrency": "USD",
+    "fiscalYearEnd": "12-31"
+  },
+  {
+    "id": "me-005",
+    "entityName": "Zambia Business Solutions Ltd 5",
+    "entityType": "Subsidiary",
+    "taxId": "TPIN-9795760684",
+    "baseCurrency": "ZMW",
+    "fiscalYearEnd": "12-31"
+  },
+  {
+    "id": "me-006",
+    "entityName": "ZBS International Ltd 6",
+    "entityType": "Parent",
+    "taxId": "TPIN-1870679043",
+    "baseCurrency": "USD",
+    "fiscalYearEnd": "12-31"
+  },
+  {
+    "id": "me-007",
+    "entityName": "Zambia Business Solutions Ltd 7",
+    "entityType": "Subsidiary",
+    "taxId": "TPIN-3317586962",
+    "baseCurrency": "ZMW",
+    "fiscalYearEnd": "12-31"
+  },
+  {
+    "id": "me-008",
+    "entityName": "ZBS International Ltd 8",
+    "entityType": "Parent",
+    "taxId": "TPIN-8833765762",
+    "baseCurrency": "USD",
+    "fiscalYearEnd": "12-31"
+  },
+  {
+    "id": "me-009",
+    "entityName": "Zambia Business Solutions Ltd 9",
+    "entityType": "Subsidiary",
+    "taxId": "TPIN-6629591561",
+    "baseCurrency": "ZMW",
+    "fiscalYearEnd": "12-31"
+  },
+  {
+    "id": "me-010",
+    "entityName": "ZBS International Ltd 10",
+    "entityType": "Parent",
+    "taxId": "TPIN-1557405926",
+    "baseCurrency": "USD",
+    "fiscalYearEnd": "12-31"
+  },
+  {
+    "id": "me-011",
+    "entityName": "Zambia Business Solutions Ltd 11",
+    "entityType": "Subsidiary",
+    "taxId": "TPIN-6765654593",
+    "baseCurrency": "ZMW",
+    "fiscalYearEnd": "12-31"
+  },
+  {
+    "id": "me-012",
+    "entityName": "ZBS International Ltd 12",
+    "entityType": "Parent",
+    "taxId": "TPIN-5873016280",
+    "baseCurrency": "USD",
+    "fiscalYearEnd": "12-31"
+  },
+  {
+    "id": "me-013",
+    "entityName": "Zambia Business Solutions Ltd 13",
+    "entityType": "Subsidiary",
+    "taxId": "TPIN-1837737963",
+    "baseCurrency": "ZMW",
+    "fiscalYearEnd": "12-31"
+  },
+  {
+    "id": "me-014",
+    "entityName": "ZBS International Ltd 14",
+    "entityType": "Parent",
+    "taxId": "TPIN-8579042768",
+    "baseCurrency": "USD",
+    "fiscalYearEnd": "12-31"
+  },
+  {
+    "id": "me-015",
+    "entityName": "Zambia Business Solutions Ltd 15",
+    "entityType": "Subsidiary",
+    "taxId": "TPIN-9695359549",
+    "baseCurrency": "ZMW",
+    "fiscalYearEnd": "12-31"
+  },
+  {
+    "id": "me-016",
+    "entityName": "ZBS International Ltd 16",
+    "entityType": "Parent",
+    "taxId": "TPIN-2570930160",
+    "baseCurrency": "USD",
+    "fiscalYearEnd": "12-31"
+  },
+  {
+    "id": "me-017",
+    "entityName": "Zambia Business Solutions Ltd 17",
+    "entityType": "Subsidiary",
+    "taxId": "TPIN-9537418257",
+    "baseCurrency": "ZMW",
+    "fiscalYearEnd": "12-31"
+  },
+  {
+    "id": "me-018",
+    "entityName": "ZBS International Ltd 18",
+    "entityType": "Parent",
+    "taxId": "TPIN-1403914445",
+    "baseCurrency": "USD",
+    "fiscalYearEnd": "12-31"
+  },
+  {
+    "id": "me-019",
+    "entityName": "Zambia Business Solutions Ltd 19",
+    "entityType": "Subsidiary",
+    "taxId": "TPIN-3303052483",
+    "baseCurrency": "ZMW",
+    "fiscalYearEnd": "12-31"
+  },
+  {
+    "id": "me-020",
+    "entityName": "ZBS International Ltd 20",
+    "entityType": "Parent",
+    "taxId": "TPIN-5717393792",
+    "baseCurrency": "USD",
+    "fiscalYearEnd": "12-31"
+  },
+  {
+    "id": "me-021",
+    "entityName": "Zambia Business Solutions Ltd 21",
+    "entityType": "Subsidiary",
+    "taxId": "TPIN-3654290633",
+    "baseCurrency": "ZMW",
+    "fiscalYearEnd": "12-31"
+  },
+  {
+    "id": "me-022",
+    "entityName": "ZBS International Ltd 22",
+    "entityType": "Parent",
+    "taxId": "TPIN-3415842104",
+    "baseCurrency": "USD",
+    "fiscalYearEnd": "12-31"
+  },
+  {
+    "id": "me-023",
+    "entityName": "Zambia Business Solutions Ltd 23",
+    "entityType": "Subsidiary",
+    "taxId": "TPIN-8691544035",
+    "baseCurrency": "ZMW",
+    "fiscalYearEnd": "12-31"
+  },
+  {
+    "id": "me-024",
+    "entityName": "ZBS International Ltd 24",
+    "entityType": "Parent",
+    "taxId": "TPIN-9583547193",
+    "baseCurrency": "USD",
+    "fiscalYearEnd": "12-31"
+  },
+  {
+    "id": "me-025",
+    "entityName": "Zambia Business Solutions Ltd 25",
+    "entityType": "Subsidiary",
+    "taxId": "TPIN-9967877118",
+    "baseCurrency": "ZMW",
+    "fiscalYearEnd": "12-31"
+  },
+  {
+    "id": "me-026",
+    "entityName": "ZBS International Ltd 26",
+    "entityType": "Parent",
+    "taxId": "TPIN-5355356657",
+    "baseCurrency": "USD",
+    "fiscalYearEnd": "12-31"
+  },
+  {
+    "id": "me-027",
+    "entityName": "Zambia Business Solutions Ltd 27",
+    "entityType": "Subsidiary",
+    "taxId": "TPIN-8150734163",
+    "baseCurrency": "ZMW",
+    "fiscalYearEnd": "12-31"
+  },
+  {
+    "id": "me-028",
+    "entityName": "ZBS International Ltd 28",
+    "entityType": "Parent",
+    "taxId": "TPIN-8033748367",
+    "baseCurrency": "USD",
+    "fiscalYearEnd": "12-31"
+  },
+  {
+    "id": "me-029",
+    "entityName": "Zambia Business Solutions Ltd 29",
+    "entityType": "Subsidiary",
+    "taxId": "TPIN-4884788635",
+    "baseCurrency": "ZMW",
+    "fiscalYearEnd": "12-31"
+  },
+  {
+    "id": "me-030",
+    "entityName": "ZBS International Ltd 30",
+    "entityType": "Parent",
+    "taxId": "TPIN-1313331197",
+    "baseCurrency": "USD",
+    "fiscalYearEnd": "12-31"
+  }
+]

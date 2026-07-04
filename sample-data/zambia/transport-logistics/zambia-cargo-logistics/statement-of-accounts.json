@@ -1,0 +1,148 @@
+{
+  "companyName": "Zambia Cargo Logistics",
+  "companyAddress": "Livingstone, Zambia",
+  "companyTaxId": "TPIN-9216706-ZCL",
+  "generatedDate": "2025-09-30",
+  "currency": "ZMW",
+  "period": {
+    "from": "2025-01-01",
+    "to": "2025-09-30"
+  },
+  "customerStatements": [
+    {
+      "customerId": 1,
+      "customerName": "Zesco Solutions Ltd",
+      "customerEmail": "finance@zesco.co.zm",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-07-06",
+          "reference": "INV-Z-2025-015",
+          "description": "Freight transportation - consignment 3561",
+          "debit": 549000,
+          "credit": 0.0,
+          "balance": 549000
+        },
+        {
+          "date": "2025-09-27",
+          "reference": "PMT-Z-2025-019",
+          "description": "Partial advance freight payment received",
+          "debit": 0.0,
+          "credit": 265000,
+          "balance": 284000
+        }
+      ],
+      "closingBalance": 284000,
+      "status": "Partially Paid"
+    },
+    {
+      "customerId": 2,
+      "customerName": "Lusaka Enterprises Ltd",
+      "customerEmail": "billing@lusaka.com",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-03-02",
+          "reference": "INV-Z-2025-023",
+          "description": "Cross-border transport services",
+          "debit": 2368000,
+          "credit": 0.0,
+          "balance": 2368000
+        },
+        {
+          "date": "2025-04-24",
+          "reference": "PMT-Z-2025-022",
+          "description": "Contract payment received",
+          "debit": 0.0,
+          "credit": 2368000,
+          "balance": 0.0
+        }
+      ],
+      "closingBalance": 0.0,
+      "status": "Settled"
+    },
+    {
+      "customerId": 3,
+      "customerName": "Copperbelt Industries Ltd",
+      "customerEmail": "contact@copperbelt.co.zm",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-05-09",
+          "reference": "INV-Z-2025-039",
+          "description": "Express courier contract",
+          "debit": 1906500,
+          "credit": 0.0,
+          "balance": 1906500
+        },
+        {
+          "date": "2025-07-13",
+          "reference": "PMT-Z-2025-033",
+          "description": "Partial advance freight payment received",
+          "debit": 0.0,
+          "credit": 634000,
+          "balance": 1272500
+        }
+      ],
+      "closingBalance": 1272500,
+      "status": "Partially Paid"
+    },
+    {
+      "customerId": 4,
+      "customerName": "Lusaka Partners Co.",
+      "customerEmail": "contact@lusaka.co.zm",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-08-25",
+          "reference": "INV-Z-2025-045",
+          "description": "Express courier contract",
+          "debit": 891500,
+          "credit": 0.0,
+          "balance": 891500
+        }
+      ],
+      "closingBalance": 891500,
+      "status": "Outstanding"
+    },
+    {
+      "customerId": 5,
+      "customerName": "Zesco Solutions Ltd",
+      "customerEmail": "accounts@zesco.com",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-06-18",
+          "reference": "INV-Z-2025-057",
+          "description": "Cross-border transport services",
+          "debit": 1223500,
+          "credit": 0.0,
+          "balance": 1223500
+        },
+        {
+          "date": "2025-07-15",
+          "reference": "PMT-Z-2025-057",
+          "description": "Payment on delivery received",
+          "debit": 0.0,
+          "credit": 1223500,
+          "balance": 0.0
+        }
+      ],
+      "closingBalance": 0.0,
+      "status": "Settled"
+    }
+  ],
+  "summary": {
+    "totalInvoiced": 6938500,
+    "totalReceived": 4490500,
+    "totalOutstanding": 2448000,
+    "totalOverdue": 2448000.0,
+    "agingSummary": {
+      "current": 0.0,
+      "days1to30": 891500.0,
+      "days31to60": 284000.0,
+      "days61to90": 0.0,
+      "over90days": 1272500.0
+    }
+  }
+}

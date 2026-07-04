@@ -1,0 +1,44 @@
+[
+  {
+    "id": "44444444-5555-6666-7777-888888888801",
+    "name": "Plant Capacity Model",
+    "description": "Manufacturing capacity model for kiln output, downtime, and plant utilization.",
+    "industry": "Manufacturing",
+    "icon": "factory",
+    "isPublic": true,
+    "createdDate": "2026-05-01T00:00:00",
+    "features": [
+      "Capacity utilization",
+      "Downtime planning",
+      "Production output forecasting"
+    ]
+  },
+  {
+    "id": "44444444-5555-6666-7777-888888888802",
+    "name": "Raw Materials Cost Model",
+    "description": "Tracks limestone, energy, packaging, and logistics input costs.",
+    "industry": "Manufacturing",
+    "icon": "precision_manufacturing",
+    "isPublic": true,
+    "createdDate": "2026-05-01T00:00:00",
+    "features": [
+      "Input cost inflation",
+      "Supplier price variance",
+      "Procurement planning"
+    ]
+  },
+  {
+    "id": "44444444-5555-6666-7777-888888888803",
+    "name": "Factory Cash Flow Plan",
+    "description": "Cash flow template for production cycles, maintenance, payroll, and debt service.",
+    "industry": "Manufacturing",
+    "icon": "payments",
+    "isPublic": true,
+    "createdDate": "2026-05-01T00:00:00",
+    "features": [
+      "Monthly cash planning",
+      "Debt servicing",
+      "Working capital forecast"
+    ]
+  }
+]

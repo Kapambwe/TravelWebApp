@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "poNumber": "PO-2025-001",
+    "vendorName": "Lungu Entertainment Inc.",
+    "description": "PR Campaign",
+    "orderDate": "2024-12-27T00:00:00",
+    "expectedDate": "2025-01-05T00:00:00",
+    "amount": 2020923.2,
+    "receivedAmount": 0.0,
+    "status": "Cancelled",
+    "approvalStatus": "Pending",
+    "approvedBy": "CFO"
+  },
+  {
+    "id": 2,
+    "poNumber": "PO-2025-002",
+    "vendorName": "Kaputo Productions Enterprises",
+    "description": "Travel & Accommodation",
+    "orderDate": "2025-03-04T00:00:00",
+    "expectedDate": "2025-04-03T00:00:00",
+    "amount": 2290484.42,
+    "receivedAmount": 0.0,
+    "status": "Open",
+    "approvalStatus": "Approved",
+    "approvedBy": "Finance Manager"
+  },
+  {
+    "id": 3,
+    "poNumber": "PO-2025-003",
+    "vendorName": "Mulenga Productions Holdings",
+    "description": "Travel & Accommodation",
+    "orderDate": "2024-12-17T00:00:00",
+    "expectedDate": "2025-01-05T00:00:00",
+    "amount": 1091147.43,
+    "receivedAmount": 0.0,
+    "status": "Cancelled",
+    "approvalStatus": "Approved",
+    "approvedBy": "CFO"
+  },
+  {
+    "id": 4,
+    "poNumber": "PO-2025-004",
+    "vendorName": "Lungu Entertainment Inc.",
+    "description": "PR Campaign",
+    "orderDate": "2024-12-15T00:00:00",
+    "expectedDate": "2024-12-22T00:00:00",
+    "amount": 1108995.23,
+    "receivedAmount": 719709.88,
+    "status": "PartiallyReceived",
+    "approvalStatus": "Pending",
+    "approvedBy": "Finance Manager"
+  },
+  {
+    "id": 5,
+    "poNumber": "PO-2025-005",
+    "vendorName": "Ngosa Entertainment Inc.",
+    "description": "Travel & Accommodation",
+    "orderDate": "2025-01-21T00:00:00",
+    "expectedDate": "2025-02-15T00:00:00",
+    "amount": 1078509.16,
+    "receivedAmount": 496592.09,
+    "status": "PartiallyReceived",
+    "approvalStatus": "Approved",
+    "approvedBy": "Procurement Officer"
+  }
+]

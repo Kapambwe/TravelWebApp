@@ -1,0 +1,178 @@
+[
+  {
+    "id": 1,
+    "billNumber": "BILL-2025-001",
+    "vendorName": "Mwale Agricultural Co.",
+    "description": "Processing Equipment Maintenance",
+    "billDate": "2024-09-19T00:00:00",
+    "dueDate": "2024-10-04T00:00:00",
+    "amount": 2243071.52,
+    "paidAmount": 2243071.52,
+    "status": "Paid"
+  },
+  {
+    "id": 2,
+    "billNumber": "BILL-2025-002",
+    "vendorName": "Mulenga Food Industries Co.",
+    "description": "Fumigation Services",
+    "billDate": "2025-03-14T00:00:00",
+    "dueDate": "2025-04-28T00:00:00",
+    "amount": 1021949.23,
+    "paidAmount": 0.0,
+    "status": "Overdue"
+  },
+  {
+    "id": 3,
+    "billNumber": "BILL-2025-003",
+    "vendorName": "Chanda Agro Enterprises",
+    "description": "Cold Storage Fees",
+    "billDate": "2024-10-12T00:00:00",
+    "dueDate": "2024-10-27T00:00:00",
+    "amount": 535872.62,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 4,
+    "billNumber": "BILL-2025-004",
+    "vendorName": "Musonda Farms Solutions",
+    "description": "Transport Charges",
+    "billDate": "2024-11-03T00:00:00",
+    "dueDate": "2024-12-03T00:00:00",
+    "amount": 550198.41,
+    "paidAmount": 550198.41,
+    "status": "Paid"
+  },
+  {
+    "id": 5,
+    "billNumber": "BILL-2025-005",
+    "vendorName": "Mwale Agricultural Co.",
+    "description": "Transport Charges",
+    "billDate": "2024-10-06T00:00:00",
+    "dueDate": "2024-10-21T00:00:00",
+    "amount": 250684.56,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 6,
+    "billNumber": "BILL-2025-006",
+    "vendorName": "Kaputo Agro Group",
+    "description": "Raw Produce Purchase",
+    "billDate": "2025-02-18T00:00:00",
+    "dueDate": "2025-04-04T00:00:00",
+    "amount": 3193436.91,
+    "paidAmount": 3193436.91,
+    "status": "Paid"
+  },
+  {
+    "id": 7,
+    "billNumber": "BILL-2025-007",
+    "vendorName": "Mwale Agricultural Limited",
+    "description": "Processing Equipment Maintenance",
+    "billDate": "2025-01-13T00:00:00",
+    "dueDate": "2025-02-27T00:00:00",
+    "amount": 3499115.43,
+    "paidAmount": 3499115.43,
+    "status": "Paid"
+  },
+  {
+    "id": 8,
+    "billNumber": "BILL-2025-008",
+    "vendorName": "Mulenga Food Industries Co.",
+    "description": "Packaging Materials",
+    "billDate": "2024-11-28T00:00:00",
+    "dueDate": "2025-01-12T00:00:00",
+    "amount": 3309319.74,
+    "paidAmount": 0.0,
+    "status": "Overdue"
+  },
+  {
+    "id": 9,
+    "billNumber": "BILL-2025-009",
+    "vendorName": "Mwale Agricultural Co.",
+    "description": "Processing Equipment Maintenance",
+    "billDate": "2025-03-01T00:00:00",
+    "dueDate": "2025-03-16T00:00:00",
+    "amount": 2141457.14,
+    "paidAmount": 2141457.14,
+    "status": "Paid"
+  },
+  {
+    "id": 10,
+    "billNumber": "BILL-2025-010",
+    "vendorName": "Bwalya Food Industries Co.",
+    "description": "Fumigation Services",
+    "billDate": "2025-03-02T00:00:00",
+    "dueDate": "2025-03-17T00:00:00",
+    "amount": 1490614.03,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 11,
+    "billNumber": "BILL-2025-011",
+    "vendorName": "Bwalya Food Industries Co.",
+    "description": "Raw Produce Purchase",
+    "billDate": "2024-12-01T00:00:00",
+    "dueDate": "2024-12-31T00:00:00",
+    "amount": 3233833.77,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 12,
+    "billNumber": "BILL-2025-012",
+    "vendorName": "Musonda Farms Solutions",
+    "description": "Fumigation Services",
+    "billDate": "2025-02-05T00:00:00",
+    "dueDate": "2025-03-22T00:00:00",
+    "amount": 3274462.3,
+    "paidAmount": 3274462.3,
+    "status": "Paid"
+  },
+  {
+    "id": 13,
+    "billNumber": "BILL-2025-013",
+    "vendorName": "Zulu Agricultural Enterprises",
+    "description": "Processing Equipment Maintenance",
+    "billDate": "2025-01-18T00:00:00",
+    "dueDate": "2025-02-17T00:00:00",
+    "amount": 731886.4,
+    "paidAmount": 731886.4,
+    "status": "Paid"
+  },
+  {
+    "id": 14,
+    "billNumber": "BILL-2025-014",
+    "vendorName": "Zimba Food Industries Holdings",
+    "description": "Processing Equipment Maintenance",
+    "billDate": "2024-11-02T00:00:00",
+    "dueDate": "2024-11-17T00:00:00",
+    "amount": 169821.78,
+    "paidAmount": 169821.78,
+    "status": "Paid"
+  },
+  {
+    "id": 15,
+    "billNumber": "BILL-2025-015",
+    "vendorName": "Zulu Agricultural Enterprises",
+    "description": "Fumigation Services",
+    "billDate": "2024-10-19T00:00:00",
+    "dueDate": "2024-11-18T00:00:00",
+    "amount": 3258429.28,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 16,
+    "billNumber": "BILL-2025-016",
+    "vendorName": "Musonda Farms Solutions",
+    "description": "Packaging Materials",
+    "billDate": "2024-09-28T00:00:00",
+    "dueDate": "2024-10-13T00:00:00",
+    "amount": 2829876.08,
+    "paidAmount": 2829876.08,
+    "status": "Paid"
+  }
+]

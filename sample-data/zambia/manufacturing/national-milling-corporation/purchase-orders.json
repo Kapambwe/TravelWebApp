@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "poNumber": "PO-2025-001",
+    "vendorName": "Lungu Industries Co.",
+    "description": "Energy & Utilities",
+    "orderDate": "2025-02-05T00:00:00",
+    "expectedDate": "2025-02-21T00:00:00",
+    "amount": 2300110.86,
+    "receivedAmount": 778975.77,
+    "status": "PartiallyReceived",
+    "approvalStatus": "Approved",
+    "approvedBy": "Finance Manager"
+  },
+  {
+    "id": 2,
+    "poNumber": "PO-2025-002",
+    "vendorName": "Mwale Products Co.",
+    "description": "Packaging Materials",
+    "orderDate": "2025-02-16T00:00:00",
+    "expectedDate": "2025-02-27T00:00:00",
+    "amount": 2803929.68,
+    "receivedAmount": 1441438.45,
+    "status": "PartiallyReceived",
+    "approvalStatus": "Pending",
+    "approvedBy": "CFO"
+  },
+  {
+    "id": 3,
+    "poNumber": "PO-2025-003",
+    "vendorName": "Mwamba Factory Ltd Inc.",
+    "description": "Packaging Materials",
+    "orderDate": "2025-02-20T00:00:00",
+    "expectedDate": "2025-03-21T00:00:00",
+    "amount": 2798629.72,
+    "receivedAmount": 0.0,
+    "status": "Open",
+    "approvalStatus": "Pending",
+    "approvedBy": "CEO"
+  },
+  {
+    "id": 4,
+    "poNumber": "PO-2025-004",
+    "vendorName": "Chanda Industries Holdings",
+    "description": "Transport & Distribution",
+    "orderDate": "2025-01-27T00:00:00",
+    "expectedDate": "2025-02-26T00:00:00",
+    "amount": 635714.58,
+    "receivedAmount": 0.0,
+    "status": "Cancelled",
+    "approvalStatus": "Pending",
+    "approvedBy": "CFO"
+  },
+  {
+    "id": 5,
+    "poNumber": "PO-2025-005",
+    "vendorName": "Bwalya Industrial Group",
+    "description": "Raw Materials Purchase",
+    "orderDate": "2025-03-08T00:00:00",
+    "expectedDate": "2025-03-21T00:00:00",
+    "amount": 1719031.49,
+    "receivedAmount": 0.0,
+    "status": "Cancelled",
+    "approvalStatus": "Approved",
+    "approvedBy": "CFO"
+  }
+]

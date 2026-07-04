@@ -1,0 +1,32 @@
+[
+  {
+    "id": "cust-macky2-001",
+    "customerName": "Alpha Entertainment Group",
+    "email": "bookings@alphaent.co.zm",
+    "phone": "+260-97-2345678",
+    "address": "Kabulonga, Lusaka",
+    "taxId": "TPIN-3001234567",
+    "creditLimit": 80000.0,
+    "outstandingBalance": 25000.0
+  },
+  {
+    "id": "cust-macky2-002",
+    "customerName": "Urban Real Estate Zambia",
+    "email": "sales@urbanrealestate.co.zm",
+    "phone": "+260-96-3456789",
+    "address": "Great East Road, Lusaka",
+    "taxId": "TPIN-3001234568",
+    "creditLimit": 150000.0,
+    "outstandingBalance": 75000.0
+  },
+  {
+    "id": "cust-macky2-003",
+    "customerName": "Music Licensing Board Zambia",
+    "email": "licensing@mlbz.co.zm",
+    "phone": "+260-211-252000",
+    "address": "Independence Avenue, Lusaka",
+    "taxId": "TPIN-3001234569",
+    "creditLimit": 60000.0,
+    "outstandingBalance": 15000.0
+  }
+]

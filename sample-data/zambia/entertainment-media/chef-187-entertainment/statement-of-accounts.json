@@ -1,0 +1,130 @@
+{
+  "companyName": "Chef 187 Entertainment",
+  "companyAddress": "Ndola, Zambia",
+  "companyTaxId": "TPIN-8502312-C1E",
+  "generatedDate": "2025-09-30",
+  "currency": "ZMW",
+  "period": {
+    "from": "2025-01-01",
+    "to": "2025-09-30"
+  },
+  "customerStatements": [
+    {
+      "customerId": 1,
+      "customerName": "Mukuba Group Ltd",
+      "customerEmail": "finance@mukuba.com",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-06-24",
+          "reference": "INV-Z-2025-011",
+          "description": "Royalty payment - streaming Q1 2025",
+          "debit": 741500,
+          "credit": 0.0,
+          "balance": 741500
+        },
+        {
+          "date": "2025-08-06",
+          "reference": "PMT-Z-2025-015",
+          "description": "Settlement payment received",
+          "debit": 0.0,
+          "credit": 741500,
+          "balance": 0.0
+        }
+      ],
+      "closingBalance": 0.0,
+      "status": "Settled"
+    },
+    {
+      "customerId": 2,
+      "customerName": "Mukuba Industries Ltd",
+      "customerEmail": "contact@mukuba.co.zm",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-02-23",
+          "reference": "INV-Z-2025-027",
+          "description": "Brand ambassador fee - Q3 campaign",
+          "debit": 2877000,
+          "credit": 0.0,
+          "balance": 2877000
+        },
+        {
+          "date": "2025-03-25",
+          "reference": "PMT-Z-2025-022",
+          "description": "Partial payment received - bank transfer",
+          "debit": 0.0,
+          "credit": 1211000,
+          "balance": 1666000
+        }
+      ],
+      "closingBalance": 1666000,
+      "status": "Partially Paid"
+    },
+    {
+      "customerId": 3,
+      "customerName": "Zambezi Partners Co.",
+      "customerEmail": "billing@zambezi.co.zm",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-03-03",
+          "reference": "INV-Z-2025-038",
+          "description": "Exclusive brand deal - Jul-Sep",
+          "debit": 1426500,
+          "credit": 0.0,
+          "balance": 1426500
+        },
+        {
+          "date": "2025-04-19",
+          "reference": "PMT-Z-2025-039",
+          "description": "Partial payment received - wire transfer",
+          "debit": 0.0,
+          "credit": 981500,
+          "balance": 445000
+        }
+      ],
+      "closingBalance": 445000,
+      "status": "Partially Paid"
+    },
+    {
+      "customerId": 4,
+      "customerName": "Lusaka Trading Ltd",
+      "customerEmail": "finance@lusaka.com",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-01-13",
+          "reference": "INV-Z-2025-045",
+          "description": "Royalty payment - streaming Q3 2025",
+          "debit": 1260500,
+          "credit": 0.0,
+          "balance": 1260500
+        },
+        {
+          "date": "2025-02-19",
+          "reference": "PMT-Z-2025-041",
+          "description": "Partial payment received - wire transfer",
+          "debit": 0.0,
+          "credit": 576500,
+          "balance": 684000
+        }
+      ],
+      "closingBalance": 684000,
+      "status": "Partially Paid"
+    }
+  ],
+  "summary": {
+    "totalInvoiced": 6305500,
+    "totalReceived": 3510500,
+    "totalOutstanding": 2795000,
+    "totalOverdue": 2795000.0,
+    "agingSummary": {
+      "current": 0.0,
+      "days1to30": 0.0,
+      "days31to60": 0.0,
+      "days61to90": 0.0,
+      "over90days": 2795000.0
+    }
+  }
+}

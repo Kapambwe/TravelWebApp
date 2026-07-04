@@ -1,0 +1,122 @@
+{
+  "vendors": [
+    {
+      "id": 1,
+      "vendorName": "Kasonde Mulenga",
+      "companyName": "Zulu Commerce Inc.",
+      "contactPerson": "Kasonde Mulenga",
+      "email": "kasondemulen@mulenga.co.zm",
+      "phone": "+260 036 469 543",
+      "city": "Kabwe",
+      "country": "Zambia",
+      "defaultPaymentTerms": "Net 45",
+      "taxId": "TAX-471484",
+      "totalAmountOwed": 48350.24
+    },
+    {
+      "id": 2,
+      "vendorName": "Mwale Kaputo",
+      "companyName": "Mutale Traders Ltd",
+      "contactPerson": "Mwale Kaputo",
+      "email": "mwalekaputo@kaputo.co.zm",
+      "phone": "+260 327 771 642",
+      "city": "Mufulira",
+      "country": "Zambia",
+      "defaultPaymentTerms": "Net 15",
+      "taxId": "TAX-918617",
+      "totalAmountOwed": 332358.58
+    },
+    {
+      "id": 3,
+      "vendorName": "Kaputo Mumba",
+      "companyName": "Musonda Trading Group",
+      "contactPerson": "Kaputo Mumba",
+      "email": "kaputomumba@mumba.co.zm",
+      "phone": "+260 855 334 593",
+      "city": "Mufulira",
+      "country": "Zambia",
+      "defaultPaymentTerms": "Due on Receipt",
+      "taxId": "TAX-712429",
+      "totalAmountOwed": 601824.37
+    },
+    {
+      "id": 4,
+      "vendorName": "Siame Sakala",
+      "companyName": "Kaputo Commerce Enterprises",
+      "contactPerson": "Siame Sakala",
+      "email": "siamesakala@sakala.co.zm",
+      "phone": "+260 858 094 535",
+      "city": "Kitwe",
+      "country": "Zambia",
+      "defaultPaymentTerms": "Net 15",
+      "taxId": "TAX-931398",
+      "totalAmountOwed": 99120.83
+    },
+    {
+      "id": 5,
+      "vendorName": "Mulenga Mutale",
+      "companyName": "Musonda Merchants Enterprises",
+      "contactPerson": "Mulenga Mutale",
+      "email": "mulengamutal@mutale.co.zm",
+      "phone": "+260 622 301 516",
+      "city": "Chipata",
+      "country": "Zambia",
+      "defaultPaymentTerms": "Net 15",
+      "taxId": "TAX-466259",
+      "totalAmountOwed": 2086.67
+    },
+    {
+      "id": 6,
+      "vendorName": "Mulenga Mutale",
+      "companyName": "Siame Commerce Enterprises",
+      "contactPerson": "Mulenga Mutale",
+      "email": "mulengamutal@mutale.co.zm",
+      "phone": "+260 005 578 715",
+      "city": "Ndola",
+      "country": "Zambia",
+      "defaultPaymentTerms": "Net 30",
+      "taxId": "TAX-713541",
+      "totalAmountOwed": 188756.81
+    },
+    {
+      "id": 7,
+      "vendorName": "Nakambwe Mulenga",
+      "companyName": "Musonda Traders Co.",
+      "contactPerson": "Nakambwe Mulenga",
+      "email": "nakambwemule@mulenga.co.zm",
+      "phone": "+260 007 077 637",
+      "city": "Lusaka",
+      "country": "Zambia",
+      "defaultPaymentTerms": "Net 30",
+      "taxId": "TAX-216957",
+      "totalAmountOwed": 218994.63
+    },
+    {
+      "id": 8,
+      "vendorName": "Nkole Siame",
+      "companyName": "Lungu Retail Ltd",
+      "contactPerson": "Nkole Siame",
+      "email": "nkolesiame@siame.co.zm",
+      "phone": "+260 149 287 733",
+      "city": "Lusaka",
+      "country": "Zambia",
+      "defaultPaymentTerms": "Due on Receipt",
+      "taxId": "TAX-177191",
+      "totalAmountOwed": 4215.07
+    },
+    {
+      "id": 9,
+      "vendorName": "Chisanga Banda",
+      "companyName": "Mulenga Traders Enterprises",
+      "contactPerson": "Chisanga Banda",
+      "email": "chisangaband@banda.co.zm",
+      "phone": "+260 594 460 746",
+      "city": "Chingola",
+      "country": "Zambia",
+      "defaultPaymentTerms": "Net 45",
+      "taxId": "TAX-734267",
+      "totalAmountOwed": 75047.94
+    }
+  ],
+  "vendorCredits": []
+}

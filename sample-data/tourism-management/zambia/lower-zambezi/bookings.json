@@ -1,0 +1,69 @@
+﻿[
+    {
+        "Children":  0,
+        "CheckInDate":  "2024-08-10T00:00:00",
+        "Id":  1,
+        "GuestPhone":  "+14155552671",
+        "CreatedAt":  "2024-06-01T12:00:00",
+        "BookingType":  11,
+        "Adults":  2,
+        "Nationality":  "American",
+        "GuestEmail":  "michael@email.com",
+        "TotalAmount":  56000,
+        "PackageId":  3,
+        "PassportNumber":  "US987654",
+        "Notes":  "Vegetarian meals required. Interested in walking safari.",
+        "UpdatedAt":  "2024-06-02T09:30:00",
+        "RoomId":  201,
+        "CheckOutDate":  "2024-08-15T00:00:00",
+        "BalanceAmount":  0,
+        "BookingNumber":  "BK-LZ-2024-001",
+        "Status":  1,
+        "LineItems":  [
+                          {
+                              "Id":  1,
+                              "Description":  "Classic Gold Safari Package (5 Nights)",
+                              "BookingId":  1,
+                              "Date":  "2024-08-10",
+                              "Quantity":  2,
+                              "UnitPrice":  28000,
+                              "TotalPrice":  56000
+                          }
+                      ],
+        "PaidAmount":  56000,
+        "GuestName":  "Michael Brown"
+    },
+    {
+        "CreatedAt":  "2024-06-15T15:00:00",
+        "CheckOutDate":  "2024-08-23T00:00:00",
+        "Children":  1,
+        "Id":  2,
+        "RoomId":  101,
+        "LineItems":  [
+                          {
+                              "Id":  2,
+                              "Description":  "Standard Chalet Accommodation (3 Nights)",
+                              "BookingId":  2,
+                              "Date":  "2024-08-20",
+                              "Quantity":  3,
+                              "UnitPrice":  12000,
+                              "TotalPrice":  36000
+                          }
+                      ],
+        "PassportNumber":  "KE112233",
+        "BookingNumber":  "BK-LZ-2024-002",
+        "GuestPhone":  "+260977654321",
+        "CheckInDate":  "2024-08-20T00:00:00",
+        "BookingType":  0,
+        "GuestEmail":  "chansa@email.co.zm",
+        "Status":  0,
+        "TotalAmount":  36000,
+        "GuestName":  "Chansa Musonda",
+        "BalanceAmount":  18000,
+        "Notes":  "Needs an extra bed for child.",
+        "Nationality":  "Kenyan",
+        "PaidAmount":  18000,
+        "Adults":  2,
+        "UpdatedAt":  "2024-06-15T15:00:00"
+    }
+]

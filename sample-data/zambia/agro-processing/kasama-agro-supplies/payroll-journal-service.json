@@ -1,0 +1,872 @@
+[
+  {
+    "id": "item-001",
+    "period": "January 2024",
+    "totalGrossPay": 120000.0,
+    "totalDeductions": 27200.0,
+    "totalNetPay": 92800.0,
+    "journalEntries": [
+      {
+        "account": "Salary Expense",
+        "debit": 120000.0,
+        "credit": 0
+      },
+      {
+        "account": "NAPSA Payable",
+        "debit": 0,
+        "credit": 6000.0
+      },
+      {
+        "account": "PAYE Payable",
+        "debit": 0,
+        "credit": 20000.0
+      },
+      {
+        "account": "Cash",
+        "debit": 0,
+        "credit": 92800.0
+      }
+    ]
+  },
+  {
+    "id": "item-002",
+    "period": "January 2024",
+    "totalGrossPay": 120000.0,
+    "totalDeductions": 27200.0,
+    "totalNetPay": 92800.0,
+    "journalEntries": [
+      {
+        "account": "Salary Expense",
+        "debit": 120000.0,
+        "credit": 0
+      },
+      {
+        "account": "NAPSA Payable",
+        "debit": 0,
+        "credit": 6000.0
+      },
+      {
+        "account": "PAYE Payable",
+        "debit": 0,
+        "credit": 20000.0
+      },
+      {
+        "account": "Cash",
+        "debit": 0,
+        "credit": 92800.0
+      }
+    ]
+  },
+  {
+    "id": "item-003",
+    "period": "January 2024",
+    "totalGrossPay": 120000.0,
+    "totalDeductions": 27200.0,
+    "totalNetPay": 92800.0,
+    "journalEntries": [
+      {
+        "account": "Salary Expense",
+        "debit": 120000.0,
+        "credit": 0
+      },
+      {
+        "account": "NAPSA Payable",
+        "debit": 0,
+        "credit": 6000.0
+      },
+      {
+        "account": "PAYE Payable",
+        "debit": 0,
+        "credit": 20000.0
+      },
+      {
+        "account": "Cash",
+        "debit": 0,
+        "credit": 92800.0
+      }
+    ]
+  },
+  {
+    "id": "item-004",
+    "period": "January 2024",
+    "totalGrossPay": 120000.0,
+    "totalDeductions": 27200.0,
+    "totalNetPay": 92800.0,
+    "journalEntries": [
+      {
+        "account": "Salary Expense",
+        "debit": 120000.0,
+        "credit": 0
+      },
+      {
+        "account": "NAPSA Payable",
+        "debit": 0,
+        "credit": 6000.0
+      },
+      {
+        "account": "PAYE Payable",
+        "debit": 0,
+        "credit": 20000.0
+      },
+      {
+        "account": "Cash",
+        "debit": 0,
+        "credit": 92800.0
+      }
+    ]
+  },
+  {
+    "id": "item-005",
+    "period": "January 2024",
+    "totalGrossPay": 120000.0,
+    "totalDeductions": 27200.0,
+    "totalNetPay": 92800.0,
+    "journalEntries": [
+      {
+        "account": "Salary Expense",
+        "debit": 120000.0,
+        "credit": 0
+      },
+      {
+        "account": "NAPSA Payable",
+        "debit": 0,
+        "credit": 6000.0
+      },
+      {
+        "account": "PAYE Payable",
+        "debit": 0,
+        "credit": 20000.0
+      },
+      {
+        "account": "Cash",
+        "debit": 0,
+        "credit": 92800.0
+      }
+    ]
+  },
+  {
+    "id": "item-006",
+    "period": "January 2024",
+    "totalGrossPay": 120000.0,
+    "totalDeductions": 27200.0,
+    "totalNetPay": 92800.0,
+    "journalEntries": [
+      {
+        "account": "Salary Expense",
+        "debit": 120000.0,
+        "credit": 0
+      },
+      {
+        "account": "NAPSA Payable",
+        "debit": 0,
+        "credit": 6000.0
+      },
+      {
+        "account": "PAYE Payable",
+        "debit": 0,
+        "credit": 20000.0
+      },
+      {
+        "account": "Cash",
+        "debit": 0,
+        "credit": 92800.0
+      }
+    ]
+  },
+  {
+    "id": "item-007",
+    "period": "January 2024",
+    "totalGrossPay": 120000.0,
+    "totalDeductions": 27200.0,
+    "totalNetPay": 92800.0,
+    "journalEntries": [
+      {
+        "account": "Salary Expense",
+        "debit": 120000.0,
+        "credit": 0
+      },
+      {
+        "account": "NAPSA Payable",
+        "debit": 0,
+        "credit": 6000.0
+      },
+      {
+        "account": "PAYE Payable",
+        "debit": 0,
+        "credit": 20000.0
+      },
+      {
+        "account": "Cash",
+        "debit": 0,
+        "credit": 92800.0
+      }
+    ]
+  },
+  {
+    "id": "item-008",
+    "period": "January 2024",
+    "totalGrossPay": 120000.0,
+    "totalDeductions": 27200.0,
+    "totalNetPay": 92800.0,
+    "journalEntries": [
+      {
+        "account": "Salary Expense",
+        "debit": 120000.0,
+        "credit": 0
+      },
+      {
+        "account": "NAPSA Payable",
+        "debit": 0,
+        "credit": 6000.0
+      },
+      {
+        "account": "PAYE Payable",
+        "debit": 0,
+        "credit": 20000.0
+      },
+      {
+        "account": "Cash",
+        "debit": 0,
+        "credit": 92800.0
+      }
+    ]
+  },
+  {
+    "id": "item-009",
+    "period": "January 2024",
+    "totalGrossPay": 120000.0,
+    "totalDeductions": 27200.0,
+    "totalNetPay": 92800.0,
+    "journalEntries": [
+      {
+        "account": "Salary Expense",
+        "debit": 120000.0,
+        "credit": 0
+      },
+      {
+        "account": "NAPSA Payable",
+        "debit": 0,
+        "credit": 6000.0
+      },
+      {
+        "account": "PAYE Payable",
+        "debit": 0,
+        "credit": 20000.0
+      },
+      {
+        "account": "Cash",
+        "debit": 0,
+        "credit": 92800.0
+      }
+    ]
+  },
+  {
+    "id": "item-010",
+    "period": "January 2024",
+    "totalGrossPay": 120000.0,
+    "totalDeductions": 27200.0,
+    "totalNetPay": 92800.0,
+    "journalEntries": [
+      {
+        "account": "Salary Expense",
+        "debit": 120000.0,
+        "credit": 0
+      },
+      {
+        "account": "NAPSA Payable",
+        "debit": 0,
+        "credit": 6000.0
+      },
+      {
+        "account": "PAYE Payable",
+        "debit": 0,
+        "credit": 20000.0
+      },
+      {
+        "account": "Cash",
+        "debit": 0,
+        "credit": 92800.0
+      }
+    ]
+  },
+  {
+    "id": "item-011",
+    "period": "January 2024",
+    "totalGrossPay": 120000.0,
+    "totalDeductions": 27200.0,
+    "totalNetPay": 92800.0,
+    "journalEntries": [
+      {
+        "account": "Salary Expense",
+        "debit": 120000.0,
+        "credit": 0
+      },
+      {
+        "account": "NAPSA Payable",
+        "debit": 0,
+        "credit": 6000.0
+      },
+      {
+        "account": "PAYE Payable",
+        "debit": 0,
+        "credit": 20000.0
+      },
+      {
+        "account": "Cash",
+        "debit": 0,
+        "credit": 92800.0
+      }
+    ]
+  },
+  {
+    "id": "item-012",
+    "period": "January 2024",
+    "totalGrossPay": 120000.0,
+    "totalDeductions": 27200.0,
+    "totalNetPay": 92800.0,
+    "journalEntries": [
+      {
+        "account": "Salary Expense",
+        "debit": 120000.0,
+        "credit": 0
+      },
+      {
+        "account": "NAPSA Payable",
+        "debit": 0,
+        "credit": 6000.0
+      },
+      {
+        "account": "PAYE Payable",
+        "debit": 0,
+        "credit": 20000.0
+      },
+      {
+        "account": "Cash",
+        "debit": 0,
+        "credit": 92800.0
+      }
+    ]
+  },
+  {
+    "id": "item-013",
+    "period": "January 2024",
+    "totalGrossPay": 120000.0,
+    "totalDeductions": 27200.0,
+    "totalNetPay": 92800.0,
+    "journalEntries": [
+      {
+        "account": "Salary Expense",
+        "debit": 120000.0,
+        "credit": 0
+      },
+      {
+        "account": "NAPSA Payable",
+        "debit": 0,
+        "credit": 6000.0
+      },
+      {
+        "account": "PAYE Payable",
+        "debit": 0,
+        "credit": 20000.0
+      },
+      {
+        "account": "Cash",
+        "debit": 0,
+        "credit": 92800.0
+      }
+    ]
+  },
+  {
+    "id": "item-014",
+    "period": "January 2024",
+    "totalGrossPay": 120000.0,
+    "totalDeductions": 27200.0,
+    "totalNetPay": 92800.0,
+    "journalEntries": [
+      {
+        "account": "Salary Expense",
+        "debit": 120000.0,
+        "credit": 0
+      },
+      {
+        "account": "NAPSA Payable",
+        "debit": 0,
+        "credit": 6000.0
+      },
+      {
+        "account": "PAYE Payable",
+        "debit": 0,
+        "credit": 20000.0
+      },
+      {
+        "account": "Cash",
+        "debit": 0,
+        "credit": 92800.0
+      }
+    ]
+  },
+  {
+    "id": "item-015",
+    "period": "January 2024",
+    "totalGrossPay": 120000.0,
+    "totalDeductions": 27200.0,
+    "totalNetPay": 92800.0,
+    "journalEntries": [
+      {
+        "account": "Salary Expense",
+        "debit": 120000.0,
+        "credit": 0
+      },
+      {
+        "account": "NAPSA Payable",
+        "debit": 0,
+        "credit": 6000.0
+      },
+      {
+        "account": "PAYE Payable",
+        "debit": 0,
+        "credit": 20000.0
+      },
+      {
+        "account": "Cash",
+        "debit": 0,
+        "credit": 92800.0
+      }
+    ]
+  },
+  {
+    "id": "item-016",
+    "period": "January 2024",
+    "totalGrossPay": 120000.0,
+    "totalDeductions": 27200.0,
+    "totalNetPay": 92800.0,
+    "journalEntries": [
+      {
+        "account": "Salary Expense",
+        "debit": 120000.0,
+        "credit": 0
+      },
+      {
+        "account": "NAPSA Payable",
+        "debit": 0,
+        "credit": 6000.0
+      },
+      {
+        "account": "PAYE Payable",
+        "debit": 0,
+        "credit": 20000.0
+      },
+      {
+        "account": "Cash",
+        "debit": 0,
+        "credit": 92800.0
+      }
+    ]
+  },
+  {
+    "id": "item-017",
+    "period": "January 2024",
+    "totalGrossPay": 120000.0,
+    "totalDeductions": 27200.0,
+    "totalNetPay": 92800.0,
+    "journalEntries": [
+      {
+        "account": "Salary Expense",
+        "debit": 120000.0,
+        "credit": 0
+      },
+      {
+        "account": "NAPSA Payable",
+        "debit": 0,
+        "credit": 6000.0
+      },
+      {
+        "account": "PAYE Payable",
+        "debit": 0,
+        "credit": 20000.0
+      },
+      {
+        "account": "Cash",
+        "debit": 0,
+        "credit": 92800.0
+      }
+    ]
+  },
+  {
+    "id": "item-018",
+    "period": "January 2024",
+    "totalGrossPay": 120000.0,
+    "totalDeductions": 27200.0,
+    "totalNetPay": 92800.0,
+    "journalEntries": [
+      {
+        "account": "Salary Expense",
+        "debit": 120000.0,
+        "credit": 0
+      },
+      {
+        "account": "NAPSA Payable",
+        "debit": 0,
+        "credit": 6000.0
+      },
+      {
+        "account": "PAYE Payable",
+        "debit": 0,
+        "credit": 20000.0
+      },
+      {
+        "account": "Cash",
+        "debit": 0,
+        "credit": 92800.0
+      }
+    ]
+  },
+  {
+    "id": "item-019",
+    "period": "January 2024",
+    "totalGrossPay": 120000.0,
+    "totalDeductions": 27200.0,
+    "totalNetPay": 92800.0,
+    "journalEntries": [
+      {
+        "account": "Salary Expense",
+        "debit": 120000.0,
+        "credit": 0
+      },
+      {
+        "account": "NAPSA Payable",
+        "debit": 0,
+        "credit": 6000.0
+      },
+      {
+        "account": "PAYE Payable",
+        "debit": 0,
+        "credit": 20000.0
+      },
+      {
+        "account": "Cash",
+        "debit": 0,
+        "credit": 92800.0
+      }
+    ]
+  },
+  {
+    "id": "item-020",
+    "period": "January 2024",
+    "totalGrossPay": 120000.0,
+    "totalDeductions": 27200.0,
+    "totalNetPay": 92800.0,
+    "journalEntries": [
+      {
+        "account": "Salary Expense",
+        "debit": 120000.0,
+        "credit": 0
+      },
+      {
+        "account": "NAPSA Payable",
+        "debit": 0,
+        "credit": 6000.0
+      },
+      {
+        "account": "PAYE Payable",
+        "debit": 0,
+        "credit": 20000.0
+      },
+      {
+        "account": "Cash",
+        "debit": 0,
+        "credit": 92800.0
+      }
+    ]
+  },
+  {
+    "id": "item-021",
+    "period": "January 2024",
+    "totalGrossPay": 120000.0,
+    "totalDeductions": 27200.0,
+    "totalNetPay": 92800.0,
+    "journalEntries": [
+      {
+        "account": "Salary Expense",
+        "debit": 120000.0,
+        "credit": 0
+      },
+      {
+        "account": "NAPSA Payable",
+        "debit": 0,
+        "credit": 6000.0
+      },
+      {
+        "account": "PAYE Payable",
+        "debit": 0,
+        "credit": 20000.0
+      },
+      {
+        "account": "Cash",
+        "debit": 0,
+        "credit": 92800.0
+      }
+    ]
+  },
+  {
+    "id": "item-022",
+    "period": "January 2024",
+    "totalGrossPay": 120000.0,
+    "totalDeductions": 27200.0,
+    "totalNetPay": 92800.0,
+    "journalEntries": [
+      {
+        "account": "Salary Expense",
+        "debit": 120000.0,
+        "credit": 0
+      },
+      {
+        "account": "NAPSA Payable",
+        "debit": 0,
+        "credit": 6000.0
+      },
+      {
+        "account": "PAYE Payable",
+        "debit": 0,
+        "credit": 20000.0
+      },
+      {
+        "account": "Cash",
+        "debit": 0,
+        "credit": 92800.0
+      }
+    ]
+  },
+  {
+    "id": "item-023",
+    "period": "January 2024",
+    "totalGrossPay": 120000.0,
+    "totalDeductions": 27200.0,
+    "totalNetPay": 92800.0,
+    "journalEntries": [
+      {
+        "account": "Salary Expense",
+        "debit": 120000.0,
+        "credit": 0
+      },
+      {
+        "account": "NAPSA Payable",
+        "debit": 0,
+        "credit": 6000.0
+      },
+      {
+        "account": "PAYE Payable",
+        "debit": 0,
+        "credit": 20000.0
+      },
+      {
+        "account": "Cash",
+        "debit": 0,
+        "credit": 92800.0
+      }
+    ]
+  },
+  {
+    "id": "item-024",
+    "period": "January 2024",
+    "totalGrossPay": 120000.0,
+    "totalDeductions": 27200.0,
+    "totalNetPay": 92800.0,
+    "journalEntries": [
+      {
+        "account": "Salary Expense",
+        "debit": 120000.0,
+        "credit": 0
+      },
+      {
+        "account": "NAPSA Payable",
+        "debit": 0,
+        "credit": 6000.0
+      },
+      {
+        "account": "PAYE Payable",
+        "debit": 0,
+        "credit": 20000.0
+      },
+      {
+        "account": "Cash",
+        "debit": 0,
+        "credit": 92800.0
+      }
+    ]
+  },
+  {
+    "id": "item-025",
+    "period": "January 2024",
+    "totalGrossPay": 120000.0,
+    "totalDeductions": 27200.0,
+    "totalNetPay": 92800.0,
+    "journalEntries": [
+      {
+        "account": "Salary Expense",
+        "debit": 120000.0,
+        "credit": 0
+      },
+      {
+        "account": "NAPSA Payable",
+        "debit": 0,
+        "credit": 6000.0
+      },
+      {
+        "account": "PAYE Payable",
+        "debit": 0,
+        "credit": 20000.0
+      },
+      {
+        "account": "Cash",
+        "debit": 0,
+        "credit": 92800.0
+      }
+    ]
+  },
+  {
+    "id": "item-026",
+    "period": "January 2024",
+    "totalGrossPay": 120000.0,
+    "totalDeductions": 27200.0,
+    "totalNetPay": 92800.0,
+    "journalEntries": [
+      {
+        "account": "Salary Expense",
+        "debit": 120000.0,
+        "credit": 0
+      },
+      {
+        "account": "NAPSA Payable",
+        "debit": 0,
+        "credit": 6000.0
+      },
+      {
+        "account": "PAYE Payable",
+        "debit": 0,
+        "credit": 20000.0
+      },
+      {
+        "account": "Cash",
+        "debit": 0,
+        "credit": 92800.0
+      }
+    ]
+  },
+  {
+    "id": "item-027",
+    "period": "January 2024",
+    "totalGrossPay": 120000.0,
+    "totalDeductions": 27200.0,
+    "totalNetPay": 92800.0,
+    "journalEntries": [
+      {
+        "account": "Salary Expense",
+        "debit": 120000.0,
+        "credit": 0
+      },
+      {
+        "account": "NAPSA Payable",
+        "debit": 0,
+        "credit": 6000.0
+      },
+      {
+        "account": "PAYE Payable",
+        "debit": 0,
+        "credit": 20000.0
+      },
+      {
+        "account": "Cash",
+        "debit": 0,
+        "credit": 92800.0
+      }
+    ]
+  },
+  {
+    "id": "item-028",
+    "period": "January 2024",
+    "totalGrossPay": 120000.0,
+    "totalDeductions": 27200.0,
+    "totalNetPay": 92800.0,
+    "journalEntries": [
+      {
+        "account": "Salary Expense",
+        "debit": 120000.0,
+        "credit": 0
+      },
+      {
+        "account": "NAPSA Payable",
+        "debit": 0,
+        "credit": 6000.0
+      },
+      {
+        "account": "PAYE Payable",
+        "debit": 0,
+        "credit": 20000.0
+      },
+      {
+        "account": "Cash",
+        "debit": 0,
+        "credit": 92800.0
+      }
+    ]
+  },
+  {
+    "id": "item-029",
+    "period": "January 2024",
+    "totalGrossPay": 120000.0,
+    "totalDeductions": 27200.0,
+    "totalNetPay": 92800.0,
+    "journalEntries": [
+      {
+        "account": "Salary Expense",
+        "debit": 120000.0,
+        "credit": 0
+      },
+      {
+        "account": "NAPSA Payable",
+        "debit": 0,
+        "credit": 6000.0
+      },
+      {
+        "account": "PAYE Payable",
+        "debit": 0,
+        "credit": 20000.0
+      },
+      {
+        "account": "Cash",
+        "debit": 0,
+        "credit": 92800.0
+      }
+    ]
+  },
+  {
+    "id": "item-030",
+    "period": "January 2024",
+    "totalGrossPay": 120000.0,
+    "totalDeductions": 27200.0,
+    "totalNetPay": 92800.0,
+    "journalEntries": [
+      {
+        "account": "Salary Expense",
+        "debit": 120000.0,
+        "credit": 0
+      },
+      {
+        "account": "NAPSA Payable",
+        "debit": 0,
+        "credit": 6000.0
+      },
+      {
+        "account": "PAYE Payable",
+        "debit": 0,
+        "credit": 20000.0
+      },
+      {
+        "account": "Cash",
+        "debit": 0,
+        "credit": 92800.0
+      }
+    ]
+  }
+]

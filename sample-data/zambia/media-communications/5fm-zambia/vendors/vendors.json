@@ -1,0 +1,109 @@
+{
+  "vendors": [
+    {
+      "id": 1,
+      "vendorName": "Nkole Mulenga",
+      "companyName": "Zulu Publishers Group",
+      "contactPerson": "Nkole Mulenga",
+      "email": "nkolemulenga@mulenga.co.zm",
+      "phone": "+260 178 547 646",
+      "city": "Chingola",
+      "country": "Zambia",
+      "defaultPaymentTerms": "Net 30",
+      "taxId": "TAX-441175",
+      "totalAmountOwed": 749284.82
+    },
+    {
+      "id": 2,
+      "vendorName": "Chisanga Tembo",
+      "companyName": "Lungu Publishers Enterprises",
+      "contactPerson": "Chisanga Tembo",
+      "email": "chisangatemb@tembo.co.zm",
+      "phone": "+260 263 137 316",
+      "city": "Kabwe",
+      "country": "Zambia",
+      "defaultPaymentTerms": "Net 15",
+      "taxId": "TAX-902433",
+      "totalAmountOwed": 479861.06
+    },
+    {
+      "id": 3,
+      "vendorName": "Mutale Chileshe",
+      "companyName": "Ngosa Publishers Co.",
+      "contactPerson": "Mutale Chileshe",
+      "email": "mutalechiles@chileshe.co.zm",
+      "phone": "+260 223 794 425",
+      "city": "Chipata",
+      "country": "Zambia",
+      "defaultPaymentTerms": "Net 45",
+      "taxId": "TAX-139081",
+      "totalAmountOwed": 283561.2
+    },
+    {
+      "id": 4,
+      "vendorName": "Mwale Sakala",
+      "companyName": "Mwamba Publishers Holdings",
+      "contactPerson": "Mwale Sakala",
+      "email": "mwalesakala@sakala.co.zm",
+      "phone": "+260 305 435 252",
+      "city": "Lusaka",
+      "country": "Zambia",
+      "defaultPaymentTerms": "Net 45",
+      "taxId": "TAX-746402",
+      "totalAmountOwed": 330971.27
+    },
+    {
+      "id": 5,
+      "vendorName": "Malama Sakala",
+      "companyName": "Kaputo Digital Media Inc.",
+      "contactPerson": "Malama Sakala",
+      "email": "malamasakala@sakala.co.zm",
+      "phone": "+260 727 633 603",
+      "city": "Lusaka",
+      "country": "Zambia",
+      "defaultPaymentTerms": "Due on Receipt",
+      "taxId": "TAX-583958",
+      "totalAmountOwed": 747687.68
+    },
+    {
+      "id": 6,
+      "vendorName": "Mwamba Ngosa",
+      "companyName": "Mwale Digital Media Holdings",
+      "contactPerson": "Mwamba Ngosa",
+      "email": "mwambangosa@ngosa.co.zm",
+      "phone": "+260 876 220 825",
+      "city": "Mufulira",
+      "country": "Zambia",
+      "defaultPaymentTerms": "Net 30",
+      "taxId": "TAX-873190",
+      "totalAmountOwed": 571511.11
+    },
+    {
+      "id": 7,
+      "vendorName": "Mulenga Mulenga",
+      "companyName": "Mulenga Publishers Co.",
+      "contactPerson": "Mulenga Mulenga",
+      "email": "mulengamulen@mulenga.co.zm",
+      "phone": "+260 441 617 220",
+      "city": "Chipata",
+      "country": "Zambia",
+      "defaultPaymentTerms": "Net 30",
+      "taxId": "TAX-950388",
+      "totalAmountOwed": 359486.26
+    },
+    {
+      "id": 8,
+      "vendorName": "Chanda Sakala",
+      "companyName": "Lungu Publishers Limited",
+      "contactPerson": "Chanda Sakala",
+      "email": "chandasakala@sakala.co.zm",
+      "phone": "+260 637 468 384",
+      "city": "Lusaka",
+      "country": "Zambia",
+      "defaultPaymentTerms": "Due on Receipt",
+      "taxId": "TAX-536064",
+      "totalAmountOwed": 193534.21
+    }
+  ],
+  "vendorCredits": []
+}

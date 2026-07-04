@@ -1,0 +1,109 @@
+{
+  "vendors": [
+    {
+      "id": 1,
+      "vendorName": "Mumba Chanda",
+      "companyName": "Lungu Solutions Limited",
+      "contactPerson": "Mumba Chanda",
+      "email": "mumbachanda@chanda.co.zm",
+      "phone": "+260 716 670 024",
+      "city": "Mufulira",
+      "country": "Zambia",
+      "defaultPaymentTerms": "Net 45",
+      "taxId": "TAX-242827",
+      "totalAmountOwed": 129299.98
+    },
+    {
+      "id": 2,
+      "vendorName": "Kaputo Tembo",
+      "companyName": "Bwalya Technical Services Group",
+      "contactPerson": "Kaputo Tembo",
+      "email": "kaputotembo@tembo.co.zm",
+      "phone": "+260 803 946 762",
+      "city": "Kabwe",
+      "country": "Zambia",
+      "defaultPaymentTerms": "Due on Receipt",
+      "taxId": "TAX-203216",
+      "totalAmountOwed": 420739.78
+    },
+    {
+      "id": 3,
+      "vendorName": "Bwalya Zulu",
+      "companyName": "Chileshe Technical Services Co.",
+      "contactPerson": "Bwalya Zulu",
+      "email": "bwalyazulu@zulu.co.zm",
+      "phone": "+260 623 912 938",
+      "city": "Chingola",
+      "country": "Zambia",
+      "defaultPaymentTerms": "Net 45",
+      "taxId": "TAX-517743",
+      "totalAmountOwed": 232272.51
+    },
+    {
+      "id": 4,
+      "vendorName": "Chanda Bwalya",
+      "companyName": "Sakala Maintenance Group",
+      "contactPerson": "Chanda Bwalya",
+      "email": "chandabwalya@bwalya.co.zm",
+      "phone": "+260 932 933 605",
+      "city": "Kitwe",
+      "country": "Zambia",
+      "defaultPaymentTerms": "Net 45",
+      "taxId": "TAX-813123",
+      "totalAmountOwed": 199815.03
+    },
+    {
+      "id": 5,
+      "vendorName": "Chileshe Zimba",
+      "companyName": "Banda Solutions Co.",
+      "contactPerson": "Chileshe Zimba",
+      "email": "chileshezimb@zimba.co.zm",
+      "phone": "+260 465 514 762",
+      "city": "Ndola",
+      "country": "Zambia",
+      "defaultPaymentTerms": "Net 15",
+      "taxId": "TAX-531341",
+      "totalAmountOwed": 55057.43
+    },
+    {
+      "id": 6,
+      "vendorName": "Nkole Mwale",
+      "companyName": "Chanda Services Enterprises",
+      "contactPerson": "Nkole Mwale",
+      "email": "nkolemwale@mwale.co.zm",
+      "phone": "+260 350 613 810",
+      "city": "Livingstone",
+      "country": "Zambia",
+      "defaultPaymentTerms": "Net 45",
+      "taxId": "TAX-630001",
+      "totalAmountOwed": 8549.75
+    },
+    {
+      "id": 7,
+      "vendorName": "Ngosa Mumba",
+      "companyName": "Zulu Technical Services Ltd",
+      "contactPerson": "Ngosa Mumba",
+      "email": "ngosamumba@mumba.co.zm",
+      "phone": "+260 057 238 159",
+      "city": "Livingstone",
+      "country": "Zambia",
+      "defaultPaymentTerms": "Net 15",
+      "taxId": "TAX-551416",
+      "totalAmountOwed": 4855.84
+    },
+    {
+      "id": 8,
+      "vendorName": "Chisanga Zimba",
+      "companyName": "Kabwe Services Limited",
+      "contactPerson": "Chisanga Zimba",
+      "email": "chisangazimb@zimba.co.zm",
+      "phone": "+260 243 104 292",
+      "city": "Ndola",
+      "country": "Zambia",
+      "defaultPaymentTerms": "Net 30",
+      "taxId": "TAX-689119",
+      "totalAmountOwed": 96725.97
+    }
+  ],
+  "vendorCredits": []
+}

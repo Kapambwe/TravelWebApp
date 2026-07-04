@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "invoiceNumber": "INV-2025-001",
+    "clientName": "Mutale Haulage Enterprises",
+    "description": "Air Cargo Haulage",
+    "invoiceDate": "2025-03-02T00:00:00",
+    "dueDate": "2025-03-17T00:00:00",
+    "amount": 4643766.61,
+    "receivedAmount": 4643766.61,
+    "status": "Paid",
+    "customerId": 3
+  },
+  {
+    "id": 2,
+    "invoiceNumber": "INV-2025-002",
+    "clientName": "Sakala Logistics Limited",
+    "description": "Cross-Border Transport",
+    "invoiceDate": "2024-10-01T00:00:00",
+    "dueDate": "2024-11-15T00:00:00",
+    "amount": 689979.52,
+    "receivedAmount": 0.0,
+    "status": "Open",
+    "customerId": 6
+  },
+  {
+    "id": 3,
+    "invoiceNumber": "INV-2025-003",
+    "clientName": "Sakala Logistics Limited",
+    "description": "Road Freight Services",
+    "invoiceDate": "2025-03-03T00:00:00",
+    "dueDate": "2025-04-17T00:00:00",
+    "amount": 4097641.36,
+    "receivedAmount": 0.0,
+    "status": "Open",
+    "customerId": 6
+  },
+  {
+    "id": 4,
+    "invoiceNumber": "INV-2025-004",
+    "clientName": "Mutale Haulage Enterprises",
+    "description": "Air Cargo Haulage",
+    "invoiceDate": "2024-12-12T00:00:00",
+    "dueDate": "2025-02-10T00:00:00",
+    "amount": 4685310.5,
+    "receivedAmount": 4685310.5,
+    "status": "Paid",
+    "customerId": 3
+  },
+  {
+    "id": 5,
+    "invoiceNumber": "INV-2025-005",
+    "clientName": "Sakala Logistics Limited",
+    "description": "Port Handling Services",
+    "invoiceDate": "2024-12-18T00:00:00",
+    "dueDate": "2025-02-16T00:00:00",
+    "amount": 1825155.0,
+    "receivedAmount": 1825155.0,
+    "status": "Paid",
+    "customerId": 6
+  },
+  {
+    "id": 6,
+    "invoiceNumber": "INV-2025-006",
+    "clientName": "Sakala Haulage Holdings",
+    "description": "Cross-Border Transport",
+    "invoiceDate": "2025-02-06T00:00:00",
+    "dueDate": "2025-03-23T00:00:00",
+    "amount": 3060185.74,
+    "receivedAmount": 1697067.82,
+    "status": "PartiallyPaid",
+    "customerId": 8
+  },
+  {
+    "id": 7,
+    "invoiceNumber": "INV-2025-007",
+    "clientName": "Chileshe Transport Limited",
+    "description": "Port Handling Services",
+    "invoiceDate": "2025-02-22T00:00:00",
+    "dueDate": "2025-03-09T00:00:00",
+    "amount": 757837.47,
+    "receivedAmount": 0.0,
+    "status": "Open",
+    "customerId": 7
+  },
+  {
+    "id": 8,
+    "invoiceNumber": "INV-2025-008",
+    "clientName": "Bwalya Cargo Limited",
+    "description": "Air Cargo Haulage",
+    "invoiceDate": "2025-03-04T00:00:00",
+    "dueDate": "2025-04-03T00:00:00",
+    "amount": 2352990.31,
+    "receivedAmount": 2352990.31,
+    "status": "Paid",
+    "customerId": 5
+  },
+  {
+    "id": 9,
+    "invoiceNumber": "INV-2025-009",
+    "clientName": "Bwalya Cargo Limited",
+    "description": "Warehousing & Storage",
+    "invoiceDate": "2025-03-07T00:00:00",
+    "dueDate": "2025-04-21T00:00:00",
+    "amount": 879610.63,
+    "receivedAmount": 267126.77,
+    "status": "PartiallyPaid",
+    "customerId": 5
+  },
+  {
+    "id": 10,
+    "invoiceNumber": "INV-2025-010",
+    "clientName": "Tembo Cargo Co.",
+    "description": "Port Handling Services",
+    "invoiceDate": "2024-10-06T00:00:00",
+    "dueDate": "2024-12-05T00:00:00",
+    "amount": 4711890.16,
+    "receivedAmount": 0.0,
+    "status": "Open",
+    "customerId": 9
+  }
+]

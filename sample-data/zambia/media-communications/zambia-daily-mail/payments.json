@@ -1,0 +1,145 @@
+[
+  {
+    "id": 1,
+    "paymentNumber": "PAY-2025-001",
+    "invoiceId": 12,
+    "customerId": 13,
+    "clientName": "Kaputo Publishers Co.",
+    "amount": 3005483.52,
+    "paymentDate": "2024-12-18T00:00:00",
+    "paymentMethod": "Bank Transfer",
+    "referenceNumber": "TRF-20250315-001"
+  },
+  {
+    "id": 2,
+    "paymentNumber": "PAY-2025-002",
+    "invoiceId": 13,
+    "customerId": 6,
+    "clientName": "Musonda Publishers Solutions",
+    "amount": 1589687.38,
+    "paymentDate": "2025-02-25T00:00:00",
+    "paymentMethod": "Mobile Money",
+    "referenceNumber": "MMO-20250315-002"
+  },
+  {
+    "id": 3,
+    "paymentNumber": "PAY-2025-003",
+    "invoiceId": 13,
+    "customerId": 6,
+    "clientName": "Musonda Publishers Solutions",
+    "amount": 1589687.38,
+    "paymentDate": "2025-01-07T00:00:00",
+    "paymentMethod": "Cheque",
+    "referenceNumber": "CHQ-20250315-003"
+  },
+  {
+    "id": 4,
+    "paymentNumber": "PAY-2025-004",
+    "invoiceId": 13,
+    "customerId": 6,
+    "clientName": "Musonda Publishers Solutions",
+    "amount": 1589687.38,
+    "paymentDate": "2024-12-28T00:00:00",
+    "paymentMethod": "Bank Transfer",
+    "referenceNumber": "TRF-20250315-004"
+  },
+  {
+    "id": 5,
+    "paymentNumber": "PAY-2025-005",
+    "invoiceId": 11,
+    "customerId": 13,
+    "clientName": "Kaputo Publishers Co.",
+    "amount": 3301282.22,
+    "paymentDate": "2025-03-13T00:00:00",
+    "paymentMethod": "Bank Transfer",
+    "referenceNumber": "TRF-20250315-005"
+  },
+  {
+    "id": 6,
+    "paymentNumber": "PAY-2025-006",
+    "invoiceId": 12,
+    "customerId": 13,
+    "clientName": "Kaputo Publishers Co.",
+    "amount": 3005483.52,
+    "paymentDate": "2024-12-29T00:00:00",
+    "paymentMethod": "Cheque",
+    "referenceNumber": "CHQ-20250315-006"
+  },
+  {
+    "id": 7,
+    "paymentNumber": "PAY-2025-007",
+    "invoiceId": 12,
+    "customerId": 13,
+    "clientName": "Kaputo Publishers Co.",
+    "amount": 3005483.52,
+    "paymentDate": "2025-02-14T00:00:00",
+    "paymentMethod": "Cheque",
+    "referenceNumber": "CHQ-20250315-007"
+  },
+  {
+    "id": 8,
+    "paymentNumber": "PAY-2025-008",
+    "invoiceId": 7,
+    "customerId": 8,
+    "clientName": "Lungu Broadcasting Co.",
+    "amount": 2024937.27,
+    "paymentDate": "2025-02-03T00:00:00",
+    "paymentMethod": "Cash",
+    "referenceNumber": "CASH-20250315-008"
+  },
+  {
+    "id": 9,
+    "paymentNumber": "PAY-2025-009",
+    "invoiceId": 11,
+    "customerId": 13,
+    "clientName": "Kaputo Publishers Co.",
+    "amount": 3301282.22,
+    "paymentDate": "2025-01-14T00:00:00",
+    "paymentMethod": "Cash",
+    "referenceNumber": "CASH-20250315-009"
+  },
+  {
+    "id": 10,
+    "paymentNumber": "PAY-2025-010",
+    "invoiceId": 6,
+    "customerId": 12,
+    "clientName": "Musonda Media Group",
+    "amount": 1802034.61,
+    "paymentDate": "2025-01-15T00:00:00",
+    "paymentMethod": "Cheque",
+    "referenceNumber": "CHQ-20250315-010"
+  },
+  {
+    "id": 11,
+    "paymentNumber": "PAY-2025-011",
+    "invoiceId": 13,
+    "customerId": 6,
+    "clientName": "Musonda Publishers Solutions",
+    "amount": 1589687.38,
+    "paymentDate": "2024-12-26T00:00:00",
+    "paymentMethod": "Mobile Money",
+    "referenceNumber": "MMO-20250315-011"
+  },
+  {
+    "id": 12,
+    "paymentNumber": "PAY-2025-012",
+    "invoiceId": 11,
+    "customerId": 13,
+    "clientName": "Kaputo Publishers Co.",
+    "amount": 3301282.22,
+    "paymentDate": "2025-01-18T00:00:00",
+    "paymentMethod": "Cheque",
+    "referenceNumber": "CHQ-20250315-012"
+  },
+  {
+    "id": 13,
+    "paymentNumber": "PAY-2025-013",
+    "invoiceId": 13,
+    "customerId": 6,
+    "clientName": "Musonda Publishers Solutions",
+    "amount": 1589687.38,
+    "paymentDate": "2025-01-23T00:00:00",
+    "paymentMethod": "Cheque",
+    "referenceNumber": "CHQ-20250315-013"
+  }
+]

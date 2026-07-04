@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "invoiceNumber": "INV-2025-001",
+    "clientName": "Kaputo Digital Media Group",
+    "description": "Radio Airtime",
+    "invoiceDate": "2024-12-20T00:00:00",
+    "dueDate": "2025-02-03T00:00:00",
+    "amount": 2850198.51,
+    "receivedAmount": 0.0,
+    "status": "Overdue",
+    "customerId": 12
+  },
+  {
+    "id": 2,
+    "invoiceNumber": "INV-2025-002",
+    "clientName": "Phiri Communications Holdings",
+    "description": "Print Advertising Space",
+    "invoiceDate": "2024-10-20T00:00:00",
+    "dueDate": "2024-12-04T00:00:00",
+    "amount": 4449675.24,
+    "receivedAmount": 3348839.07,
+    "status": "PartiallyPaid",
+    "customerId": 8
+  },
+  {
+    "id": 3,
+    "invoiceNumber": "INV-2025-003",
+    "clientName": "Musonda Publishers Inc.",
+    "description": "Print Advertising Space",
+    "invoiceDate": "2024-12-16T00:00:00",
+    "dueDate": "2025-02-14T00:00:00",
+    "amount": 441077.9,
+    "receivedAmount": 441077.9,
+    "status": "Paid",
+    "customerId": 5
+  },
+  {
+    "id": 4,
+    "invoiceNumber": "INV-2025-004",
+    "clientName": "Mwale Digital Media Ltd",
+    "description": "Digital Advertising",
+    "invoiceDate": "2025-02-13T00:00:00",
+    "dueDate": "2025-02-28T00:00:00",
+    "amount": 4568381.46,
+    "receivedAmount": 0.0,
+    "status": "Open",
+    "customerId": 4
+  },
+  {
+    "id": 5,
+    "invoiceNumber": "INV-2025-005",
+    "clientName": "Musonda Communications Holdings",
+    "description": "Radio Airtime",
+    "invoiceDate": "2024-11-20T00:00:00",
+    "dueDate": "2024-12-05T00:00:00",
+    "amount": 4481011.32,
+    "receivedAmount": 0.0,
+    "status": "Open",
+    "customerId": 6
+  },
+  {
+    "id": 6,
+    "invoiceNumber": "INV-2025-006",
+    "clientName": "Mutale Media Solutions",
+    "description": "Print Advertising Space",
+    "invoiceDate": "2025-02-07T00:00:00",
+    "dueDate": "2025-03-24T00:00:00",
+    "amount": 4431416.35,
+    "receivedAmount": 4431416.35,
+    "status": "Paid",
+    "customerId": 11
+  },
+  {
+    "id": 7,
+    "invoiceNumber": "INV-2025-007",
+    "clientName": "Kaputo Digital Media Group",
+    "description": "Online Content Package",
+    "invoiceDate": "2025-01-19T00:00:00",
+    "dueDate": "2025-03-05T00:00:00",
+    "amount": 3820802.77,
+    "receivedAmount": 0.0,
+    "status": "Open",
+    "customerId": 12
+  },
+  {
+    "id": 8,
+    "invoiceNumber": "INV-2025-008",
+    "clientName": "Sakala Broadcasting Group",
+    "description": "Media Production",
+    "invoiceDate": "2025-01-02T00:00:00",
+    "dueDate": "2025-02-01T00:00:00",
+    "amount": 2705622.79,
+    "receivedAmount": 0.0,
+    "status": "Open",
+    "customerId": 1
+  },
+  {
+    "id": 9,
+    "invoiceNumber": "INV-2025-009",
+    "clientName": "Zimba Digital Media Holdings",
+    "description": "Media Production",
+    "invoiceDate": "2024-12-30T00:00:00",
+    "dueDate": "2025-01-14T00:00:00",
+    "amount": 1823407.31,
+    "receivedAmount": 0.0,
+    "status": "Open",
+    "customerId": 7
+  }
+]

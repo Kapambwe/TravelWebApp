@@ -1,0 +1,342 @@
+{
+  "consolidationCurrency": "ZMW",
+  "reports": [
+    {
+      "reportType": "ConsolidatedBalanceSheet",
+      "reportName": "Consolidated Balance Sheet",
+      "totalAssets": 50000000,
+      "totalLiabilities": 20000000,
+      "totalEquity": 30000000,
+      "intercompanyReceivablesEliminated": 10000000,
+      "intercompanyPayablesEliminated": 10000000,
+      "notes": "Tenant sample balance sheet for Eastern Tropical Fruit Company",
+      "lines": [
+        {
+          "accountNumber": "1000",
+          "accountName": "Cash and Cash Equivalents",
+          "accountType": "Asset",
+          "entityAmounts": { "ETFC-HQ": 12500000, "ETFC-PROD": 8200000, "ETFC-DIST": 5400000, "ETFC-FARM": 2300000 },
+          "entityCurrencies": { "ETFC-HQ": "ZMW", "ETFC-PROD": "ZMW", "ETFC-DIST": "ZMW", "ETFC-FARM": "ZMW" },
+          "consolidatedAmount": 28400000,
+          "intercompanyEliminationAmount": 0,
+          "finalConsolidatedAmount": 28400000,
+          "hasIntercompanyTransactions": false,
+          "intercompanyTransactionCount": 0
+        },
+        {
+          "accountNumber": "1100",
+          "accountName": "Accounts Receivable",
+          "accountType": "Asset",
+          "entityAmounts": { "ETFC-HQ": 4200000, "ETFC-PROD": 3100000, "ETFC-DIST": 1800000, "ETFC-FARM": 900000 },
+          "entityCurrencies": { "ETFC-HQ": "ZMW", "ETFC-PROD": "ZMW", "ETFC-DIST": "ZMW", "ETFC-FARM": "ZMW" },
+          "consolidatedAmount": 10000000,
+          "intercompanyEliminationAmount": 1000000,
+          "finalConsolidatedAmount": 9000000,
+          "hasIntercompanyTransactions": true,
+          "intercompanyTransactionCount": 5
+        },
+        {
+          "accountNumber": "1200",
+          "accountName": "Inventory",
+          "accountType": "Asset",
+          "entityAmounts": { "ETFC-HQ": 3800000, "ETFC-PROD": 2500000, "ETFC-DIST": 1300000, "ETFC-FARM": 700000 },
+          "entityCurrencies": { "ETFC-HQ": "ZMW", "ETFC-PROD": "ZMW", "ETFC-DIST": "ZMW", "ETFC-FARM": "ZMW" },
+          "consolidatedAmount": 8300000,
+          "intercompanyEliminationAmount": 0,
+          "finalConsolidatedAmount": 8300000,
+          "hasIntercompanyTransactions": false,
+          "intercompanyTransactionCount": 0
+        },
+        {
+          "accountNumber": "1500",
+          "accountName": "Property, Plant and Equipment",
+          "accountType": "Asset",
+          "entityAmounts": { "ETFC-HQ": 15000000, "ETFC-PROD": 9000000, "ETFC-DIST": 6500000, "ETFC-FARM": 4200000 },
+          "entityCurrencies": { "ETFC-HQ": "ZMW", "ETFC-PROD": "ZMW", "ETFC-DIST": "ZMW", "ETFC-FARM": "ZMW" },
+          "consolidatedAmount": 34700000,
+          "intercompanyEliminationAmount": 0,
+          "finalConsolidatedAmount": 34700000,
+          "hasIntercompanyTransactions": false,
+          "intercompanyTransactionCount": 0
+        },
+        {
+          "accountNumber": "2000",
+          "accountName": "Accounts Payable",
+          "accountType": "Liability",
+          "entityAmounts": { "ETFC-HQ": 2600000, "ETFC-PROD": 1800000, "ETFC-DIST": 1200000, "ETFC-FARM": 700000 },
+          "entityCurrencies": { "ETFC-HQ": "ZMW", "ETFC-PROD": "ZMW", "ETFC-DIST": "ZMW", "ETFC-FARM": "ZMW" },
+          "consolidatedAmount": 6300000,
+          "intercompanyEliminationAmount": 1500000,
+          "finalConsolidatedAmount": 4800000,
+          "hasIntercompanyTransactions": true,
+          "intercompanyTransactionCount": 4
+        },
+        {
+          "accountNumber": "3000",
+          "accountName": "Equity",
+          "accountType": "Equity",
+          "entityAmounts": { "ETFC-HQ": 11000000, "ETFC-PROD": 7600000, "ETFC-DIST": 5200000, "ETFC-FARM": 6200000 },
+          "entityCurrencies": { "ETFC-HQ": "ZMW", "ETFC-PROD": "ZMW", "ETFC-DIST": "ZMW", "ETFC-FARM": "ZMW" },
+          "consolidatedAmount": 30000000,
+          "intercompanyEliminationAmount": 0,
+          "finalConsolidatedAmount": 30000000,
+          "hasIntercompanyTransactions": false,
+          "intercompanyTransactionCount": 0
+        }
+      ]
+    },
+    {
+      "reportType": "ConsolidatedIncomeStatement",
+      "reportName": "Consolidated Income Statement",
+      "totalRevenue": 25000000,
+      "totalExpenses": 18000000,
+      "netIncome": 7000000,
+      "intercompanyRevenueEliminated": 500000,
+      "intercompanyExpenseEliminated": 500000,
+      "notes": "Tenant sample income statement",
+      "lines": [
+        {
+          "accountNumber": "4000",
+          "accountName": "Product Sales",
+          "accountType": "Revenue",
+          "entityAmounts": { "ETFC-HQ": 9200000, "ETFC-PROD": 7600000, "ETFC-DIST": 4800000, "ETFC-FARM": 3400000 },
+          "entityCurrencies": { "ETFC-HQ": "ZMW", "ETFC-PROD": "ZMW", "ETFC-DIST": "ZMW", "ETFC-FARM": "ZMW" },
+          "consolidatedAmount": 25000000,
+          "intercompanyEliminationAmount": 500000,
+          "finalConsolidatedAmount": 24500000,
+          "hasIntercompanyTransactions": true,
+          "intercompanyTransactionCount": 12
+        },
+        {
+          "accountNumber": "4010",
+          "accountName": "Service Revenue",
+          "accountType": "Revenue",
+          "entityAmounts": { "ETFC-HQ": 2100000, "ETFC-PROD": 900000, "ETFC-DIST": 500000, "ETFC-FARM": 400000 },
+          "entityCurrencies": { "ETFC-HQ": "ZMW", "ETFC-PROD": "ZMW", "ETFC-DIST": "ZMW", "ETFC-FARM": "ZMW" },
+          "consolidatedAmount": 3900000,
+          "intercompanyEliminationAmount": 100000,
+          "finalConsolidatedAmount": 3800000,
+          "hasIntercompanyTransactions": true,
+          "intercompanyTransactionCount": 3
+        },
+        {
+          "accountNumber": "5000",
+          "accountName": "Cost of Sales",
+          "accountType": "Expense",
+          "entityAmounts": { "ETFC-HQ": 4200000, "ETFC-PROD": 3300000, "ETFC-DIST": 2100000, "ETFC-FARM": 1100000 },
+          "entityCurrencies": { "ETFC-HQ": "ZMW", "ETFC-PROD": "ZMW", "ETFC-DIST": "ZMW", "ETFC-FARM": "ZMW" },
+          "consolidatedAmount": 10700000,
+          "intercompanyEliminationAmount": 300000,
+          "finalConsolidatedAmount": 10400000,
+          "hasIntercompanyTransactions": true,
+          "intercompanyTransactionCount": 6
+        },
+        {
+          "accountNumber": "6000",
+          "accountName": "Operating Expenses",
+          "accountType": "Expense",
+          "entityAmounts": { "ETFC-HQ": 3100000, "ETFC-PROD": 2200000, "ETFC-DIST": 1500000, "ETFC-FARM": 1200000 },
+          "entityCurrencies": { "ETFC-HQ": "ZMW", "ETFC-PROD": "ZMW", "ETFC-DIST": "ZMW", "ETFC-FARM": "ZMW" },
+          "consolidatedAmount": 8000000,
+          "intercompanyEliminationAmount": 100000,
+          "finalConsolidatedAmount": 7900000,
+          "hasIntercompanyTransactions": false,
+          "intercompanyTransactionCount": 0
+        }
+      ]
+    },
+    {
+      "reportType": "ConsolidatedCashFlow",
+      "reportName": "Consolidated Cash Flow Statement",
+      "notes": "Tenant sample cash flow statement",
+      "lines": [
+        {
+          "accountNumber": "5000",
+          "accountName": "Net Cash from Operating Activities",
+          "accountType": "Cash Flow",
+          "entityAmounts": { "ETFC-HQ": 3200000, "ETFC-PROD": 2100000, "ETFC-DIST": 1800000, "ETFC-FARM": 900000 },
+          "entityCurrencies": { "ETFC-HQ": "ZMW", "ETFC-PROD": "ZMW", "ETFC-DIST": "ZMW", "ETFC-FARM": "ZMW" },
+          "consolidatedAmount": 8000000,
+          "intercompanyEliminationAmount": 250000,
+          "finalConsolidatedAmount": 7750000,
+          "hasIntercompanyTransactions": true,
+          "intercompanyTransactionCount": 8
+        },
+        {
+          "accountNumber": "5100",
+          "accountName": "Net Cash from Investing Activities",
+          "accountType": "Cash Flow",
+          "entityAmounts": { "ETFC-HQ": -1200000, "ETFC-PROD": -900000, "ETFC-DIST": -650000, "ETFC-FARM": -350000 },
+          "entityCurrencies": { "ETFC-HQ": "ZMW", "ETFC-PROD": "ZMW", "ETFC-DIST": "ZMW", "ETFC-FARM": "ZMW" },
+          "consolidatedAmount": -3100000,
+          "intercompanyEliminationAmount": 0,
+          "finalConsolidatedAmount": -3100000,
+          "hasIntercompanyTransactions": false,
+          "intercompanyTransactionCount": 0
+        },
+        {
+          "accountNumber": "5200",
+          "accountName": "Net Cash from Financing Activities",
+          "accountType": "Cash Flow",
+          "entityAmounts": { "ETFC-HQ": 900000, "ETFC-PROD": 600000, "ETFC-DIST": 450000, "ETFC-FARM": 300000 },
+          "entityCurrencies": { "ETFC-HQ": "ZMW", "ETFC-PROD": "ZMW", "ETFC-DIST": "ZMW", "ETFC-FARM": "ZMW" },
+          "consolidatedAmount": 2250000,
+          "intercompanyEliminationAmount": 50000,
+          "finalConsolidatedAmount": 2200000,
+          "hasIntercompanyTransactions": true,
+          "intercompanyTransactionCount": 2
+        }
+      ]
+    },
+    {
+      "reportType": "ConsolidatedTrialBalance",
+      "reportName": "Consolidated Trial Balance",
+      "notes": "Tenant sample trial balance",
+      "lines": [
+        {
+          "accountNumber": "1100",
+          "accountName": "Accounts Receivable",
+          "accountType": "Asset",
+          "entityAmounts": { "ETFC-HQ": 3400000, "ETFC-PROD": 2600000, "ETFC-DIST": 1900000, "ETFC-FARM": 1100000 },
+          "entityCurrencies": { "ETFC-HQ": "ZMW", "ETFC-PROD": "ZMW", "ETFC-DIST": "ZMW", "ETFC-FARM": "ZMW" },
+          "consolidatedAmount": 9000000,
+          "intercompanyEliminationAmount": 1000000,
+          "finalConsolidatedAmount": 8000000,
+          "hasIntercompanyTransactions": true,
+          "intercompanyTransactionCount": 6
+        },
+        {
+          "accountNumber": "1200",
+          "accountName": "Inventory",
+          "accountType": "Asset",
+          "entityAmounts": { "ETFC-HQ": 3800000, "ETFC-PROD": 2500000, "ETFC-DIST": 1300000, "ETFC-FARM": 700000 },
+          "entityCurrencies": { "ETFC-HQ": "ZMW", "ETFC-PROD": "ZMW", "ETFC-DIST": "ZMW", "ETFC-FARM": "ZMW" },
+          "consolidatedAmount": 8300000,
+          "intercompanyEliminationAmount": 0,
+          "finalConsolidatedAmount": 8300000,
+          "hasIntercompanyTransactions": false,
+          "intercompanyTransactionCount": 0
+        },
+        {
+          "accountNumber": "2000",
+          "accountName": "Accounts Payable",
+          "accountType": "Liability",
+          "entityAmounts": { "ETFC-HQ": 2600000, "ETFC-PROD": 1800000, "ETFC-DIST": 1200000, "ETFC-FARM": 700000 },
+          "entityCurrencies": { "ETFC-HQ": "ZMW", "ETFC-PROD": "ZMW", "ETFC-DIST": "ZMW", "ETFC-FARM": "ZMW" },
+          "consolidatedAmount": 6300000,
+          "intercompanyEliminationAmount": 1500000,
+          "finalConsolidatedAmount": 4800000,
+          "hasIntercompanyTransactions": true,
+          "intercompanyTransactionCount": 4
+        }
+      ]
+    },
+    {
+      "reportType": "IntercompanyTransactionReport",
+      "reportName": "Intercompany Transaction Report",
+      "intercompanyRevenueEliminated": 1200000,
+      "intercompanyExpenseEliminated": 1150000,
+      "notes": "Tenant sample intercompany transaction report",
+      "lines": [
+        {
+          "accountNumber": "IC-001",
+          "accountName": "Intercompany Product Transfer",
+          "accountType": "Intercompany",
+          "entityAmounts": { "ETFC-HQ": 150000, "ETFC-PROD": 150000 },
+          "entityCurrencies": { "ETFC-HQ": "ZMW", "ETFC-PROD": "ZMW" },
+          "consolidatedAmount": 150000,
+          "intercompanyEliminationAmount": 150000,
+          "finalConsolidatedAmount": 0,
+          "hasIntercompanyTransactions": true,
+          "intercompanyTransactionCount": 2
+        },
+        {
+          "accountNumber": "IC-002",
+          "accountName": "Intercompany Service Charge",
+          "accountType": "Intercompany",
+          "entityAmounts": { "ETFC-HQ": 85000, "ETFC-DIST": 85000 },
+          "entityCurrencies": { "ETFC-HQ": "ZMW", "ETFC-DIST": "ZMW" },
+          "consolidatedAmount": 85000,
+          "intercompanyEliminationAmount": 85000,
+          "finalConsolidatedAmount": 0,
+          "hasIntercompanyTransactions": true,
+          "intercompanyTransactionCount": 1
+        },
+        {
+          "accountNumber": "IC-003",
+          "accountName": "Intercompany Loan Movement",
+          "accountType": "Intercompany",
+          "entityAmounts": { "ETFC-HQ": 500000, "ETFC-FARM": 500000 },
+          "entityCurrencies": { "ETFC-HQ": "ZMW", "ETFC-FARM": "ZMW" },
+          "consolidatedAmount": 500000,
+          "intercompanyEliminationAmount": 500000,
+          "finalConsolidatedAmount": 0,
+          "hasIntercompanyTransactions": true,
+          "intercompanyTransactionCount": 1
+        }
+      ]
+    },
+    {
+      "reportType": "EntityComparisonReport",
+      "reportName": "Entity Comparison Report",
+      "notes": "Tenant sample entity comparison report",
+      "lines": [
+        {
+          "accountNumber": "REV",
+          "accountName": "Revenue",
+          "accountType": "Performance",
+          "entityAmounts": { "ETFC-HQ": 9200000, "ETFC-PROD": 7600000, "ETFC-DIST": 4800000, "ETFC-FARM": 3400000 },
+          "entityCurrencies": { "ETFC-HQ": "ZMW", "ETFC-PROD": "ZMW", "ETFC-DIST": "ZMW", "ETFC-FARM": "ZMW" },
+          "consolidatedAmount": 25000000,
+          "intercompanyEliminationAmount": 500000,
+          "finalConsolidatedAmount": 24500000,
+          "hasIntercompanyTransactions": true,
+          "intercompanyTransactionCount": 12
+        },
+        {
+          "accountNumber": "MARGIN",
+          "accountName": "Gross Margin",
+          "accountType": "Performance",
+          "entityAmounts": { "ETFC-HQ": 45.2, "ETFC-PROD": 41.8, "ETFC-DIST": 38.7, "ETFC-FARM": 34.1 },
+          "entityCurrencies": { "ETFC-HQ": "%", "ETFC-PROD": "%", "ETFC-DIST": "%", "ETFC-FARM": "%" },
+          "consolidatedAmount": 40.0,
+          "intercompanyEliminationAmount": 0,
+          "finalConsolidatedAmount": 40.0,
+          "hasIntercompanyTransactions": false,
+          "intercompanyTransactionCount": 0
+        },
+        {
+          "accountNumber": "NII",
+          "accountName": "Net Income",
+          "accountType": "Performance",
+          "entityAmounts": { "ETFC-HQ": 2100000, "ETFC-PROD": 1600000, "ETFC-DIST": 1100000, "ETFC-FARM": 900000 },
+          "entityCurrencies": { "ETFC-HQ": "ZMW", "ETFC-PROD": "ZMW", "ETFC-DIST": "ZMW", "ETFC-FARM": "ZMW" },
+          "consolidatedAmount": 5700000,
+          "intercompanyEliminationAmount": 300000,
+          "finalConsolidatedAmount": 5400000,
+          "hasIntercompanyTransactions": true,
+          "intercompanyTransactionCount": 4
+        }
+      ]
+    }
+  ],
+  "comparisonDrilldown": {
+    "balanceSheet": [
+      { "label": "Cash and Cash Equivalents", "currentPeriod": 28400000, "comparisonPeriod": 26100000, "variance": 2300000, "variancePercentage": 8.82, "date": "2026-03-31" },
+      { "label": "Accounts Receivable", "currentPeriod": 9000000, "comparisonPeriod": 8400000, "variance": 600000, "variancePercentage": 7.14, "date": "2026-03-31" }
+    ],
+    "incomeStatement": [
+      { "label": "Product Sales", "currentPeriod": 25000000, "comparisonPeriod": 22100000, "variance": 2900000, "variancePercentage": 13.12, "date": "2026-03-31" },
+      { "label": "Cost of Sales", "currentPeriod": 10400000, "comparisonPeriod": 9950000, "variance": 450000, "variancePercentage": 4.52, "date": "2026-03-31" }
+    ]
+  },
+  "intercompanyDrilldown": {
+    "matched": [
+      { "transactionNumber": "ICT-2026-001", "fromEntity": "ETFC-HQ", "toEntity": "ETFC-PROD", "amount": 150000, "currency": "ZMW", "status": "Matched", "date": "2026-03-15" },
+      { "transactionNumber": "ICT-2026-002", "fromEntity": "ETFC-HQ", "toEntity": "ETFC-DIST", "amount": 85000, "currency": "ZMW", "status": "Matched", "date": "2026-03-22" }
+    ],
+    "unmatched": [
+      { "transactionNumber": "ICT-2026-009", "fromEntity": "ETFC-FARM", "toEntity": "ETFC-HQ", "amount": 500000, "currency": "ZMW", "status": "Posted", "date": "2026-03-28" }
+    ]
+  }
+}

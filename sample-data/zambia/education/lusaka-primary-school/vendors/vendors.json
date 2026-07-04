@@ -1,0 +1,122 @@
+{
+  "vendors": [
+    {
+      "id": 1,
+      "vendorName": "Chisanga Mutale",
+      "companyName": "Mulenga Academy Holdings",
+      "contactPerson": "Chisanga Mutale",
+      "email": "chisangamuta@mutale.co.zm",
+      "phone": "+260 978 652 842",
+      "city": "Chingola",
+      "country": "Zambia",
+      "defaultPaymentTerms": "Net 30",
+      "taxId": "TAX-463349",
+      "totalAmountOwed": 55482.17
+    },
+    {
+      "id": 2,
+      "vendorName": "Zimba Siame",
+      "companyName": "Kabwe Learning Centre Ltd",
+      "contactPerson": "Zimba Siame",
+      "email": "zimbasiame@siame.co.zm",
+      "phone": "+260 066 561 367",
+      "city": "Lusaka",
+      "country": "Zambia",
+      "defaultPaymentTerms": "Net 45",
+      "taxId": "TAX-661637",
+      "totalAmountOwed": 343038.27
+    },
+    {
+      "id": 3,
+      "vendorName": "Zimba Tembo",
+      "companyName": "Zimba Educational Institute Group",
+      "contactPerson": "Zimba Tembo",
+      "email": "zimbatembo@tembo.co.zm",
+      "phone": "+260 815 558 384",
+      "city": "Chingola",
+      "country": "Zambia",
+      "defaultPaymentTerms": "Net 15",
+      "taxId": "TAX-831330",
+      "totalAmountOwed": 745747.0
+    },
+    {
+      "id": 4,
+      "vendorName": "Mwamba Chileshe",
+      "companyName": "Mulenga Academy Limited",
+      "contactPerson": "Mwamba Chileshe",
+      "email": "mwambachiles@chileshe.co.zm",
+      "phone": "+260 769 385 707",
+      "city": "Ndola",
+      "country": "Zambia",
+      "defaultPaymentTerms": "Net 45",
+      "taxId": "TAX-441579",
+      "totalAmountOwed": 144970.91
+    },
+    {
+      "id": 5,
+      "vendorName": "Mutale Kabwe",
+      "companyName": "Sakala Academy Ltd",
+      "contactPerson": "Mutale Kabwe",
+      "email": "mutalekabwe@kabwe.co.zm",
+      "phone": "+260 820 127 831",
+      "city": "Lusaka",
+      "country": "Zambia",
+      "defaultPaymentTerms": "Net 15",
+      "taxId": "TAX-166543",
+      "totalAmountOwed": 128459.72
+    },
+    {
+      "id": 6,
+      "vendorName": "Ngosa Zulu",
+      "companyName": "Kaputo Training Centre Holdings",
+      "contactPerson": "Ngosa Zulu",
+      "email": "ngosazulu@zulu.co.zm",
+      "phone": "+260 433 173 912",
+      "city": "Lusaka",
+      "country": "Zambia",
+      "defaultPaymentTerms": "Net 45",
+      "taxId": "TAX-877050",
+      "totalAmountOwed": 6283.83
+    },
+    {
+      "id": 7,
+      "vendorName": "Malama Bwalya",
+      "companyName": "Siame Learning Centre Inc.",
+      "contactPerson": "Malama Bwalya",
+      "email": "malamabwalya@bwalya.co.zm",
+      "phone": "+260 695 491 331",
+      "city": "Livingstone",
+      "country": "Zambia",
+      "defaultPaymentTerms": "Net 15",
+      "taxId": "TAX-881843",
+      "totalAmountOwed": 251618.6
+    },
+    {
+      "id": 8,
+      "vendorName": "Mwamba Mulenga",
+      "companyName": "Musonda College Solutions",
+      "contactPerson": "Mwamba Mulenga",
+      "email": "mwambamuleng@mulenga.co.zm",
+      "phone": "+260 014 284 930",
+      "city": "Lusaka",
+      "country": "Zambia",
+      "defaultPaymentTerms": "Due on Receipt",
+      "taxId": "TAX-748031",
+      "totalAmountOwed": 7963.67
+    },
+    {
+      "id": 9,
+      "vendorName": "Nkole Ngosa",
+      "companyName": "Mulenga College Solutions",
+      "contactPerson": "Nkole Ngosa",
+      "email": "nkolengosa@ngosa.co.zm",
+      "phone": "+260 911 852 536",
+      "city": "Kabwe",
+      "country": "Zambia",
+      "defaultPaymentTerms": "Net 45",
+      "taxId": "TAX-203372",
+      "totalAmountOwed": 102944.86
+    }
+  ],
+  "vendorCredits": []
+}

@@ -1,0 +1,123 @@
+[
+  {
+    "id": 1,
+    "billNumber": "BILL-2025-001",
+    "vendorName": "Chileshe Bakery Enterprises",
+    "description": "Packaging Materials",
+    "billDate": "2024-11-27T00:00:00",
+    "dueDate": "2025-01-11T00:00:00",
+    "amount": 3331840.3,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 2,
+    "billNumber": "BILL-2025-002",
+    "vendorName": "Zulu Provisions Inc.",
+    "description": "QA Lab Fees",
+    "billDate": "2024-09-21T00:00:00",
+    "dueDate": "2024-11-05T00:00:00",
+    "amount": 985143.17,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 3,
+    "billNumber": "BILL-2025-003",
+    "vendorName": "Sakala Catering Holdings",
+    "description": "QA Lab Fees",
+    "billDate": "2024-11-19T00:00:00",
+    "dueDate": "2024-12-19T00:00:00",
+    "amount": 1463513.59,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 4,
+    "billNumber": "BILL-2025-004",
+    "vendorName": "Lungu Catering Solutions",
+    "description": "QA Lab Fees",
+    "billDate": "2025-02-04T00:00:00",
+    "dueDate": "2025-02-19T00:00:00",
+    "amount": 730923.99,
+    "paidAmount": 730923.99,
+    "status": "Paid"
+  },
+  {
+    "id": 5,
+    "billNumber": "BILL-2025-005",
+    "vendorName": "Sakala Beverages Ltd",
+    "description": "Raw Ingredients Purchase",
+    "billDate": "2025-01-16T00:00:00",
+    "dueDate": "2025-01-31T00:00:00",
+    "amount": 3316923.11,
+    "paidAmount": 0.0,
+    "status": "Overdue"
+  },
+  {
+    "id": 6,
+    "billNumber": "BILL-2025-006",
+    "vendorName": "Ngosa Bakery Solutions",
+    "description": "Packaging Materials",
+    "billDate": "2024-11-27T00:00:00",
+    "dueDate": "2024-12-27T00:00:00",
+    "amount": 1040371.23,
+    "paidAmount": 0.0,
+    "status": "Overdue"
+  },
+  {
+    "id": 7,
+    "billNumber": "BILL-2025-007",
+    "vendorName": "Chileshe Bakery Enterprises",
+    "description": "Cold Storage Fees",
+    "billDate": "2024-10-11T00:00:00",
+    "dueDate": "2024-11-10T00:00:00",
+    "amount": 1664117.92,
+    "paidAmount": 1664117.92,
+    "status": "Paid"
+  },
+  {
+    "id": 8,
+    "billNumber": "BILL-2025-008",
+    "vendorName": "Musonda Provisions Group",
+    "description": "Processing Equipment Maintenance",
+    "billDate": "2024-12-14T00:00:00",
+    "dueDate": "2025-01-28T00:00:00",
+    "amount": 1929119.71,
+    "paidAmount": 1252929.03,
+    "status": "PartiallyPaid"
+  },
+  {
+    "id": 9,
+    "billNumber": "BILL-2025-009",
+    "vendorName": "Mutale Beverages Group",
+    "description": "Cold Storage Fees",
+    "billDate": "2024-10-27T00:00:00",
+    "dueDate": "2024-12-11T00:00:00",
+    "amount": 1490929.81,
+    "paidAmount": 0.0,
+    "status": "Overdue"
+  },
+  {
+    "id": 10,
+    "billNumber": "BILL-2025-010",
+    "vendorName": "Chileshe Bakery Enterprises",
+    "description": "QA Lab Fees",
+    "billDate": "2025-02-15T00:00:00",
+    "dueDate": "2025-04-01T00:00:00",
+    "amount": 2048130.41,
+    "paidAmount": 2048130.41,
+    "status": "Paid"
+  },
+  {
+    "id": 11,
+    "billNumber": "BILL-2025-011",
+    "vendorName": "Chileshe Bakery Enterprises",
+    "description": "Packaging Materials",
+    "billDate": "2024-12-08T00:00:00",
+    "dueDate": "2025-01-07T00:00:00",
+    "amount": 3355605.6,
+    "paidAmount": 0.0,
+    "status": "Open"
+  }
+]

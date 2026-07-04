@@ -1,0 +1,130 @@
+{
+  "companyName": "Zambian Breweries Plc",
+  "companyAddress": "Kitwe, Zambia",
+  "companyTaxId": "TPIN-2034613-ZBP",
+  "generatedDate": "2025-09-30",
+  "currency": "ZMW",
+  "period": {
+    "from": "2025-01-01",
+    "to": "2025-09-30"
+  },
+  "customerStatements": [
+    {
+      "customerId": 1,
+      "customerName": "Mukuba Solutions Ltd",
+      "customerEmail": "finance@mukuba.com",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-06-18",
+          "reference": "INV-Z-2025-014",
+          "description": "OEM production contract Q2 2025",
+          "debit": 834500,
+          "credit": 0.0,
+          "balance": 834500
+        },
+        {
+          "date": "2025-07-07",
+          "reference": "PMT-Z-2025-012",
+          "description": "Partial payment received - standing order",
+          "debit": 0.0,
+          "credit": 510500,
+          "balance": 324000
+        }
+      ],
+      "closingBalance": 324000,
+      "status": "Partially Paid"
+    },
+    {
+      "customerId": 2,
+      "customerName": "Mukuba Solutions Ltd",
+      "customerEmail": "billing@mukuba.com",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-04-13",
+          "reference": "INV-Z-2025-025",
+          "description": "Packaging & distribution services",
+          "debit": 1105000,
+          "credit": 0.0,
+          "balance": 1105000
+        },
+        {
+          "date": "2025-06-04",
+          "reference": "PMT-Z-2025-023",
+          "description": "Partial payment received",
+          "debit": 0.0,
+          "credit": 1105000,
+          "balance": 0.0
+        }
+      ],
+      "closingBalance": 0.0,
+      "status": "Settled"
+    },
+    {
+      "customerId": 3,
+      "customerName": "Luangwa Solutions Ltd",
+      "customerEmail": "finance@luangwa.co.zm",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-04-17",
+          "reference": "INV-Z-2025-032",
+          "description": "Packaging & distribution services",
+          "debit": 1884000,
+          "credit": 0.0,
+          "balance": 1884000
+        },
+        {
+          "date": "2025-05-08",
+          "reference": "PMT-Z-2025-039",
+          "description": "Partial final settlement received",
+          "debit": 0.0,
+          "credit": 1167500,
+          "balance": 716500
+        }
+      ],
+      "closingBalance": 716500,
+      "status": "Partially Paid"
+    },
+    {
+      "customerId": 4,
+      "customerName": "Zain Holdings PLC",
+      "customerEmail": "contact@zain.co.zm",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-01-20",
+          "reference": "INV-Z-2025-041",
+          "description": "Bulk supply agreement",
+          "debit": 2409500,
+          "credit": 0.0,
+          "balance": 2409500
+        },
+        {
+          "date": "2025-02-01",
+          "reference": "PMT-Z-2025-044",
+          "description": "Final settlement received",
+          "debit": 0.0,
+          "credit": 2409500,
+          "balance": 0.0
+        }
+      ],
+      "closingBalance": 0.0,
+      "status": "Settled"
+    }
+  ],
+  "summary": {
+    "totalInvoiced": 6233000,
+    "totalReceived": 5192500,
+    "totalOutstanding": 1040500,
+    "totalOverdue": 1040500.0,
+    "agingSummary": {
+      "current": 0.0,
+      "days1to30": 0.0,
+      "days31to60": 0.0,
+      "days61to90": 324000.0,
+      "over90days": 716500.0
+    }
+  }
+}

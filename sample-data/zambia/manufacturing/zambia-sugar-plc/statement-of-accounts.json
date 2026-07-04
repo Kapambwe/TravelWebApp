@@ -1,0 +1,82 @@
+{
+  "companyName": "Zambia Sugar PLC",
+  "companyAddress": "Nakambala Estate, Mazabuka, Southern Province, Zambia",
+  "companyTaxId": "TPIN-2345678-ZSP",
+  "generatedDate": "2025-09-30",
+  "currency": "ZMW",
+  "period": {"from": "2025-01-01", "to": "2025-09-30"},
+  "customerStatements": [
+    {
+      "customerId": 1,
+      "customerName": "Shoprite Zambia Ltd",
+      "customerEmail": "c.phiri@shoprite.co.zm",
+      "openingBalance": 0.00,
+      "transactions": [
+        {"date":"2025-01-15","reference":"INV-2025-001","description":"Raw Sugar - 1200MT Bulk","debit":7800000.00,"credit":0.00,"balance":7800000.00},
+        {"date":"2025-02-12","reference":"PAY-2025-001","description":"Payment received - Bank Transfer","debit":0.00,"credit":7800000.00,"balance":0.00}
+      ],
+      "closingBalance": 0.00,
+      "status": "Settled"
+    },
+    {
+      "customerId": 5,
+      "customerName": "Zambia Sugar Retailers Ltd",
+      "customerEmail": "b.zulu@zsugarretailers.co.zm",
+      "openingBalance": 0.00,
+      "transactions": [
+        {"date":"2025-02-15","reference":"INV-2025-005","description":"Molasses Supply - Ethanol Grade","debit":3200000.00,"credit":0.00,"balance":3200000.00},
+        {"date":"2025-03-10","reference":"PAY-2025-008","description":"Partial Payment received - Mobile Money","debit":0.00,"credit":1200000.00,"balance":2000000.00}
+      ],
+      "closingBalance": 2000000.00,
+      "status": "Outstanding"
+    },
+    {
+      "customerId": 6,
+      "customerName": "Tiger Brands Africa",
+      "customerEmail": "m.kapata@tigerbrands.co.zm",
+      "openingBalance": 0.00,
+      "transactions": [
+        {"date":"2025-01-05","reference":"INV-2025-006","description":"Refined Sugar - Retail Pack","debit":5800000.00,"credit":0.00,"balance":5800000.00},
+        {"date":"2025-02-20","reference":"PAY-2025-009","description":"Partial Payment received - Bank Transfer","debit":0.00,"credit":2300000.00,"balance":3500000.00}
+      ],
+      "closingBalance": 3500000.00,
+      "status": "Overdue"
+    },
+    {
+      "customerId": 10,
+      "customerName": "SABMiller Zambia",
+      "customerEmail": "a.kalima@sabmiller.co.zm",
+      "openingBalance": 0.00,
+      "transactions": [
+        {"date":"2025-04-01","reference":"INV-2025-010","description":"Organic Cane Sugar","debit":4800000.00,"credit":0.00,"balance":4800000.00}
+      ],
+      "closingBalance": 4800000.00,
+      "status": "Overdue"
+    },
+    {
+      "customerId": 12,
+      "customerName": "Zambia Export Growers Association",
+      "customerEmail": "m.phiri@zega.co.zm",
+      "openingBalance": 0.00,
+      "transactions": [
+        {"date":"2025-04-05","reference":"INV-2025-012","description":"Raw Sugar - Export FOB Durban","debit":7200000.00,"credit":0.00,"balance":7200000.00},
+        {"date":"2025-05-02","reference":"PAY-2025-010","description":"Partial Payment received - Bank Transfer","debit":0.00,"credit":2000000.00,"balance":5200000.00}
+      ],
+      "closingBalance": 5200000.00,
+      "status": "Overdue"
+    }
+  ],
+  "summary": {
+    "totalInvoiced": 29100000,
+    "totalReceived": 13300000,
+    "totalOutstanding": 15700000,
+    "totalOverdue": 13500000,
+    "agingSummary": {
+      "current": 0,
+      "days1to30": 2000000,
+      "days31to60": 0,
+      "days61to90": 0,
+      "over90days": 13500000
+    }
+  }
+}

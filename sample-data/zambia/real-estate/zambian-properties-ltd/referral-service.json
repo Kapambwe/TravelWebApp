@@ -1,0 +1,302 @@
+[
+  {
+    "id": "ref-001",
+    "referrerName": "John Banda 1",
+    "referrerId": "user-001",
+    "referredName": "Mary Phiri 1",
+    "referredEmail": "mwape.chiluba@business.com",
+    "referralDate": "2025-07-15",
+    "status": "Rejected",
+    "commission": 500.0
+  },
+  {
+    "id": "ref-002",
+    "referrerName": "John Banda 2",
+    "referrerId": "user-001",
+    "referredName": "Mary Phiri 2",
+    "referredEmail": "lungu.lubinda@business.zm",
+    "referralDate": "2025-01-28",
+    "status": "Active",
+    "commission": 500.0
+  },
+  {
+    "id": "ref-003",
+    "referrerName": "John Banda 3",
+    "referrerId": "user-001",
+    "referredName": "Mary Phiri 3",
+    "referredEmail": "mwansa.lungu@business.co.zm",
+    "referralDate": "2025-09-03",
+    "status": "Draft",
+    "commission": 500.0
+  },
+  {
+    "id": "ref-004",
+    "referrerName": "John Banda 4",
+    "referrerId": "user-001",
+    "referredName": "Mary Phiri 4",
+    "referredEmail": "muyunda.sata@business.com",
+    "referralDate": "2025-05-10",
+    "status": "Pending",
+    "commission": 500.0
+  },
+  {
+    "id": "ref-005",
+    "referrerName": "John Banda 5",
+    "referrerId": "user-001",
+    "referredName": "Mary Phiri 5",
+    "referredEmail": "lubasi.bwalya@business.com",
+    "referralDate": "2026-01-01",
+    "status": "Pending",
+    "commission": 500.0
+  },
+  {
+    "id": "ref-006",
+    "referrerName": "John Banda 6",
+    "referrerId": "user-001",
+    "referredName": "Mary Phiri 6",
+    "referredEmail": "siame.lungu@business.co.zm",
+    "referralDate": "2025-11-17",
+    "status": "Active",
+    "commission": 500.0
+  },
+  {
+    "id": "ref-007",
+    "referrerName": "John Banda 7",
+    "referrerId": "user-001",
+    "referredName": "Mary Phiri 7",
+    "referredEmail": "muyunda.lungu@business.co.zm",
+    "referralDate": "2025-11-12",
+    "status": "Pending",
+    "commission": 500.0
+  },
+  {
+    "id": "ref-008",
+    "referrerName": "John Banda 8",
+    "referrerId": "user-001",
+    "referredName": "Mary Phiri 8",
+    "referredEmail": "chishimba.phiri@business.zm",
+    "referralDate": "2025-12-30",
+    "status": "Cancelled",
+    "commission": 500.0
+  },
+  {
+    "id": "ref-009",
+    "referrerName": "John Banda 9",
+    "referrerId": "user-001",
+    "referredName": "Mary Phiri 9",
+    "referredEmail": "chanda.chola@business.com",
+    "referralDate": "2025-11-07",
+    "status": "Completed",
+    "commission": 500.0
+  },
+  {
+    "id": "ref-010",
+    "referrerName": "John Banda 10",
+    "referrerId": "user-001",
+    "referredName": "Mary Phiri 10",
+    "referredEmail": "kambole.chiluba@business.com",
+    "referralDate": "2025-02-06",
+    "status": "Cancelled",
+    "commission": 500.0
+  },
+  {
+    "id": "ref-011",
+    "referrerName": "John Banda 11",
+    "referrerId": "user-001",
+    "referredName": "Mary Phiri 11",
+    "referredEmail": "banda.musonda@business.zm",
+    "referralDate": "2025-04-07",
+    "status": "Rejected",
+    "commission": 500.0
+  },
+  {
+    "id": "ref-012",
+    "referrerName": "John Banda 12",
+    "referrerId": "user-001",
+    "referredName": "Mary Phiri 12",
+    "referredEmail": "chanda.chishimba@business.co.zm",
+    "referralDate": "2025-06-30",
+    "status": "Pending",
+    "commission": 500.0
+  },
+  {
+    "id": "ref-013",
+    "referrerName": "John Banda 13",
+    "referrerId": "user-001",
+    "referredName": "Mary Phiri 13",
+    "referredEmail": "chishimba.zulu@business.zm",
+    "referralDate": "2025-02-04",
+    "status": "On Hold",
+    "commission": 500.0
+  },
+  {
+    "id": "ref-014",
+    "referrerName": "John Banda 14",
+    "referrerId": "user-001",
+    "referredName": "Mary Phiri 14",
+    "referredEmail": "zulu.mumba@business.com",
+    "referralDate": "2025-12-23",
+    "status": "Rejected",
+    "commission": 500.0
+  },
+  {
+    "id": "ref-015",
+    "referrerName": "John Banda 15",
+    "referrerId": "user-001",
+    "referredName": "Mary Phiri 15",
+    "referredEmail": "bwalya.simukonda@business.com",
+    "referralDate": "2025-03-05",
+    "status": "Active",
+    "commission": 500.0
+  },
+  {
+    "id": "ref-016",
+    "referrerName": "John Banda 16",
+    "referrerId": "user-001",
+    "referredName": "Mary Phiri 16",
+    "referredEmail": "phiri.sakala@business.co.zm",
+    "referralDate": "2025-08-02",
+    "status": "Pending",
+    "commission": 500.0
+  },
+  {
+    "id": "ref-017",
+    "referrerName": "John Banda 17",
+    "referrerId": "user-001",
+    "referredName": "Mary Phiri 17",
+    "referredEmail": "tembo.hichilema@business.co.zm",
+    "referralDate": "2025-10-20",
+    "status": "Completed",
+    "commission": 500.0
+  },
+  {
+    "id": "ref-018",
+    "referrerName": "John Banda 18",
+    "referrerId": "user-001",
+    "referredName": "Mary Phiri 18",
+    "referredEmail": "lungu.bwalya@business.zm",
+    "referralDate": "2025-05-09",
+    "status": "Completed",
+    "commission": 500.0
+  },
+  {
+    "id": "ref-019",
+    "referrerName": "John Banda 19",
+    "referrerId": "user-001",
+    "referredName": "Mary Phiri 19",
+    "referredEmail": "musonda.daka@business.zm",
+    "referralDate": "2025-11-14",
+    "status": "Pending",
+    "commission": 500.0
+  },
+  {
+    "id": "ref-020",
+    "referrerName": "John Banda 20",
+    "referrerId": "user-001",
+    "referredName": "Mary Phiri 20",
+    "referredEmail": "kambole.mutale@business.co.zm",
+    "referralDate": "2025-05-14",
+    "status": "Cancelled",
+    "commission": 500.0
+  },
+  {
+    "id": "ref-021",
+    "referrerName": "John Banda 21",
+    "referrerId": "user-001",
+    "referredName": "Mary Phiri 21",
+    "referredEmail": "bwalya.kambole@business.co.zm",
+    "referralDate": "2025-01-29",
+    "status": "Approved",
+    "commission": 500.0
+  },
+  {
+    "id": "ref-022",
+    "referrerName": "John Banda 22",
+    "referrerId": "user-001",
+    "referredName": "Mary Phiri 22",
+    "referredEmail": "tembo.lubinda@business.co.zm",
+    "referralDate": "2025-11-29",
+    "status": "Pending",
+    "commission": 500.0
+  },
+  {
+    "id": "ref-023",
+    "referrerName": "John Banda 23",
+    "referrerId": "user-001",
+    "referredName": "Mary Phiri 23",
+    "referredEmail": "zulu.sata@business.zm",
+    "referralDate": "2025-06-15",
+    "status": "Active",
+    "commission": 500.0
+  },
+  {
+    "id": "ref-024",
+    "referrerName": "John Banda 24",
+    "referrerId": "user-001",
+    "referredName": "Mary Phiri 24",
+    "referredEmail": "mwamba.lubasi@business.co.zm",
+    "referralDate": "2025-11-21",
+    "status": "Completed",
+    "commission": 500.0
+  },
+  {
+    "id": "ref-025",
+    "referrerName": "John Banda 25",
+    "referrerId": "user-001",
+    "referredName": "Mary Phiri 25",
+    "referredEmail": "musonda.mutale@business.co.zm",
+    "referralDate": "2025-05-17",
+    "status": "Draft",
+    "commission": 500.0
+  },
+  {
+    "id": "ref-026",
+    "referrerName": "John Banda 26",
+    "referrerId": "user-001",
+    "referredName": "Mary Phiri 26",
+    "referredEmail": "muyunda.chishimba@business.com",
+    "referralDate": "2025-12-05",
+    "status": "Rejected",
+    "commission": 500.0
+  },
+  {
+    "id": "ref-027",
+    "referrerName": "John Banda 27",
+    "referrerId": "user-001",
+    "referredName": "Mary Phiri 27",
+    "referredEmail": "daka.ng'andu@business.zm",
+    "referralDate": "2025-03-21",
+    "status": "Completed",
+    "commission": 500.0
+  },
+  {
+    "id": "ref-028",
+    "referrerName": "John Banda 28",
+    "referrerId": "user-001",
+    "referredName": "Mary Phiri 28",
+    "referredEmail": "chola.chishimba@business.com",
+    "referralDate": "2025-09-27",
+    "status": "Pending",
+    "commission": 500.0
+  },
+  {
+    "id": "ref-029",
+    "referrerName": "John Banda 29",
+    "referrerId": "user-001",
+    "referredName": "Mary Phiri 29",
+    "referredEmail": "lungu.banda@business.zm",
+    "referralDate": "2025-12-14",
+    "status": "On Hold",
+    "commission": 500.0
+  },
+  {
+    "id": "ref-030",
+    "referrerName": "John Banda 30",
+    "referrerId": "user-001",
+    "referredName": "Mary Phiri 30",
+    "referredEmail": "kapembwa.chanda@business.com",
+    "referralDate": "2025-11-07",
+    "status": "Approved",
+    "commission": 500.0
+  }
+]

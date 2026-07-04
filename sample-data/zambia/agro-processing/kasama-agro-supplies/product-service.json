@@ -1,0 +1,272 @@
+[
+  {
+    "id": "prod-001",
+    "productName": "Bean Seeds",
+    "productCode": "SKU-66410",
+    "category": "Agriculture",
+    "price": 8323.17,
+    "cost": 3490.12,
+    "description": "Quality Bean Seeds for agriculture business"
+  },
+  {
+    "id": "prod-002",
+    "productName": "Fertilizer (NPK)",
+    "productCode": "SKU-27525",
+    "category": "Agriculture",
+    "price": 13291.12,
+    "cost": 963.43,
+    "description": "Quality Fertilizer (NPK) for agriculture business"
+  },
+  {
+    "id": "prod-003",
+    "productName": "Fertilizer (Urea)",
+    "productCode": "SKU-81854",
+    "category": "Agriculture",
+    "price": 12409.27,
+    "cost": 5203.44,
+    "description": "Quality Fertilizer (Urea) for agriculture business"
+  },
+  {
+    "id": "prod-004",
+    "productName": "Pesticides",
+    "productCode": "SKU-70797",
+    "category": "Agriculture",
+    "price": 6829.08,
+    "cost": 3056.86,
+    "description": "Quality Pesticides for agriculture business"
+  },
+  {
+    "id": "prod-005",
+    "productName": "Herbicides",
+    "productCode": "SKU-41398",
+    "category": "Agriculture",
+    "price": 14213.97,
+    "cost": 7194.71,
+    "description": "Quality Herbicides for agriculture business"
+  },
+  {
+    "id": "prod-006",
+    "productName": "Farming Tools",
+    "productCode": "SKU-17098",
+    "category": "Agriculture",
+    "price": 13809.55,
+    "cost": 2746.13,
+    "description": "Quality Farming Tools for agriculture business"
+  },
+  {
+    "id": "prod-007",
+    "productName": "Wheelbarrows",
+    "productCode": "SKU-54773",
+    "category": "Agriculture",
+    "price": 5185.49,
+    "cost": 7287.18,
+    "description": "Quality Wheelbarrows for agriculture business"
+  },
+  {
+    "id": "prod-008",
+    "productName": "Hoes",
+    "productCode": "SKU-68761",
+    "category": "Agriculture",
+    "price": 4114.56,
+    "cost": 2572.54,
+    "description": "Quality Hoes for agriculture business"
+  },
+  {
+    "id": "prod-009",
+    "productName": "Watering Cans",
+    "productCode": "SKU-14515",
+    "category": "Agriculture",
+    "price": 2094.18,
+    "cost": 7192.97,
+    "description": "Quality Watering Cans for agriculture business"
+  },
+  {
+    "id": "prod-010",
+    "productName": "Rope",
+    "productCode": "SKU-97469",
+    "category": "Agriculture",
+    "price": 10015.77,
+    "cost": 4493.16,
+    "description": "Quality Rope for agriculture business"
+  },
+  {
+    "id": "prod-011",
+    "productName": "Bags",
+    "productCode": "SKU-81549",
+    "category": "Agriculture",
+    "price": 1896.17,
+    "cost": 7043.92,
+    "description": "Quality Bags for agriculture business"
+  },
+  {
+    "id": "prod-012",
+    "productName": "Maize Seeds",
+    "productCode": "SKU-41276",
+    "category": "Agriculture",
+    "price": 14093.29,
+    "cost": 5833.45,
+    "description": "Quality Maize Seeds for agriculture business"
+  },
+  {
+    "id": "prod-013",
+    "productName": "Bean Seeds",
+    "productCode": "SKU-75584",
+    "category": "Agriculture",
+    "price": 11746.5,
+    "cost": 483.5,
+    "description": "Quality Bean Seeds for agriculture business"
+  },
+  {
+    "id": "prod-014",
+    "productName": "Fertilizer (NPK)",
+    "productCode": "SKU-42449",
+    "category": "Agriculture",
+    "price": 2154.46,
+    "cost": 5179.96,
+    "description": "Quality Fertilizer (NPK) for agriculture business"
+  },
+  {
+    "id": "prod-015",
+    "productName": "Fertilizer (Urea)",
+    "productCode": "SKU-61293",
+    "category": "Agriculture",
+    "price": 13566.26,
+    "cost": 5704.39,
+    "description": "Quality Fertilizer (Urea) for agriculture business"
+  },
+  {
+    "id": "prod-016",
+    "productName": "Pesticides",
+    "productCode": "SKU-95969",
+    "category": "Agriculture",
+    "price": 12332.93,
+    "cost": 2117.19,
+    "description": "Quality Pesticides for agriculture business"
+  },
+  {
+    "id": "prod-017",
+    "productName": "Herbicides",
+    "productCode": "SKU-12505",
+    "category": "Agriculture",
+    "price": 3192.72,
+    "cost": 7256.35,
+    "description": "Quality Herbicides for agriculture business"
+  },
+  {
+    "id": "prod-018",
+    "productName": "Farming Tools",
+    "productCode": "SKU-36766",
+    "category": "Agriculture",
+    "price": 13271.75,
+    "cost": 753.16,
+    "description": "Quality Farming Tools for agriculture business"
+  },
+  {
+    "id": "prod-019",
+    "productName": "Wheelbarrows",
+    "productCode": "SKU-23213",
+    "category": "Agriculture",
+    "price": 13394.05,
+    "cost": 5685.73,
+    "description": "Quality Wheelbarrows for agriculture business"
+  },
+  {
+    "id": "prod-020",
+    "productName": "Hoes",
+    "productCode": "SKU-24771",
+    "category": "Agriculture",
+    "price": 7808.17,
+    "cost": 1971.83,
+    "description": "Quality Hoes for agriculture business"
+  },
+  {
+    "id": "prod-021",
+    "productName": "Watering Cans",
+    "productCode": "SKU-33521",
+    "category": "Agriculture",
+    "price": 6365.87,
+    "cost": 1343.49,
+    "description": "Quality Watering Cans for agriculture business"
+  },
+  {
+    "id": "prod-022",
+    "productName": "Rope",
+    "productCode": "SKU-17154",
+    "category": "Agriculture",
+    "price": 1145.77,
+    "cost": 7940.81,
+    "description": "Quality Rope for agriculture business"
+  },
+  {
+    "id": "prod-023",
+    "productName": "Bags",
+    "productCode": "SKU-62223",
+    "category": "Agriculture",
+    "price": 6281.52,
+    "cost": 1340.24,
+    "description": "Quality Bags for agriculture business"
+  },
+  {
+    "id": "prod-024",
+    "productName": "Maize Seeds",
+    "productCode": "SKU-45595",
+    "category": "Agriculture",
+    "price": 11532.99,
+    "cost": 1671.19,
+    "description": "Quality Maize Seeds for agriculture business"
+  },
+  {
+    "id": "prod-025",
+    "productName": "Bean Seeds",
+    "productCode": "SKU-34220",
+    "category": "Agriculture",
+    "price": 3890.97,
+    "cost": 7156.02,
+    "description": "Quality Bean Seeds for agriculture business"
+  },
+  {
+    "id": "prod-026",
+    "productName": "Fertilizer (NPK)",
+    "productCode": "SKU-55673",
+    "category": "Agriculture",
+    "price": 14636.79,
+    "cost": 1788.31,
+    "description": "Quality Fertilizer (NPK) for agriculture business"
+  },
+  {
+    "id": "prod-027",
+    "productName": "Fertilizer (Urea)",
+    "productCode": "SKU-14778",
+    "category": "Agriculture",
+    "price": 11195.01,
+    "cost": 6016.71,
+    "description": "Quality Fertilizer (Urea) for agriculture business"
+  },
+  {
+    "id": "prod-028",
+    "productName": "Pesticides",
+    "productCode": "SKU-38065",
+    "category": "Agriculture",
+    "price": 10500.2,
+    "cost": 4666.46,
+    "description": "Quality Pesticides for agriculture business"
+  },
+  {
+    "id": "prod-029",
+    "productName": "Herbicides",
+    "productCode": "SKU-80029",
+    "category": "Agriculture",
+    "price": 12356.86,
+    "cost": 6117.82,
+    "description": "Quality Herbicides for agriculture business"
+  },
+  {
+    "id": "prod-030",
+    "productName": "Farming Tools",
+    "productCode": "SKU-32925",
+    "category": "Agriculture",
+    "price": 14504.5,
+    "cost": 6912.5,
+    "description": "Quality Farming Tools for agriculture business"
+  }
+]

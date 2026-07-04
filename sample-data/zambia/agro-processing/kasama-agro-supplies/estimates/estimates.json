@@ -1,0 +1,217 @@
+[
+  {
+    "id": 1,
+    "estimateNumber": "EST-2025-001",
+    "customerId": 6,
+    "customerName": "Zimba Agricultural Co.",
+    "estimateDateDaysAgo": 59,
+    "expirationDateDaysFromNow": 37,
+    "status": "Declined",
+    "subTotal": 2015873.13,
+    "taxRate": 16,
+    "taxAmount": 322539.7,
+    "total": 2338412.83,
+    "terms": "Net 30",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 59,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Processed Fruit Supply",
+        "quantity": 4,
+        "unitPrice": 503968.28,
+        "amount": 2015873.13,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 58
+  },
+  {
+    "id": 2,
+    "estimateNumber": "EST-2025-002",
+    "customerId": 4,
+    "customerName": "Tembo Agricultural Limited",
+    "estimateDateDaysAgo": 15,
+    "expirationDateDaysFromNow": 33,
+    "status": "Accepted",
+    "subTotal": 1095803.36,
+    "taxRate": 16,
+    "taxAmount": 175328.54,
+    "total": 1271131.9,
+    "terms": "Net 45",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 15,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Processed Fruit Supply",
+        "quantity": 3,
+        "unitPrice": 365267.79,
+        "amount": 1095803.36,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 14
+  },
+  {
+    "id": 3,
+    "estimateNumber": "EST-2025-003",
+    "customerId": 6,
+    "customerName": "Zimba Agricultural Co.",
+    "estimateDateDaysAgo": 50,
+    "expirationDateDaysFromNow": 39,
+    "status": "Sent",
+    "subTotal": 2485311.74,
+    "taxRate": 16,
+    "taxAmount": 397649.88,
+    "total": 2882961.62,
+    "terms": "Net 45",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 50,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Palm Oil Supply",
+        "quantity": 2,
+        "unitPrice": 1242655.87,
+        "amount": 2485311.74,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 49
+  },
+  {
+    "id": 4,
+    "estimateNumber": "EST-2025-004",
+    "customerId": 8,
+    "customerName": "Mwamba Agricultural Group",
+    "estimateDateDaysAgo": 29,
+    "expirationDateDaysFromNow": 36,
+    "status": "Sent",
+    "subTotal": 278449.63,
+    "taxRate": 0,
+    "taxAmount": 0.0,
+    "total": 278449.63,
+    "terms": "Net 30",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 29,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Processed Fruit Supply",
+        "quantity": 5,
+        "unitPrice": 55689.93,
+        "amount": 278449.63,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 28
+  },
+  {
+    "id": 5,
+    "estimateNumber": "EST-2025-005",
+    "customerId": 8,
+    "customerName": "Mwamba Agricultural Group",
+    "estimateDateDaysAgo": 40,
+    "expirationDateDaysFromNow": 39,
+    "status": "Expired",
+    "subTotal": 3805481.48,
+    "taxRate": 16,
+    "taxAmount": 608877.04,
+    "total": 4414358.52,
+    "terms": "Net 15",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 40,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Mango Juice Concentrate",
+        "quantity": 5,
+        "unitPrice": 761096.3,
+        "amount": 3805481.48,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 39
+  },
+  {
+    "id": 6,
+    "estimateNumber": "EST-2025-006",
+    "customerId": 3,
+    "customerName": "Zulu Agro Limited",
+    "estimateDateDaysAgo": 31,
+    "expirationDateDaysFromNow": 34,
+    "status": "Sent",
+    "subTotal": 3354983.26,
+    "taxRate": 16,
+    "taxAmount": 536797.32,
+    "total": 3891780.58,
+    "terms": "Net 15",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 31,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Processed Fruit Supply",
+        "quantity": 2,
+        "unitPrice": 1677491.63,
+        "amount": 3354983.26,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 30
+  },
+  {
+    "id": 7,
+    "estimateNumber": "EST-2025-007",
+    "customerId": 8,
+    "customerName": "Mwamba Agricultural Group",
+    "estimateDateDaysAgo": 39,
+    "expirationDateDaysFromNow": 23,
+    "status": "Draft",
+    "subTotal": 2936611.12,
+    "taxRate": 0,
+    "taxAmount": 0.0,
+    "total": 2936611.12,
+    "terms": "Net 30",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 39,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Dried Fruit Mix",
+        "quantity": 2,
+        "unitPrice": 1468305.56,
+        "amount": 2936611.12,
+        "itemType": "Service"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "estimateNumber": "EST-2025-008",
+    "customerId": 4,
+    "customerName": "Tembo Agricultural Limited",
+    "estimateDateDaysAgo": 35,
+    "expirationDateDaysFromNow": 37,
+    "status": "Declined",
+    "subTotal": 2340708.35,
+    "taxRate": 18,
+    "taxAmount": 421327.5,
+    "total": 2762035.85,
+    "terms": "Net 45",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 35,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Mango Juice Concentrate",
+        "quantity": 2,
+        "unitPrice": 1170354.18,
+        "amount": 2340708.35,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 34
+  }
+]

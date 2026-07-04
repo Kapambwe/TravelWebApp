@@ -1,0 +1,662 @@
+[
+  {
+    "id": "predictive-analytics-001",
+    "predictionType": "Cash Flow Forecast",
+    "period": "Next 3 Months",
+    "predictions": [
+      {
+        "month": "February 2024",
+        "predictedCashFlow": 45000.0,
+        "confidence": 80.0
+      },
+      {
+        "month": "March 2024",
+        "predictedCashFlow": 52000.0,
+        "confidence": 75.0
+      },
+      {
+        "month": "April 2024",
+        "predictedCashFlow": 48000.0,
+        "confidence": 70.0
+      }
+    ]
+  },
+  {
+    "id": "predictive-analytics-002",
+    "predictionType": "Cash Flow Forecast",
+    "period": "Next 3 Months",
+    "predictions": [
+      {
+        "month": "February 2024",
+        "predictedCashFlow": 45000.0,
+        "confidence": 80.0
+      },
+      {
+        "month": "March 2024",
+        "predictedCashFlow": 52000.0,
+        "confidence": 75.0
+      },
+      {
+        "month": "April 2024",
+        "predictedCashFlow": 48000.0,
+        "confidence": 70.0
+      }
+    ]
+  },
+  {
+    "id": "predictive-analytics-003",
+    "predictionType": "Cash Flow Forecast",
+    "period": "Next 3 Months",
+    "predictions": [
+      {
+        "month": "February 2024",
+        "predictedCashFlow": 45000.0,
+        "confidence": 80.0
+      },
+      {
+        "month": "March 2024",
+        "predictedCashFlow": 52000.0,
+        "confidence": 75.0
+      },
+      {
+        "month": "April 2024",
+        "predictedCashFlow": 48000.0,
+        "confidence": 70.0
+      }
+    ]
+  },
+  {
+    "id": "predictive-analytics-004",
+    "predictionType": "Cash Flow Forecast",
+    "period": "Next 3 Months",
+    "predictions": [
+      {
+        "month": "February 2024",
+        "predictedCashFlow": 45000.0,
+        "confidence": 80.0
+      },
+      {
+        "month": "March 2024",
+        "predictedCashFlow": 52000.0,
+        "confidence": 75.0
+      },
+      {
+        "month": "April 2024",
+        "predictedCashFlow": 48000.0,
+        "confidence": 70.0
+      }
+    ]
+  },
+  {
+    "id": "predictive-analytics-005",
+    "predictionType": "Cash Flow Forecast",
+    "period": "Next 3 Months",
+    "predictions": [
+      {
+        "month": "February 2024",
+        "predictedCashFlow": 45000.0,
+        "confidence": 80.0
+      },
+      {
+        "month": "March 2024",
+        "predictedCashFlow": 52000.0,
+        "confidence": 75.0
+      },
+      {
+        "month": "April 2024",
+        "predictedCashFlow": 48000.0,
+        "confidence": 70.0
+      }
+    ]
+  },
+  {
+    "id": "predictive-analytics-006",
+    "predictionType": "Cash Flow Forecast",
+    "period": "Next 3 Months",
+    "predictions": [
+      {
+        "month": "February 2024",
+        "predictedCashFlow": 45000.0,
+        "confidence": 80.0
+      },
+      {
+        "month": "March 2024",
+        "predictedCashFlow": 52000.0,
+        "confidence": 75.0
+      },
+      {
+        "month": "April 2024",
+        "predictedCashFlow": 48000.0,
+        "confidence": 70.0
+      }
+    ]
+  },
+  {
+    "id": "predictive-analytics-007",
+    "predictionType": "Cash Flow Forecast",
+    "period": "Next 3 Months",
+    "predictions": [
+      {
+        "month": "February 2024",
+        "predictedCashFlow": 45000.0,
+        "confidence": 80.0
+      },
+      {
+        "month": "March 2024",
+        "predictedCashFlow": 52000.0,
+        "confidence": 75.0
+      },
+      {
+        "month": "April 2024",
+        "predictedCashFlow": 48000.0,
+        "confidence": 70.0
+      }
+    ]
+  },
+  {
+    "id": "predictive-analytics-008",
+    "predictionType": "Cash Flow Forecast",
+    "period": "Next 3 Months",
+    "predictions": [
+      {
+        "month": "February 2024",
+        "predictedCashFlow": 45000.0,
+        "confidence": 80.0
+      },
+      {
+        "month": "March 2024",
+        "predictedCashFlow": 52000.0,
+        "confidence": 75.0
+      },
+      {
+        "month": "April 2024",
+        "predictedCashFlow": 48000.0,
+        "confidence": 70.0
+      }
+    ]
+  },
+  {
+    "id": "predictive-analytics-009",
+    "predictionType": "Cash Flow Forecast",
+    "period": "Next 3 Months",
+    "predictions": [
+      {
+        "month": "February 2024",
+        "predictedCashFlow": 45000.0,
+        "confidence": 80.0
+      },
+      {
+        "month": "March 2024",
+        "predictedCashFlow": 52000.0,
+        "confidence": 75.0
+      },
+      {
+        "month": "April 2024",
+        "predictedCashFlow": 48000.0,
+        "confidence": 70.0
+      }
+    ]
+  },
+  {
+    "id": "predictive-analytics-010",
+    "predictionType": "Cash Flow Forecast",
+    "period": "Next 3 Months",
+    "predictions": [
+      {
+        "month": "February 2024",
+        "predictedCashFlow": 45000.0,
+        "confidence": 80.0
+      },
+      {
+        "month": "March 2024",
+        "predictedCashFlow": 52000.0,
+        "confidence": 75.0
+      },
+      {
+        "month": "April 2024",
+        "predictedCashFlow": 48000.0,
+        "confidence": 70.0
+      }
+    ]
+  },
+  {
+    "id": "predictive-analytics-011",
+    "predictionType": "Cash Flow Forecast",
+    "period": "Next 3 Months",
+    "predictions": [
+      {
+        "month": "February 2024",
+        "predictedCashFlow": 45000.0,
+        "confidence": 80.0
+      },
+      {
+        "month": "March 2024",
+        "predictedCashFlow": 52000.0,
+        "confidence": 75.0
+      },
+      {
+        "month": "April 2024",
+        "predictedCashFlow": 48000.0,
+        "confidence": 70.0
+      }
+    ]
+  },
+  {
+    "id": "predictive-analytics-012",
+    "predictionType": "Cash Flow Forecast",
+    "period": "Next 3 Months",
+    "predictions": [
+      {
+        "month": "February 2024",
+        "predictedCashFlow": 45000.0,
+        "confidence": 80.0
+      },
+      {
+        "month": "March 2024",
+        "predictedCashFlow": 52000.0,
+        "confidence": 75.0
+      },
+      {
+        "month": "April 2024",
+        "predictedCashFlow": 48000.0,
+        "confidence": 70.0
+      }
+    ]
+  },
+  {
+    "id": "predictive-analytics-013",
+    "predictionType": "Cash Flow Forecast",
+    "period": "Next 3 Months",
+    "predictions": [
+      {
+        "month": "February 2024",
+        "predictedCashFlow": 45000.0,
+        "confidence": 80.0
+      },
+      {
+        "month": "March 2024",
+        "predictedCashFlow": 52000.0,
+        "confidence": 75.0
+      },
+      {
+        "month": "April 2024",
+        "predictedCashFlow": 48000.0,
+        "confidence": 70.0
+      }
+    ]
+  },
+  {
+    "id": "predictive-analytics-014",
+    "predictionType": "Cash Flow Forecast",
+    "period": "Next 3 Months",
+    "predictions": [
+      {
+        "month": "February 2024",
+        "predictedCashFlow": 45000.0,
+        "confidence": 80.0
+      },
+      {
+        "month": "March 2024",
+        "predictedCashFlow": 52000.0,
+        "confidence": 75.0
+      },
+      {
+        "month": "April 2024",
+        "predictedCashFlow": 48000.0,
+        "confidence": 70.0
+      }
+    ]
+  },
+  {
+    "id": "predictive-analytics-015",
+    "predictionType": "Cash Flow Forecast",
+    "period": "Next 3 Months",
+    "predictions": [
+      {
+        "month": "February 2024",
+        "predictedCashFlow": 45000.0,
+        "confidence": 80.0
+      },
+      {
+        "month": "March 2024",
+        "predictedCashFlow": 52000.0,
+        "confidence": 75.0
+      },
+      {
+        "month": "April 2024",
+        "predictedCashFlow": 48000.0,
+        "confidence": 70.0
+      }
+    ]
+  },
+  {
+    "id": "predictive-analytics-016",
+    "predictionType": "Cash Flow Forecast",
+    "period": "Next 3 Months",
+    "predictions": [
+      {
+        "month": "February 2024",
+        "predictedCashFlow": 45000.0,
+        "confidence": 80.0
+      },
+      {
+        "month": "March 2024",
+        "predictedCashFlow": 52000.0,
+        "confidence": 75.0
+      },
+      {
+        "month": "April 2024",
+        "predictedCashFlow": 48000.0,
+        "confidence": 70.0
+      }
+    ]
+  },
+  {
+    "id": "predictive-analytics-017",
+    "predictionType": "Cash Flow Forecast",
+    "period": "Next 3 Months",
+    "predictions": [
+      {
+        "month": "February 2024",
+        "predictedCashFlow": 45000.0,
+        "confidence": 80.0
+      },
+      {
+        "month": "March 2024",
+        "predictedCashFlow": 52000.0,
+        "confidence": 75.0
+      },
+      {
+        "month": "April 2024",
+        "predictedCashFlow": 48000.0,
+        "confidence": 70.0
+      }
+    ]
+  },
+  {
+    "id": "predictive-analytics-018",
+    "predictionType": "Cash Flow Forecast",
+    "period": "Next 3 Months",
+    "predictions": [
+      {
+        "month": "February 2024",
+        "predictedCashFlow": 45000.0,
+        "confidence": 80.0
+      },
+      {
+        "month": "March 2024",
+        "predictedCashFlow": 52000.0,
+        "confidence": 75.0
+      },
+      {
+        "month": "April 2024",
+        "predictedCashFlow": 48000.0,
+        "confidence": 70.0
+      }
+    ]
+  },
+  {
+    "id": "predictive-analytics-019",
+    "predictionType": "Cash Flow Forecast",
+    "period": "Next 3 Months",
+    "predictions": [
+      {
+        "month": "February 2024",
+        "predictedCashFlow": 45000.0,
+        "confidence": 80.0
+      },
+      {
+        "month": "March 2024",
+        "predictedCashFlow": 52000.0,
+        "confidence": 75.0
+      },
+      {
+        "month": "April 2024",
+        "predictedCashFlow": 48000.0,
+        "confidence": 70.0
+      }
+    ]
+  },
+  {
+    "id": "predictive-analytics-020",
+    "predictionType": "Cash Flow Forecast",
+    "period": "Next 3 Months",
+    "predictions": [
+      {
+        "month": "February 2024",
+        "predictedCashFlow": 45000.0,
+        "confidence": 80.0
+      },
+      {
+        "month": "March 2024",
+        "predictedCashFlow": 52000.0,
+        "confidence": 75.0
+      },
+      {
+        "month": "April 2024",
+        "predictedCashFlow": 48000.0,
+        "confidence": 70.0
+      }
+    ]
+  },
+  {
+    "id": "predictive-analytics-021",
+    "predictionType": "Cash Flow Forecast",
+    "period": "Next 3 Months",
+    "predictions": [
+      {
+        "month": "February 2024",
+        "predictedCashFlow": 45000.0,
+        "confidence": 80.0
+      },
+      {
+        "month": "March 2024",
+        "predictedCashFlow": 52000.0,
+        "confidence": 75.0
+      },
+      {
+        "month": "April 2024",
+        "predictedCashFlow": 48000.0,
+        "confidence": 70.0
+      }
+    ]
+  },
+  {
+    "id": "predictive-analytics-022",
+    "predictionType": "Cash Flow Forecast",
+    "period": "Next 3 Months",
+    "predictions": [
+      {
+        "month": "February 2024",
+        "predictedCashFlow": 45000.0,
+        "confidence": 80.0
+      },
+      {
+        "month": "March 2024",
+        "predictedCashFlow": 52000.0,
+        "confidence": 75.0
+      },
+      {
+        "month": "April 2024",
+        "predictedCashFlow": 48000.0,
+        "confidence": 70.0
+      }
+    ]
+  },
+  {
+    "id": "predictive-analytics-023",
+    "predictionType": "Cash Flow Forecast",
+    "period": "Next 3 Months",
+    "predictions": [
+      {
+        "month": "February 2024",
+        "predictedCashFlow": 45000.0,
+        "confidence": 80.0
+      },
+      {
+        "month": "March 2024",
+        "predictedCashFlow": 52000.0,
+        "confidence": 75.0
+      },
+      {
+        "month": "April 2024",
+        "predictedCashFlow": 48000.0,
+        "confidence": 70.0
+      }
+    ]
+  },
+  {
+    "id": "predictive-analytics-024",
+    "predictionType": "Cash Flow Forecast",
+    "period": "Next 3 Months",
+    "predictions": [
+      {
+        "month": "February 2024",
+        "predictedCashFlow": 45000.0,
+        "confidence": 80.0
+      },
+      {
+        "month": "March 2024",
+        "predictedCashFlow": 52000.0,
+        "confidence": 75.0
+      },
+      {
+        "month": "April 2024",
+        "predictedCashFlow": 48000.0,
+        "confidence": 70.0
+      }
+    ]
+  },
+  {
+    "id": "predictive-analytics-025",
+    "predictionType": "Cash Flow Forecast",
+    "period": "Next 3 Months",
+    "predictions": [
+      {
+        "month": "February 2024",
+        "predictedCashFlow": 45000.0,
+        "confidence": 80.0
+      },
+      {
+        "month": "March 2024",
+        "predictedCashFlow": 52000.0,
+        "confidence": 75.0
+      },
+      {
+        "month": "April 2024",
+        "predictedCashFlow": 48000.0,
+        "confidence": 70.0
+      }
+    ]
+  },
+  {
+    "id": "predictive-analytics-026",
+    "predictionType": "Cash Flow Forecast",
+    "period": "Next 3 Months",
+    "predictions": [
+      {
+        "month": "February 2024",
+        "predictedCashFlow": 45000.0,
+        "confidence": 80.0
+      },
+      {
+        "month": "March 2024",
+        "predictedCashFlow": 52000.0,
+        "confidence": 75.0
+      },
+      {
+        "month": "April 2024",
+        "predictedCashFlow": 48000.0,
+        "confidence": 70.0
+      }
+    ]
+  },
+  {
+    "id": "predictive-analytics-027",
+    "predictionType": "Cash Flow Forecast",
+    "period": "Next 3 Months",
+    "predictions": [
+      {
+        "month": "February 2024",
+        "predictedCashFlow": 45000.0,
+        "confidence": 80.0
+      },
+      {
+        "month": "March 2024",
+        "predictedCashFlow": 52000.0,
+        "confidence": 75.0
+      },
+      {
+        "month": "April 2024",
+        "predictedCashFlow": 48000.0,
+        "confidence": 70.0
+      }
+    ]
+  },
+  {
+    "id": "predictive-analytics-028",
+    "predictionType": "Cash Flow Forecast",
+    "period": "Next 3 Months",
+    "predictions": [
+      {
+        "month": "February 2024",
+        "predictedCashFlow": 45000.0,
+        "confidence": 80.0
+      },
+      {
+        "month": "March 2024",
+        "predictedCashFlow": 52000.0,
+        "confidence": 75.0
+      },
+      {
+        "month": "April 2024",
+        "predictedCashFlow": 48000.0,
+        "confidence": 70.0
+      }
+    ]
+  },
+  {
+    "id": "predictive-analytics-029",
+    "predictionType": "Cash Flow Forecast",
+    "period": "Next 3 Months",
+    "predictions": [
+      {
+        "month": "February 2024",
+        "predictedCashFlow": 45000.0,
+        "confidence": 80.0
+      },
+      {
+        "month": "March 2024",
+        "predictedCashFlow": 52000.0,
+        "confidence": 75.0
+      },
+      {
+        "month": "April 2024",
+        "predictedCashFlow": 48000.0,
+        "confidence": 70.0
+      }
+    ]
+  },
+  {
+    "id": "predictive-analytics-030",
+    "predictionType": "Cash Flow Forecast",
+    "period": "Next 3 Months",
+    "predictions": [
+      {
+        "month": "February 2024",
+        "predictedCashFlow": 45000.0,
+        "confidence": 80.0
+      },
+      {
+        "month": "March 2024",
+        "predictedCashFlow": 52000.0,
+        "confidence": 75.0
+      },
+      {
+        "month": "April 2024",
+        "predictedCashFlow": 48000.0,
+        "confidence": 70.0
+      }
+    ]
+  }
+]

@@ -1,0 +1,174 @@
+{
+  "companyName": "Mpulungu Harbour Corporation",
+  "companyAddress": "Kabwe, Zambia",
+  "companyTaxId": "TPIN-5673446-MHC",
+  "generatedDate": "2025-09-30",
+  "currency": "ZMW",
+  "period": {
+    "from": "2025-01-01",
+    "to": "2025-09-30"
+  },
+  "customerStatements": [
+    {
+      "customerId": 1,
+      "customerName": "Chambeshi Holdings PLC",
+      "customerEmail": "admin@chambeshi.co.zm",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-03-10",
+          "reference": "INV-Z-2025-017",
+          "description": "Logistics services contract",
+          "debit": 864500,
+          "credit": 0.0,
+          "balance": 864500
+        },
+        {
+          "date": "2025-05-06",
+          "reference": "PMT-Z-2025-015",
+          "description": "Partial payment on delivery received",
+          "debit": 0.0,
+          "credit": 448000,
+          "balance": 416500
+        }
+      ],
+      "closingBalance": 416500,
+      "status": "Partially Paid"
+    },
+    {
+      "customerId": 2,
+      "customerName": "Lusaka Partners Co.",
+      "customerEmail": "billing@lusaka.com",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-06-14",
+          "reference": "INV-Z-2025-027",
+          "description": "Customs clearance & forwarding",
+          "debit": 1061500,
+          "credit": 0.0,
+          "balance": 1061500
+        },
+        {
+          "date": "2025-08-08",
+          "reference": "PMT-Z-2025-024",
+          "description": "Partial advance freight payment received",
+          "debit": 0.0,
+          "credit": 665000,
+          "balance": 396500
+        }
+      ],
+      "closingBalance": 396500,
+      "status": "Partially Paid"
+    },
+    {
+      "customerId": 3,
+      "customerName": "Copperbelt Solutions Ltd",
+      "customerEmail": "contact@copperbelt.co.zm",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-07-24",
+          "reference": "INV-Z-2025-038",
+          "description": "Customs clearance & forwarding",
+          "debit": 1142000,
+          "credit": 0.0,
+          "balance": 1142000
+        },
+        {
+          "date": "2025-08-24",
+          "reference": "PMT-Z-2025-032",
+          "description": "Partial payment received - bank transfer",
+          "debit": 0.0,
+          "credit": 520000,
+          "balance": 622000
+        }
+      ],
+      "closingBalance": 622000,
+      "status": "Partially Paid"
+    },
+    {
+      "customerId": 4,
+      "customerName": "Kafue Investments Ltd",
+      "customerEmail": "admin@kafue.com",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-04-17",
+          "reference": "INV-Z-2025-047",
+          "description": "Cross-border transport services",
+          "debit": 2990000,
+          "credit": 0.0,
+          "balance": 2990000
+        },
+        {
+          "date": "2025-05-19",
+          "reference": "PMT-Z-2025-042",
+          "description": "Advance freight payment received",
+          "debit": 0.0,
+          "credit": 2990000,
+          "balance": 0.0
+        }
+      ],
+      "closingBalance": 0.0,
+      "status": "Settled"
+    },
+    {
+      "customerId": 5,
+      "customerName": "Copperbelt Holdings PLC",
+      "customerEmail": "info@copperbelt.co.zm",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-07-18",
+          "reference": "INV-Z-2025-055",
+          "description": "Supply chain management contract",
+          "debit": 2417000,
+          "credit": 0.0,
+          "balance": 2417000
+        }
+      ],
+      "closingBalance": 2417000,
+      "status": "Outstanding"
+    },
+    {
+      "customerId": 6,
+      "customerName": "Zambezi Group Ltd",
+      "customerEmail": "admin@zambezi.com",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-06-25",
+          "reference": "INV-Z-2025-069",
+          "description": "Logistics services contract",
+          "debit": 2956000,
+          "credit": 0.0,
+          "balance": 2956000
+        },
+        {
+          "date": "2025-08-22",
+          "reference": "PMT-Z-2025-064",
+          "description": "Advance freight payment received",
+          "debit": 0.0,
+          "credit": 2956000,
+          "balance": 0.0
+        }
+      ],
+      "closingBalance": 0.0,
+      "status": "Settled"
+    }
+  ],
+  "summary": {
+    "totalInvoiced": 11431000,
+    "totalReceived": 7579000,
+    "totalOutstanding": 3852000,
+    "totalOverdue": 3852000.0,
+    "agingSummary": {
+      "current": 0.0,
+      "days1to30": 0.0,
+      "days31to60": 3039000.0,
+      "days61to90": 396500.0,
+      "over90days": 416500.0
+    }
+  }
+}

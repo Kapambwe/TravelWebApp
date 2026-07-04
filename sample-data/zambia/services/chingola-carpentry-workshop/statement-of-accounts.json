@@ -1,0 +1,106 @@
+{
+  "companyName": "Chingola Carpentry Workshop",
+  "companyAddress": "Kabwe, Zambia",
+  "companyTaxId": "TPIN-3640732-CCW",
+  "generatedDate": "2025-09-30",
+  "currency": "ZMW",
+  "period": {
+    "from": "2025-01-01",
+    "to": "2025-09-30"
+  },
+  "customerStatements": [
+    {
+      "customerId": 1,
+      "customerName": "Zesco Enterprises Ltd",
+      "customerEmail": "admin@zesco.co.zm",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-07-15",
+          "reference": "INV-Z-2025-016",
+          "description": "Management consulting contract",
+          "debit": 1736000,
+          "credit": 0.0,
+          "balance": 1736000
+        }
+      ],
+      "closingBalance": 1736000,
+      "status": "Overdue"
+    },
+    {
+      "customerId": 2,
+      "customerName": "Lusaka Solutions Ltd",
+      "customerEmail": "info@lusaka.com",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-06-02",
+          "reference": "INV-Z-2025-028",
+          "description": "Professional services retainer",
+          "debit": 1308000,
+          "credit": 0.0,
+          "balance": 1308000
+        }
+      ],
+      "closingBalance": 1308000,
+      "status": "Outstanding"
+    },
+    {
+      "customerId": 3,
+      "customerName": "Kafue Investments Ltd",
+      "customerEmail": "finance@kafue.co.zm",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-06-25",
+          "reference": "INV-Z-2025-038",
+          "description": "Consulting services - Apr-Jun",
+          "debit": 230500,
+          "credit": 0.0,
+          "balance": 230500
+        },
+        {
+          "date": "2025-08-07",
+          "reference": "PMT-Z-2025-032",
+          "description": "Partial retainer fee received",
+          "debit": 0.0,
+          "credit": 82000,
+          "balance": 148500
+        }
+      ],
+      "closingBalance": 148500,
+      "status": "Partially Paid"
+    },
+    {
+      "customerId": 4,
+      "customerName": "Copperbelt Trading Ltd",
+      "customerEmail": "contact@copperbelt.co.zm",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-06-19",
+          "reference": "INV-Z-2025-049",
+          "description": "Management consulting contract",
+          "debit": 2912000,
+          "credit": 0.0,
+          "balance": 2912000
+        }
+      ],
+      "closingBalance": 2912000,
+      "status": "Outstanding"
+    }
+  ],
+  "summary": {
+    "totalInvoiced": 6186500,
+    "totalReceived": 82000,
+    "totalOutstanding": 6104500,
+    "totalOverdue": 6104500.0,
+    "agingSummary": {
+      "current": 0.0,
+      "days1to30": 0.0,
+      "days31to60": 0.0,
+      "days61to90": 6104500.0,
+      "over90days": 0.0
+    }
+  }
+}

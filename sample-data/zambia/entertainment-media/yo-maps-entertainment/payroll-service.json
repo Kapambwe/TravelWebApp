@@ -1,0 +1,512 @@
+[
+  {
+    "id": "payroll-ym-001",
+    "employeeId": "emp-ym-001",
+    "employeeName": "Chester Mapwanza",
+    "role": "Lead Artiste & Director",
+    "period": "January 2025",
+    "basicSalary": 55000.00,
+    "allowances": 8000.00,
+    "grossPay": 63000.00,
+    "deductions": {
+      "napsa": 1221.60,
+      "paye": 21305.00,
+      "nhima": 630.00
+    },
+    "netPay": 39843.40,
+    "paymentDate": "2025-01-28"
+  },
+  {
+    "id": "payroll-ym-002",
+    "employeeId": "emp-ym-001",
+    "employeeName": "Chester Mapwanza",
+    "role": "Lead Artiste & Director",
+    "period": "February 2025",
+    "basicSalary": 55000.00,
+    "allowances": 8000.00,
+    "grossPay": 63000.00,
+    "deductions": {
+      "napsa": 1221.60,
+      "paye": 21305.00,
+      "nhima": 630.00
+    },
+    "netPay": 39843.40,
+    "paymentDate": "2025-02-28"
+  },
+  {
+    "id": "payroll-ym-003",
+    "employeeId": "emp-ym-001",
+    "employeeName": "Chester Mapwanza",
+    "role": "Lead Artiste & Director",
+    "period": "March 2025",
+    "basicSalary": 55000.00,
+    "allowances": 8000.00,
+    "grossPay": 63000.00,
+    "deductions": {
+      "napsa": 1221.60,
+      "paye": 21305.00,
+      "nhima": 630.00
+    },
+    "netPay": 39843.40,
+    "paymentDate": "2025-03-28"
+  },
+  {
+    "id": "payroll-ym-004",
+    "employeeId": "emp-ym-001",
+    "employeeName": "Chester Mapwanza",
+    "role": "Lead Artiste & Director",
+    "period": "April 2025",
+    "basicSalary": 55000.00,
+    "allowances": 8000.00,
+    "grossPay": 63000.00,
+    "deductions": {
+      "napsa": 1221.60,
+      "paye": 21305.00,
+      "nhima": 630.00
+    },
+    "netPay": 39843.40,
+    "paymentDate": "2025-04-28"
+  },
+  {
+    "id": "payroll-ym-005",
+    "employeeId": "emp-ym-002",
+    "employeeName": "Mutale Phiri",
+    "role": "Tour & Events Manager",
+    "period": "January 2025",
+    "basicSalary": 18500.00,
+    "allowances": 2500.00,
+    "grossPay": 21000.00,
+    "deductions": {
+      "napsa": 1050.00,
+      "paye": 5430.00,
+      "nhima": 210.00
+    },
+    "netPay": 14310.00,
+    "paymentDate": "2025-01-28"
+  },
+  {
+    "id": "payroll-ym-006",
+    "employeeId": "emp-ym-002",
+    "employeeName": "Mutale Phiri",
+    "role": "Tour & Events Manager",
+    "period": "February 2025",
+    "basicSalary": 18500.00,
+    "allowances": 2500.00,
+    "grossPay": 21000.00,
+    "deductions": {
+      "napsa": 1050.00,
+      "paye": 5430.00,
+      "nhima": 210.00
+    },
+    "netPay": 14310.00,
+    "paymentDate": "2025-02-28"
+  },
+  {
+    "id": "payroll-ym-007",
+    "employeeId": "emp-ym-002",
+    "employeeName": "Mutale Phiri",
+    "role": "Tour & Events Manager",
+    "period": "March 2025",
+    "basicSalary": 18500.00,
+    "allowances": 2500.00,
+    "grossPay": 21000.00,
+    "deductions": {
+      "napsa": 1050.00,
+      "paye": 5430.00,
+      "nhima": 210.00
+    },
+    "netPay": 14310.00,
+    "paymentDate": "2025-03-28"
+  },
+  {
+    "id": "payroll-ym-008",
+    "employeeId": "emp-ym-002",
+    "employeeName": "Mutale Phiri",
+    "role": "Tour & Events Manager",
+    "period": "April 2025",
+    "basicSalary": 18500.00,
+    "allowances": 2500.00,
+    "grossPay": 21000.00,
+    "deductions": {
+      "napsa": 1050.00,
+      "paye": 5430.00,
+      "nhima": 210.00
+    },
+    "netPay": 14310.00,
+    "paymentDate": "2025-04-28"
+  },
+  {
+    "id": "payroll-ym-009",
+    "employeeId": "emp-ym-003",
+    "employeeName": "Tasila Banda",
+    "role": "Social Media & Brand Manager",
+    "period": "January 2025",
+    "basicSalary": 9000.00,
+    "allowances": 1000.00,
+    "grossPay": 10000.00,
+    "deductions": {
+      "napsa": 500.00,
+      "paye": 1430.00,
+      "nhima": 100.00
+    },
+    "netPay": 7970.00,
+    "paymentDate": "2025-01-28"
+  },
+  {
+    "id": "payroll-ym-010",
+    "employeeId": "emp-ym-003",
+    "employeeName": "Tasila Banda",
+    "role": "Social Media & Brand Manager",
+    "period": "February 2025",
+    "basicSalary": 9000.00,
+    "allowances": 1000.00,
+    "grossPay": 10000.00,
+    "deductions": {
+      "napsa": 500.00,
+      "paye": 1430.00,
+      "nhima": 100.00
+    },
+    "netPay": 7970.00,
+    "paymentDate": "2025-02-28"
+  },
+  {
+    "id": "payroll-ym-011",
+    "employeeId": "emp-ym-003",
+    "employeeName": "Tasila Banda",
+    "role": "Social Media & Brand Manager",
+    "period": "March 2025",
+    "basicSalary": 9000.00,
+    "allowances": 1000.00,
+    "grossPay": 10000.00,
+    "deductions": {
+      "napsa": 500.00,
+      "paye": 1430.00,
+      "nhima": 100.00
+    },
+    "netPay": 7970.00,
+    "paymentDate": "2025-03-28"
+  },
+  {
+    "id": "payroll-ym-012",
+    "employeeId": "emp-ym-003",
+    "employeeName": "Tasila Banda",
+    "role": "Social Media & Brand Manager",
+    "period": "April 2025",
+    "basicSalary": 9000.00,
+    "allowances": 1000.00,
+    "grossPay": 10000.00,
+    "deductions": {
+      "napsa": 500.00,
+      "paye": 1430.00,
+      "nhima": 100.00
+    },
+    "netPay": 7970.00,
+    "paymentDate": "2025-04-28"
+  },
+  {
+    "id": "payroll-ym-013",
+    "employeeId": "emp-ym-004",
+    "employeeName": "Brian Nkonde",
+    "role": "Recording & Sound Engineer",
+    "period": "January 2025",
+    "basicSalary": 12500.00,
+    "allowances": 1500.00,
+    "grossPay": 14000.00,
+    "deductions": {
+      "napsa": 700.00,
+      "paye": 2930.00,
+      "nhima": 140.00
+    },
+    "netPay": 10230.00,
+    "paymentDate": "2025-01-28"
+  },
+  {
+    "id": "payroll-ym-014",
+    "employeeId": "emp-ym-004",
+    "employeeName": "Brian Nkonde",
+    "role": "Recording & Sound Engineer",
+    "period": "February 2025",
+    "basicSalary": 12500.00,
+    "allowances": 1500.00,
+    "grossPay": 14000.00,
+    "deductions": {
+      "napsa": 700.00,
+      "paye": 2930.00,
+      "nhima": 140.00
+    },
+    "netPay": 10230.00,
+    "paymentDate": "2025-02-28"
+  },
+  {
+    "id": "payroll-ym-015",
+    "employeeId": "emp-ym-004",
+    "employeeName": "Brian Nkonde",
+    "role": "Recording & Sound Engineer",
+    "period": "March 2025",
+    "basicSalary": 12500.00,
+    "allowances": 1500.00,
+    "grossPay": 14000.00,
+    "deductions": {
+      "napsa": 700.00,
+      "paye": 2930.00,
+      "nhima": 140.00
+    },
+    "netPay": 10230.00,
+    "paymentDate": "2025-03-28"
+  },
+  {
+    "id": "payroll-ym-016",
+    "employeeId": "emp-ym-004",
+    "employeeName": "Brian Nkonde",
+    "role": "Recording & Sound Engineer",
+    "period": "April 2025",
+    "basicSalary": 12500.00,
+    "allowances": 1500.00,
+    "grossPay": 14000.00,
+    "deductions": {
+      "napsa": 700.00,
+      "paye": 2930.00,
+      "nhima": 140.00
+    },
+    "netPay": 10230.00,
+    "paymentDate": "2025-04-28"
+  },
+  {
+    "id": "payroll-ym-017",
+    "employeeId": "emp-ym-005",
+    "employeeName": "Chanda Mulenga",
+    "role": "Personal & Executive Assistant",
+    "period": "January 2025",
+    "basicSalary": 7000.00,
+    "allowances": 500.00,
+    "grossPay": 7500.00,
+    "deductions": {
+      "napsa": 375.00,
+      "paye": 620.00,
+      "nhima": 75.00
+    },
+    "netPay": 6430.00,
+    "paymentDate": "2025-01-28"
+  },
+  {
+    "id": "payroll-ym-018",
+    "employeeId": "emp-ym-005",
+    "employeeName": "Chanda Mulenga",
+    "role": "Personal & Executive Assistant",
+    "period": "February 2025",
+    "basicSalary": 7000.00,
+    "allowances": 500.00,
+    "grossPay": 7500.00,
+    "deductions": {
+      "napsa": 375.00,
+      "paye": 620.00,
+      "nhima": 75.00
+    },
+    "netPay": 6430.00,
+    "paymentDate": "2025-02-28"
+  },
+  {
+    "id": "payroll-ym-019",
+    "employeeId": "emp-ym-005",
+    "employeeName": "Chanda Mulenga",
+    "role": "Personal & Executive Assistant",
+    "period": "March 2025",
+    "basicSalary": 7000.00,
+    "allowances": 500.00,
+    "grossPay": 7500.00,
+    "deductions": {
+      "napsa": 375.00,
+      "paye": 620.00,
+      "nhima": 75.00
+    },
+    "netPay": 6430.00,
+    "paymentDate": "2025-03-28"
+  },
+  {
+    "id": "payroll-ym-020",
+    "employeeId": "emp-ym-005",
+    "employeeName": "Chanda Mulenga",
+    "role": "Personal & Executive Assistant",
+    "period": "April 2025",
+    "basicSalary": 7000.00,
+    "allowances": 500.00,
+    "grossPay": 7500.00,
+    "deductions": {
+      "napsa": 375.00,
+      "paye": 620.00,
+      "nhima": 75.00
+    },
+    "netPay": 6430.00,
+    "paymentDate": "2025-04-28"
+  },
+  {
+    "id": "payroll-ym-021",
+    "employeeId": "emp-ym-006",
+    "employeeName": "Grace Tembo",
+    "role": "Accounts & Finance Manager",
+    "period": "January 2025",
+    "basicSalary": 14500.00,
+    "allowances": 2000.00,
+    "grossPay": 16500.00,
+    "deductions": {
+      "napsa": 825.00,
+      "paye": 3867.50,
+      "nhima": 165.00
+    },
+    "netPay": 11642.50,
+    "paymentDate": "2025-01-28"
+  },
+  {
+    "id": "payroll-ym-022",
+    "employeeId": "emp-ym-006",
+    "employeeName": "Grace Tembo",
+    "role": "Accounts & Finance Manager",
+    "period": "February 2025",
+    "basicSalary": 14500.00,
+    "allowances": 2000.00,
+    "grossPay": 16500.00,
+    "deductions": {
+      "napsa": 825.00,
+      "paye": 3867.50,
+      "nhima": 165.00
+    },
+    "netPay": 11642.50,
+    "paymentDate": "2025-02-28"
+  },
+  {
+    "id": "payroll-ym-023",
+    "employeeId": "emp-ym-006",
+    "employeeName": "Grace Tembo",
+    "role": "Accounts & Finance Manager",
+    "period": "March 2025",
+    "basicSalary": 14500.00,
+    "allowances": 2000.00,
+    "grossPay": 16500.00,
+    "deductions": {
+      "napsa": 825.00,
+      "paye": 3867.50,
+      "nhima": 165.00
+    },
+    "netPay": 11642.50,
+    "paymentDate": "2025-03-28"
+  },
+  {
+    "id": "payroll-ym-024",
+    "employeeId": "emp-ym-006",
+    "employeeName": "Grace Tembo",
+    "role": "Accounts & Finance Manager",
+    "period": "April 2025",
+    "basicSalary": 14500.00,
+    "allowances": 2000.00,
+    "grossPay": 16500.00,
+    "deductions": {
+      "napsa": 825.00,
+      "paye": 3867.50,
+      "nhima": 165.00
+    },
+    "netPay": 11642.50,
+    "paymentDate": "2025-04-28"
+  },
+  {
+    "id": "payroll-ym-025",
+    "employeeId": "emp-ym-007",
+    "employeeName": "Emmanuel Zulu",
+    "role": "Head of Security",
+    "period": "January 2025",
+    "basicSalary": 6000.00,
+    "allowances": 500.00,
+    "grossPay": 6500.00,
+    "deductions": {
+      "napsa": 325.00,
+      "paye": 350.00,
+      "nhima": 65.00
+    },
+    "netPay": 5760.00,
+    "paymentDate": "2025-01-28"
+  },
+  {
+    "id": "payroll-ym-026",
+    "employeeId": "emp-ym-007",
+    "employeeName": "Emmanuel Zulu",
+    "role": "Head of Security",
+    "period": "February 2025",
+    "basicSalary": 6000.00,
+    "allowances": 500.00,
+    "grossPay": 6500.00,
+    "deductions": {
+      "napsa": 325.00,
+      "paye": 350.00,
+      "nhima": 65.00
+    },
+    "netPay": 5760.00,
+    "paymentDate": "2025-02-28"
+  },
+  {
+    "id": "payroll-ym-027",
+    "employeeId": "emp-ym-007",
+    "employeeName": "Emmanuel Zulu",
+    "role": "Head of Security",
+    "period": "March 2025",
+    "basicSalary": 6000.00,
+    "allowances": 500.00,
+    "grossPay": 6500.00,
+    "deductions": {
+      "napsa": 325.00,
+      "paye": 350.00,
+      "nhima": 65.00
+    },
+    "netPay": 5760.00,
+    "paymentDate": "2025-03-28"
+  },
+  {
+    "id": "payroll-ym-028",
+    "employeeId": "emp-ym-008",
+    "employeeName": "Patrick Lungu",
+    "role": "DJ & Hype Artist",
+    "period": "January 2025",
+    "basicSalary": 10000.00,
+    "allowances": 1000.00,
+    "grossPay": 11000.00,
+    "deductions": {
+      "napsa": 550.00,
+      "paye": 1805.00,
+      "nhima": 110.00
+    },
+    "netPay": 8535.00,
+    "paymentDate": "2025-01-28"
+  },
+  {
+    "id": "payroll-ym-029",
+    "employeeId": "emp-ym-008",
+    "employeeName": "Patrick Lungu",
+    "role": "DJ & Hype Artist",
+    "period": "February 2025",
+    "basicSalary": 10000.00,
+    "allowances": 1000.00,
+    "grossPay": 11000.00,
+    "deductions": {
+      "napsa": 550.00,
+      "paye": 1805.00,
+      "nhima": 110.00
+    },
+    "netPay": 8535.00,
+    "paymentDate": "2025-02-28"
+  },
+  {
+    "id": "payroll-ym-030",
+    "employeeId": "emp-ym-008",
+    "employeeName": "Patrick Lungu",
+    "role": "DJ & Hype Artist",
+    "period": "March 2025",
+    "basicSalary": 10000.00,
+    "allowances": 1000.00,
+    "grossPay": 11000.00,
+    "deductions": {
+      "napsa": 550.00,
+      "paye": 1805.00,
+      "nhima": 110.00
+    },
+    "netPay": 8535.00,
+    "paymentDate": "2025-03-28"
+  }
+]

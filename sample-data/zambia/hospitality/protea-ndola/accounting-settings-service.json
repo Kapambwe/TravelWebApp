@@ -1,0 +1,10 @@
+{
+  "companyName": "Protea Hotel Ndola by Marriott",
+  "defaultCurrency": "ZMW",
+  "fiscalYearStart": "01-01",
+  "taxRate": 16.0,
+  "dateFormat": "DD/MM/YYYY",
+  "numberFormat": "en-ZM",
+  "enableMultiCurrency": true,
+  "defaultPaymentTerms": 30
+}

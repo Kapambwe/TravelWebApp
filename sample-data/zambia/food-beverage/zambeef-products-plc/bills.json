@@ -1,0 +1,12 @@
+[
+  {"id":1,"billNumber":"BILL-2025-001","vendorName":"Grain Farmers Cooperative Zambia","description":"Grain Farmers Cooperative Maize Supply","billDate":"2025-01-10T00:00:00","dueDate":"2025-02-09T00:00:00","amount":3800000.00,"paidAmount":3800000.00,"status":"Paid"},
+  {"id":2,"billNumber":"BILL-2025-002","vendorName":"Zambia Seed Company","description":"Zambia Seed Company Annual Seeds","billDate":"2025-01-18T00:00:00","dueDate":"2025-02-17T00:00:00","amount":1200000.00,"paidAmount":1200000.00,"status":"Paid"},
+  {"id":3,"billNumber":"BILL-2025-003","vendorName":"ZESCO Limited","description":"ZESCO Cold Chain Electricity - All Plants","billDate":"2025-02-01T00:00:00","dueDate":"2025-03-03T00:00:00","amount":2400000.00,"paidAmount":0.00,"status":"Open"},
+  {"id":4,"billNumber":"BILL-2025-004","vendorName":"Total Zambia Ltd","description":"Total Zambia Fuel - Distribution Fleet","billDate":"2025-03-01T00:00:00","dueDate":"2025-03-31T00:00:00","amount":1600000.00,"paidAmount":1600000.00,"status":"Paid"},
+  {"id":5,"billNumber":"BILL-2025-005","vendorName":"Vetmedical Zambia","description":"Vetmedical Vet Medicines and Vaccines Q1","billDate":"2025-02-10T00:00:00","dueDate":"2025-03-12T00:00:00","amount":980000.00,"paidAmount":980000.00,"status":"Paid"},
+  {"id":6,"billNumber":"BILL-2025-006","vendorName":"Cargill Zambia Ltd","description":"Cargill Animal Feed Premix","billDate":"2025-02-15T00:00:00","dueDate":"2025-03-17T00:00:00","amount":1400000.00,"paidAmount":0.00,"status":"Open"},
+  {"id":7,"billNumber":"BILL-2025-007","vendorName":"ABB Zambia Ltd","description":"ABB Cold Storage Equipment Service","billDate":"2025-03-05T00:00:00","dueDate":"2025-04-04T00:00:00","amount":2100000.00,"paidAmount":0.00,"status":"Open"},
+  {"id":8,"billNumber":"BILL-2025-008","vendorName":"Tetra Pak Southern Africa","description":"Tetra Pak Packaging Materials - Dairy","billDate":"2025-01-20T00:00:00","dueDate":"2025-02-19T00:00:00","amount":1800000.00,"paidAmount":1800000.00,"status":"Paid"},
+  {"id":9,"billNumber":"BILL-2025-009","vendorName":"NAPSA","description":"NAPSA Employee Contributions - Q1 2025","billDate":"2025-01-25T00:00:00","dueDate":"2025-02-24T00:00:00","amount":1050000.00,"paidAmount":0.00,"status":"Overdue"},
+  {"id":10,"billNumber":"BILL-2025-010","vendorName":"Zambia Revenue Authority","description":"ZRA PAYE Quarterly Remittance Q1 2025","billDate":"2025-03-31T00:00:00","dueDate":"2025-04-30T00:00:00","amount":3200000.00,"paidAmount":3200000.00,"status":"Paid"}
+]

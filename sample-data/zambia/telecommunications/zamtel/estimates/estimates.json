@@ -1,0 +1,43 @@
+[
+  {
+    "id":1,"estimateNumber":"EST-2025-001","customerId":1,"customerName":"Government of Zambia ICT Ministry",
+    "estimateDateDaysAgo":90,"expirationDateDaysFromNow":90,"sentDateDaysAgo":85,
+    "status":"Sent","subTotal":85000000.00,"taxRate":16,"taxAmount":13600000.00,"total":98600000.00,
+    "terms":"Net 30","createdBy":"Ngosa Phiri - Sales Director","createdDateDaysAgo":90,
+    "lines":[{"lineNumber":1,"description":"National ICT Infrastructure Annual Fee - 5 Year Contract","quantity":5,"unitPrice":17000000.00,"amount":85000000.00,"itemType":"Service"}]
+  },
+  {
+    "id":2,"estimateNumber":"EST-2025-002","customerId":3,"customerName":"Zambia Electricity Supply Corporation",
+    "estimateDateDaysAgo":60,"expirationDateDaysFromNow":60,
+    "status":"Open","subTotal":38400000.00,"taxRate":16,"taxAmount":6144000.00,"total":44544000.00,
+    "terms":"Net 30","createdBy":"Chanda Mwale - Sales Manager","createdDateDaysAgo":60,
+    "lines":[{"lineNumber":1,"description":"ZESCO Corporate Fiber 100Gbps - Annual Contract","quantity":12,"unitPrice":3200000.00,"amount":38400000.00,"itemType":"Service"}]
+  },
+  {
+    "id":3,"estimateNumber":"EST-2025-003","customerId":4,"customerName":"Bank of Zambia",
+    "estimateDateDaysAgo":45,"expirationDateDaysFromNow":90,"sentDateDaysAgo":40,"acceptedDateDaysAgo":22,
+    "status":"Accepted","subTotal":52000000.00,"taxRate":16,"taxAmount":8320000.00,"total":60320000.00,
+    "terms":"Net 30","createdBy":"Ngosa Phiri - Sales Director","createdDateDaysAgo":45,
+    "lines":[
+      {"lineNumber":1,"description":"SWIFT Connectivity Annual Contract","quantity":1,"unitPrice":30000000.00,"amount":30000000.00,"itemType":"Service"},
+      {"lineNumber":2,"description":"Managed Network Services Annual","quantity":1,"unitPrice":22000000.00,"amount":22000000.00,"itemType":"Service"}
+    ]
+  },
+  {
+    "id":4,"estimateNumber":"EST-2025-004","customerId":7,"customerName":"Zambia National Commercial Bank",
+    "estimateDateDaysAgo":30,"expirationDateDaysFromNow":30,
+    "status":"Open","subTotal":19200000.00,"taxRate":16,"taxAmount":3072000.00,"total":22272000.00,
+    "terms":"Net 30","createdBy":"Chanda Mwale - Sales Manager","createdDateDaysAgo":30,
+    "lines":[{"lineNumber":1,"description":"Corporate Mobile Business Bundle Platinum - Annual","quantity":12,"unitPrice":1600000.00,"amount":19200000.00,"itemType":"Service"}]
+  },
+  {
+    "id":5,"estimateNumber":"EST-2025-005","customerId":10,"customerName":"Zambia Air Force Communications",
+    "estimateDateDaysAgo":15,"expirationDateDaysFromNow":75,
+    "status":"Draft","subTotal":35000000.00,"taxRate":16,"taxAmount":5600000.00,"total":40600000.00,
+    "terms":"Net 30","createdBy":"Ngosa Phiri - Sales Director","createdDateDaysAgo":15,
+    "lines":[
+      {"lineNumber":1,"description":"Tactical Communications Infrastructure","quantity":1,"unitPrice":25000000.00,"amount":25000000.00,"itemType":"Service"},
+      {"lineNumber":2,"description":"Secure Network Operations Support","quantity":1,"unitPrice":10000000.00,"amount":10000000.00,"itemType":"Service"}
+    ]
+  }
+]

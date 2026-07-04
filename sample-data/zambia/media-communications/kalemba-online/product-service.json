@@ -1,0 +1,302 @@
+[
+  {
+    "id": "prod-001",
+    "productName": "Labels - Variant 1",
+    "description": "Quality Magazines product",
+    "category": "Operational",
+    "unitPrice": 8995.87,
+    "quantityInStock": 305,
+    "reorderLevel": 37,
+    "supplier": "Ink Manufacturers"
+  },
+  {
+    "id": "prod-002",
+    "productName": "Promotional Materials - Variant 2",
+    "description": "Quality Labels product",
+    "category": "Operational",
+    "unitPrice": 1301.62,
+    "quantityInStock": 469,
+    "reorderLevel": 20,
+    "supplier": "Paper Suppliers"
+  },
+  {
+    "id": "prod-003",
+    "productName": "Packaging - Variant 3",
+    "description": "Quality Magazines product",
+    "category": "Operational",
+    "unitPrice": 2806.52,
+    "quantityInStock": 126,
+    "reorderLevel": 26,
+    "supplier": "Ink Manufacturers"
+  },
+  {
+    "id": "prod-004",
+    "productName": "Magazines - Variant 4",
+    "description": "Quality Promotional Materials product",
+    "category": "Operational",
+    "unitPrice": 1795.0,
+    "quantityInStock": 71,
+    "reorderLevel": 31,
+    "supplier": "Printing Equipment"
+  },
+  {
+    "id": "prod-005",
+    "productName": "Packaging - Variant 5",
+    "description": "Quality Labels product",
+    "category": "Operational",
+    "unitPrice": 7996.55,
+    "quantityInStock": 383,
+    "reorderLevel": 21,
+    "supplier": "Paper Suppliers"
+  },
+  {
+    "id": "prod-006",
+    "productName": "Labels - Variant 6",
+    "description": "Quality Promotional Materials product",
+    "category": "Operational",
+    "unitPrice": 4530.96,
+    "quantityInStock": 52,
+    "reorderLevel": 30,
+    "supplier": "Printing Equipment"
+  },
+  {
+    "id": "prod-007",
+    "productName": "Packaging - Variant 7",
+    "description": "Quality Magazines product",
+    "category": "Operational",
+    "unitPrice": 4147.78,
+    "quantityInStock": 231,
+    "reorderLevel": 29,
+    "supplier": "Paper Suppliers"
+  },
+  {
+    "id": "prod-008",
+    "productName": "Packaging - Variant 8",
+    "description": "Quality Books product",
+    "category": "Operational",
+    "unitPrice": 7592.47,
+    "quantityInStock": 23,
+    "reorderLevel": 16,
+    "supplier": "Paper Suppliers"
+  },
+  {
+    "id": "prod-009",
+    "productName": "Labels - Variant 9",
+    "description": "Quality Magazines product",
+    "category": "Operational",
+    "unitPrice": 2686.73,
+    "quantityInStock": 304,
+    "reorderLevel": 35,
+    "supplier": "Paper Suppliers"
+  },
+  {
+    "id": "prod-010",
+    "productName": "Packaging - Variant 10",
+    "description": "Quality Labels product",
+    "category": "Operational",
+    "unitPrice": 6009.5,
+    "quantityInStock": 345,
+    "reorderLevel": 43,
+    "supplier": "Ink Manufacturers"
+  },
+  {
+    "id": "prod-011",
+    "productName": "Promotional Materials - Variant 11",
+    "description": "Quality Packaging product",
+    "category": "Operational",
+    "unitPrice": 9583.79,
+    "quantityInStock": 233,
+    "reorderLevel": 36,
+    "supplier": "Printing Equipment"
+  },
+  {
+    "id": "prod-012",
+    "productName": "Books - Variant 12",
+    "description": "Quality Promotional Materials product",
+    "category": "Operational",
+    "unitPrice": 1110.42,
+    "quantityInStock": 110,
+    "reorderLevel": 25,
+    "supplier": "Ink Manufacturers"
+  },
+  {
+    "id": "prod-013",
+    "productName": "Books - Variant 13",
+    "description": "Quality Magazines product",
+    "category": "Operational",
+    "unitPrice": 8360.18,
+    "quantityInStock": 229,
+    "reorderLevel": 35,
+    "supplier": "Printing Equipment"
+  },
+  {
+    "id": "prod-014",
+    "productName": "Promotional Materials - Variant 14",
+    "description": "Quality Packaging product",
+    "category": "Operational",
+    "unitPrice": 3394.6,
+    "quantityInStock": 430,
+    "reorderLevel": 39,
+    "supplier": "Ink Manufacturers"
+  },
+  {
+    "id": "prod-015",
+    "productName": "Promotional Materials - Variant 15",
+    "description": "Quality Magazines product",
+    "category": "Operational",
+    "unitPrice": 9866.8,
+    "quantityInStock": 248,
+    "reorderLevel": 14,
+    "supplier": "Ink Manufacturers"
+  },
+  {
+    "id": "prod-016",
+    "productName": "Books - Variant 16",
+    "description": "Quality Packaging product",
+    "category": "Operational",
+    "unitPrice": 2374.18,
+    "quantityInStock": 34,
+    "reorderLevel": 22,
+    "supplier": "Ink Manufacturers"
+  },
+  {
+    "id": "prod-017",
+    "productName": "Promotional Materials - Variant 17",
+    "description": "Quality Promotional Materials product",
+    "category": "Operational",
+    "unitPrice": 959.38,
+    "quantityInStock": 344,
+    "reorderLevel": 10,
+    "supplier": "Printing Equipment"
+  },
+  {
+    "id": "prod-018",
+    "productName": "Labels - Variant 18",
+    "description": "Quality Packaging product",
+    "category": "Operational",
+    "unitPrice": 7332.63,
+    "quantityInStock": 93,
+    "reorderLevel": 20,
+    "supplier": "Ink Manufacturers"
+  },
+  {
+    "id": "prod-019",
+    "productName": "Labels - Variant 19",
+    "description": "Quality Books product",
+    "category": "Operational",
+    "unitPrice": 6181.84,
+    "quantityInStock": 164,
+    "reorderLevel": 7,
+    "supplier": "Paper Suppliers"
+  },
+  {
+    "id": "prod-020",
+    "productName": "Books - Variant 20",
+    "description": "Quality Packaging product",
+    "category": "Operational",
+    "unitPrice": 9585.99,
+    "quantityInStock": 19,
+    "reorderLevel": 27,
+    "supplier": "Ink Manufacturers"
+  },
+  {
+    "id": "prod-021",
+    "productName": "Packaging - Variant 21",
+    "description": "Quality Magazines product",
+    "category": "Operational",
+    "unitPrice": 7795.91,
+    "quantityInStock": 445,
+    "reorderLevel": 23,
+    "supplier": "Paper Suppliers"
+  },
+  {
+    "id": "prod-022",
+    "productName": "Magazines - Variant 22",
+    "description": "Quality Books product",
+    "category": "Operational",
+    "unitPrice": 9352.99,
+    "quantityInStock": 23,
+    "reorderLevel": 21,
+    "supplier": "Ink Manufacturers"
+  },
+  {
+    "id": "prod-023",
+    "productName": "Magazines - Variant 23",
+    "description": "Quality Books product",
+    "category": "Operational",
+    "unitPrice": 9411.12,
+    "quantityInStock": 68,
+    "reorderLevel": 16,
+    "supplier": "Paper Suppliers"
+  },
+  {
+    "id": "prod-024",
+    "productName": "Promotional Materials - Variant 24",
+    "description": "Quality Promotional Materials product",
+    "category": "Operational",
+    "unitPrice": 6709.3,
+    "quantityInStock": 108,
+    "reorderLevel": 13,
+    "supplier": "Ink Manufacturers"
+  },
+  {
+    "id": "prod-025",
+    "productName": "Packaging - Variant 25",
+    "description": "Quality Packaging product",
+    "category": "Operational",
+    "unitPrice": 7212.98,
+    "quantityInStock": 150,
+    "reorderLevel": 21,
+    "supplier": "Paper Suppliers"
+  },
+  {
+    "id": "prod-026",
+    "productName": "Labels - Variant 26",
+    "description": "Quality Promotional Materials product",
+    "category": "Operational",
+    "unitPrice": 2577.22,
+    "quantityInStock": 149,
+    "reorderLevel": 31,
+    "supplier": "Paper Suppliers"
+  },
+  {
+    "id": "prod-027",
+    "productName": "Packaging - Variant 27",
+    "description": "Quality Promotional Materials product",
+    "category": "Operational",
+    "unitPrice": 4918.6,
+    "quantityInStock": 459,
+    "reorderLevel": 16,
+    "supplier": "Paper Suppliers"
+  },
+  {
+    "id": "prod-028",
+    "productName": "Labels - Variant 28",
+    "description": "Quality Books product",
+    "category": "Operational",
+    "unitPrice": 2248.78,
+    "quantityInStock": 136,
+    "reorderLevel": 12,
+    "supplier": "Ink Manufacturers"
+  },
+  {
+    "id": "prod-029",
+    "productName": "Labels - Variant 29",
+    "description": "Quality Promotional Materials product",
+    "category": "Operational",
+    "unitPrice": 3614.97,
+    "quantityInStock": 408,
+    "reorderLevel": 11,
+    "supplier": "Printing Equipment"
+  },
+  {
+    "id": "prod-030",
+    "productName": "Promotional Materials - Variant 30",
+    "description": "Quality Magazines product",
+    "category": "Operational",
+    "unitPrice": 7493.59,
+    "quantityInStock": 23,
+    "reorderLevel": 9,
+    "supplier": "Printing Equipment"
+  }
+]

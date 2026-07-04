@@ -1,0 +1,302 @@
+[
+  {
+    "id": "vend-001",
+    "vendorName": "Eastern Merchants Corporation",
+    "email": "kabwe.lubinda@business.zm",
+    "phone": "+260-213-655677",
+    "address": "Plot 2701, Kafue Road, Livingstone",
+    "taxId": "TPIN-9775931397",
+    "paymentTerms": 30,
+    "category": "Office Supplies"
+  },
+  {
+    "id": "vend-002",
+    "vendorName": "Copperbelt Trading Corporation",
+    "email": "mumba.bwalya@business.com",
+    "phone": "+260-97-3158916",
+    "address": "Plot 1276, Makishi Road, Solwezi",
+    "taxId": "TPIN-8726513703",
+    "paymentTerms": 15,
+    "category": "IT Services"
+  },
+  {
+    "id": "vend-003",
+    "vendorName": "Eastern Merchants Enterprises",
+    "email": "zulu.daka@business.com",
+    "phone": "+260-97-7005843",
+    "address": "Plot 1994, Los Angeles Boulevard, Ndola",
+    "taxId": "TPIN-4347227627",
+    "paymentTerms": 60,
+    "category": "Office Supplies"
+  },
+  {
+    "id": "vend-004",
+    "vendorName": "Superior Supplies Enterprises",
+    "email": "daka.musonda@business.co.zm",
+    "phone": "+260-217-281585",
+    "address": "Plot 1823, Kabwe Road, Kasama",
+    "taxId": "TPIN-7432609794",
+    "paymentTerms": 30,
+    "category": "IT Services"
+  },
+  {
+    "id": "vend-005",
+    "vendorName": "Premier Services Services",
+    "email": "chilufya.siame@business.zm",
+    "phone": "+260-76-1756212",
+    "address": "Plot 6922, Lumumba Road, Kabwe",
+    "taxId": "TPIN-9026642475",
+    "paymentTerms": 60,
+    "category": "Office Supplies"
+  },
+  {
+    "id": "vend-006",
+    "vendorName": "Superior Supplies Enterprises",
+    "email": "muyunda.lubasi@business.com",
+    "phone": "+260-212-277427",
+    "address": "Plot 1632, Church Road, Lusaka",
+    "taxId": "TPIN-4473989638",
+    "paymentTerms": 15,
+    "category": "IT Services"
+  },
+  {
+    "id": "vend-007",
+    "vendorName": "Premier Services Enterprises",
+    "email": "kunda.chiluba@business.zm",
+    "phone": "+260-213-879955",
+    "address": "Plot 3344, Great East Road, Northmead",
+    "taxId": "TPIN-4145320128",
+    "paymentTerms": 15,
+    "category": "Office Supplies"
+  },
+  {
+    "id": "vend-008",
+    "vendorName": "Muchinga Holdings PLC",
+    "email": "mumba.phiri@business.com",
+    "phone": "+260-77-6625320",
+    "address": "Plot 7440, Chachacha Road, Chipata",
+    "taxId": "TPIN-6255892239",
+    "paymentTerms": 90,
+    "category": "IT Services"
+  },
+  {
+    "id": "vend-009",
+    "vendorName": "Luapula Services PLC",
+    "email": "kapembwa.sakala@business.zm",
+    "phone": "+260-214-340193",
+    "address": "Plot 5501, Church Road, Lusaka",
+    "taxId": "TPIN-1210348801",
+    "paymentTerms": 90,
+    "category": "Office Supplies"
+  },
+  {
+    "id": "vend-010",
+    "vendorName": "Eastern Merchants Group",
+    "email": "mwansa.simukonda@business.co.zm",
+    "phone": "+260-217-500073",
+    "address": "Plot 4630, Cairo Road, Mansa",
+    "taxId": "TPIN-1719122405",
+    "paymentTerms": 15,
+    "category": "IT Services"
+  },
+  {
+    "id": "vend-011",
+    "vendorName": "Eastern Merchants PLC",
+    "email": "sichone.sakala@business.com",
+    "phone": "+260-215-603293",
+    "address": "Plot 8197, Kabwe Road, Kitwe",
+    "taxId": "TPIN-3419286380",
+    "paymentTerms": 15,
+    "category": "Office Supplies"
+  },
+  {
+    "id": "vend-012",
+    "vendorName": "Copperbelt Trading Limited",
+    "email": "sichone.mutale@business.zm",
+    "phone": "+260-214-134818",
+    "address": "Plot 8874, Cairo Road, Chingola",
+    "taxId": "TPIN-8313825088",
+    "paymentTerms": 60,
+    "category": "IT Services"
+  },
+  {
+    "id": "vend-013",
+    "vendorName": "National Trading Ltd",
+    "email": "siame.lungu@business.com",
+    "phone": "+260-77-4597318",
+    "address": "Plot 8419, Great East Road, Solwezi",
+    "taxId": "TPIN-5182570097",
+    "paymentTerms": 60,
+    "category": "Office Supplies"
+  },
+  {
+    "id": "vend-014",
+    "vendorName": "Southern Province Supplies Corporation",
+    "email": "mwape.sichone@business.zm",
+    "phone": "+260-214-410392",
+    "address": "Plot 7221, Twin Palm Road, Livingstone",
+    "taxId": "TPIN-9673780099",
+    "paymentTerms": 15,
+    "category": "IT Services"
+  },
+  {
+    "id": "vend-015",
+    "vendorName": "Continental Trading Enterprises",
+    "email": "kapembwa.kapembwa@business.co.zm",
+    "phone": "+260-211-381228",
+    "address": "Plot 8071, Chindo Road, Mufulira",
+    "taxId": "TPIN-7630497250",
+    "paymentTerms": 60,
+    "category": "Office Supplies"
+  },
+  {
+    "id": "vend-016",
+    "vendorName": "African Business Corporation",
+    "email": "musonda.mwale@business.co.zm",
+    "phone": "+260-213-517285",
+    "address": "Plot 9977, Cairo Road, Chipata",
+    "taxId": "TPIN-1733879337",
+    "paymentTerms": 15,
+    "category": "IT Services"
+  },
+  {
+    "id": "vend-017",
+    "vendorName": "Northern Enterprises Ltd",
+    "email": "ng'andu.bwalya@business.co.zm",
+    "phone": "+260-77-4411057",
+    "address": "Plot 347, Makishi Road, Makeni",
+    "taxId": "TPIN-9280037762",
+    "paymentTerms": 30,
+    "category": "Office Supplies"
+  },
+  {
+    "id": "vend-018",
+    "vendorName": "Copperbelt Trading Enterprises",
+    "email": "bwalya.kambole@business.zm",
+    "phone": "+260-76-6694093",
+    "address": "Plot 7018, Independence Avenue, Mufulira",
+    "taxId": "TPIN-2801570723",
+    "paymentTerms": 90,
+    "category": "IT Services"
+  },
+  {
+    "id": "vend-019",
+    "vendorName": "Central Wholesale Corporation",
+    "email": "simukonda.zulu@business.com",
+    "phone": "+260-97-9756531",
+    "address": "Plot 9571, Addis Ababa Drive, Mansa",
+    "taxId": "TPIN-2775032058",
+    "paymentTerms": 60,
+    "category": "Office Supplies"
+  },
+  {
+    "id": "vend-020",
+    "vendorName": "Northern Enterprises Corporation",
+    "email": "sakala.chiluba@business.zm",
+    "phone": "+260-216-230181",
+    "address": "Plot 7482, Libala Road, Ndola",
+    "taxId": "TPIN-9932737257",
+    "paymentTerms": 30,
+    "category": "IT Services"
+  },
+  {
+    "id": "vend-021",
+    "vendorName": "Superior Supplies Services",
+    "email": "chilufya.mumba@business.com",
+    "phone": "+260-216-805787",
+    "address": "Plot 2072, Addis Ababa Drive, Kitwe",
+    "taxId": "TPIN-7983411379",
+    "paymentTerms": 60,
+    "category": "Office Supplies"
+  },
+  {
+    "id": "vend-022",
+    "vendorName": "Continental Trading Services",
+    "email": "chanda.mwape@business.com",
+    "phone": "+260-215-951246",
+    "address": "Plot 6884, Thabo Mbeki Road, Livingstone",
+    "taxId": "TPIN-7388468362",
+    "paymentTerms": 60,
+    "category": "IT Services"
+  },
+  {
+    "id": "vend-023",
+    "vendorName": "Copperbelt Trading Limited",
+    "email": "simukonda.mutale@business.com",
+    "phone": "+260-96-8893491",
+    "address": "Plot 555, Libala Road, Mansa",
+    "taxId": "TPIN-7802706012",
+    "paymentTerms": 15,
+    "category": "Office Supplies"
+  },
+  {
+    "id": "vend-024",
+    "vendorName": "African Business Group",
+    "email": "chishimba.lubinda@business.zm",
+    "phone": "+260-97-9421577",
+    "address": "Plot 1021, Independence Avenue, Livingstone",
+    "taxId": "TPIN-5264637797",
+    "paymentTerms": 90,
+    "category": "IT Services"
+  },
+  {
+    "id": "vend-025",
+    "vendorName": "Northern Enterprises Group",
+    "email": "mutale.chishimba@business.zm",
+    "phone": "+260-212-715543",
+    "address": "Plot 1495, Lumumba Road, Kabwe",
+    "taxId": "TPIN-2087991302",
+    "paymentTerms": 60,
+    "category": "Office Supplies"
+  },
+  {
+    "id": "vend-026",
+    "vendorName": "Northern Enterprises Enterprises",
+    "email": "bwalya.lungu@business.co.zm",
+    "phone": "+260-77-4178525",
+    "address": "Plot 4346, Kabulonga Road, Woodlands",
+    "taxId": "TPIN-4127864083",
+    "paymentTerms": 60,
+    "category": "IT Services"
+  },
+  {
+    "id": "vend-027",
+    "vendorName": "Superior Supplies Limited",
+    "email": "lubinda.mumba@business.co.zm",
+    "phone": "+260-211-176866",
+    "address": "Plot 2585, Cairo Road, Makeni",
+    "taxId": "TPIN-2010053268",
+    "paymentTerms": 30,
+    "category": "Office Supplies"
+  },
+  {
+    "id": "vend-028",
+    "vendorName": "Lusaka Commercial Group",
+    "email": "zulu.chishimba@business.zm",
+    "phone": "+260-211-503192",
+    "address": "Plot 3966, Nationalist Road, Roma",
+    "taxId": "TPIN-9704104804",
+    "paymentTerms": 30,
+    "category": "IT Services"
+  },
+  {
+    "id": "vend-029",
+    "vendorName": "Northern Enterprises Limited",
+    "email": "chilufya.kaunda@business.zm",
+    "phone": "+260-76-7382860",
+    "address": "Plot 7082, Cairo Road, Mongu",
+    "taxId": "TPIN-5456808412",
+    "paymentTerms": 90,
+    "category": "Office Supplies"
+  },
+  {
+    "id": "vend-030",
+    "vendorName": "Copperbelt Trading Limited",
+    "email": "kambole.chishimba@business.com",
+    "phone": "+260-76-6404303",
+    "address": "Plot 3872, Kabwe Road, Mansa",
+    "taxId": "TPIN-3036592211",
+    "paymentTerms": 15,
+    "category": "IT Services"
+  }
+]

@@ -1,0 +1,200 @@
+[
+  {
+    "id": 1,
+    "paymentNumber": "PAY-2025-001",
+    "invoiceId": 1,
+    "customerId": 3,
+    "clientName": "Mutale Media Enterprises",
+    "amount": 209807.31,
+    "paymentDate": "2025-01-20T00:00:00",
+    "paymentMethod": "Bank Transfer",
+    "referenceNumber": "TRF-20250315-001"
+  },
+  {
+    "id": 2,
+    "paymentNumber": "PAY-2025-002",
+    "invoiceId": 3,
+    "customerId": 7,
+    "clientName": "Mumba Broadcasting Inc.",
+    "amount": 2206985.47,
+    "paymentDate": "2025-01-31T00:00:00",
+    "paymentMethod": "Cheque",
+    "referenceNumber": "CHQ-20250315-002"
+  },
+  {
+    "id": 3,
+    "paymentNumber": "PAY-2025-003",
+    "invoiceId": 9,
+    "customerId": 6,
+    "clientName": "Banda Publishers Co.",
+    "amount": 2692886.21,
+    "paymentDate": "2024-12-22T00:00:00",
+    "paymentMethod": "Cheque",
+    "referenceNumber": "CHQ-20250315-003"
+  },
+  {
+    "id": 4,
+    "paymentNumber": "PAY-2025-004",
+    "invoiceId": 8,
+    "customerId": 15,
+    "clientName": "Phiri Broadcasting Solutions",
+    "amount": 2003197.95,
+    "paymentDate": "2025-01-24T00:00:00",
+    "paymentMethod": "Bank Transfer",
+    "referenceNumber": "TRF-20250315-004"
+  },
+  {
+    "id": 5,
+    "paymentNumber": "PAY-2025-005",
+    "invoiceId": 3,
+    "customerId": 7,
+    "clientName": "Mumba Broadcasting Inc.",
+    "amount": 2206985.47,
+    "paymentDate": "2025-02-19T00:00:00",
+    "paymentMethod": "Mobile Money",
+    "referenceNumber": "MMO-20250315-005"
+  },
+  {
+    "id": 6,
+    "paymentNumber": "PAY-2025-006",
+    "invoiceId": 6,
+    "customerId": 6,
+    "clientName": "Banda Publishers Co.",
+    "amount": 1194555.45,
+    "paymentDate": "2025-02-03T00:00:00",
+    "paymentMethod": "Cheque",
+    "referenceNumber": "CHQ-20250315-006"
+  },
+  {
+    "id": 7,
+    "paymentNumber": "PAY-2025-007",
+    "invoiceId": 9,
+    "customerId": 6,
+    "clientName": "Banda Publishers Co.",
+    "amount": 2692886.21,
+    "paymentDate": "2025-02-12T00:00:00",
+    "paymentMethod": "Bank Transfer",
+    "referenceNumber": "TRF-20250315-007"
+  },
+  {
+    "id": 8,
+    "paymentNumber": "PAY-2025-008",
+    "invoiceId": 1,
+    "customerId": 3,
+    "clientName": "Mutale Media Enterprises",
+    "amount": 209807.31,
+    "paymentDate": "2025-01-28T00:00:00",
+    "paymentMethod": "Mobile Money",
+    "referenceNumber": "MMO-20250315-008"
+  },
+  {
+    "id": 9,
+    "paymentNumber": "PAY-2025-009",
+    "invoiceId": 6,
+    "customerId": 6,
+    "clientName": "Banda Publishers Co.",
+    "amount": 1194555.45,
+    "paymentDate": "2025-02-18T00:00:00",
+    "paymentMethod": "Bank Transfer",
+    "referenceNumber": "TRF-20250315-009"
+  },
+  {
+    "id": 10,
+    "paymentNumber": "PAY-2025-010",
+    "invoiceId": 3,
+    "customerId": 7,
+    "clientName": "Mumba Broadcasting Inc.",
+    "amount": 2206985.47,
+    "paymentDate": "2024-12-28T00:00:00",
+    "paymentMethod": "Bank Transfer",
+    "referenceNumber": "TRF-20250315-010"
+  },
+  {
+    "id": 11,
+    "paymentNumber": "PAY-2025-011",
+    "invoiceId": 3,
+    "customerId": 7,
+    "clientName": "Mumba Broadcasting Inc.",
+    "amount": 2206985.47,
+    "paymentDate": "2025-02-11T00:00:00",
+    "paymentMethod": "Bank Transfer",
+    "referenceNumber": "TRF-20250315-011"
+  },
+  {
+    "id": 12,
+    "paymentNumber": "PAY-2025-012",
+    "invoiceId": 2,
+    "customerId": 13,
+    "clientName": "Sakala Digital Media Co.",
+    "amount": 2836623.91,
+    "paymentDate": "2025-02-10T00:00:00",
+    "paymentMethod": "Cheque",
+    "referenceNumber": "CHQ-20250315-012"
+  },
+  {
+    "id": 13,
+    "paymentNumber": "PAY-2025-013",
+    "invoiceId": 3,
+    "customerId": 7,
+    "clientName": "Mumba Broadcasting Inc.",
+    "amount": 2206985.47,
+    "paymentDate": "2024-12-24T00:00:00",
+    "paymentMethod": "Mobile Money",
+    "referenceNumber": "MMO-20250315-013"
+  },
+  {
+    "id": 14,
+    "paymentNumber": "PAY-2025-014",
+    "invoiceId": 6,
+    "customerId": 6,
+    "clientName": "Banda Publishers Co.",
+    "amount": 1194555.45,
+    "paymentDate": "2025-03-14T00:00:00",
+    "paymentMethod": "Mobile Money",
+    "referenceNumber": "MMO-20250315-014"
+  },
+  {
+    "id": 15,
+    "paymentNumber": "PAY-2025-015",
+    "invoiceId": 1,
+    "customerId": 3,
+    "clientName": "Mutale Media Enterprises",
+    "amount": 209807.31,
+    "paymentDate": "2025-02-19T00:00:00",
+    "paymentMethod": "Bank Transfer",
+    "referenceNumber": "TRF-20250315-015"
+  },
+  {
+    "id": 16,
+    "paymentNumber": "PAY-2025-016",
+    "invoiceId": 8,
+    "customerId": 15,
+    "clientName": "Phiri Broadcasting Solutions",
+    "amount": 2003197.95,
+    "paymentDate": "2025-01-07T00:00:00",
+    "paymentMethod": "Bank Transfer",
+    "referenceNumber": "TRF-20250315-016"
+  },
+  {
+    "id": 17,
+    "paymentNumber": "PAY-2025-017",
+    "invoiceId": 2,
+    "customerId": 13,
+    "clientName": "Sakala Digital Media Co.",
+    "amount": 2836623.91,
+    "paymentDate": "2024-12-31T00:00:00",
+    "paymentMethod": "Mobile Money",
+    "referenceNumber": "MMO-20250315-017"
+  },
+  {
+    "id": 18,
+    "paymentNumber": "PAY-2025-018",
+    "invoiceId": 5,
+    "customerId": 12,
+    "clientName": "Mulenga Publishers Solutions",
+    "amount": 1188640.16,
+    "paymentDate": "2025-02-06T00:00:00",
+    "paymentMethod": "Bank Transfer",
+    "referenceNumber": "TRF-20250315-018"
+  }
+]

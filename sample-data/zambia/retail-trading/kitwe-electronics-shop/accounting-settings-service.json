@@ -1,0 +1,13 @@
+{
+  "companyName": "Kitwe Electronics Shop",
+  "defaultCurrency": "ZMW",
+  "fiscalYearStart": "01-01",
+  "taxRate": 16.0,
+  "dateFormat": "DD/MM/YYYY",
+  "numberFormat": "en-ZM",
+  "enableMultiCurrency": false,
+  "defaultPaymentTerms": 14,
+  "companyTpin": "TPIN-4756283194",
+  "companyAddress": "Shop 23, Addis Ababa Drive, Kitwe",
+  "businessType": "electronics"
+}

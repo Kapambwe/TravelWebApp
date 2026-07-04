@@ -1,0 +1,12 @@
+﻿{
+    "Capacity":  8,
+    "Id":  105,
+    "RegistrationNumber":  "ZM-CZ-05",
+    "VehicleType":  0,
+    "FuelType":  "Diesel",
+    "Name":  "Chinzombo Cruiser 1",
+    "NextServiceDue":  "2024-11-01",
+    "Status":  0,
+    "LastServiceDate":  "2024-05-01",
+    "FuelLevel":  0.9
+}

@@ -1,0 +1,13 @@
+{
+  "companyName": "Mongu Fish Trading",
+  "defaultCurrency": "ZMW",
+  "fiscalYearStart": "01-01",
+  "taxRate": 16.0,
+  "dateFormat": "DD/MM/YYYY",
+  "numberFormat": "en-ZM",
+  "enableMultiCurrency": false,
+  "defaultPaymentTerms": 14,
+  "companyTpin": "TPIN-3741682597",
+  "companyAddress": "Plot 782, Chilimbulu Road, Mongu",
+  "businessType": "fish_trading"
+}

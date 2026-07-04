@@ -1,0 +1,302 @@
+[
+  {
+    "id": "vendor-001",
+    "vendorName": "Printing Equipment 1",
+    "email": "vendor1@supplier.zm",
+    "phone": "+260-217-548144",
+    "address": "Plot 8502, Freedom Way, Lusaka",
+    "taxId": "TPIN-3253519643",
+    "paymentTerms": "NET60",
+    "accountBalance": 15439
+  },
+  {
+    "id": "vendor-002",
+    "vendorName": "Paper Suppliers 2",
+    "email": "vendor2@supplier.zm",
+    "phone": "+260-216-861977",
+    "address": "Plot 6826, Great East Road, Eastern Province",
+    "taxId": "TPIN-4882645686",
+    "paymentTerms": "NET30",
+    "accountBalance": 26198
+  },
+  {
+    "id": "vendor-003",
+    "vendorName": "Ink Manufacturers 3",
+    "email": "vendor3@supplier.zm",
+    "phone": "+260-216-148024",
+    "address": "Plot 6028, Twin Palm Road, Lusaka",
+    "taxId": "TPIN-6309349164",
+    "paymentTerms": "NET30",
+    "accountBalance": 33430
+  },
+  {
+    "id": "vendor-004",
+    "vendorName": "Printing Equipment 4",
+    "email": "vendor4@supplier.zm",
+    "phone": "+260-096-180977",
+    "address": "Plot 3258, Freedom Way, Lusaka",
+    "taxId": "TPIN-3174256159",
+    "paymentTerms": "COD",
+    "accountBalance": 29883
+  },
+  {
+    "id": "vendor-005",
+    "vendorName": "Printing Equipment 5",
+    "email": "vendor5@supplier.zm",
+    "phone": "+260-096-951566",
+    "address": "Plot 6894, Cairo Road, Eastern Province",
+    "taxId": "TPIN-2372648060",
+    "paymentTerms": "NET60",
+    "accountBalance": 8999
+  },
+  {
+    "id": "vendor-006",
+    "vendorName": "Printing Equipment 6",
+    "email": "vendor6@supplier.zm",
+    "phone": "+260-097-638938",
+    "address": "Plot 2729, Independence Avenue, Lusaka",
+    "taxId": "TPIN-7478895506",
+    "paymentTerms": "NET60",
+    "accountBalance": 34383
+  },
+  {
+    "id": "vendor-007",
+    "vendorName": "Ink Manufacturers 7",
+    "email": "vendor7@supplier.zm",
+    "phone": "+260-096-241785",
+    "address": "Plot 4042, Cairo Road, Southern Province",
+    "taxId": "TPIN-4695208008",
+    "paymentTerms": "NET30",
+    "accountBalance": 36387
+  },
+  {
+    "id": "vendor-008",
+    "vendorName": "Ink Manufacturers 8",
+    "email": "vendor8@supplier.zm",
+    "phone": "+260-216-297735",
+    "address": "Plot 9143, Freedom Way, Central Province",
+    "taxId": "TPIN-6952288536",
+    "paymentTerms": "NET30",
+    "accountBalance": 14107
+  },
+  {
+    "id": "vendor-009",
+    "vendorName": "Printing Equipment 9",
+    "email": "vendor9@supplier.zm",
+    "phone": "+260-094-458625",
+    "address": "Plot 5559, Freedom Way, Lusaka",
+    "taxId": "TPIN-9434024305",
+    "paymentTerms": "NET30",
+    "accountBalance": 17672
+  },
+  {
+    "id": "vendor-010",
+    "vendorName": "Ink Manufacturers 10",
+    "email": "vendor10@supplier.zm",
+    "phone": "+260-216-790794",
+    "address": "Plot 7204, Freedom Way, Eastern Province",
+    "taxId": "TPIN-1990878217",
+    "paymentTerms": "NET60",
+    "accountBalance": 37685
+  },
+  {
+    "id": "vendor-011",
+    "vendorName": "Printing Equipment 11",
+    "email": "vendor11@supplier.zm",
+    "phone": "+260-094-552395",
+    "address": "Plot 5467, Freedom Way, Eastern Province",
+    "taxId": "TPIN-2871022499",
+    "paymentTerms": "COD",
+    "accountBalance": 29911
+  },
+  {
+    "id": "vendor-012",
+    "vendorName": "Printing Equipment 12",
+    "email": "vendor12@supplier.zm",
+    "phone": "+260-095-299017",
+    "address": "Plot 2685, Cairo Road, Southern Province",
+    "taxId": "TPIN-3038468255",
+    "paymentTerms": "COD",
+    "accountBalance": 33782
+  },
+  {
+    "id": "vendor-013",
+    "vendorName": "Paper Suppliers 13",
+    "email": "vendor13@supplier.zm",
+    "phone": "+260-097-453555",
+    "address": "Plot 5810, Cairo Road, Central Province",
+    "taxId": "TPIN-5058905661",
+    "paymentTerms": "NET60",
+    "accountBalance": 48797
+  },
+  {
+    "id": "vendor-014",
+    "vendorName": "Printing Equipment 14",
+    "email": "vendor14@supplier.zm",
+    "phone": "+260-097-587119",
+    "address": "Plot 2082, Cairo Road, Copperbelt",
+    "taxId": "TPIN-9196796923",
+    "paymentTerms": "COD",
+    "accountBalance": 31499
+  },
+  {
+    "id": "vendor-015",
+    "vendorName": "Paper Suppliers 15",
+    "email": "vendor15@supplier.zm",
+    "phone": "+260-096-320815",
+    "address": "Plot 3185, Twin Palm Road, Central Province",
+    "taxId": "TPIN-2064518648",
+    "paymentTerms": "NET60",
+    "accountBalance": 38809
+  },
+  {
+    "id": "vendor-016",
+    "vendorName": "Ink Manufacturers 16",
+    "email": "vendor16@supplier.zm",
+    "phone": "+260-216-804438",
+    "address": "Plot 1425, Twin Palm Road, Central Province",
+    "taxId": "TPIN-7854490746",
+    "paymentTerms": "NET30",
+    "accountBalance": 15900
+  },
+  {
+    "id": "vendor-017",
+    "vendorName": "Printing Equipment 17",
+    "email": "vendor17@supplier.zm",
+    "phone": "+260-217-943546",
+    "address": "Plot 7957, Great East Road, Northern Province",
+    "taxId": "TPIN-8835455625",
+    "paymentTerms": "NET60",
+    "accountBalance": 49870
+  },
+  {
+    "id": "vendor-018",
+    "vendorName": "Paper Suppliers 18",
+    "email": "vendor18@supplier.zm",
+    "phone": "+260-094-728245",
+    "address": "Plot 5083, Independence Avenue, Northern Province",
+    "taxId": "TPIN-5826292924",
+    "paymentTerms": "NET30",
+    "accountBalance": 5878
+  },
+  {
+    "id": "vendor-019",
+    "vendorName": "Paper Suppliers 19",
+    "email": "vendor19@supplier.zm",
+    "phone": "+260-097-227292",
+    "address": "Plot 5038, Freedom Way, Northern Province",
+    "taxId": "TPIN-7976668958",
+    "paymentTerms": "NET60",
+    "accountBalance": 35727
+  },
+  {
+    "id": "vendor-020",
+    "vendorName": "Ink Manufacturers 20",
+    "email": "vendor20@supplier.zm",
+    "phone": "+260-095-399298",
+    "address": "Plot 8997, Twin Palm Road, Northern Province",
+    "taxId": "TPIN-7629199990",
+    "paymentTerms": "NET60",
+    "accountBalance": 48073
+  },
+  {
+    "id": "vendor-021",
+    "vendorName": "Paper Suppliers 21",
+    "email": "vendor21@supplier.zm",
+    "phone": "+260-096-587580",
+    "address": "Plot 8992, Great East Road, Northern Province",
+    "taxId": "TPIN-4010016377",
+    "paymentTerms": "NET60",
+    "accountBalance": 47779
+  },
+  {
+    "id": "vendor-022",
+    "vendorName": "Printing Equipment 22",
+    "email": "vendor22@supplier.zm",
+    "phone": "+260-097-905930",
+    "address": "Plot 8632, Great East Road, Central Province",
+    "taxId": "TPIN-4447527102",
+    "paymentTerms": "NET30",
+    "accountBalance": 20067
+  },
+  {
+    "id": "vendor-023",
+    "vendorName": "Printing Equipment 23",
+    "email": "vendor23@supplier.zm",
+    "phone": "+260-216-413542",
+    "address": "Plot 5141, Twin Palm Road, Copperbelt",
+    "taxId": "TPIN-6938393031",
+    "paymentTerms": "NET60",
+    "accountBalance": 16473
+  },
+  {
+    "id": "vendor-024",
+    "vendorName": "Paper Suppliers 24",
+    "email": "vendor24@supplier.zm",
+    "phone": "+260-095-432830",
+    "address": "Plot 3139, Twin Palm Road, Southern Province",
+    "taxId": "TPIN-7461424846",
+    "paymentTerms": "NET30",
+    "accountBalance": 24927
+  },
+  {
+    "id": "vendor-025",
+    "vendorName": "Printing Equipment 25",
+    "email": "vendor25@supplier.zm",
+    "phone": "+260-097-927726",
+    "address": "Plot 7084, Great East Road, Central Province",
+    "taxId": "TPIN-3801088169",
+    "paymentTerms": "NET60",
+    "accountBalance": 16813
+  },
+  {
+    "id": "vendor-026",
+    "vendorName": "Printing Equipment 26",
+    "email": "vendor26@supplier.zm",
+    "phone": "+260-094-813709",
+    "address": "Plot 7294, Freedom Way, Northern Province",
+    "taxId": "TPIN-9371189824",
+    "paymentTerms": "COD",
+    "accountBalance": 30690
+  },
+  {
+    "id": "vendor-027",
+    "vendorName": "Printing Equipment 27",
+    "email": "vendor27@supplier.zm",
+    "phone": "+260-096-401524",
+    "address": "Plot 6358, Freedom Way, Northern Province",
+    "taxId": "TPIN-4424420553",
+    "paymentTerms": "NET60",
+    "accountBalance": 37468
+  },
+  {
+    "id": "vendor-028",
+    "vendorName": "Paper Suppliers 28",
+    "email": "vendor28@supplier.zm",
+    "phone": "+260-097-781823",
+    "address": "Plot 8987, Twin Palm Road, Central Province",
+    "taxId": "TPIN-9795421434",
+    "paymentTerms": "NET30",
+    "accountBalance": 28349
+  },
+  {
+    "id": "vendor-029",
+    "vendorName": "Ink Manufacturers 29",
+    "email": "vendor29@supplier.zm",
+    "phone": "+260-095-175869",
+    "address": "Plot 8332, Twin Palm Road, Southern Province",
+    "taxId": "TPIN-1633609985",
+    "paymentTerms": "NET30",
+    "accountBalance": 32492
+  },
+  {
+    "id": "vendor-030",
+    "vendorName": "Ink Manufacturers 30",
+    "email": "vendor30@supplier.zm",
+    "phone": "+260-216-827466",
+    "address": "Plot 1038, Cairo Road, Central Province",
+    "taxId": "TPIN-2530522173",
+    "paymentTerms": "COD",
+    "accountBalance": 26470
+  }
+]

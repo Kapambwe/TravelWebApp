@@ -1,0 +1,429 @@
+[
+  {
+    "id": "fm-ym-001",
+    "modelName": "5-Year Total Revenue Growth Model",
+    "baseYear": 2025,
+    "currency": "ZMW",
+    "description": "Comprehensive 5-year revenue projection for Yo Maps Entertainment across all major income streams, incorporating market growth rates and strategic expansion across Zambia and the African continent",
+    "assumptions": {
+      "gigGrowthRates": [0.18, 0.15, 0.15, 0.12],
+      "streamingGrowthRates": [0.22, 0.20, 0.18, 0.15],
+      "realEstateGrowthRates": [0.10, 0.08, 0.08, 0.08],
+      "endorsementGrowthRates": [0.15, 0.15, 0.15, 0.12],
+      "merchandiseGrowthRates": [0.20, 0.18, 0.15, 0.15]
+    },
+    "projections": [
+      {
+        "year": 2025,
+        "streams": {
+          "gigsAndEvents": 420000,
+          "streamingRoyalties": 354000,
+          "realEstate": 456000,
+          "endorsements": 300000,
+          "merchandise": 68000
+        },
+        "totalRevenue": 1598000,
+        "notes": "Base year: HICC album launch, East Africa tour, Kabulonga property acquisition"
+      },
+      {
+        "year": 2026,
+        "streams": {
+          "gigsAndEvents": 495600,
+          "streamingRoyalties": 431880,
+          "realEstate": 501600,
+          "endorsements": 345000,
+          "merchandise": 81600
+        },
+        "totalRevenue": 1855680,
+        "notes": "Show Me album tour underway, Roma commercial property acquired, new brand deal pipeline"
+      },
+      {
+        "year": 2027,
+        "streams": {
+          "gigsAndEvents": 569940,
+          "streamingRoyalties": 518256,
+          "realEstate": 541728,
+          "endorsements": 396750,
+          "merchandise": 96288
+        },
+        "totalRevenue": 2122962,
+        "notes": "Expanded regional touring across East and Southern Africa, Silverest Gardens acquisition"
+      },
+      {
+        "year": 2028,
+        "streams": {
+          "gigsAndEvents": 655431,
+          "streamingRoyalties": 611542,
+          "realEstate": 585066,
+          "endorsements": 456263,
+          "merchandise": 110731
+        },
+        "totalRevenue": 2419033,
+        "notes": "Continental Africa expansion including West Africa markets, full real estate portfolio maturity"
+      },
+      {
+        "year": 2029,
+        "streams": {
+          "gigsAndEvents": 734083,
+          "streamingRoyalties": 703273,
+          "realEstate": 631871,
+          "endorsements": 511015,
+          "merchandise": 127341
+        },
+        "totalRevenue": 2707583,
+        "notes": "Established continental presence, diversified portfolio delivering stable compounding returns"
+      }
+    ]
+  },
+  {
+    "id": "fm-ym-002",
+    "modelName": "Annual Concert Season Profitability",
+    "year": 2025,
+    "currency": "ZMW",
+    "description": "Profitability analysis for the 2025 concert season covering local club nights and private events, regional cross-border performances, and the flagship Show Me album launch headline concert at HICC",
+    "showTypes": [
+      {
+        "type": "Local Shows",
+        "description": "Club nights, private events and mid-tier venue performances across Lusaka, Kitwe and Ndola",
+        "plannedCount": 12,
+        "revenuePerShow": 35000,
+        "costsPerShow": 18000,
+        "netPerShow": 17000,
+        "totalRevenue": 420000,
+        "totalCosts": 216000,
+        "totalNet": 204000
+      },
+      {
+        "type": "Regional Shows",
+        "description": "Cross-border performances in Tanzania, Uganda, Zimbabwe and South Africa",
+        "plannedCount": 4,
+        "revenuePerShow": 85000,
+        "costsPerShow": 45000,
+        "netPerShow": 40000,
+        "totalRevenue": 340000,
+        "totalCosts": 180000,
+        "totalNet": 160000
+      },
+      {
+        "type": "Headline Concert",
+        "description": "Flagship Show Me album launch at Heroes International Conference Centre, Lusaka",
+        "plannedCount": 1,
+        "revenuePerShow": 250000,
+        "costsPerShow": 130000,
+        "netPerShow": 120000,
+        "totalRevenue": 250000,
+        "totalCosts": 130000,
+        "totalNet": 120000
+      }
+    ],
+    "summary": {
+      "totalPlannedShows": 17,
+      "totalRevenue": 1010000,
+      "totalCosts": 526000,
+      "netProfit": 484000,
+      "profitMarginPercent": 47.9,
+      "averageRevenuePerShow": 59412
+    }
+  },
+  {
+    "id": "fm-ym-003",
+    "modelName": "Real Estate Portfolio Expansion 2025-2030",
+    "currency": "ZMW",
+    "description": "Strategic real estate portfolio growth plan targeting premium residential and commercial properties in Lusaka, building on the existing Ibex Hill units and the 2025 Kabulonga acquisition",
+    "currentPortfolio": {
+      "asOf": "2025-01-01",
+      "properties": [
+        {
+          "name": "Ibex Hill Residential - Unit 1",
+          "location": "Ibex Hill, Lusaka",
+          "monthlyRent": 12000,
+          "estimatedValue": 420000
+        },
+        {
+          "name": "Ibex Hill Residential - Unit 2",
+          "location": "Ibex Hill, Lusaka",
+          "monthlyRent": 9500,
+          "estimatedValue": 330000
+        }
+      ],
+      "totalMonthlyIncome": 21500,
+      "totalAnnualIncome": 258000,
+      "totalPortfolioValue": 750000
+    },
+    "acquisitionPlan": [
+      {
+        "year": 2025,
+        "quarter": "Q2",
+        "property": "Kabulonga Residential",
+        "location": "Kabulonga, Lusaka",
+        "acquisitionCost": 650000,
+        "monthlyRent": 15000,
+        "annualRent": 180000
+      },
+      {
+        "year": 2026,
+        "quarter": "Q1",
+        "property": "Roma Commercial Space",
+        "location": "Roma, Lusaka",
+        "acquisitionCost": 850000,
+        "monthlyRent": 22000,
+        "annualRent": 264000
+      },
+      {
+        "year": 2027,
+        "quarter": "Q3",
+        "property": "Silverest Gardens Apartment Block",
+        "location": "Silverest, Lusaka",
+        "acquisitionCost": 1000000,
+        "monthlyRent": 25000,
+        "annualRent": 300000
+      }
+    ],
+    "yearlyProjections": [
+      {
+        "year": 2025,
+        "propertiesOwned": 3,
+        "totalAnnualRentalIncome": 363000,
+        "totalPortfolioValue": 1400000,
+        "notes": "Kabulonga acquired June 2025, generating 7 months rental income in the year"
+      },
+      {
+        "year": 2026,
+        "propertiesOwned": 4,
+        "totalAnnualRentalIncome": 636000,
+        "totalPortfolioValue": 2250000,
+        "notes": "Roma commercial property acquired Q1 2026, full year of Kabulonga income realised"
+      },
+      {
+        "year": 2027,
+        "propertiesOwned": 5,
+        "totalAnnualRentalIncome": 852000,
+        "totalPortfolioValue": 3250000,
+        "notes": "Silverest Gardens acquired Q3 contributing 6 months rental income, all properties performing"
+      },
+      {
+        "year": 2028,
+        "propertiesOwned": 5,
+        "totalAnnualRentalIncome": 1002000,
+        "totalPortfolioValue": 3800000,
+        "notes": "Full year returns across all 5 properties with annual rent review increases applied"
+      },
+      {
+        "year": 2029,
+        "propertiesOwned": 5,
+        "totalAnnualRentalIncome": 1080000,
+        "totalPortfolioValue": 4200000,
+        "notes": "Stable mature portfolio with consistent rental increases and capital appreciation"
+      }
+    ],
+    "fiveYearCumulativeRentalIncome": 3933000
+  },
+  {
+    "id": "fm-ym-004",
+    "modelName": "Album Release Revenue Cycle - 'Show Me'",
+    "albumTitle": "Show Me",
+    "artist": "Chester Mapwanza (Yo Maps)",
+    "releaseDate": "2025-08-01",
+    "currency": "ZMW",
+    "description": "Month-by-month revenue projections spanning the pre-release teaser phase through 6 months post-release, capturing digital sales, streaming surge, concert tour boost and merchandise demand for the Show Me album",
+    "revenueStreams": ["Digital Sales", "Streaming Royalties", "Concert Revenue Boost", "Merchandise"],
+    "phases": [
+      {
+        "phase": "Pre-Release",
+        "period": "July 2025",
+        "monthOffset": -1,
+        "revenue": {
+          "digitalSales": 0,
+          "streamingRoyalties": 28000,
+          "concertBoost": 0,
+          "merchandise": 8500,
+          "total": 36500
+        },
+        "notes": "Teaser singles released, pre-save campaign driving catalogue streams, merchandise pre-orders open"
+      },
+      {
+        "phase": "Launch Month",
+        "period": "August 2025",
+        "monthOffset": 0,
+        "revenue": {
+          "digitalSales": 45000,
+          "streamingRoyalties": 95000,
+          "concertBoost": 250000,
+          "merchandise": 42000,
+          "total": 432000
+        },
+        "notes": "HICC headline launch concert, album release day streaming surge, merchandise sales peak"
+      },
+      {
+        "phase": "Month 1 Post-Release",
+        "period": "September 2025",
+        "monthOffset": 1,
+        "revenue": {
+          "digitalSales": 18000,
+          "streamingRoyalties": 72000,
+          "concertBoost": 95000,
+          "merchandise": 28000,
+          "total": 213000
+        },
+        "notes": "Continued touring momentum, strong radio chart performance and social media virality sustained"
+      },
+      {
+        "phase": "Month 2 Post-Release",
+        "period": "October 2025",
+        "monthOffset": 2,
+        "revenue": {
+          "digitalSales": 8500,
+          "streamingRoyalties": 55000,
+          "concertBoost": 85000,
+          "merchandise": 18500,
+          "total": 167000
+        },
+        "notes": "Regional tour across East Africa sustaining concert revenue, streaming stabilising"
+      },
+      {
+        "phase": "Month 3 Post-Release",
+        "period": "November 2025",
+        "monthOffset": 3,
+        "revenue": {
+          "digitalSales": 4200,
+          "streamingRoyalties": 42000,
+          "concertBoost": 65000,
+          "merchandise": 12000,
+          "total": 123200
+        },
+        "notes": "Streaming settling into steady catalogue state, regional East Africa tour concluding"
+      },
+      {
+        "phase": "Month 4 Post-Release",
+        "period": "December 2025",
+        "monthOffset": 4,
+        "revenue": {
+          "digitalSales": 2800,
+          "streamingRoyalties": 35000,
+          "concertBoost": 45000,
+          "merchandise": 8500,
+          "total": 91300
+        },
+        "notes": "Year-end gala performance, festive season streaming boost from playlist inclusions"
+      },
+      {
+        "phase": "Month 5 Post-Release",
+        "period": "January 2026",
+        "monthOffset": 5,
+        "revenue": {
+          "digitalSales": 1500,
+          "streamingRoyalties": 28500,
+          "concertBoost": 35000,
+          "merchandise": 6500,
+          "total": 71500
+        },
+        "notes": "New year performances, album firmly established in Zambian catalogue, steady streaming"
+      },
+      {
+        "phase": "Month 6 Post-Release",
+        "period": "February 2026",
+        "monthOffset": 6,
+        "revenue": {
+          "digitalSales": 800,
+          "streamingRoyalties": 24000,
+          "concertBoost": 25000,
+          "merchandise": 4200,
+          "total": 54000
+        },
+        "notes": "Valentines Day shows driving concert revenue, stable catalogue streaming presence"
+      }
+    ],
+    "summary": {
+      "totalDigitalSales": 80800,
+      "totalStreamingRoyalties": 379500,
+      "totalConcertRevenue": 600000,
+      "totalMerchandise": 128200,
+      "totalAlbumCycleRevenue": 1188500,
+      "peakMonth": "August 2025",
+      "peakRevenue": 432000
+    }
+  },
+  {
+    "id": "fm-ym-005",
+    "modelName": "East Africa Tour Break-Even Analysis",
+    "tourName": "Show Me East Africa Tour 2025",
+    "currency": "ZMW",
+    "description": "Break-even analysis for the 8-show East Africa tour covering Dar es Salaam, Kampala, Nairobi and Harare, assessing minimum shows required to recover fixed tour costs and profit scenarios at varying attendance capacities",
+    "plannedShows": 8,
+    "showLocations": [
+      "Dar es Salaam, Tanzania",
+      "Dar es Salaam, Tanzania (2nd show)",
+      "Kampala, Uganda",
+      "Kampala, Uganda (2nd show)",
+      "Nairobi, Kenya",
+      "Harare, Zimbabwe",
+      "Harare, Zimbabwe (2nd show)",
+      "Mombasa, Kenya"
+    ],
+    "fixedCosts": {
+      "internationalFlights": 85000,
+      "hotelAccommodation": 42000,
+      "soundAndProduction": 65000,
+      "crewAndBand": 35000,
+      "marketingAndPromo": 28000,
+      "logisticsAndCustoms": 22000,
+      "totalFixedCosts": 277000
+    },
+    "variableCostsPerShow": {
+      "venueHire": 15000,
+      "localMarketing": 8000,
+      "cateringAndRiders": 3500,
+      "miscellaneous": 2500,
+      "totalPerShow": 29000
+    },
+    "revenuePerShow": {
+      "at100PercentCapacity": 95000,
+      "at75PercentCapacity": 71250,
+      "at50PercentCapacity": 47500
+    },
+    "breakEvenAnalysis": {
+      "contributionMarginAt100Percent": 66000,
+      "contributionMarginAt75Percent": 42250,
+      "contributionMarginAt50Percent": 18500,
+      "breakEvenShowsAt100Percent": 5,
+      "breakEvenShowsAt75Percent": 7,
+      "breakEvenShowsAt50Percent": 15,
+      "notes": "At 100% capacity, fixed costs are recovered after 4.2 shows (rounded to 5). At 75%, 6.6 shows required (rounded to 7). Tour of 8 shows is viable at 75%+ capacity."
+    },
+    "scenarios": [
+      {
+        "scenario": "Optimistic - 100% Capacity",
+        "capacityPercent": 100,
+        "revenuePerShow": 95000,
+        "totalRevenue": 760000,
+        "totalVariableCosts": 232000,
+        "totalCosts": 509000,
+        "netProfit": 251000,
+        "roiPercent": 49.3,
+        "profitPerShow": 31375
+      },
+      {
+        "scenario": "Base Case - 75% Capacity",
+        "capacityPercent": 75,
+        "revenuePerShow": 71250,
+        "totalRevenue": 570000,
+        "totalVariableCosts": 232000,
+        "totalCosts": 509000,
+        "netProfit": 61000,
+        "roiPercent": 12.0,
+        "profitPerShow": 7625
+      },
+      {
+        "scenario": "Conservative - 50% Capacity",
+        "capacityPercent": 50,
+        "revenuePerShow": 47500,
+        "totalRevenue": 380000,
+        "totalVariableCosts": 232000,
+        "totalCosts": 509000,
+        "netProfit": -129000,
+        "roiPercent": -25.3,
+        "profitPerShow": -16125
+      }
+    ]
+  }
+]

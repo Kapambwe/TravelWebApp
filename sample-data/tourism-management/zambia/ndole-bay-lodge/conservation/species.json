@@ -1,0 +1,20 @@
+﻿[
+    {
+        "Id":  303,
+        "Name":  "Tanganyika Cichlids",
+        "ScientificName":  "Cichlidae",
+        "Population":  150000,
+        "PopulationTrend":  0,
+        "ConservationStatus":  "Least Concern",
+        "LastCensusDate":  "2024-06-01T00:00:00"
+    },
+    {
+        "Id":  304,
+        "Name":  "African Bush Elephant",
+        "ScientificName":  "Loxodonta africana",
+        "Population":  120,
+        "PopulationTrend":  1,
+        "ConservationStatus":  "Endangered",
+        "LastCensusDate":  "2024-06-01T00:00:00"
+    }
+]

@@ -1,0 +1,21 @@
+{
+    "userId":  "user-Chinzombo-001",
+    "userName":  "accounts@timeandtideafrica.com",
+    "fullName":  "Chinzombo",
+    "roles":  [
+                  "General Manager",
+                  "Lodge Host",
+                  "Head of Finance"
+              ],
+    "companyId":  "chin-001",
+    "companyName":  "Time + Tide Chinzombo Lodge",
+    "permissions":  [
+                        "ViewReports",
+                        "CreateTransactions",
+                        "ApproveBudgets",
+                        "ManageBookings",
+                        "ManageRooms",
+                        "ViewOccupancy",
+                        "ManageAmenities"
+                    ]
+}

@@ -1,0 +1,20 @@
+﻿[
+    {
+        "Id":  1,
+        "Change":  14.28,
+        "Value":  24000000,
+        "Metric":  "Direct Tourism GDP Contribution (KES)",
+        "PreviousValue":  21000000,
+        "Period":  "Q1 2024",
+        "Category":  "Macroeconomics"
+    },
+    {
+        "Id":  2,
+        "Change":  12.06,
+        "Value":  65,
+        "Metric":  "Local Community Members Employed",
+        "PreviousValue":  58,
+        "Period":  "Q1 2024",
+        "Category":  "Employment"
+    }
+]

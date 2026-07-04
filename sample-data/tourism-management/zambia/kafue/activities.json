@@ -1,0 +1,32 @@
+﻿[
+    {
+        "BasePrice":  12500,
+        "Capacity":  6,
+        "IsActive":  true,
+        "Id":  7,
+        "Name":  "Busanga Plains Hot Air Balloon",
+        "Type":  0,
+        "Description":  "Fly over the Busanga plains at sunrise.",
+        "Duration":  90
+    },
+    {
+        "BasePrice":  4000,
+        "Capacity":  10,
+        "IsActive":  true,
+        "Id":  8,
+        "Name":  "Lion Tracking Game Drive",
+        "Type":  0,
+        "Description":  "Find the legendary tree-climbing lions of Busanga.",
+        "Duration":  240
+    },
+    {
+        "BasePrice":  3000,
+        "Capacity":  12,
+        "IsActive":  true,
+        "Id":  9,
+        "Name":  "Kafue River Boat Safari",
+        "Type":  5,
+        "Description":  "Water-based safari along the Kafue River.",
+        "Duration":  180
+    }
+]

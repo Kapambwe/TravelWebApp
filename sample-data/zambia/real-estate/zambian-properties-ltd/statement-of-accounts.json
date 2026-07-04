@@ -1,0 +1,132 @@
+{
+  "companyName": "Zambian Properties Ltd",
+  "companyAddress": "Lusaka, Zambia",
+  "companyTaxId": "TPIN-9913582-ZPL",
+  "generatedDate": "2025-09-30",
+  "currency": "ZMW",
+  "period": {
+    "from": "2025-01-01",
+    "to": "2025-09-30"
+  },
+  "customerStatements": [
+    {
+      "customerId": 1,
+      "customerName": "Zambezi Group Ltd",
+      "customerEmail": "finance@zambezi.com",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-07-24",
+          "reference": "INV-Z-2025-012",
+          "description": "Real estate brokerage fee",
+          "debit": 2536000,
+          "credit": 0.0,
+          "balance": 2536000
+        },
+        {
+          "date": "2025-09-07",
+          "reference": "PMT-Z-2025-013",
+          "description": "Monthly rental received",
+          "debit": 0.0,
+          "credit": 2536000,
+          "balance": 0.0
+        }
+      ],
+      "closingBalance": 0.0,
+      "status": "Settled"
+    },
+    {
+      "customerId": 2,
+      "customerName": "Zesco Enterprises Ltd",
+      "customerEmail": "contact@zesco.com",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-06-23",
+          "reference": "INV-Z-2025-028",
+          "description": "Rental income - Jan-Mar",
+          "debit": 739500,
+          "credit": 0.0,
+          "balance": 739500
+        },
+        {
+          "date": "2025-07-28",
+          "reference": "PMT-Z-2025-025",
+          "description": "Partial payment received - bank transfer",
+          "debit": 0.0,
+          "credit": 259500,
+          "balance": 480000
+        }
+      ],
+      "closingBalance": 480000,
+      "status": "Partially Paid"
+    },
+    {
+      "customerId": 3,
+      "customerName": "Zambezi Partners Co.",
+      "customerEmail": "admin@zambezi.co.zm",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-08-28",
+          "reference": "INV-Z-2025-036",
+          "description": "Lease agreement - Apr-Jun",
+          "debit": 1519000,
+          "credit": 0.0,
+          "balance": 1519000
+        }
+      ],
+      "closingBalance": 1519000,
+      "status": "Outstanding"
+    },
+    {
+      "customerId": 4,
+      "customerName": "Copperbelt Investments Ltd",
+      "customerEmail": "accounts@copperbelt.co.zm",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-06-24",
+          "reference": "INV-Z-2025-043",
+          "description": "Property valuation services",
+          "debit": 1302000,
+          "credit": 0.0,
+          "balance": 1302000
+        }
+      ],
+      "closingBalance": 1302000,
+      "status": "Outstanding"
+    },
+    {
+      "customerId": 5,
+      "customerName": "Copperbelt Solutions Ltd",
+      "customerEmail": "info@copperbelt.co.zm",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-06-16",
+          "reference": "INV-Z-2025-055",
+          "description": "Facilities management contract",
+          "debit": 2828000,
+          "credit": 0.0,
+          "balance": 2828000
+        }
+      ],
+      "closingBalance": 2828000,
+      "status": "Outstanding"
+    }
+  ],
+  "summary": {
+    "totalInvoiced": 8924500,
+    "totalReceived": 2795500,
+    "totalOutstanding": 6129000,
+    "totalOverdue": 6129000.0,
+    "agingSummary": {
+      "current": 0.0,
+      "days1to30": 1519000.0,
+      "days31to60": 0.0,
+      "days61to90": 4610000.0,
+      "over90days": 0.0
+    }
+  }
+}

@@ -1,0 +1,43 @@
+[
+  {
+    "id":1,"estimateNumber":"EST-2025-001","customerId":1,"customerName":"Shoprite Zambia Ltd",
+    "estimateDateDaysAgo":90,"expirationDateDaysFromNow":90,"sentDateDaysAgo":85,
+    "status":"Sent","subTotal":48000000.00,"taxRate":16,"taxAmount":7680000.00,"total":55680000.00,
+    "terms":"Net 30","createdBy":"Ngosa Banda - Sales Director","createdDateDaysAgo":90,
+    "lines":[
+      {"lineNumber":1,"description":"Beef Chilled Cuts - Annual Contract 12 Months","quantity":12,"unitPrice":2400000.00,"amount":28800000.00,"itemType":"Product"},
+      {"lineNumber":2,"description":"Chicken Portions - Annual Contract 12 Months","quantity":12,"unitPrice":1600000.00,"amount":19200000.00,"itemType":"Product"}
+    ]
+  },
+  {
+    "id":2,"estimateNumber":"EST-2025-002","customerId":10,"customerName":"Zambia Air Force Catering",
+    "estimateDateDaysAgo":60,"expirationDateDaysFromNow":60,
+    "status":"Open","subTotal":18000000.00,"taxRate":16,"taxAmount":2880000.00,"total":20880000.00,
+    "terms":"Net 30","createdBy":"Bwalya Phiri - Sales Manager","createdDateDaysAgo":60,
+    "lines":[{"lineNumber":1,"description":"Beef and Pork Military Catering - Annual Contract","quantity":12,"unitPrice":1500000.00,"amount":18000000.00,"itemType":"Product"}]
+  },
+  {
+    "id":3,"estimateNumber":"EST-2025-003","customerId":9,"customerName":"Hilton Garden Inn Lusaka",
+    "estimateDateDaysAgo":45,"expirationDateDaysFromNow":90,"sentDateDaysAgo":40,"acceptedDateDaysAgo":18,
+    "status":"Accepted","subTotal":9600000.00,"taxRate":16,"taxAmount":1536000.00,"total":11136000.00,
+    "terms":"Net 30","createdBy":"Ngosa Banda - Sales Director","createdDateDaysAgo":45,
+    "lines":[
+      {"lineNumber":1,"description":"Premium Beef Cuts - Hotel Supply","quantity":6,"unitPrice":900000.00,"amount":5400000.00,"itemType":"Product"},
+      {"lineNumber":2,"description":"Poultry and Bakery Products","quantity":6,"unitPrice":700000.00,"amount":4200000.00,"itemType":"Product"}
+    ]
+  },
+  {
+    "id":4,"estimateNumber":"EST-2025-004","customerId":7,"customerName":"InterContinental Hotel Lusaka",
+    "estimateDateDaysAgo":30,"expirationDateDaysFromNow":30,
+    "status":"Open","subTotal":14400000.00,"taxRate":16,"taxAmount":2304000.00,"total":16704000.00,
+    "terms":"Net 45","createdBy":"Bwalya Phiri - Sales Manager","createdDateDaysAgo":30,
+    "lines":[{"lineNumber":1,"description":"Full Catering Supply Premium Package - Annual","quantity":12,"unitPrice":1200000.00,"amount":14400000.00,"itemType":"Service"}]
+  },
+  {
+    "id":5,"estimateNumber":"EST-2025-005","customerId":11,"customerName":"Government Medical Stores",
+    "estimateDateDaysAgo":15,"expirationDateDaysFromNow":75,
+    "status":"Draft","subTotal":7800000.00,"taxRate":16,"taxAmount":1248000.00,"total":9048000.00,
+    "terms":"Net 30","createdBy":"Ngosa Banda - Sales Director","createdDateDaysAgo":15,
+    "lines":[{"lineNumber":1,"description":"Hospital Nutritional Meals Supply - Annual","quantity":12,"unitPrice":650000.00,"amount":7800000.00,"itemType":"Service"}]
+  }
+]

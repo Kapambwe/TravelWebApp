@@ -1,0 +1,217 @@
+[
+  {
+    "id": 1,
+    "estimateNumber": "EST-2025-001",
+    "customerId": 11,
+    "customerName": "Mulenga Publishers Limited",
+    "estimateDateDaysAgo": 11,
+    "expirationDateDaysFromNow": 17,
+    "status": "Declined",
+    "subTotal": 115868.3,
+    "taxRate": 18,
+    "taxAmount": 20856.29,
+    "total": 136724.59,
+    "terms": "Net 45",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 11,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Print Advertising Space",
+        "quantity": 4,
+        "unitPrice": 28967.08,
+        "amount": 115868.3,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 10
+  },
+  {
+    "id": 2,
+    "estimateNumber": "EST-2025-002",
+    "customerId": 13,
+    "customerName": "Lungu Communications Limited",
+    "estimateDateDaysAgo": 20,
+    "expirationDateDaysFromNow": 42,
+    "status": "Declined",
+    "subTotal": 2339817.69,
+    "taxRate": 15,
+    "taxAmount": 350972.65,
+    "total": 2690790.34,
+    "terms": "Net 15",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 20,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "TV Commercial Slot",
+        "quantity": 2,
+        "unitPrice": 1169908.84,
+        "amount": 2339817.69,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 19
+  },
+  {
+    "id": 3,
+    "estimateNumber": "EST-2025-003",
+    "customerId": 10,
+    "customerName": "Mutale Publishers Inc.",
+    "estimateDateDaysAgo": 59,
+    "expirationDateDaysFromNow": 37,
+    "status": "Expired",
+    "subTotal": 2451155.07,
+    "taxRate": 16,
+    "taxAmount": 392184.81,
+    "total": 2843339.88,
+    "terms": "Net 30",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 59,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Online Content Package",
+        "quantity": 3,
+        "unitPrice": 817051.69,
+        "amount": 2451155.07,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 58
+  },
+  {
+    "id": 4,
+    "estimateNumber": "EST-2025-004",
+    "customerId": 10,
+    "customerName": "Mutale Publishers Inc.",
+    "estimateDateDaysAgo": 16,
+    "expirationDateDaysFromNow": 26,
+    "status": "Draft",
+    "subTotal": 2194342.72,
+    "taxRate": 18,
+    "taxAmount": 394981.69,
+    "total": 2589324.41,
+    "terms": "Net 30",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 16,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Online Content Package",
+        "quantity": 2,
+        "unitPrice": 1097171.36,
+        "amount": 2194342.72,
+        "itemType": "Service"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "estimateNumber": "EST-2025-005",
+    "customerId": 4,
+    "customerName": "Siame Communications Ltd",
+    "estimateDateDaysAgo": 27,
+    "expirationDateDaysFromNow": 24,
+    "status": "Declined",
+    "subTotal": 1516080.24,
+    "taxRate": 0,
+    "taxAmount": 0.0,
+    "total": 1516080.24,
+    "terms": "Net 30",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 27,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Media Production",
+        "quantity": 1,
+        "unitPrice": 1516080.24,
+        "amount": 1516080.24,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 26
+  },
+  {
+    "id": 6,
+    "estimateNumber": "EST-2025-006",
+    "customerId": 7,
+    "customerName": "Mwamba Digital Media Holdings",
+    "estimateDateDaysAgo": 28,
+    "expirationDateDaysFromNow": 33,
+    "status": "Open",
+    "subTotal": 799076.59,
+    "taxRate": 16,
+    "taxAmount": 127852.25,
+    "total": 926928.84,
+    "terms": "Net 45",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 28,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Media Production",
+        "quantity": 3,
+        "unitPrice": 266358.86,
+        "amount": 799076.59,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 27
+  },
+  {
+    "id": 7,
+    "estimateNumber": "EST-2025-007",
+    "customerId": 9,
+    "customerName": "Chileshe Communications Co.",
+    "estimateDateDaysAgo": 28,
+    "expirationDateDaysFromNow": 21,
+    "status": "Declined",
+    "subTotal": 3605427.38,
+    "taxRate": 0,
+    "taxAmount": 0.0,
+    "total": 3605427.38,
+    "terms": "Net 15",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 28,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Print Advertising Space",
+        "quantity": 5,
+        "unitPrice": 721085.48,
+        "amount": 3605427.38,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 27
+  },
+  {
+    "id": 8,
+    "estimateNumber": "EST-2025-008",
+    "customerId": 9,
+    "customerName": "Chileshe Communications Co.",
+    "estimateDateDaysAgo": 29,
+    "expirationDateDaysFromNow": 39,
+    "status": "Sent",
+    "subTotal": 1217452.86,
+    "taxRate": 16,
+    "taxAmount": 194792.46,
+    "total": 1412245.32,
+    "terms": "Net 30",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 29,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Digital Advertising",
+        "quantity": 4,
+        "unitPrice": 304363.22,
+        "amount": 1217452.86,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 28
+  }
+]

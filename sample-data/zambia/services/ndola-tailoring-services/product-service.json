@@ -1,0 +1,272 @@
+[
+  {
+    "id": "prod-001",
+    "productName": "Work Uniforms",
+    "productCode": "SKU-86110",
+    "category": "Tailoring",
+    "price": 13710.82,
+    "cost": 3574.9,
+    "description": "Quality Work Uniforms for tailoring business"
+  },
+  {
+    "id": "prod-002",
+    "productName": "Suits",
+    "productCode": "SKU-95429",
+    "category": "Tailoring",
+    "price": 3431.65,
+    "cost": 160.95,
+    "description": "Quality Suits for tailoring business"
+  },
+  {
+    "id": "prod-003",
+    "productName": "Dresses",
+    "productCode": "SKU-21259",
+    "category": "Tailoring",
+    "price": 7457.76,
+    "cost": 3799.38,
+    "description": "Quality Dresses for tailoring business"
+  },
+  {
+    "id": "prod-004",
+    "productName": "Trousers",
+    "productCode": "SKU-20714",
+    "category": "Tailoring",
+    "price": 2433.68,
+    "cost": 3200.02,
+    "description": "Quality Trousers for tailoring business"
+  },
+  {
+    "id": "prod-005",
+    "productName": "Shirts",
+    "productCode": "SKU-68674",
+    "category": "Tailoring",
+    "price": 4549.51,
+    "cost": 7806.52,
+    "description": "Quality Shirts for tailoring business"
+  },
+  {
+    "id": "prod-006",
+    "productName": "Skirts",
+    "productCode": "SKU-24857",
+    "category": "Tailoring",
+    "price": 14070.57,
+    "cost": 7534.39,
+    "description": "Quality Skirts for tailoring business"
+  },
+  {
+    "id": "prod-007",
+    "productName": "Jackets",
+    "productCode": "SKU-65790",
+    "category": "Tailoring",
+    "price": 10717.2,
+    "cost": 7954.06,
+    "description": "Quality Jackets for tailoring business"
+  },
+  {
+    "id": "prod-008",
+    "productName": "Alterations Service",
+    "productCode": "SKU-36756",
+    "category": "Tailoring",
+    "price": 14604.43,
+    "cost": 3927.62,
+    "description": "Quality Alterations Service for tailoring business"
+  },
+  {
+    "id": "prod-009",
+    "productName": "Embroidery Service",
+    "productCode": "SKU-56569",
+    "category": "Tailoring",
+    "price": 4820.86,
+    "cost": 1786.32,
+    "description": "Quality Embroidery Service for tailoring business"
+  },
+  {
+    "id": "prod-010",
+    "productName": "School Uniforms",
+    "productCode": "SKU-75709",
+    "category": "Tailoring",
+    "price": 8816.32,
+    "cost": 4326.61,
+    "description": "Quality School Uniforms for tailoring business"
+  },
+  {
+    "id": "prod-011",
+    "productName": "Work Uniforms",
+    "productCode": "SKU-83546",
+    "category": "Tailoring",
+    "price": 14541.32,
+    "cost": 3173.31,
+    "description": "Quality Work Uniforms for tailoring business"
+  },
+  {
+    "id": "prod-012",
+    "productName": "Suits",
+    "productCode": "SKU-25410",
+    "category": "Tailoring",
+    "price": 9947.51,
+    "cost": 7605.2,
+    "description": "Quality Suits for tailoring business"
+  },
+  {
+    "id": "prod-013",
+    "productName": "Dresses",
+    "productCode": "SKU-65243",
+    "category": "Tailoring",
+    "price": 8938.74,
+    "cost": 2264.46,
+    "description": "Quality Dresses for tailoring business"
+  },
+  {
+    "id": "prod-014",
+    "productName": "Trousers",
+    "productCode": "SKU-97113",
+    "category": "Tailoring",
+    "price": 1666.56,
+    "cost": 3650.18,
+    "description": "Quality Trousers for tailoring business"
+  },
+  {
+    "id": "prod-015",
+    "productName": "Shirts",
+    "productCode": "SKU-41686",
+    "category": "Tailoring",
+    "price": 10347.6,
+    "cost": 7696.75,
+    "description": "Quality Shirts for tailoring business"
+  },
+  {
+    "id": "prod-016",
+    "productName": "Skirts",
+    "productCode": "SKU-80135",
+    "category": "Tailoring",
+    "price": 600.64,
+    "cost": 1772.24,
+    "description": "Quality Skirts for tailoring business"
+  },
+  {
+    "id": "prod-017",
+    "productName": "Jackets",
+    "productCode": "SKU-26352",
+    "category": "Tailoring",
+    "price": 5243.78,
+    "cost": 149.47,
+    "description": "Quality Jackets for tailoring business"
+  },
+  {
+    "id": "prod-018",
+    "productName": "Alterations Service",
+    "productCode": "SKU-99305",
+    "category": "Tailoring",
+    "price": 3575.85,
+    "cost": 3167.6,
+    "description": "Quality Alterations Service for tailoring business"
+  },
+  {
+    "id": "prod-019",
+    "productName": "Embroidery Service",
+    "productCode": "SKU-45029",
+    "category": "Tailoring",
+    "price": 9043.8,
+    "cost": 789.92,
+    "description": "Quality Embroidery Service for tailoring business"
+  },
+  {
+    "id": "prod-020",
+    "productName": "School Uniforms",
+    "productCode": "SKU-27610",
+    "category": "Tailoring",
+    "price": 13981.5,
+    "cost": 2870.14,
+    "description": "Quality School Uniforms for tailoring business"
+  },
+  {
+    "id": "prod-021",
+    "productName": "Work Uniforms",
+    "productCode": "SKU-89648",
+    "category": "Tailoring",
+    "price": 14351.62,
+    "cost": 7551.8,
+    "description": "Quality Work Uniforms for tailoring business"
+  },
+  {
+    "id": "prod-022",
+    "productName": "Suits",
+    "productCode": "SKU-47133",
+    "category": "Tailoring",
+    "price": 9553.09,
+    "cost": 210.43,
+    "description": "Quality Suits for tailoring business"
+  },
+  {
+    "id": "prod-023",
+    "productName": "Dresses",
+    "productCode": "SKU-11164",
+    "category": "Tailoring",
+    "price": 8805.57,
+    "cost": 449.69,
+    "description": "Quality Dresses for tailoring business"
+  },
+  {
+    "id": "prod-024",
+    "productName": "Trousers",
+    "productCode": "SKU-53056",
+    "category": "Tailoring",
+    "price": 12600.98,
+    "cost": 5904.68,
+    "description": "Quality Trousers for tailoring business"
+  },
+  {
+    "id": "prod-025",
+    "productName": "Shirts",
+    "productCode": "SKU-43723",
+    "category": "Tailoring",
+    "price": 7731.3,
+    "cost": 6989.01,
+    "description": "Quality Shirts for tailoring business"
+  },
+  {
+    "id": "prod-026",
+    "productName": "Skirts",
+    "productCode": "SKU-58528",
+    "category": "Tailoring",
+    "price": 578.43,
+    "cost": 5314.65,
+    "description": "Quality Skirts for tailoring business"
+  },
+  {
+    "id": "prod-027",
+    "productName": "Jackets",
+    "productCode": "SKU-26128",
+    "category": "Tailoring",
+    "price": 11038.99,
+    "cost": 2643.09,
+    "description": "Quality Jackets for tailoring business"
+  },
+  {
+    "id": "prod-028",
+    "productName": "Alterations Service",
+    "productCode": "SKU-28418",
+    "category": "Tailoring",
+    "price": 5057.27,
+    "cost": 4047.69,
+    "description": "Quality Alterations Service for tailoring business"
+  },
+  {
+    "id": "prod-029",
+    "productName": "Embroidery Service",
+    "productCode": "SKU-23796",
+    "category": "Tailoring",
+    "price": 7399.41,
+    "cost": 2525.87,
+    "description": "Quality Embroidery Service for tailoring business"
+  },
+  {
+    "id": "prod-030",
+    "productName": "School Uniforms",
+    "productCode": "SKU-21180",
+    "category": "Tailoring",
+    "price": 6948.36,
+    "cost": 1466.47,
+    "description": "Quality School Uniforms for tailoring business"
+  }
+]

@@ -1,0 +1,38 @@
+﻿[
+    {
+        "Id":  5,
+        "Name":  "African Bush Elephant",
+        "ScientificName":  "Loxodonta africana",
+        "Population":  2100,
+        "PopulationTrend":  1,
+        "ConservationStatus":  "Endangered",
+        "LastCensusDate":  "2024-06-01T00:00:00"
+    },
+    {
+        "Id":  6,
+        "Name":  "Hippopotamus",
+        "ScientificName":  "Hippopotamus amphibius",
+        "Population":  3800,
+        "PopulationTrend":  1,
+        "ConservationStatus":  "Vulnerable",
+        "LastCensusDate":  "2024-06-02T00:00:00"
+    },
+    {
+        "Id":  7,
+        "Name":  "African Buffalo",
+        "ScientificName":  "Syncerus caffer",
+        "Population":  4500,
+        "PopulationTrend":  0,
+        "ConservationStatus":  "Least Concern",
+        "LastCensusDate":  "2024-06-03T00:00:00"
+    },
+    {
+        "Id":  8,
+        "Name":  "Nile Crocodile",
+        "ScientificName":  "Crocodylus niloticus",
+        "Population":  1800,
+        "PopulationTrend":  0,
+        "ConservationStatus":  "Least Concern",
+        "LastCensusDate":  "2024-06-04T00:00:00"
+    }
+]

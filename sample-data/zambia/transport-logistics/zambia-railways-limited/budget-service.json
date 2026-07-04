@@ -1,0 +1,692 @@
+[
+  {
+    "id": "bdg-001",
+    "name": "2024 Annual Budget 1",
+    "fiscalYear": 2024,
+    "startDate": "2025-11-04",
+    "endDate": "2025-05-02",
+    "categories": [
+      {
+        "name": "Operating Expenses",
+        "budgeted": 100000.0,
+        "actual": 45000.0,
+        "variance": -55000.0
+      },
+      {
+        "name": "Revenue",
+        "budgeted": 200000.0,
+        "actual": 120000.0,
+        "variance": -80000.0
+      }
+    ],
+    "totalBudgeted": 200000.0,
+    "totalActual": 120000.0
+  },
+  {
+    "id": "bdg-002",
+    "name": "2024 Annual Budget 2",
+    "fiscalYear": 2024,
+    "startDate": "2025-04-22",
+    "endDate": "2026-01-08",
+    "categories": [
+      {
+        "name": "Operating Expenses",
+        "budgeted": 100000.0,
+        "actual": 45000.0,
+        "variance": -55000.0
+      },
+      {
+        "name": "Revenue",
+        "budgeted": 200000.0,
+        "actual": 120000.0,
+        "variance": -80000.0
+      }
+    ],
+    "totalBudgeted": 200000.0,
+    "totalActual": 120000.0
+  },
+  {
+    "id": "bdg-003",
+    "name": "2024 Annual Budget 3",
+    "fiscalYear": 2024,
+    "startDate": "2025-05-21",
+    "endDate": "2025-09-25",
+    "categories": [
+      {
+        "name": "Operating Expenses",
+        "budgeted": 100000.0,
+        "actual": 45000.0,
+        "variance": -55000.0
+      },
+      {
+        "name": "Revenue",
+        "budgeted": 200000.0,
+        "actual": 120000.0,
+        "variance": -80000.0
+      }
+    ],
+    "totalBudgeted": 200000.0,
+    "totalActual": 120000.0
+  },
+  {
+    "id": "bdg-004",
+    "name": "2024 Annual Budget 4",
+    "fiscalYear": 2024,
+    "startDate": "2025-03-22",
+    "endDate": "2025-12-22",
+    "categories": [
+      {
+        "name": "Operating Expenses",
+        "budgeted": 100000.0,
+        "actual": 45000.0,
+        "variance": -55000.0
+      },
+      {
+        "name": "Revenue",
+        "budgeted": 200000.0,
+        "actual": 120000.0,
+        "variance": -80000.0
+      }
+    ],
+    "totalBudgeted": 200000.0,
+    "totalActual": 120000.0
+  },
+  {
+    "id": "bdg-005",
+    "name": "2024 Annual Budget 5",
+    "fiscalYear": 2024,
+    "startDate": "2025-06-11",
+    "endDate": "2025-05-31",
+    "categories": [
+      {
+        "name": "Operating Expenses",
+        "budgeted": 100000.0,
+        "actual": 45000.0,
+        "variance": -55000.0
+      },
+      {
+        "name": "Revenue",
+        "budgeted": 200000.0,
+        "actual": 120000.0,
+        "variance": -80000.0
+      }
+    ],
+    "totalBudgeted": 200000.0,
+    "totalActual": 120000.0
+  },
+  {
+    "id": "bdg-006",
+    "name": "2024 Annual Budget 6",
+    "fiscalYear": 2024,
+    "startDate": "2025-08-23",
+    "endDate": "2025-07-08",
+    "categories": [
+      {
+        "name": "Operating Expenses",
+        "budgeted": 100000.0,
+        "actual": 45000.0,
+        "variance": -55000.0
+      },
+      {
+        "name": "Revenue",
+        "budgeted": 200000.0,
+        "actual": 120000.0,
+        "variance": -80000.0
+      }
+    ],
+    "totalBudgeted": 200000.0,
+    "totalActual": 120000.0
+  },
+  {
+    "id": "bdg-007",
+    "name": "2024 Annual Budget 7",
+    "fiscalYear": 2024,
+    "startDate": "2025-03-09",
+    "endDate": "2025-09-06",
+    "categories": [
+      {
+        "name": "Operating Expenses",
+        "budgeted": 100000.0,
+        "actual": 45000.0,
+        "variance": -55000.0
+      },
+      {
+        "name": "Revenue",
+        "budgeted": 200000.0,
+        "actual": 120000.0,
+        "variance": -80000.0
+      }
+    ],
+    "totalBudgeted": 200000.0,
+    "totalActual": 120000.0
+  },
+  {
+    "id": "bdg-008",
+    "name": "2024 Annual Budget 8",
+    "fiscalYear": 2024,
+    "startDate": "2025-12-01",
+    "endDate": "2025-07-26",
+    "categories": [
+      {
+        "name": "Operating Expenses",
+        "budgeted": 100000.0,
+        "actual": 45000.0,
+        "variance": -55000.0
+      },
+      {
+        "name": "Revenue",
+        "budgeted": 200000.0,
+        "actual": 120000.0,
+        "variance": -80000.0
+      }
+    ],
+    "totalBudgeted": 200000.0,
+    "totalActual": 120000.0
+  },
+  {
+    "id": "bdg-009",
+    "name": "2024 Annual Budget 9",
+    "fiscalYear": 2024,
+    "startDate": "2025-10-31",
+    "endDate": "2025-03-24",
+    "categories": [
+      {
+        "name": "Operating Expenses",
+        "budgeted": 100000.0,
+        "actual": 45000.0,
+        "variance": -55000.0
+      },
+      {
+        "name": "Revenue",
+        "budgeted": 200000.0,
+        "actual": 120000.0,
+        "variance": -80000.0
+      }
+    ],
+    "totalBudgeted": 200000.0,
+    "totalActual": 120000.0
+  },
+  {
+    "id": "bdg-010",
+    "name": "2024 Annual Budget 10",
+    "fiscalYear": 2024,
+    "startDate": "2025-12-20",
+    "endDate": "2025-12-09",
+    "categories": [
+      {
+        "name": "Operating Expenses",
+        "budgeted": 100000.0,
+        "actual": 45000.0,
+        "variance": -55000.0
+      },
+      {
+        "name": "Revenue",
+        "budgeted": 200000.0,
+        "actual": 120000.0,
+        "variance": -80000.0
+      }
+    ],
+    "totalBudgeted": 200000.0,
+    "totalActual": 120000.0
+  },
+  {
+    "id": "bdg-011",
+    "name": "2024 Annual Budget 11",
+    "fiscalYear": 2024,
+    "startDate": "2025-03-30",
+    "endDate": "2025-03-10",
+    "categories": [
+      {
+        "name": "Operating Expenses",
+        "budgeted": 100000.0,
+        "actual": 45000.0,
+        "variance": -55000.0
+      },
+      {
+        "name": "Revenue",
+        "budgeted": 200000.0,
+        "actual": 120000.0,
+        "variance": -80000.0
+      }
+    ],
+    "totalBudgeted": 200000.0,
+    "totalActual": 120000.0
+  },
+  {
+    "id": "bdg-012",
+    "name": "2024 Annual Budget 12",
+    "fiscalYear": 2024,
+    "startDate": "2025-06-14",
+    "endDate": "2025-04-07",
+    "categories": [
+      {
+        "name": "Operating Expenses",
+        "budgeted": 100000.0,
+        "actual": 45000.0,
+        "variance": -55000.0
+      },
+      {
+        "name": "Revenue",
+        "budgeted": 200000.0,
+        "actual": 120000.0,
+        "variance": -80000.0
+      }
+    ],
+    "totalBudgeted": 200000.0,
+    "totalActual": 120000.0
+  },
+  {
+    "id": "bdg-013",
+    "name": "2024 Annual Budget 13",
+    "fiscalYear": 2024,
+    "startDate": "2025-03-30",
+    "endDate": "2025-09-19",
+    "categories": [
+      {
+        "name": "Operating Expenses",
+        "budgeted": 100000.0,
+        "actual": 45000.0,
+        "variance": -55000.0
+      },
+      {
+        "name": "Revenue",
+        "budgeted": 200000.0,
+        "actual": 120000.0,
+        "variance": -80000.0
+      }
+    ],
+    "totalBudgeted": 200000.0,
+    "totalActual": 120000.0
+  },
+  {
+    "id": "bdg-014",
+    "name": "2024 Annual Budget 14",
+    "fiscalYear": 2024,
+    "startDate": "2026-01-17",
+    "endDate": "2025-08-07",
+    "categories": [
+      {
+        "name": "Operating Expenses",
+        "budgeted": 100000.0,
+        "actual": 45000.0,
+        "variance": -55000.0
+      },
+      {
+        "name": "Revenue",
+        "budgeted": 200000.0,
+        "actual": 120000.0,
+        "variance": -80000.0
+      }
+    ],
+    "totalBudgeted": 200000.0,
+    "totalActual": 120000.0
+  },
+  {
+    "id": "bdg-015",
+    "name": "2024 Annual Budget 15",
+    "fiscalYear": 2024,
+    "startDate": "2026-01-08",
+    "endDate": "2025-05-25",
+    "categories": [
+      {
+        "name": "Operating Expenses",
+        "budgeted": 100000.0,
+        "actual": 45000.0,
+        "variance": -55000.0
+      },
+      {
+        "name": "Revenue",
+        "budgeted": 200000.0,
+        "actual": 120000.0,
+        "variance": -80000.0
+      }
+    ],
+    "totalBudgeted": 200000.0,
+    "totalActual": 120000.0
+  },
+  {
+    "id": "bdg-016",
+    "name": "2024 Annual Budget 16",
+    "fiscalYear": 2024,
+    "startDate": "2025-02-05",
+    "endDate": "2025-03-24",
+    "categories": [
+      {
+        "name": "Operating Expenses",
+        "budgeted": 100000.0,
+        "actual": 45000.0,
+        "variance": -55000.0
+      },
+      {
+        "name": "Revenue",
+        "budgeted": 200000.0,
+        "actual": 120000.0,
+        "variance": -80000.0
+      }
+    ],
+    "totalBudgeted": 200000.0,
+    "totalActual": 120000.0
+  },
+  {
+    "id": "bdg-017",
+    "name": "2024 Annual Budget 17",
+    "fiscalYear": 2024,
+    "startDate": "2025-04-10",
+    "endDate": "2025-08-30",
+    "categories": [
+      {
+        "name": "Operating Expenses",
+        "budgeted": 100000.0,
+        "actual": 45000.0,
+        "variance": -55000.0
+      },
+      {
+        "name": "Revenue",
+        "budgeted": 200000.0,
+        "actual": 120000.0,
+        "variance": -80000.0
+      }
+    ],
+    "totalBudgeted": 200000.0,
+    "totalActual": 120000.0
+  },
+  {
+    "id": "bdg-018",
+    "name": "2024 Annual Budget 18",
+    "fiscalYear": 2024,
+    "startDate": "2025-03-25",
+    "endDate": "2025-10-07",
+    "categories": [
+      {
+        "name": "Operating Expenses",
+        "budgeted": 100000.0,
+        "actual": 45000.0,
+        "variance": -55000.0
+      },
+      {
+        "name": "Revenue",
+        "budgeted": 200000.0,
+        "actual": 120000.0,
+        "variance": -80000.0
+      }
+    ],
+    "totalBudgeted": 200000.0,
+    "totalActual": 120000.0
+  },
+  {
+    "id": "bdg-019",
+    "name": "2024 Annual Budget 19",
+    "fiscalYear": 2024,
+    "startDate": "2026-01-16",
+    "endDate": "2025-04-03",
+    "categories": [
+      {
+        "name": "Operating Expenses",
+        "budgeted": 100000.0,
+        "actual": 45000.0,
+        "variance": -55000.0
+      },
+      {
+        "name": "Revenue",
+        "budgeted": 200000.0,
+        "actual": 120000.0,
+        "variance": -80000.0
+      }
+    ],
+    "totalBudgeted": 200000.0,
+    "totalActual": 120000.0
+  },
+  {
+    "id": "bdg-020",
+    "name": "2024 Annual Budget 20",
+    "fiscalYear": 2024,
+    "startDate": "2025-09-10",
+    "endDate": "2025-07-04",
+    "categories": [
+      {
+        "name": "Operating Expenses",
+        "budgeted": 100000.0,
+        "actual": 45000.0,
+        "variance": -55000.0
+      },
+      {
+        "name": "Revenue",
+        "budgeted": 200000.0,
+        "actual": 120000.0,
+        "variance": -80000.0
+      }
+    ],
+    "totalBudgeted": 200000.0,
+    "totalActual": 120000.0
+  },
+  {
+    "id": "bdg-021",
+    "name": "2024 Annual Budget 21",
+    "fiscalYear": 2024,
+    "startDate": "2025-03-08",
+    "endDate": "2025-08-23",
+    "categories": [
+      {
+        "name": "Operating Expenses",
+        "budgeted": 100000.0,
+        "actual": 45000.0,
+        "variance": -55000.0
+      },
+      {
+        "name": "Revenue",
+        "budgeted": 200000.0,
+        "actual": 120000.0,
+        "variance": -80000.0
+      }
+    ],
+    "totalBudgeted": 200000.0,
+    "totalActual": 120000.0
+  },
+  {
+    "id": "bdg-022",
+    "name": "2024 Annual Budget 22",
+    "fiscalYear": 2024,
+    "startDate": "2025-03-21",
+    "endDate": "2025-11-12",
+    "categories": [
+      {
+        "name": "Operating Expenses",
+        "budgeted": 100000.0,
+        "actual": 45000.0,
+        "variance": -55000.0
+      },
+      {
+        "name": "Revenue",
+        "budgeted": 200000.0,
+        "actual": 120000.0,
+        "variance": -80000.0
+      }
+    ],
+    "totalBudgeted": 200000.0,
+    "totalActual": 120000.0
+  },
+  {
+    "id": "bdg-023",
+    "name": "2024 Annual Budget 23",
+    "fiscalYear": 2024,
+    "startDate": "2025-09-30",
+    "endDate": "2026-01-03",
+    "categories": [
+      {
+        "name": "Operating Expenses",
+        "budgeted": 100000.0,
+        "actual": 45000.0,
+        "variance": -55000.0
+      },
+      {
+        "name": "Revenue",
+        "budgeted": 200000.0,
+        "actual": 120000.0,
+        "variance": -80000.0
+      }
+    ],
+    "totalBudgeted": 200000.0,
+    "totalActual": 120000.0
+  },
+  {
+    "id": "bdg-024",
+    "name": "2024 Annual Budget 24",
+    "fiscalYear": 2024,
+    "startDate": "2025-03-17",
+    "endDate": "2025-10-08",
+    "categories": [
+      {
+        "name": "Operating Expenses",
+        "budgeted": 100000.0,
+        "actual": 45000.0,
+        "variance": -55000.0
+      },
+      {
+        "name": "Revenue",
+        "budgeted": 200000.0,
+        "actual": 120000.0,
+        "variance": -80000.0
+      }
+    ],
+    "totalBudgeted": 200000.0,
+    "totalActual": 120000.0
+  },
+  {
+    "id": "bdg-025",
+    "name": "2024 Annual Budget 25",
+    "fiscalYear": 2024,
+    "startDate": "2025-06-19",
+    "endDate": "2026-01-07",
+    "categories": [
+      {
+        "name": "Operating Expenses",
+        "budgeted": 100000.0,
+        "actual": 45000.0,
+        "variance": -55000.0
+      },
+      {
+        "name": "Revenue",
+        "budgeted": 200000.0,
+        "actual": 120000.0,
+        "variance": -80000.0
+      }
+    ],
+    "totalBudgeted": 200000.0,
+    "totalActual": 120000.0
+  },
+  {
+    "id": "bdg-026",
+    "name": "2024 Annual Budget 26",
+    "fiscalYear": 2024,
+    "startDate": "2025-08-08",
+    "endDate": "2025-02-18",
+    "categories": [
+      {
+        "name": "Operating Expenses",
+        "budgeted": 100000.0,
+        "actual": 45000.0,
+        "variance": -55000.0
+      },
+      {
+        "name": "Revenue",
+        "budgeted": 200000.0,
+        "actual": 120000.0,
+        "variance": -80000.0
+      }
+    ],
+    "totalBudgeted": 200000.0,
+    "totalActual": 120000.0
+  },
+  {
+    "id": "bdg-027",
+    "name": "2024 Annual Budget 27",
+    "fiscalYear": 2024,
+    "startDate": "2025-10-19",
+    "endDate": "2025-08-21",
+    "categories": [
+      {
+        "name": "Operating Expenses",
+        "budgeted": 100000.0,
+        "actual": 45000.0,
+        "variance": -55000.0
+      },
+      {
+        "name": "Revenue",
+        "budgeted": 200000.0,
+        "actual": 120000.0,
+        "variance": -80000.0
+      }
+    ],
+    "totalBudgeted": 200000.0,
+    "totalActual": 120000.0
+  },
+  {
+    "id": "bdg-028",
+    "name": "2024 Annual Budget 28",
+    "fiscalYear": 2024,
+    "startDate": "2025-08-27",
+    "endDate": "2025-07-04",
+    "categories": [
+      {
+        "name": "Operating Expenses",
+        "budgeted": 100000.0,
+        "actual": 45000.0,
+        "variance": -55000.0
+      },
+      {
+        "name": "Revenue",
+        "budgeted": 200000.0,
+        "actual": 120000.0,
+        "variance": -80000.0
+      }
+    ],
+    "totalBudgeted": 200000.0,
+    "totalActual": 120000.0
+  },
+  {
+    "id": "bdg-029",
+    "name": "2024 Annual Budget 29",
+    "fiscalYear": 2024,
+    "startDate": "2025-06-01",
+    "endDate": "2025-03-26",
+    "categories": [
+      {
+        "name": "Operating Expenses",
+        "budgeted": 100000.0,
+        "actual": 45000.0,
+        "variance": -55000.0
+      },
+      {
+        "name": "Revenue",
+        "budgeted": 200000.0,
+        "actual": 120000.0,
+        "variance": -80000.0
+      }
+    ],
+    "totalBudgeted": 200000.0,
+    "totalActual": 120000.0
+  },
+  {
+    "id": "bdg-030",
+    "name": "2024 Annual Budget 30",
+    "fiscalYear": 2024,
+    "startDate": "2025-09-19",
+    "endDate": "2025-12-05",
+    "categories": [
+      {
+        "name": "Operating Expenses",
+        "budgeted": 100000.0,
+        "actual": 45000.0,
+        "variance": -55000.0
+      },
+      {
+        "name": "Revenue",
+        "budgeted": 200000.0,
+        "actual": 120000.0,
+        "variance": -80000.0
+      }
+    ],
+    "totalBudgeted": 200000.0,
+    "totalActual": 120000.0
+  }
+]

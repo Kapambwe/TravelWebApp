@@ -1,0 +1,15 @@
+{
+  "current": { "amount": 145200, "invoices": 22 },
+  "oneToThirty": { "amount": 82500, "invoices": 15 },
+  "thirtyOneToSixty": { "amount": 45300, "invoices": 8 },
+  "sixtyOneToNinety": { "amount": 28100, "invoices": 5 },
+  "ninetyPlus": { "amount": 15400, "invoices": 3 },
+  "customers": [
+    { "customerName": "Mopani Copper Mines", "totalOutstanding": 85000, "current": 45000, "days1To30": 25000, "days31To60": 10000, "days61To90": 5000, "days90Plus": 0, "invoiceCount": 8 },
+    { "customerName": "First Quantum Minerals", "totalOutstanding": 72000, "current": 50000, "days1To30": 15000, "days31To60": 7000, "days61To90": 0, "days90Plus": 0, "invoiceCount": 6 },
+    { "customerName": "Konkola Copper Mines", "totalOutstanding": 58000, "current": 25000, "days1To30": 18000, "days31To60": 10000, "days61To90": 5000, "days90Plus": 0, "invoiceCount": 5 },
+    { "customerName": "Copperbelt Energy", "totalOutstanding": 42000, "current": 15000, "days1To30": 12000, "days31To60": 8000, "days61To90": 5000, "days90Plus": 2000, "invoiceCount": 7 },
+    { "customerName": "Zambia Sugar", "totalOutstanding": 35000, "current": 10000, "days1To30": 8000, "days31To60": 7000, "days61To90": 8000, "days90Plus": 2000, "invoiceCount": 9 },
+    { "customerName": "Zambeef Products", "totalOutstanding": 24500, "current": 0, "days1To30": 4500, "days31To60": 3300, "days61To90": 5100, "days90Plus": 11600, "invoiceCount": 8 }
+  ]
+}

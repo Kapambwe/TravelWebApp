@@ -1,0 +1,20 @@
+﻿[
+    {
+        "Id":  1,
+        "Name":  "Sgt. Abraham Tembo",
+        "EmployeeId":  "RNG-012",
+        "CurrentLatitude":  -13.064,
+        "CurrentLongitude":  31.782,
+        "IsActive":  true,
+        "BadgeNumber":  "BADGE-505"
+    },
+    {
+        "Id":  2,
+        "Name":  "Cpl. John Mwansa",
+        "EmployeeId":  "RNG-015",
+        "CurrentLatitude":  -13.059,
+        "CurrentLongitude":  31.777,
+        "IsActive":  true,
+        "BadgeNumber":  "BADGE-508"
+    }
+]

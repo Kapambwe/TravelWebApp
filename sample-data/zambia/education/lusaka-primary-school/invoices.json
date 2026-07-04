@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "invoiceNumber": "INV-2025-001",
+    "clientName": "Mwamba College Co.",
+    "description": "Development Levy",
+    "invoiceDate": "2024-12-06T00:00:00",
+    "dueDate": "2025-02-04T00:00:00",
+    "amount": 4547447.7,
+    "receivedAmount": 1898683.68,
+    "status": "PartiallyPaid",
+    "customerId": 8
+  },
+  {
+    "id": 2,
+    "invoiceNumber": "INV-2025-002",
+    "clientName": "Tembo Learning Centre Enterprises",
+    "description": "Exam Registration",
+    "invoiceDate": "2025-01-05T00:00:00",
+    "dueDate": "2025-03-06T00:00:00",
+    "amount": 1398341.03,
+    "receivedAmount": 1398341.03,
+    "status": "Paid",
+    "customerId": 4
+  },
+  {
+    "id": 3,
+    "invoiceNumber": "INV-2025-003",
+    "clientName": "Mutale Academy Group",
+    "description": "Exam Registration",
+    "invoiceDate": "2024-10-20T00:00:00",
+    "dueDate": "2024-12-04T00:00:00",
+    "amount": 4220647.13,
+    "receivedAmount": 4220647.13,
+    "status": "Paid",
+    "customerId": 3
+  },
+  {
+    "id": 4,
+    "invoiceNumber": "INV-2025-004",
+    "clientName": "Lungu Learning Centre Inc.",
+    "description": "Training Program",
+    "invoiceDate": "2025-03-09T00:00:00",
+    "dueDate": "2025-04-23T00:00:00",
+    "amount": 1168055.84,
+    "receivedAmount": 1168055.84,
+    "status": "Paid",
+    "customerId": 5
+  },
+  {
+    "id": 5,
+    "invoiceNumber": "INV-2025-005",
+    "clientName": "Mwamba College Co.",
+    "description": "Exam Registration",
+    "invoiceDate": "2024-10-14T00:00:00",
+    "dueDate": "2024-12-13T00:00:00",
+    "amount": 3230014.04,
+    "receivedAmount": 0.0,
+    "status": "Open",
+    "customerId": 8
+  },
+  {
+    "id": 6,
+    "invoiceNumber": "INV-2025-006",
+    "clientName": "Lungu Learning Centre Inc.",
+    "description": "School Tuition Fees",
+    "invoiceDate": "2024-12-20T00:00:00",
+    "dueDate": "2025-02-18T00:00:00",
+    "amount": 2313935.21,
+    "receivedAmount": 0.0,
+    "status": "Open",
+    "customerId": 5
+  },
+  {
+    "id": 7,
+    "invoiceNumber": "INV-2025-007",
+    "clientName": "Tembo Learning Centre Enterprises",
+    "description": "Boarding Fees",
+    "invoiceDate": "2024-09-23T00:00:00",
+    "dueDate": "2024-11-22T00:00:00",
+    "amount": 2177019.51,
+    "receivedAmount": 2177019.51,
+    "status": "Paid",
+    "customerId": 4
+  },
+  {
+    "id": 8,
+    "invoiceNumber": "INV-2025-008",
+    "clientName": "Mutale Training Centre Limited",
+    "description": "Workshop Fees",
+    "invoiceDate": "2024-12-21T00:00:00",
+    "dueDate": "2025-02-04T00:00:00",
+    "amount": 1687993.47,
+    "receivedAmount": 985416.89,
+    "status": "PartiallyPaid",
+    "customerId": 7
+  },
+  {
+    "id": 9,
+    "invoiceNumber": "INV-2025-009",
+    "clientName": "Mwamba College Co.",
+    "description": "Exam Registration",
+    "invoiceDate": "2024-11-28T00:00:00",
+    "dueDate": "2025-01-27T00:00:00",
+    "amount": 3581580.22,
+    "receivedAmount": 3581580.22,
+    "status": "Paid",
+    "customerId": 8
+  },
+  {
+    "id": 10,
+    "invoiceNumber": "INV-2025-010",
+    "clientName": "Lungu Learning Centre Inc.",
+    "description": "School Tuition Fees",
+    "invoiceDate": "2024-11-18T00:00:00",
+    "dueDate": "2024-12-03T00:00:00",
+    "amount": 1353500.93,
+    "receivedAmount": 0.0,
+    "status": "Open",
+    "customerId": 5
+  }
+]

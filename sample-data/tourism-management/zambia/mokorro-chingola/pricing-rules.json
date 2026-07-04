@@ -1,0 +1,18 @@
+﻿[
+    {
+        "Id":  1,
+        "Name":  "Midweek Business Traveler Discount",
+        "AdjustmentType":  0,
+        "IsActive":  true,
+        "AdjustmentValue":  -10,
+        "Condition":  "DayOfWeek in (Monday, Tuesday, Wednesday, Thursday)"
+    },
+    {
+        "Id":  2,
+        "Name":  "Peak Mining Conference Supplement",
+        "AdjustmentType":  0,
+        "IsActive":  true,
+        "AdjustmentValue":  15,
+        "Condition":  "Month in (June, October)"
+    }
+]

@@ -1,0 +1,272 @@
+[
+  {
+    "id": "prod-001",
+    "productName": "Chairs",
+    "productCode": "SKU-44634",
+    "category": "Carpentry",
+    "price": 11792.16,
+    "cost": 5504.33,
+    "description": "Quality Chairs for carpentry business"
+  },
+  {
+    "id": "prod-002",
+    "productName": "Beds",
+    "productCode": "SKU-35287",
+    "category": "Carpentry",
+    "price": 7231.85,
+    "cost": 5927.72,
+    "description": "Quality Beds for carpentry business"
+  },
+  {
+    "id": "prod-003",
+    "productName": "Shelves",
+    "productCode": "SKU-22428",
+    "category": "Carpentry",
+    "price": 3712.55,
+    "cost": 7233.86,
+    "description": "Quality Shelves for carpentry business"
+  },
+  {
+    "id": "prod-004",
+    "productName": "Cabinets",
+    "productCode": "SKU-93134",
+    "category": "Carpentry",
+    "price": 10194.74,
+    "cost": 1900.62,
+    "description": "Quality Cabinets for carpentry business"
+  },
+  {
+    "id": "prod-005",
+    "productName": "Doors",
+    "productCode": "SKU-69357",
+    "category": "Carpentry",
+    "price": 8043.28,
+    "cost": 4369.94,
+    "description": "Quality Doors for carpentry business"
+  },
+  {
+    "id": "prod-006",
+    "productName": "Window Frames",
+    "productCode": "SKU-53345",
+    "category": "Carpentry",
+    "price": 12119.2,
+    "cost": 2749.59,
+    "description": "Quality Window Frames for carpentry business"
+  },
+  {
+    "id": "prod-007",
+    "productName": "Roof Trusses",
+    "productCode": "SKU-49963",
+    "category": "Carpentry",
+    "price": 1246.21,
+    "cost": 6334.37,
+    "description": "Quality Roof Trusses for carpentry business"
+  },
+  {
+    "id": "prod-008",
+    "productName": "Door Frames",
+    "productCode": "SKU-51938",
+    "category": "Carpentry",
+    "price": 13620.36,
+    "cost": 6547.32,
+    "description": "Quality Door Frames for carpentry business"
+  },
+  {
+    "id": "prod-009",
+    "productName": "Custom Furniture",
+    "productCode": "SKU-73321",
+    "category": "Carpentry",
+    "price": 1715.43,
+    "cost": 6080.29,
+    "description": "Quality Custom Furniture for carpentry business"
+  },
+  {
+    "id": "prod-010",
+    "productName": "Wooden Tables",
+    "productCode": "SKU-41059",
+    "category": "Carpentry",
+    "price": 837.71,
+    "cost": 1528.32,
+    "description": "Quality Wooden Tables for carpentry business"
+  },
+  {
+    "id": "prod-011",
+    "productName": "Chairs",
+    "productCode": "SKU-83285",
+    "category": "Carpentry",
+    "price": 10950.67,
+    "cost": 2251.82,
+    "description": "Quality Chairs for carpentry business"
+  },
+  {
+    "id": "prod-012",
+    "productName": "Beds",
+    "productCode": "SKU-88373",
+    "category": "Carpentry",
+    "price": 3007.17,
+    "cost": 2930.49,
+    "description": "Quality Beds for carpentry business"
+  },
+  {
+    "id": "prod-013",
+    "productName": "Shelves",
+    "productCode": "SKU-30720",
+    "category": "Carpentry",
+    "price": 11033.39,
+    "cost": 1500.52,
+    "description": "Quality Shelves for carpentry business"
+  },
+  {
+    "id": "prod-014",
+    "productName": "Cabinets",
+    "productCode": "SKU-10097",
+    "category": "Carpentry",
+    "price": 12081.4,
+    "cost": 5148.18,
+    "description": "Quality Cabinets for carpentry business"
+  },
+  {
+    "id": "prod-015",
+    "productName": "Doors",
+    "productCode": "SKU-27386",
+    "category": "Carpentry",
+    "price": 10595.75,
+    "cost": 6624.02,
+    "description": "Quality Doors for carpentry business"
+  },
+  {
+    "id": "prod-016",
+    "productName": "Window Frames",
+    "productCode": "SKU-16693",
+    "category": "Carpentry",
+    "price": 1698.07,
+    "cost": 3175.82,
+    "description": "Quality Window Frames for carpentry business"
+  },
+  {
+    "id": "prod-017",
+    "productName": "Roof Trusses",
+    "productCode": "SKU-24816",
+    "category": "Carpentry",
+    "price": 1487.39,
+    "cost": 5801.36,
+    "description": "Quality Roof Trusses for carpentry business"
+  },
+  {
+    "id": "prod-018",
+    "productName": "Door Frames",
+    "productCode": "SKU-66615",
+    "category": "Carpentry",
+    "price": 11524.08,
+    "cost": 7513.86,
+    "description": "Quality Door Frames for carpentry business"
+  },
+  {
+    "id": "prod-019",
+    "productName": "Custom Furniture",
+    "productCode": "SKU-65947",
+    "category": "Carpentry",
+    "price": 1479.82,
+    "cost": 3368.0,
+    "description": "Quality Custom Furniture for carpentry business"
+  },
+  {
+    "id": "prod-020",
+    "productName": "Wooden Tables",
+    "productCode": "SKU-30978",
+    "category": "Carpentry",
+    "price": 13740.26,
+    "cost": 6114.93,
+    "description": "Quality Wooden Tables for carpentry business"
+  },
+  {
+    "id": "prod-021",
+    "productName": "Chairs",
+    "productCode": "SKU-12967",
+    "category": "Carpentry",
+    "price": 13700.5,
+    "cost": 6378.54,
+    "description": "Quality Chairs for carpentry business"
+  },
+  {
+    "id": "prod-022",
+    "productName": "Beds",
+    "productCode": "SKU-90214",
+    "category": "Carpentry",
+    "price": 6212.79,
+    "cost": 5873.55,
+    "description": "Quality Beds for carpentry business"
+  },
+  {
+    "id": "prod-023",
+    "productName": "Shelves",
+    "productCode": "SKU-65967",
+    "category": "Carpentry",
+    "price": 10375.8,
+    "cost": 5195.22,
+    "description": "Quality Shelves for carpentry business"
+  },
+  {
+    "id": "prod-024",
+    "productName": "Cabinets",
+    "productCode": "SKU-15133",
+    "category": "Carpentry",
+    "price": 13707.37,
+    "cost": 7313.65,
+    "description": "Quality Cabinets for carpentry business"
+  },
+  {
+    "id": "prod-025",
+    "productName": "Doors",
+    "productCode": "SKU-80744",
+    "category": "Carpentry",
+    "price": 6527.29,
+    "cost": 7119.12,
+    "description": "Quality Doors for carpentry business"
+  },
+  {
+    "id": "prod-026",
+    "productName": "Window Frames",
+    "productCode": "SKU-67180",
+    "category": "Carpentry",
+    "price": 9371.21,
+    "cost": 7941.68,
+    "description": "Quality Window Frames for carpentry business"
+  },
+  {
+    "id": "prod-027",
+    "productName": "Roof Trusses",
+    "productCode": "SKU-74773",
+    "category": "Carpentry",
+    "price": 504.74,
+    "cost": 2322.44,
+    "description": "Quality Roof Trusses for carpentry business"
+  },
+  {
+    "id": "prod-028",
+    "productName": "Door Frames",
+    "productCode": "SKU-45975",
+    "category": "Carpentry",
+    "price": 7811.9,
+    "cost": 6421.22,
+    "description": "Quality Door Frames for carpentry business"
+  },
+  {
+    "id": "prod-029",
+    "productName": "Custom Furniture",
+    "productCode": "SKU-36801",
+    "category": "Carpentry",
+    "price": 11528.42,
+    "cost": 2454.97,
+    "description": "Quality Custom Furniture for carpentry business"
+  },
+  {
+    "id": "prod-030",
+    "productName": "Wooden Tables",
+    "productCode": "SKU-34745",
+    "category": "Carpentry",
+    "price": 8123.69,
+    "cost": 7813.19,
+    "description": "Quality Wooden Tables for carpentry business"
+  }
+]

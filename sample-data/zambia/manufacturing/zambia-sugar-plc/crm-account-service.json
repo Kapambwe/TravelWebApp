@@ -1,0 +1,272 @@
+[
+  {
+    "id": "crm-001",
+    "accountName": "ABC Corporation 1",
+    "industry": "Manufacturing",
+    "employees": 50,
+    "revenue": 5000000.0,
+    "accountManager": "Jane Smith",
+    "status": "On Hold"
+  },
+  {
+    "id": "crm-002",
+    "accountName": "ABC Corporation 2",
+    "industry": "Manufacturing",
+    "employees": 50,
+    "revenue": 5000000.0,
+    "accountManager": "Jane Smith",
+    "status": "On Hold"
+  },
+  {
+    "id": "crm-003",
+    "accountName": "ABC Corporation 3",
+    "industry": "Manufacturing",
+    "employees": 50,
+    "revenue": 5000000.0,
+    "accountManager": "Jane Smith",
+    "status": "Cancelled"
+  },
+  {
+    "id": "crm-004",
+    "accountName": "ABC Corporation 4",
+    "industry": "Manufacturing",
+    "employees": 50,
+    "revenue": 5000000.0,
+    "accountManager": "Jane Smith",
+    "status": "On Hold"
+  },
+  {
+    "id": "crm-005",
+    "accountName": "ABC Corporation 5",
+    "industry": "Manufacturing",
+    "employees": 50,
+    "revenue": 5000000.0,
+    "accountManager": "Jane Smith",
+    "status": "Draft"
+  },
+  {
+    "id": "crm-006",
+    "accountName": "ABC Corporation 6",
+    "industry": "Manufacturing",
+    "employees": 50,
+    "revenue": 5000000.0,
+    "accountManager": "Jane Smith",
+    "status": "Cancelled"
+  },
+  {
+    "id": "crm-007",
+    "accountName": "ABC Corporation 7",
+    "industry": "Manufacturing",
+    "employees": 50,
+    "revenue": 5000000.0,
+    "accountManager": "Jane Smith",
+    "status": "Cancelled"
+  },
+  {
+    "id": "crm-008",
+    "accountName": "ABC Corporation 8",
+    "industry": "Manufacturing",
+    "employees": 50,
+    "revenue": 5000000.0,
+    "accountManager": "Jane Smith",
+    "status": "On Hold"
+  },
+  {
+    "id": "crm-009",
+    "accountName": "ABC Corporation 9",
+    "industry": "Manufacturing",
+    "employees": 50,
+    "revenue": 5000000.0,
+    "accountManager": "Jane Smith",
+    "status": "Cancelled"
+  },
+  {
+    "id": "crm-010",
+    "accountName": "ABC Corporation 10",
+    "industry": "Manufacturing",
+    "employees": 50,
+    "revenue": 5000000.0,
+    "accountManager": "Jane Smith",
+    "status": "Approved"
+  },
+  {
+    "id": "crm-011",
+    "accountName": "ABC Corporation 11",
+    "industry": "Manufacturing",
+    "employees": 50,
+    "revenue": 5000000.0,
+    "accountManager": "Jane Smith",
+    "status": "Rejected"
+  },
+  {
+    "id": "crm-012",
+    "accountName": "ABC Corporation 12",
+    "industry": "Manufacturing",
+    "employees": 50,
+    "revenue": 5000000.0,
+    "accountManager": "Jane Smith",
+    "status": "Pending"
+  },
+  {
+    "id": "crm-013",
+    "accountName": "ABC Corporation 13",
+    "industry": "Manufacturing",
+    "employees": 50,
+    "revenue": 5000000.0,
+    "accountManager": "Jane Smith",
+    "status": "On Hold"
+  },
+  {
+    "id": "crm-014",
+    "accountName": "ABC Corporation 14",
+    "industry": "Manufacturing",
+    "employees": 50,
+    "revenue": 5000000.0,
+    "accountManager": "Jane Smith",
+    "status": "Draft"
+  },
+  {
+    "id": "crm-015",
+    "accountName": "ABC Corporation 15",
+    "industry": "Manufacturing",
+    "employees": 50,
+    "revenue": 5000000.0,
+    "accountManager": "Jane Smith",
+    "status": "Active"
+  },
+  {
+    "id": "crm-016",
+    "accountName": "ABC Corporation 16",
+    "industry": "Manufacturing",
+    "employees": 50,
+    "revenue": 5000000.0,
+    "accountManager": "Jane Smith",
+    "status": "Active"
+  },
+  {
+    "id": "crm-017",
+    "accountName": "ABC Corporation 17",
+    "industry": "Manufacturing",
+    "employees": 50,
+    "revenue": 5000000.0,
+    "accountManager": "Jane Smith",
+    "status": "Cancelled"
+  },
+  {
+    "id": "crm-018",
+    "accountName": "ABC Corporation 18",
+    "industry": "Manufacturing",
+    "employees": 50,
+    "revenue": 5000000.0,
+    "accountManager": "Jane Smith",
+    "status": "Draft"
+  },
+  {
+    "id": "crm-019",
+    "accountName": "ABC Corporation 19",
+    "industry": "Manufacturing",
+    "employees": 50,
+    "revenue": 5000000.0,
+    "accountManager": "Jane Smith",
+    "status": "Pending"
+  },
+  {
+    "id": "crm-020",
+    "accountName": "ABC Corporation 20",
+    "industry": "Manufacturing",
+    "employees": 50,
+    "revenue": 5000000.0,
+    "accountManager": "Jane Smith",
+    "status": "Completed"
+  },
+  {
+    "id": "crm-021",
+    "accountName": "ABC Corporation 21",
+    "industry": "Manufacturing",
+    "employees": 50,
+    "revenue": 5000000.0,
+    "accountManager": "Jane Smith",
+    "status": "Pending"
+  },
+  {
+    "id": "crm-022",
+    "accountName": "ABC Corporation 22",
+    "industry": "Manufacturing",
+    "employees": 50,
+    "revenue": 5000000.0,
+    "accountManager": "Jane Smith",
+    "status": "Completed"
+  },
+  {
+    "id": "crm-023",
+    "accountName": "ABC Corporation 23",
+    "industry": "Manufacturing",
+    "employees": 50,
+    "revenue": 5000000.0,
+    "accountManager": "Jane Smith",
+    "status": "Active"
+  },
+  {
+    "id": "crm-024",
+    "accountName": "ABC Corporation 24",
+    "industry": "Manufacturing",
+    "employees": 50,
+    "revenue": 5000000.0,
+    "accountManager": "Jane Smith",
+    "status": "Completed"
+  },
+  {
+    "id": "crm-025",
+    "accountName": "ABC Corporation 25",
+    "industry": "Manufacturing",
+    "employees": 50,
+    "revenue": 5000000.0,
+    "accountManager": "Jane Smith",
+    "status": "Completed"
+  },
+  {
+    "id": "crm-026",
+    "accountName": "ABC Corporation 26",
+    "industry": "Manufacturing",
+    "employees": 50,
+    "revenue": 5000000.0,
+    "accountManager": "Jane Smith",
+    "status": "Draft"
+  },
+  {
+    "id": "crm-027",
+    "accountName": "ABC Corporation 27",
+    "industry": "Manufacturing",
+    "employees": 50,
+    "revenue": 5000000.0,
+    "accountManager": "Jane Smith",
+    "status": "Draft"
+  },
+  {
+    "id": "crm-028",
+    "accountName": "ABC Corporation 28",
+    "industry": "Manufacturing",
+    "employees": 50,
+    "revenue": 5000000.0,
+    "accountManager": "Jane Smith",
+    "status": "Completed"
+  },
+  {
+    "id": "crm-029",
+    "accountName": "ABC Corporation 29",
+    "industry": "Manufacturing",
+    "employees": 50,
+    "revenue": 5000000.0,
+    "accountManager": "Jane Smith",
+    "status": "On Hold"
+  },
+  {
+    "id": "crm-030",
+    "accountName": "ABC Corporation 30",
+    "industry": "Manufacturing",
+    "employees": 50,
+    "revenue": 5000000.0,
+    "accountManager": "Jane Smith",
+    "status": "Approved"
+  }
+]

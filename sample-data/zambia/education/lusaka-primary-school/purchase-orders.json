@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1,
+    "poNumber": "PO-2025-001",
+    "vendorName": "Kaputo Training Centre Holdings",
+    "description": "Catering Services",
+    "orderDate": "2025-02-17T00:00:00",
+    "expectedDate": "2025-03-18T00:00:00",
+    "amount": 1183198.2,
+    "receivedAmount": 0.0,
+    "status": "Cancelled",
+    "approvalStatus": "Approved",
+    "approvedBy": "CEO"
+  },
+  {
+    "id": 2,
+    "poNumber": "PO-2025-002",
+    "vendorName": "Mulenga Academy Limited",
+    "description": "Building Maintenance",
+    "orderDate": "2025-03-08T00:00:00",
+    "expectedDate": "2025-04-02T00:00:00",
+    "amount": 1807808.87,
+    "receivedAmount": 0.0,
+    "status": "Open",
+    "approvalStatus": "Pending",
+    "approvedBy": "Finance Manager"
+  },
+  {
+    "id": 3,
+    "poNumber": "PO-2025-003",
+    "vendorName": "Kabwe Learning Centre Ltd",
+    "description": "Transport Services",
+    "orderDate": "2025-03-01T00:00:00",
+    "expectedDate": "2025-03-14T00:00:00",
+    "amount": 34776.42,
+    "receivedAmount": 0.0,
+    "status": "Cancelled",
+    "approvalStatus": "Approved",
+    "approvedBy": "CFO"
+  },
+  {
+    "id": 4,
+    "poNumber": "PO-2025-004",
+    "vendorName": "Kabwe Learning Centre Ltd",
+    "description": "Building Maintenance",
+    "orderDate": "2024-12-20T00:00:00",
+    "expectedDate": "2025-01-05T00:00:00",
+    "amount": 2516737.7,
+    "receivedAmount": 0.0,
+    "status": "Open",
+    "approvalStatus": "Approved",
+    "approvedBy": "CFO"
+  },
+  {
+    "id": 5,
+    "poNumber": "PO-2025-005",
+    "vendorName": "Musonda College Solutions",
+    "description": "School Equipment",
+    "orderDate": "2025-01-25T00:00:00",
+    "expectedDate": "2025-02-12T00:00:00",
+    "amount": 2843816.08,
+    "receivedAmount": 2843816.08,
+    "status": "Closed",
+    "approvalStatus": "Approved",
+    "approvedBy": "CEO"
+  },
+  {
+    "id": 6,
+    "poNumber": "PO-2025-006",
+    "vendorName": "Siame Learning Centre Inc.",
+    "description": "Transport Services",
+    "orderDate": "2025-03-01T00:00:00",
+    "expectedDate": "2025-03-16T00:00:00",
+    "amount": 2646344.66,
+    "receivedAmount": 2646344.66,
+    "status": "Closed",
+    "approvalStatus": "Approved",
+    "approvedBy": "CEO"
+  }
+]

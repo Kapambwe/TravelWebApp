@@ -1,0 +1,18 @@
+﻿[
+    {
+        "Id":  303,
+        "Name":  "Ndove Mwansa",
+        "EmployeeId":  "EMP-NBL303",
+        "IsAvailable":  true,
+        "Specialization":  "Scuba instruction \u0026 Marine ecology",
+        "Rating":  5
+    },
+    {
+        "Id":  304,
+        "Name":  "Lombe Kabwe",
+        "EmployeeId":  "EMP-NBL304",
+        "IsAvailable":  true,
+        "Specialization":  "Nsumbu wilderness guiding",
+        "Rating":  4.8
+    }
+]

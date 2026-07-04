@@ -1,0 +1,191 @@
+[
+  {
+    "id": 1,
+    "estimateNumber": "EST-2025-001",
+    "customerId": 2,
+    "customerName": "Mulenga Digital Media Ltd",
+    "estimateDateDaysAgo": 8,
+    "expirationDateDaysFromNow": 40,
+    "status": "Expired",
+    "subTotal": 2165794.27,
+    "taxRate": 0,
+    "taxAmount": 0.0,
+    "total": 2165794.27,
+    "terms": "Net 45",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 8,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Digital Advertising",
+        "quantity": 3,
+        "unitPrice": 721931.42,
+        "amount": 2165794.27,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 7
+  },
+  {
+    "id": 2,
+    "estimateNumber": "EST-2025-002",
+    "customerId": 5,
+    "customerName": "Mwamba Digital Media Co.",
+    "estimateDateDaysAgo": 54,
+    "expirationDateDaysFromNow": 36,
+    "status": "Expired",
+    "subTotal": 1247688.24,
+    "taxRate": 15,
+    "taxAmount": 187153.24,
+    "total": 1434841.48,
+    "terms": "Net 45",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 54,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Print Advertising Space",
+        "quantity": 4,
+        "unitPrice": 311922.06,
+        "amount": 1247688.24,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 53
+  },
+  {
+    "id": 3,
+    "estimateNumber": "EST-2025-003",
+    "customerId": 7,
+    "customerName": "Chileshe Broadcasting Inc.",
+    "estimateDateDaysAgo": 58,
+    "expirationDateDaysFromNow": 33,
+    "status": "Expired",
+    "subTotal": 3459338.74,
+    "taxRate": 18,
+    "taxAmount": 622680.97,
+    "total": 4082019.71,
+    "terms": "Net 30",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 58,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Print Advertising Space",
+        "quantity": 2,
+        "unitPrice": 1729669.37,
+        "amount": 3459338.74,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 57
+  },
+  {
+    "id": 4,
+    "estimateNumber": "EST-2025-004",
+    "customerId": 5,
+    "customerName": "Mwamba Digital Media Co.",
+    "estimateDateDaysAgo": 47,
+    "expirationDateDaysFromNow": 25,
+    "status": "Open",
+    "subTotal": 1674569.84,
+    "taxRate": 15,
+    "taxAmount": 251185.48,
+    "total": 1925755.32,
+    "terms": "Net 15",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 47,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Print Advertising Space",
+        "quantity": 2,
+        "unitPrice": 837284.92,
+        "amount": 1674569.84,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 46
+  },
+  {
+    "id": 5,
+    "estimateNumber": "EST-2025-005",
+    "customerId": 7,
+    "customerName": "Chileshe Broadcasting Inc.",
+    "estimateDateDaysAgo": 25,
+    "expirationDateDaysFromNow": 42,
+    "status": "Open",
+    "subTotal": 187160.61,
+    "taxRate": 16,
+    "taxAmount": 29945.7,
+    "total": 217106.31,
+    "terms": "Net 45",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 25,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Online Content Package",
+        "quantity": 4,
+        "unitPrice": 46790.15,
+        "amount": 187160.61,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 24
+  },
+  {
+    "id": 6,
+    "estimateNumber": "EST-2025-006",
+    "customerId": 1,
+    "customerName": "Lungu Publishers Group",
+    "estimateDateDaysAgo": 5,
+    "expirationDateDaysFromNow": 30,
+    "status": "Accepted",
+    "subTotal": 1402131.64,
+    "taxRate": 18,
+    "taxAmount": 252383.7,
+    "total": 1654515.34,
+    "terms": "Net 45",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 5,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "TV Commercial Slot",
+        "quantity": 1,
+        "unitPrice": 1402131.64,
+        "amount": 1402131.64,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 4
+  },
+  {
+    "id": 7,
+    "estimateNumber": "EST-2025-007",
+    "customerId": 2,
+    "customerName": "Mulenga Digital Media Ltd",
+    "estimateDateDaysAgo": 54,
+    "expirationDateDaysFromNow": 20,
+    "status": "Declined",
+    "subTotal": 2542714.8,
+    "taxRate": 16,
+    "taxAmount": 406834.37,
+    "total": 2949549.17,
+    "terms": "Net 45",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 54,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "TV Commercial Slot",
+        "quantity": 3,
+        "unitPrice": 847571.6,
+        "amount": 2542714.8,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 53
+  }
+]

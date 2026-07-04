@@ -1,0 +1,44 @@
+[
+  {
+    "id": "22222222-3333-4444-5555-666666666601",
+    "name": "Freight Revenue Forecast",
+    "description": "Rail freight revenue model with wagon utilization, route pricing, and seasonal demand.",
+    "industry": "Transport Logistics",
+    "icon": "train",
+    "isPublic": true,
+    "createdDate": "2026-05-01T00:00:00",
+    "features": [
+      "Route-based pricing",
+      "Wagon utilization planning",
+      "Seasonal freight demand"
+    ]
+  },
+  {
+    "id": "22222222-3333-4444-5555-666666666602",
+    "name": "Infrastructure Maintenance Plan",
+    "description": "Tracks maintenance spend for tracks, locomotives, wagons, and depots.",
+    "industry": "Transport Logistics",
+    "icon": "build",
+    "isPublic": true,
+    "createdDate": "2026-05-01T00:00:00",
+    "features": [
+      "Asset maintenance schedules",
+      "Depreciation planning",
+      "Repair and renewal budgets"
+    ]
+  },
+  {
+    "id": "22222222-3333-4444-5555-666666666603",
+    "name": "Fuel and Operations Cash Flow",
+    "description": "Short-term cash flow template for fuel costs, crew wages, and operational collections.",
+    "industry": "Transport Logistics",
+    "icon": "local_shipping",
+    "isPublic": true,
+    "createdDate": "2026-05-01T00:00:00",
+    "features": [
+      "Fuel expense tracking",
+      "Crew payroll planning",
+      "Working capital forecasting"
+    ]
+  }
+]

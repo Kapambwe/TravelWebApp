@@ -1,0 +1,82 @@
+{
+  "companyName": "Zambeef Products PLC",
+  "companyAddress": "Great North Road, Lusaka, Zambia",
+  "companyTaxId": "TPIN-4567890-ZBP",
+  "generatedDate": "2025-09-30",
+  "currency": "ZMW",
+  "period": {"from": "2025-01-01", "to": "2025-09-30"},
+  "customerStatements": [
+    {
+      "customerId": 1,
+      "customerName": "Shoprite Zambia Ltd",
+      "customerEmail": "c.phiri@shoprite.co.zm",
+      "openingBalance": 0.00,
+      "transactions": [
+        {"date":"2025-01-15","reference":"INV-2025-001","description":"Beef - Chilled Cuts Supply","debit":5800000.00,"credit":0.00,"balance":5800000.00},
+        {"date":"2025-02-12","reference":"PAY-2025-001","description":"Payment received - Bank Transfer","debit":0.00,"credit":5800000.00,"balance":0.00}
+      ],
+      "closingBalance": 0.00,
+      "status": "Settled"
+    },
+    {
+      "customerId": 5,
+      "customerName": "Zambia Breweries PLC",
+      "customerEmail": "s.zulu@zambreweries.co.zm",
+      "openingBalance": 0.00,
+      "transactions": [
+        {"date":"2025-02-15","reference":"INV-2025-005","description":"Zamchick Broiler Consignment","debit":3200000.00,"credit":0.00,"balance":3200000.00},
+        {"date":"2025-03-10","reference":"PAY-2025-008","description":"Partial Payment received - Bank Transfer","debit":0.00,"credit":1600000.00,"balance":1600000.00}
+      ],
+      "closingBalance": 1600000.00,
+      "status": "Outstanding"
+    },
+    {
+      "customerId": 6,
+      "customerName": "Lusaka Savoy Hotel",
+      "customerEmail": "m.lungu@savoylsk.co.zm",
+      "openingBalance": 0.00,
+      "transactions": [
+        {"date":"2025-01-05","reference":"INV-2025-006","description":"Bakery Products - Bread and Confectionery","debit":850000.00,"credit":0.00,"balance":850000.00},
+        {"date":"2025-02-20","reference":"PAY-2025-009","description":"Payment received - Cash","debit":0.00,"credit":350000.00,"balance":500000.00}
+      ],
+      "closingBalance": 500000.00,
+      "status": "Overdue"
+    },
+    {
+      "customerId": 10,
+      "customerName": "Zambia Air Force Catering",
+      "customerEmail": "c.mwale@zaf.mil.zm",
+      "openingBalance": 0.00,
+      "transactions": [
+        {"date":"2025-04-01","reference":"INV-2025-010","description":"Smoked Meats and Sausages","debit":4800000.00,"credit":0.00,"balance":4800000.00}
+      ],
+      "closingBalance": 4800000.00,
+      "status": "Overdue"
+    },
+    {
+      "customerId": 12,
+      "customerName": "University Teaching Hospital Kitchens",
+      "customerEmail": "p.nkonde@uth.gov.zm",
+      "openingBalance": 0.00,
+      "transactions": [
+        {"date":"2025-04-05","reference":"INV-2025-012","description":"Cropping Products - Wheat Grain","debit":5600000.00,"credit":0.00,"balance":5600000.00},
+        {"date":"2025-05-01","reference":"PAY-2025-010","description":"Partial Payment received - Bank Transfer","debit":0.00,"credit":1500000.00,"balance":4100000.00}
+      ],
+      "closingBalance": 4100000.00,
+      "status": "Overdue"
+    }
+  ],
+  "summary": {
+    "totalInvoiced": 20250000,
+    "totalReceived": 9250000,
+    "totalOutstanding": 11000000,
+    "totalOverdue": 9400000,
+    "agingSummary": {
+      "current": 0,
+      "days1to30": 1600000,
+      "days31to60": 0,
+      "days61to90": 0,
+      "over90days": 9400000
+    }
+  }
+}

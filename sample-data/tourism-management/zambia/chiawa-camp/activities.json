@@ -1,0 +1,22 @@
+﻿[
+    {
+        "BasePrice":  5500,
+        "Capacity":  6,
+        "IsActive":  true,
+        "Id":  209,
+        "Name":  "Chiawa Canoe Safaris",
+        "Type":  4,
+        "Description":  "Paddle downstream past elephants and bird colonies.",
+        "Duration":  180
+    },
+    {
+        "BasePrice":  7500,
+        "Capacity":  4,
+        "IsActive":  true,
+        "Id":  210,
+        "Name":  "Zambezi Boat Angling",
+        "Type":  5,
+        "Description":  "Sport fishing for Tigerfish with specialized tackle.",
+        "Duration":  240
+    }
+]

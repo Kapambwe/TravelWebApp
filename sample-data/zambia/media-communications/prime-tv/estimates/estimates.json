@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "estimateNumber": "EST-2025-001",
+    "customerId": 5,
+    "customerName": "Sakala Publishers Group",
+    "estimateDateDaysAgo": 17,
+    "expirationDateDaysFromNow": 43,
+    "status": "Declined",
+    "subTotal": 2828256.33,
+    "taxRate": 18,
+    "taxAmount": 509086.14,
+    "total": 3337342.47,
+    "terms": "Net 15",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 17,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Radio Airtime",
+        "quantity": 2,
+        "unitPrice": 1414128.17,
+        "amount": 2828256.33,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 16
+  },
+  {
+    "id": 2,
+    "estimateNumber": "EST-2025-002",
+    "customerId": 4,
+    "customerName": "Sakala Broadcasting Limited",
+    "estimateDateDaysAgo": 10,
+    "expirationDateDaysFromNow": 43,
+    "status": "Sent",
+    "subTotal": 182400.08,
+    "taxRate": 15,
+    "taxAmount": 27360.01,
+    "total": 209760.09,
+    "terms": "Net 30",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 10,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Media Production",
+        "quantity": 5,
+        "unitPrice": 36480.02,
+        "amount": 182400.08,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 9
+  },
+  {
+    "id": 3,
+    "estimateNumber": "EST-2025-003",
+    "customerId": 4,
+    "customerName": "Sakala Broadcasting Limited",
+    "estimateDateDaysAgo": 38,
+    "expirationDateDaysFromNow": 36,
+    "status": "Accepted",
+    "subTotal": 136053.65,
+    "taxRate": 16,
+    "taxAmount": 21768.58,
+    "total": 157822.23,
+    "terms": "Net 15",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 38,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Digital Advertising",
+        "quantity": 1,
+        "unitPrice": 136053.65,
+        "amount": 136053.65,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 37
+  },
+  {
+    "id": 4,
+    "estimateNumber": "EST-2025-004",
+    "customerId": 3,
+    "customerName": "Mutale Media Enterprises",
+    "estimateDateDaysAgo": 12,
+    "expirationDateDaysFromNow": 19,
+    "status": "Sent",
+    "subTotal": 2403208.24,
+    "taxRate": 18,
+    "taxAmount": 432577.48,
+    "total": 2835785.72,
+    "terms": "Net 45",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 12,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "TV Commercial Slot",
+        "quantity": 3,
+        "unitPrice": 801069.41,
+        "amount": 2403208.24,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 11
+  },
+  {
+    "id": 5,
+    "estimateNumber": "EST-2025-005",
+    "customerId": 13,
+    "customerName": "Sakala Digital Media Co.",
+    "estimateDateDaysAgo": 23,
+    "expirationDateDaysFromNow": 22,
+    "status": "Open",
+    "subTotal": 792147.44,
+    "taxRate": 16,
+    "taxAmount": 126743.59,
+    "total": 918891.03,
+    "terms": "Net 45",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 23,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Radio Airtime",
+        "quantity": 4,
+        "unitPrice": 198036.86,
+        "amount": 792147.44,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 22
+  }
+]

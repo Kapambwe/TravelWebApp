@@ -1,0 +1,132 @@
+{
+  "companyName": "Matero Hardware Store",
+  "companyAddress": "Kitwe, Zambia",
+  "companyTaxId": "TPIN-6205572-MHS",
+  "generatedDate": "2025-09-30",
+  "currency": "ZMW",
+  "period": {
+    "from": "2025-01-01",
+    "to": "2025-09-30"
+  },
+  "customerStatements": [
+    {
+      "customerId": 1,
+      "customerName": "Zambezi Trading Ltd",
+      "customerEmail": "finance@zambezi.co.zm",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-07-23",
+          "reference": "INV-Z-2025-012",
+          "description": "Special order - corporate procurement",
+          "debit": 2344000,
+          "credit": 0.0,
+          "balance": 2344000
+        },
+        {
+          "date": "2025-09-24",
+          "reference": "PMT-Z-2025-018",
+          "description": "Payment received - bank transfer",
+          "debit": 0.0,
+          "credit": 2344000,
+          "balance": 0.0
+        }
+      ],
+      "closingBalance": 0.0,
+      "status": "Settled"
+    },
+    {
+      "customerId": 2,
+      "customerName": "Mukuba Group Ltd",
+      "customerEmail": "info@mukuba.com",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-09-21",
+          "reference": "INV-Z-2025-026",
+          "description": "Seasonal stock supply agreement",
+          "debit": 1362500,
+          "credit": 0.0,
+          "balance": 1362500
+        }
+      ],
+      "closingBalance": 1362500,
+      "status": "Outstanding"
+    },
+    {
+      "customerId": 3,
+      "customerName": "Zain Holdings PLC",
+      "customerEmail": "contact@zain.co.zm",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-06-13",
+          "reference": "INV-Z-2025-036",
+          "description": "Electronics bulk order",
+          "debit": 2631500,
+          "credit": 0.0,
+          "balance": 2631500
+        },
+        {
+          "date": "2025-08-12",
+          "reference": "PMT-Z-2025-031",
+          "description": "Cash payment received",
+          "debit": 0.0,
+          "credit": 2631500,
+          "balance": 0.0
+        }
+      ],
+      "closingBalance": 0.0,
+      "status": "Settled"
+    },
+    {
+      "customerId": 4,
+      "customerName": "Copperbelt Enterprises Ltd",
+      "customerEmail": "admin@copperbelt.com",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-07-08",
+          "reference": "INV-Z-2025-045",
+          "description": "Furniture & fixtures supply",
+          "debit": 2765500,
+          "credit": 0.0,
+          "balance": 2765500
+        }
+      ],
+      "closingBalance": 2765500,
+      "status": "Outstanding"
+    },
+    {
+      "customerId": 5,
+      "customerName": "Zesco Enterprises Ltd",
+      "customerEmail": "info@zesco.com",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-08-21",
+          "reference": "INV-Z-2025-052",
+          "description": "Furniture & fixtures supply",
+          "debit": 1003500,
+          "credit": 0.0,
+          "balance": 1003500
+        }
+      ],
+      "closingBalance": 1003500,
+      "status": "Outstanding"
+    }
+  ],
+  "summary": {
+    "totalInvoiced": 10107000,
+    "totalReceived": 4975500,
+    "totalOutstanding": 5131500,
+    "totalOverdue": 3769000.0,
+    "agingSummary": {
+      "current": 1362500.0,
+      "days1to30": 1003500.0,
+      "days31to60": 2765500.0,
+      "days61to90": 0.0,
+      "over90days": 0.0
+    }
+  }
+}

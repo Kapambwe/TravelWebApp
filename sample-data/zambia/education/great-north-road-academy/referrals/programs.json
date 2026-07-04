@@ -1,0 +1,21 @@
+[
+  {
+    "programId": "gnra-alumni-001",
+    "name": "GNRA Alumni Program",
+    "status": "Active",
+    "rewardType": "Percentage",
+    "percentageRate": 0.05,
+    "recurringMonths": 12,
+    "startDate": "2026-01-01T00:00:00Z",
+    "description": "5% commission for alumni referrals"
+  },
+  {
+    "programId": "gnra-student-001",
+    "name": "Student Referral Program",
+    "status": "Active",
+    "rewardType": "Points",
+    "pointsPerReferral": 100,
+    "startDate": "2026-01-01T00:00:00Z",
+    "description": "100 points per successful referral"
+  }
+]

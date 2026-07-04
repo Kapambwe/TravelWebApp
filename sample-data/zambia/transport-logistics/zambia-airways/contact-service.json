@@ -1,0 +1,272 @@
+[
+  {
+    "id": "contact-001",
+    "firstName": "John",
+    "lastName": "Smith",
+    "email": "contact1@business.zm",
+    "phone": "+260-217-616177",
+    "jobTitle": "Supervisor",
+    "company": "Tour Operators"
+  },
+  {
+    "id": "contact-002",
+    "firstName": "Mary",
+    "lastName": "Johnson",
+    "email": "contact2@business.zm",
+    "phone": "+260-095-540581",
+    "jobTitle": "Manager",
+    "company": "Aircraft Manufacturers"
+  },
+  {
+    "id": "contact-003",
+    "firstName": "Peter",
+    "lastName": "Williams",
+    "email": "contact3@business.zm",
+    "phone": "+260-097-903578",
+    "jobTitle": "Specialist",
+    "company": "Passengers"
+  },
+  {
+    "id": "contact-004",
+    "firstName": "Grace",
+    "lastName": "Brown",
+    "email": "contact4@business.zm",
+    "phone": "+260-097-479489",
+    "jobTitle": "Coordinator",
+    "company": "Passengers"
+  },
+  {
+    "id": "contact-005",
+    "firstName": "David",
+    "lastName": "Jones",
+    "email": "contact5@business.zm",
+    "phone": "+260-217-280283",
+    "jobTitle": "Officer",
+    "company": "Corporate Clients"
+  },
+  {
+    "id": "contact-006",
+    "firstName": "John",
+    "lastName": "Smith",
+    "email": "contact6@business.zm",
+    "phone": "+260-096-936000",
+    "jobTitle": "Supervisor",
+    "company": "Tour Operators"
+  },
+  {
+    "id": "contact-007",
+    "firstName": "Mary",
+    "lastName": "Johnson",
+    "email": "contact7@business.zm",
+    "phone": "+260-097-133535",
+    "jobTitle": "Officer",
+    "company": "Aircraft Manufacturers"
+  },
+  {
+    "id": "contact-008",
+    "firstName": "Peter",
+    "lastName": "Williams",
+    "email": "contact8@business.zm",
+    "phone": "+260-094-436418",
+    "jobTitle": "Coordinator",
+    "company": "Maintenance Providers"
+  },
+  {
+    "id": "contact-009",
+    "firstName": "Grace",
+    "lastName": "Brown",
+    "email": "contact9@business.zm",
+    "phone": "+260-095-425696",
+    "jobTitle": "Supervisor",
+    "company": "Maintenance Providers"
+  },
+  {
+    "id": "contact-010",
+    "firstName": "David",
+    "lastName": "Jones",
+    "email": "contact10@business.zm",
+    "phone": "+260-217-241860",
+    "jobTitle": "Officer",
+    "company": "Maintenance Providers"
+  },
+  {
+    "id": "contact-011",
+    "firstName": "John",
+    "lastName": "Smith",
+    "email": "contact11@business.zm",
+    "phone": "+260-096-352076",
+    "jobTitle": "Supervisor",
+    "company": "Aircraft Manufacturers"
+  },
+  {
+    "id": "contact-012",
+    "firstName": "Mary",
+    "lastName": "Johnson",
+    "email": "contact12@business.zm",
+    "phone": "+260-217-230175",
+    "jobTitle": "Officer",
+    "company": "Cargo Shippers"
+  },
+  {
+    "id": "contact-013",
+    "firstName": "Peter",
+    "lastName": "Williams",
+    "email": "contact13@business.zm",
+    "phone": "+260-096-961791",
+    "jobTitle": "Officer",
+    "company": "Fuel Suppliers"
+  },
+  {
+    "id": "contact-014",
+    "firstName": "Grace",
+    "lastName": "Brown",
+    "email": "contact14@business.zm",
+    "phone": "+260-217-255512",
+    "jobTitle": "Coordinator",
+    "company": "Tour Operators"
+  },
+  {
+    "id": "contact-015",
+    "firstName": "David",
+    "lastName": "Jones",
+    "email": "contact15@business.zm",
+    "phone": "+260-097-701205",
+    "jobTitle": "Specialist",
+    "company": "Cargo Shippers"
+  },
+  {
+    "id": "contact-016",
+    "firstName": "John",
+    "lastName": "Smith",
+    "email": "contact16@business.zm",
+    "phone": "+260-217-160256",
+    "jobTitle": "Specialist",
+    "company": "Tour Operators"
+  },
+  {
+    "id": "contact-017",
+    "firstName": "Mary",
+    "lastName": "Johnson",
+    "email": "contact17@business.zm",
+    "phone": "+260-096-507788",
+    "jobTitle": "Specialist",
+    "company": "Fuel Suppliers"
+  },
+  {
+    "id": "contact-018",
+    "firstName": "Peter",
+    "lastName": "Williams",
+    "email": "contact18@business.zm",
+    "phone": "+260-216-978011",
+    "jobTitle": "Coordinator",
+    "company": "Corporate Clients"
+  },
+  {
+    "id": "contact-019",
+    "firstName": "Grace",
+    "lastName": "Brown",
+    "email": "contact19@business.zm",
+    "phone": "+260-216-238467",
+    "jobTitle": "Manager",
+    "company": "Aircraft Manufacturers"
+  },
+  {
+    "id": "contact-020",
+    "firstName": "David",
+    "lastName": "Jones",
+    "email": "contact20@business.zm",
+    "phone": "+260-096-604106",
+    "jobTitle": "Manager",
+    "company": "Fuel Suppliers"
+  },
+  {
+    "id": "contact-021",
+    "firstName": "John",
+    "lastName": "Smith",
+    "email": "contact21@business.zm",
+    "phone": "+260-096-500149",
+    "jobTitle": "Supervisor",
+    "company": "Maintenance Providers"
+  },
+  {
+    "id": "contact-022",
+    "firstName": "Mary",
+    "lastName": "Johnson",
+    "email": "contact22@business.zm",
+    "phone": "+260-216-486536",
+    "jobTitle": "Manager",
+    "company": "Corporate Clients"
+  },
+  {
+    "id": "contact-023",
+    "firstName": "Peter",
+    "lastName": "Williams",
+    "email": "contact23@business.zm",
+    "phone": "+260-095-172681",
+    "jobTitle": "Officer",
+    "company": "Cargo Shippers"
+  },
+  {
+    "id": "contact-024",
+    "firstName": "Grace",
+    "lastName": "Brown",
+    "email": "contact24@business.zm",
+    "phone": "+260-097-487428",
+    "jobTitle": "Officer",
+    "company": "Tour Operators"
+  },
+  {
+    "id": "contact-025",
+    "firstName": "David",
+    "lastName": "Jones",
+    "email": "contact25@business.zm",
+    "phone": "+260-095-210052",
+    "jobTitle": "Supervisor",
+    "company": "Maintenance Providers"
+  },
+  {
+    "id": "contact-026",
+    "firstName": "John",
+    "lastName": "Smith",
+    "email": "contact26@business.zm",
+    "phone": "+260-217-626182",
+    "jobTitle": "Specialist",
+    "company": "Fuel Suppliers"
+  },
+  {
+    "id": "contact-027",
+    "firstName": "Mary",
+    "lastName": "Johnson",
+    "email": "contact27@business.zm",
+    "phone": "+260-094-102653",
+    "jobTitle": "Coordinator",
+    "company": "Corporate Clients"
+  },
+  {
+    "id": "contact-028",
+    "firstName": "Peter",
+    "lastName": "Williams",
+    "email": "contact28@business.zm",
+    "phone": "+260-095-717143",
+    "jobTitle": "Supervisor",
+    "company": "Tour Operators"
+  },
+  {
+    "id": "contact-029",
+    "firstName": "Grace",
+    "lastName": "Brown",
+    "email": "contact29@business.zm",
+    "phone": "+260-097-766139",
+    "jobTitle": "Coordinator",
+    "company": "Cargo Shippers"
+  },
+  {
+    "id": "contact-030",
+    "firstName": "David",
+    "lastName": "Jones",
+    "email": "contact30@business.zm",
+    "phone": "+260-217-922856",
+    "jobTitle": "Coordinator",
+    "company": "Aircraft Manufacturers"
+  }
+]

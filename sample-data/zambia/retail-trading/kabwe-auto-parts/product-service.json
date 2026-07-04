@@ -1,0 +1,272 @@
+[
+  {
+    "id": "prod-001",
+    "productName": "Air Filters",
+    "productCode": "SKU-89226",
+    "category": "Automotive",
+    "price": 11852.99,
+    "cost": 5665.29,
+    "description": "Quality Air Filters for automotive business"
+  },
+  {
+    "id": "prod-002",
+    "productName": "Oil Filters",
+    "productCode": "SKU-21557",
+    "category": "Automotive",
+    "price": 10163.63,
+    "cost": 1839.6,
+    "description": "Quality Oil Filters for automotive business"
+  },
+  {
+    "id": "prod-003",
+    "productName": "Spark Plugs",
+    "productCode": "SKU-67565",
+    "category": "Automotive",
+    "price": 4203.4,
+    "cost": 3261.33,
+    "description": "Quality Spark Plugs for automotive business"
+  },
+  {
+    "id": "prod-004",
+    "productName": "Batteries",
+    "productCode": "SKU-99121",
+    "category": "Automotive",
+    "price": 12532.0,
+    "cost": 238.19,
+    "description": "Quality Batteries for automotive business"
+  },
+  {
+    "id": "prod-005",
+    "productName": "Alternators",
+    "productCode": "SKU-10377",
+    "category": "Automotive",
+    "price": 2792.49,
+    "cost": 5243.02,
+    "description": "Quality Alternators for automotive business"
+  },
+  {
+    "id": "prod-006",
+    "productName": "Starters",
+    "productCode": "SKU-72293",
+    "category": "Automotive",
+    "price": 1648.28,
+    "cost": 5870.39,
+    "description": "Quality Starters for automotive business"
+  },
+  {
+    "id": "prod-007",
+    "productName": "Radiators",
+    "productCode": "SKU-88491",
+    "category": "Automotive",
+    "price": 8829.08,
+    "cost": 3520.01,
+    "description": "Quality Radiators for automotive business"
+  },
+  {
+    "id": "prod-008",
+    "productName": "Water Pumps",
+    "productCode": "SKU-60204",
+    "category": "Automotive",
+    "price": 2561.95,
+    "cost": 7513.0,
+    "description": "Quality Water Pumps for automotive business"
+  },
+  {
+    "id": "prod-009",
+    "productName": "Belts",
+    "productCode": "SKU-45473",
+    "category": "Automotive",
+    "price": 12644.34,
+    "cost": 1665.0,
+    "description": "Quality Belts for automotive business"
+  },
+  {
+    "id": "prod-010",
+    "productName": "Hoses",
+    "productCode": "SKU-60168",
+    "category": "Automotive",
+    "price": 6124.17,
+    "cost": 4723.58,
+    "description": "Quality Hoses for automotive business"
+  },
+  {
+    "id": "prod-011",
+    "productName": "Brake Pads",
+    "productCode": "SKU-19320",
+    "category": "Automotive",
+    "price": 5021.32,
+    "cost": 7335.81,
+    "description": "Quality Brake Pads for automotive business"
+  },
+  {
+    "id": "prod-012",
+    "productName": "Brake Fluid",
+    "productCode": "SKU-19548",
+    "category": "Automotive",
+    "price": 2884.4,
+    "cost": 6380.57,
+    "description": "Quality Brake Fluid for automotive business"
+  },
+  {
+    "id": "prod-013",
+    "productName": "Engine Oil",
+    "productCode": "SKU-36570",
+    "category": "Automotive",
+    "price": 10532.92,
+    "cost": 5728.75,
+    "description": "Quality Engine Oil for automotive business"
+  },
+  {
+    "id": "prod-014",
+    "productName": "Air Filters",
+    "productCode": "SKU-10431",
+    "category": "Automotive",
+    "price": 14363.11,
+    "cost": 7656.98,
+    "description": "Quality Air Filters for automotive business"
+  },
+  {
+    "id": "prod-015",
+    "productName": "Oil Filters",
+    "productCode": "SKU-30455",
+    "category": "Automotive",
+    "price": 5987.86,
+    "cost": 1199.47,
+    "description": "Quality Oil Filters for automotive business"
+  },
+  {
+    "id": "prod-016",
+    "productName": "Spark Plugs",
+    "productCode": "SKU-88403",
+    "category": "Automotive",
+    "price": 2247.07,
+    "cost": 1584.6,
+    "description": "Quality Spark Plugs for automotive business"
+  },
+  {
+    "id": "prod-017",
+    "productName": "Batteries",
+    "productCode": "SKU-47672",
+    "category": "Automotive",
+    "price": 14715.69,
+    "cost": 7398.8,
+    "description": "Quality Batteries for automotive business"
+  },
+  {
+    "id": "prod-018",
+    "productName": "Alternators",
+    "productCode": "SKU-49476",
+    "category": "Automotive",
+    "price": 10878.86,
+    "cost": 6784.61,
+    "description": "Quality Alternators for automotive business"
+  },
+  {
+    "id": "prod-019",
+    "productName": "Starters",
+    "productCode": "SKU-87658",
+    "category": "Automotive",
+    "price": 7121.07,
+    "cost": 6792.97,
+    "description": "Quality Starters for automotive business"
+  },
+  {
+    "id": "prod-020",
+    "productName": "Radiators",
+    "productCode": "SKU-32894",
+    "category": "Automotive",
+    "price": 10422.29,
+    "cost": 5839.78,
+    "description": "Quality Radiators for automotive business"
+  },
+  {
+    "id": "prod-021",
+    "productName": "Water Pumps",
+    "productCode": "SKU-88773",
+    "category": "Automotive",
+    "price": 6533.33,
+    "cost": 6493.44,
+    "description": "Quality Water Pumps for automotive business"
+  },
+  {
+    "id": "prod-022",
+    "productName": "Belts",
+    "productCode": "SKU-14472",
+    "category": "Automotive",
+    "price": 8098.36,
+    "cost": 7320.98,
+    "description": "Quality Belts for automotive business"
+  },
+  {
+    "id": "prod-023",
+    "productName": "Hoses",
+    "productCode": "SKU-60582",
+    "category": "Automotive",
+    "price": 14571.88,
+    "cost": 2418.86,
+    "description": "Quality Hoses for automotive business"
+  },
+  {
+    "id": "prod-024",
+    "productName": "Brake Pads",
+    "productCode": "SKU-43169",
+    "category": "Automotive",
+    "price": 12483.64,
+    "cost": 473.19,
+    "description": "Quality Brake Pads for automotive business"
+  },
+  {
+    "id": "prod-025",
+    "productName": "Brake Fluid",
+    "productCode": "SKU-16285",
+    "category": "Automotive",
+    "price": 12099.47,
+    "cost": 1239.47,
+    "description": "Quality Brake Fluid for automotive business"
+  },
+  {
+    "id": "prod-026",
+    "productName": "Engine Oil",
+    "productCode": "SKU-14688",
+    "category": "Automotive",
+    "price": 14909.51,
+    "cost": 3129.88,
+    "description": "Quality Engine Oil for automotive business"
+  },
+  {
+    "id": "prod-027",
+    "productName": "Air Filters",
+    "productCode": "SKU-52651",
+    "category": "Automotive",
+    "price": 5448.23,
+    "cost": 4106.69,
+    "description": "Quality Air Filters for automotive business"
+  },
+  {
+    "id": "prod-028",
+    "productName": "Oil Filters",
+    "productCode": "SKU-29366",
+    "category": "Automotive",
+    "price": 8667.64,
+    "cost": 3870.17,
+    "description": "Quality Oil Filters for automotive business"
+  },
+  {
+    "id": "prod-029",
+    "productName": "Spark Plugs",
+    "productCode": "SKU-93057",
+    "category": "Automotive",
+    "price": 8125.76,
+    "cost": 6406.32,
+    "description": "Quality Spark Plugs for automotive business"
+  },
+  {
+    "id": "prod-030",
+    "productName": "Batteries",
+    "productCode": "SKU-27031",
+    "category": "Automotive",
+    "price": 874.17,
+    "cost": 4492.75,
+    "description": "Quality Batteries for automotive business"
+  }
+]

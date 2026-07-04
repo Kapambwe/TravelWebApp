@@ -1,0 +1,38 @@
+﻿[
+    {
+        "Id":  9,
+        "Name":  "African Lion (Tree-climbing)",
+        "ScientificName":  "Panthera leo",
+        "Population":  260,
+        "PopulationTrend":  0,
+        "ConservationStatus":  "Vulnerable",
+        "LastCensusDate":  "2024-04-10T00:00:00"
+    },
+    {
+        "Id":  10,
+        "Name":  "Cheetah",
+        "ScientificName":  "Acinonyx jubatus",
+        "Population":  65,
+        "PopulationTrend":  2,
+        "ConservationStatus":  "Vulnerable",
+        "LastCensusDate":  "2024-04-12T00:00:00"
+    },
+    {
+        "Id":  11,
+        "Name":  "Sitatunga",
+        "ScientificName":  "Tragelaphus spekii",
+        "Population":  320,
+        "PopulationTrend":  0,
+        "ConservationStatus":  "Least Concern",
+        "LastCensusDate":  "2024-04-15T00:00:00"
+    },
+    {
+        "Id":  12,
+        "Name":  "Puku",
+        "ScientificName":  "Kobus vardonii",
+        "Population":  4200,
+        "PopulationTrend":  1,
+        "ConservationStatus":  "Near Threatened",
+        "LastCensusDate":  "2024-04-11T00:00:00"
+    }
+]

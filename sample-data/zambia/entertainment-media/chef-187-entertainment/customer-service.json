@@ -1,0 +1,32 @@
+[
+  {
+    "id": "cust-chef187-001",
+    "customerName": "Events & Concerts Zambia",
+    "email": "bookings@eventsconcerts.co.zm",
+    "phone": "+260-97-4567890",
+    "address": "Showgrounds, Lusaka",
+    "taxId": "TPIN-4001234567",
+    "creditLimit": 70000.0,
+    "outstandingBalance": 30000.0
+  },
+  {
+    "id": "cust-chef187-002",
+    "customerName": "Property Holdings Ltd",
+    "email": "info@propertyholdings.co.zm",
+    "phone": "+260-96-5678901",
+    "address": "Chilanga Road, Lusaka",
+    "taxId": "TPIN-4001234568",
+    "creditLimit": 120000.0,
+    "outstandingBalance": 55000.0
+  },
+  {
+    "id": "cust-chef187-003",
+    "customerName": "Digital Music Platform ZM",
+    "email": "partners@digitalmusicplatform.co.zm",
+    "phone": "+260-95-6789012",
+    "address": "Kaunda Square, Lusaka",
+    "taxId": "TPIN-4001234569",
+    "creditLimit": 40000.0,
+    "outstandingBalance": 8000.0
+  }
+]

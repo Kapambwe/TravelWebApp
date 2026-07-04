@@ -1,0 +1,302 @@
+[
+  {
+    "id": "tax-compliance-001",
+    "taxType": "VAT",
+    "period": "January 2024",
+    "taxableAmount": 100000.0,
+    "taxRate": 16.0,
+    "taxAmount": 16000.0,
+    "filingDate": "2025-09-29",
+    "status": "Cancelled"
+  },
+  {
+    "id": "tax-compliance-002",
+    "taxType": "VAT",
+    "period": "January 2024",
+    "taxableAmount": 100000.0,
+    "taxRate": 16.0,
+    "taxAmount": 16000.0,
+    "filingDate": "2025-09-29",
+    "status": "Cancelled"
+  },
+  {
+    "id": "tax-compliance-003",
+    "taxType": "VAT",
+    "period": "January 2024",
+    "taxableAmount": 100000.0,
+    "taxRate": 16.0,
+    "taxAmount": 16000.0,
+    "filingDate": "2025-09-29",
+    "status": "Cancelled"
+  },
+  {
+    "id": "tax-compliance-004",
+    "taxType": "VAT",
+    "period": "January 2024",
+    "taxableAmount": 100000.0,
+    "taxRate": 16.0,
+    "taxAmount": 16000.0,
+    "filingDate": "2025-09-29",
+    "status": "Cancelled"
+  },
+  {
+    "id": "tax-compliance-005",
+    "taxType": "VAT",
+    "period": "January 2024",
+    "taxableAmount": 100000.0,
+    "taxRate": 16.0,
+    "taxAmount": 16000.0,
+    "filingDate": "2025-09-29",
+    "status": "Cancelled"
+  },
+  {
+    "id": "tax-compliance-006",
+    "taxType": "VAT",
+    "period": "January 2024",
+    "taxableAmount": 100000.0,
+    "taxRate": 16.0,
+    "taxAmount": 16000.0,
+    "filingDate": "2025-09-29",
+    "status": "Cancelled"
+  },
+  {
+    "id": "tax-compliance-007",
+    "taxType": "VAT",
+    "period": "January 2024",
+    "taxableAmount": 100000.0,
+    "taxRate": 16.0,
+    "taxAmount": 16000.0,
+    "filingDate": "2025-09-29",
+    "status": "Cancelled"
+  },
+  {
+    "id": "tax-compliance-008",
+    "taxType": "VAT",
+    "period": "January 2024",
+    "taxableAmount": 100000.0,
+    "taxRate": 16.0,
+    "taxAmount": 16000.0,
+    "filingDate": "2025-09-29",
+    "status": "Cancelled"
+  },
+  {
+    "id": "tax-compliance-009",
+    "taxType": "VAT",
+    "period": "January 2024",
+    "taxableAmount": 100000.0,
+    "taxRate": 16.0,
+    "taxAmount": 16000.0,
+    "filingDate": "2025-09-29",
+    "status": "Cancelled"
+  },
+  {
+    "id": "tax-compliance-010",
+    "taxType": "VAT",
+    "period": "January 2024",
+    "taxableAmount": 100000.0,
+    "taxRate": 16.0,
+    "taxAmount": 16000.0,
+    "filingDate": "2025-09-29",
+    "status": "Cancelled"
+  },
+  {
+    "id": "tax-compliance-011",
+    "taxType": "VAT",
+    "period": "January 2024",
+    "taxableAmount": 100000.0,
+    "taxRate": 16.0,
+    "taxAmount": 16000.0,
+    "filingDate": "2025-09-29",
+    "status": "Cancelled"
+  },
+  {
+    "id": "tax-compliance-012",
+    "taxType": "VAT",
+    "period": "January 2024",
+    "taxableAmount": 100000.0,
+    "taxRate": 16.0,
+    "taxAmount": 16000.0,
+    "filingDate": "2025-09-29",
+    "status": "Cancelled"
+  },
+  {
+    "id": "tax-compliance-013",
+    "taxType": "VAT",
+    "period": "January 2024",
+    "taxableAmount": 100000.0,
+    "taxRate": 16.0,
+    "taxAmount": 16000.0,
+    "filingDate": "2025-09-29",
+    "status": "Cancelled"
+  },
+  {
+    "id": "tax-compliance-014",
+    "taxType": "VAT",
+    "period": "January 2024",
+    "taxableAmount": 100000.0,
+    "taxRate": 16.0,
+    "taxAmount": 16000.0,
+    "filingDate": "2025-09-29",
+    "status": "Cancelled"
+  },
+  {
+    "id": "tax-compliance-015",
+    "taxType": "VAT",
+    "period": "January 2024",
+    "taxableAmount": 100000.0,
+    "taxRate": 16.0,
+    "taxAmount": 16000.0,
+    "filingDate": "2025-09-29",
+    "status": "Cancelled"
+  },
+  {
+    "id": "tax-compliance-016",
+    "taxType": "VAT",
+    "period": "January 2024",
+    "taxableAmount": 100000.0,
+    "taxRate": 16.0,
+    "taxAmount": 16000.0,
+    "filingDate": "2025-09-29",
+    "status": "Cancelled"
+  },
+  {
+    "id": "tax-compliance-017",
+    "taxType": "VAT",
+    "period": "January 2024",
+    "taxableAmount": 100000.0,
+    "taxRate": 16.0,
+    "taxAmount": 16000.0,
+    "filingDate": "2025-09-29",
+    "status": "Cancelled"
+  },
+  {
+    "id": "tax-compliance-018",
+    "taxType": "VAT",
+    "period": "January 2024",
+    "taxableAmount": 100000.0,
+    "taxRate": 16.0,
+    "taxAmount": 16000.0,
+    "filingDate": "2025-09-29",
+    "status": "Cancelled"
+  },
+  {
+    "id": "tax-compliance-019",
+    "taxType": "VAT",
+    "period": "January 2024",
+    "taxableAmount": 100000.0,
+    "taxRate": 16.0,
+    "taxAmount": 16000.0,
+    "filingDate": "2025-09-29",
+    "status": "Cancelled"
+  },
+  {
+    "id": "tax-compliance-020",
+    "taxType": "VAT",
+    "period": "January 2024",
+    "taxableAmount": 100000.0,
+    "taxRate": 16.0,
+    "taxAmount": 16000.0,
+    "filingDate": "2025-09-29",
+    "status": "Cancelled"
+  },
+  {
+    "id": "tax-compliance-021",
+    "taxType": "VAT",
+    "period": "January 2024",
+    "taxableAmount": 100000.0,
+    "taxRate": 16.0,
+    "taxAmount": 16000.0,
+    "filingDate": "2025-09-29",
+    "status": "Cancelled"
+  },
+  {
+    "id": "tax-compliance-022",
+    "taxType": "VAT",
+    "period": "January 2024",
+    "taxableAmount": 100000.0,
+    "taxRate": 16.0,
+    "taxAmount": 16000.0,
+    "filingDate": "2025-09-29",
+    "status": "Cancelled"
+  },
+  {
+    "id": "tax-compliance-023",
+    "taxType": "VAT",
+    "period": "January 2024",
+    "taxableAmount": 100000.0,
+    "taxRate": 16.0,
+    "taxAmount": 16000.0,
+    "filingDate": "2025-09-29",
+    "status": "Cancelled"
+  },
+  {
+    "id": "tax-compliance-024",
+    "taxType": "VAT",
+    "period": "January 2024",
+    "taxableAmount": 100000.0,
+    "taxRate": 16.0,
+    "taxAmount": 16000.0,
+    "filingDate": "2025-09-29",
+    "status": "Cancelled"
+  },
+  {
+    "id": "tax-compliance-025",
+    "taxType": "VAT",
+    "period": "January 2024",
+    "taxableAmount": 100000.0,
+    "taxRate": 16.0,
+    "taxAmount": 16000.0,
+    "filingDate": "2025-09-29",
+    "status": "Cancelled"
+  },
+  {
+    "id": "tax-compliance-026",
+    "taxType": "VAT",
+    "period": "January 2024",
+    "taxableAmount": 100000.0,
+    "taxRate": 16.0,
+    "taxAmount": 16000.0,
+    "filingDate": "2025-09-29",
+    "status": "Cancelled"
+  },
+  {
+    "id": "tax-compliance-027",
+    "taxType": "VAT",
+    "period": "January 2024",
+    "taxableAmount": 100000.0,
+    "taxRate": 16.0,
+    "taxAmount": 16000.0,
+    "filingDate": "2025-09-29",
+    "status": "Cancelled"
+  },
+  {
+    "id": "tax-compliance-028",
+    "taxType": "VAT",
+    "period": "January 2024",
+    "taxableAmount": 100000.0,
+    "taxRate": 16.0,
+    "taxAmount": 16000.0,
+    "filingDate": "2025-09-29",
+    "status": "Cancelled"
+  },
+  {
+    "id": "tax-compliance-029",
+    "taxType": "VAT",
+    "period": "January 2024",
+    "taxableAmount": 100000.0,
+    "taxRate": 16.0,
+    "taxAmount": 16000.0,
+    "filingDate": "2025-09-29",
+    "status": "Cancelled"
+  },
+  {
+    "id": "tax-compliance-030",
+    "taxType": "VAT",
+    "period": "January 2024",
+    "taxableAmount": 100000.0,
+    "taxRate": 16.0,
+    "taxAmount": 16000.0,
+    "filingDate": "2025-09-29",
+    "status": "Cancelled"
+  }
+]

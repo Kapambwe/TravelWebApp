@@ -1,0 +1,1112 @@
+[
+  {
+    "id": "coa-001",
+    "templateName": "Standard Business COA 1",
+    "description": "Standard chart of accounts for Zambian businesses",
+    "accounts": [
+      {
+        "accountNumber": "1000",
+        "accountName": "Cash",
+        "accountType": "Asset"
+      },
+      {
+        "accountNumber": "1200",
+        "accountName": "Accounts Receivable",
+        "accountType": "Asset"
+      },
+      {
+        "accountNumber": "2000",
+        "accountName": "Accounts Payable",
+        "accountType": "Liability"
+      },
+      {
+        "accountNumber": "3000",
+        "accountName": "Equity",
+        "accountType": "Equity"
+      },
+      {
+        "accountNumber": "4000",
+        "accountName": "Revenue",
+        "accountType": "Revenue"
+      },
+      {
+        "accountNumber": "5000",
+        "accountName": "Expenses",
+        "accountType": "Expense"
+      }
+    ]
+  },
+  {
+    "id": "coa-002",
+    "templateName": "Standard Business COA 2",
+    "description": "Standard chart of accounts for Zambian businesses",
+    "accounts": [
+      {
+        "accountNumber": "1000",
+        "accountName": "Cash",
+        "accountType": "Asset"
+      },
+      {
+        "accountNumber": "1200",
+        "accountName": "Accounts Receivable",
+        "accountType": "Asset"
+      },
+      {
+        "accountNumber": "2000",
+        "accountName": "Accounts Payable",
+        "accountType": "Liability"
+      },
+      {
+        "accountNumber": "3000",
+        "accountName": "Equity",
+        "accountType": "Equity"
+      },
+      {
+        "accountNumber": "4000",
+        "accountName": "Revenue",
+        "accountType": "Revenue"
+      },
+      {
+        "accountNumber": "5000",
+        "accountName": "Expenses",
+        "accountType": "Expense"
+      }
+    ]
+  },
+  {
+    "id": "coa-003",
+    "templateName": "Standard Business COA 3",
+    "description": "Standard chart of accounts for Zambian businesses",
+    "accounts": [
+      {
+        "accountNumber": "1000",
+        "accountName": "Cash",
+        "accountType": "Asset"
+      },
+      {
+        "accountNumber": "1200",
+        "accountName": "Accounts Receivable",
+        "accountType": "Asset"
+      },
+      {
+        "accountNumber": "2000",
+        "accountName": "Accounts Payable",
+        "accountType": "Liability"
+      },
+      {
+        "accountNumber": "3000",
+        "accountName": "Equity",
+        "accountType": "Equity"
+      },
+      {
+        "accountNumber": "4000",
+        "accountName": "Revenue",
+        "accountType": "Revenue"
+      },
+      {
+        "accountNumber": "5000",
+        "accountName": "Expenses",
+        "accountType": "Expense"
+      }
+    ]
+  },
+  {
+    "id": "coa-004",
+    "templateName": "Standard Business COA 4",
+    "description": "Standard chart of accounts for Zambian businesses",
+    "accounts": [
+      {
+        "accountNumber": "1000",
+        "accountName": "Cash",
+        "accountType": "Asset"
+      },
+      {
+        "accountNumber": "1200",
+        "accountName": "Accounts Receivable",
+        "accountType": "Asset"
+      },
+      {
+        "accountNumber": "2000",
+        "accountName": "Accounts Payable",
+        "accountType": "Liability"
+      },
+      {
+        "accountNumber": "3000",
+        "accountName": "Equity",
+        "accountType": "Equity"
+      },
+      {
+        "accountNumber": "4000",
+        "accountName": "Revenue",
+        "accountType": "Revenue"
+      },
+      {
+        "accountNumber": "5000",
+        "accountName": "Expenses",
+        "accountType": "Expense"
+      }
+    ]
+  },
+  {
+    "id": "coa-005",
+    "templateName": "Standard Business COA 5",
+    "description": "Standard chart of accounts for Zambian businesses",
+    "accounts": [
+      {
+        "accountNumber": "1000",
+        "accountName": "Cash",
+        "accountType": "Asset"
+      },
+      {
+        "accountNumber": "1200",
+        "accountName": "Accounts Receivable",
+        "accountType": "Asset"
+      },
+      {
+        "accountNumber": "2000",
+        "accountName": "Accounts Payable",
+        "accountType": "Liability"
+      },
+      {
+        "accountNumber": "3000",
+        "accountName": "Equity",
+        "accountType": "Equity"
+      },
+      {
+        "accountNumber": "4000",
+        "accountName": "Revenue",
+        "accountType": "Revenue"
+      },
+      {
+        "accountNumber": "5000",
+        "accountName": "Expenses",
+        "accountType": "Expense"
+      }
+    ]
+  },
+  {
+    "id": "coa-006",
+    "templateName": "Standard Business COA 6",
+    "description": "Standard chart of accounts for Zambian businesses",
+    "accounts": [
+      {
+        "accountNumber": "1000",
+        "accountName": "Cash",
+        "accountType": "Asset"
+      },
+      {
+        "accountNumber": "1200",
+        "accountName": "Accounts Receivable",
+        "accountType": "Asset"
+      },
+      {
+        "accountNumber": "2000",
+        "accountName": "Accounts Payable",
+        "accountType": "Liability"
+      },
+      {
+        "accountNumber": "3000",
+        "accountName": "Equity",
+        "accountType": "Equity"
+      },
+      {
+        "accountNumber": "4000",
+        "accountName": "Revenue",
+        "accountType": "Revenue"
+      },
+      {
+        "accountNumber": "5000",
+        "accountName": "Expenses",
+        "accountType": "Expense"
+      }
+    ]
+  },
+  {
+    "id": "coa-007",
+    "templateName": "Standard Business COA 7",
+    "description": "Standard chart of accounts for Zambian businesses",
+    "accounts": [
+      {
+        "accountNumber": "1000",
+        "accountName": "Cash",
+        "accountType": "Asset"
+      },
+      {
+        "accountNumber": "1200",
+        "accountName": "Accounts Receivable",
+        "accountType": "Asset"
+      },
+      {
+        "accountNumber": "2000",
+        "accountName": "Accounts Payable",
+        "accountType": "Liability"
+      },
+      {
+        "accountNumber": "3000",
+        "accountName": "Equity",
+        "accountType": "Equity"
+      },
+      {
+        "accountNumber": "4000",
+        "accountName": "Revenue",
+        "accountType": "Revenue"
+      },
+      {
+        "accountNumber": "5000",
+        "accountName": "Expenses",
+        "accountType": "Expense"
+      }
+    ]
+  },
+  {
+    "id": "coa-008",
+    "templateName": "Standard Business COA 8",
+    "description": "Standard chart of accounts for Zambian businesses",
+    "accounts": [
+      {
+        "accountNumber": "1000",
+        "accountName": "Cash",
+        "accountType": "Asset"
+      },
+      {
+        "accountNumber": "1200",
+        "accountName": "Accounts Receivable",
+        "accountType": "Asset"
+      },
+      {
+        "accountNumber": "2000",
+        "accountName": "Accounts Payable",
+        "accountType": "Liability"
+      },
+      {
+        "accountNumber": "3000",
+        "accountName": "Equity",
+        "accountType": "Equity"
+      },
+      {
+        "accountNumber": "4000",
+        "accountName": "Revenue",
+        "accountType": "Revenue"
+      },
+      {
+        "accountNumber": "5000",
+        "accountName": "Expenses",
+        "accountType": "Expense"
+      }
+    ]
+  },
+  {
+    "id": "coa-009",
+    "templateName": "Standard Business COA 9",
+    "description": "Standard chart of accounts for Zambian businesses",
+    "accounts": [
+      {
+        "accountNumber": "1000",
+        "accountName": "Cash",
+        "accountType": "Asset"
+      },
+      {
+        "accountNumber": "1200",
+        "accountName": "Accounts Receivable",
+        "accountType": "Asset"
+      },
+      {
+        "accountNumber": "2000",
+        "accountName": "Accounts Payable",
+        "accountType": "Liability"
+      },
+      {
+        "accountNumber": "3000",
+        "accountName": "Equity",
+        "accountType": "Equity"
+      },
+      {
+        "accountNumber": "4000",
+        "accountName": "Revenue",
+        "accountType": "Revenue"
+      },
+      {
+        "accountNumber": "5000",
+        "accountName": "Expenses",
+        "accountType": "Expense"
+      }
+    ]
+  },
+  {
+    "id": "coa-010",
+    "templateName": "Standard Business COA 10",
+    "description": "Standard chart of accounts for Zambian businesses",
+    "accounts": [
+      {
+        "accountNumber": "1000",
+        "accountName": "Cash",
+        "accountType": "Asset"
+      },
+      {
+        "accountNumber": "1200",
+        "accountName": "Accounts Receivable",
+        "accountType": "Asset"
+      },
+      {
+        "accountNumber": "2000",
+        "accountName": "Accounts Payable",
+        "accountType": "Liability"
+      },
+      {
+        "accountNumber": "3000",
+        "accountName": "Equity",
+        "accountType": "Equity"
+      },
+      {
+        "accountNumber": "4000",
+        "accountName": "Revenue",
+        "accountType": "Revenue"
+      },
+      {
+        "accountNumber": "5000",
+        "accountName": "Expenses",
+        "accountType": "Expense"
+      }
+    ]
+  },
+  {
+    "id": "coa-011",
+    "templateName": "Standard Business COA 11",
+    "description": "Standard chart of accounts for Zambian businesses",
+    "accounts": [
+      {
+        "accountNumber": "1000",
+        "accountName": "Cash",
+        "accountType": "Asset"
+      },
+      {
+        "accountNumber": "1200",
+        "accountName": "Accounts Receivable",
+        "accountType": "Asset"
+      },
+      {
+        "accountNumber": "2000",
+        "accountName": "Accounts Payable",
+        "accountType": "Liability"
+      },
+      {
+        "accountNumber": "3000",
+        "accountName": "Equity",
+        "accountType": "Equity"
+      },
+      {
+        "accountNumber": "4000",
+        "accountName": "Revenue",
+        "accountType": "Revenue"
+      },
+      {
+        "accountNumber": "5000",
+        "accountName": "Expenses",
+        "accountType": "Expense"
+      }
+    ]
+  },
+  {
+    "id": "coa-012",
+    "templateName": "Standard Business COA 12",
+    "description": "Standard chart of accounts for Zambian businesses",
+    "accounts": [
+      {
+        "accountNumber": "1000",
+        "accountName": "Cash",
+        "accountType": "Asset"
+      },
+      {
+        "accountNumber": "1200",
+        "accountName": "Accounts Receivable",
+        "accountType": "Asset"
+      },
+      {
+        "accountNumber": "2000",
+        "accountName": "Accounts Payable",
+        "accountType": "Liability"
+      },
+      {
+        "accountNumber": "3000",
+        "accountName": "Equity",
+        "accountType": "Equity"
+      },
+      {
+        "accountNumber": "4000",
+        "accountName": "Revenue",
+        "accountType": "Revenue"
+      },
+      {
+        "accountNumber": "5000",
+        "accountName": "Expenses",
+        "accountType": "Expense"
+      }
+    ]
+  },
+  {
+    "id": "coa-013",
+    "templateName": "Standard Business COA 13",
+    "description": "Standard chart of accounts for Zambian businesses",
+    "accounts": [
+      {
+        "accountNumber": "1000",
+        "accountName": "Cash",
+        "accountType": "Asset"
+      },
+      {
+        "accountNumber": "1200",
+        "accountName": "Accounts Receivable",
+        "accountType": "Asset"
+      },
+      {
+        "accountNumber": "2000",
+        "accountName": "Accounts Payable",
+        "accountType": "Liability"
+      },
+      {
+        "accountNumber": "3000",
+        "accountName": "Equity",
+        "accountType": "Equity"
+      },
+      {
+        "accountNumber": "4000",
+        "accountName": "Revenue",
+        "accountType": "Revenue"
+      },
+      {
+        "accountNumber": "5000",
+        "accountName": "Expenses",
+        "accountType": "Expense"
+      }
+    ]
+  },
+  {
+    "id": "coa-014",
+    "templateName": "Standard Business COA 14",
+    "description": "Standard chart of accounts for Zambian businesses",
+    "accounts": [
+      {
+        "accountNumber": "1000",
+        "accountName": "Cash",
+        "accountType": "Asset"
+      },
+      {
+        "accountNumber": "1200",
+        "accountName": "Accounts Receivable",
+        "accountType": "Asset"
+      },
+      {
+        "accountNumber": "2000",
+        "accountName": "Accounts Payable",
+        "accountType": "Liability"
+      },
+      {
+        "accountNumber": "3000",
+        "accountName": "Equity",
+        "accountType": "Equity"
+      },
+      {
+        "accountNumber": "4000",
+        "accountName": "Revenue",
+        "accountType": "Revenue"
+      },
+      {
+        "accountNumber": "5000",
+        "accountName": "Expenses",
+        "accountType": "Expense"
+      }
+    ]
+  },
+  {
+    "id": "coa-015",
+    "templateName": "Standard Business COA 15",
+    "description": "Standard chart of accounts for Zambian businesses",
+    "accounts": [
+      {
+        "accountNumber": "1000",
+        "accountName": "Cash",
+        "accountType": "Asset"
+      },
+      {
+        "accountNumber": "1200",
+        "accountName": "Accounts Receivable",
+        "accountType": "Asset"
+      },
+      {
+        "accountNumber": "2000",
+        "accountName": "Accounts Payable",
+        "accountType": "Liability"
+      },
+      {
+        "accountNumber": "3000",
+        "accountName": "Equity",
+        "accountType": "Equity"
+      },
+      {
+        "accountNumber": "4000",
+        "accountName": "Revenue",
+        "accountType": "Revenue"
+      },
+      {
+        "accountNumber": "5000",
+        "accountName": "Expenses",
+        "accountType": "Expense"
+      }
+    ]
+  },
+  {
+    "id": "coa-016",
+    "templateName": "Standard Business COA 16",
+    "description": "Standard chart of accounts for Zambian businesses",
+    "accounts": [
+      {
+        "accountNumber": "1000",
+        "accountName": "Cash",
+        "accountType": "Asset"
+      },
+      {
+        "accountNumber": "1200",
+        "accountName": "Accounts Receivable",
+        "accountType": "Asset"
+      },
+      {
+        "accountNumber": "2000",
+        "accountName": "Accounts Payable",
+        "accountType": "Liability"
+      },
+      {
+        "accountNumber": "3000",
+        "accountName": "Equity",
+        "accountType": "Equity"
+      },
+      {
+        "accountNumber": "4000",
+        "accountName": "Revenue",
+        "accountType": "Revenue"
+      },
+      {
+        "accountNumber": "5000",
+        "accountName": "Expenses",
+        "accountType": "Expense"
+      }
+    ]
+  },
+  {
+    "id": "coa-017",
+    "templateName": "Standard Business COA 17",
+    "description": "Standard chart of accounts for Zambian businesses",
+    "accounts": [
+      {
+        "accountNumber": "1000",
+        "accountName": "Cash",
+        "accountType": "Asset"
+      },
+      {
+        "accountNumber": "1200",
+        "accountName": "Accounts Receivable",
+        "accountType": "Asset"
+      },
+      {
+        "accountNumber": "2000",
+        "accountName": "Accounts Payable",
+        "accountType": "Liability"
+      },
+      {
+        "accountNumber": "3000",
+        "accountName": "Equity",
+        "accountType": "Equity"
+      },
+      {
+        "accountNumber": "4000",
+        "accountName": "Revenue",
+        "accountType": "Revenue"
+      },
+      {
+        "accountNumber": "5000",
+        "accountName": "Expenses",
+        "accountType": "Expense"
+      }
+    ]
+  },
+  {
+    "id": "coa-018",
+    "templateName": "Standard Business COA 18",
+    "description": "Standard chart of accounts for Zambian businesses",
+    "accounts": [
+      {
+        "accountNumber": "1000",
+        "accountName": "Cash",
+        "accountType": "Asset"
+      },
+      {
+        "accountNumber": "1200",
+        "accountName": "Accounts Receivable",
+        "accountType": "Asset"
+      },
+      {
+        "accountNumber": "2000",
+        "accountName": "Accounts Payable",
+        "accountType": "Liability"
+      },
+      {
+        "accountNumber": "3000",
+        "accountName": "Equity",
+        "accountType": "Equity"
+      },
+      {
+        "accountNumber": "4000",
+        "accountName": "Revenue",
+        "accountType": "Revenue"
+      },
+      {
+        "accountNumber": "5000",
+        "accountName": "Expenses",
+        "accountType": "Expense"
+      }
+    ]
+  },
+  {
+    "id": "coa-019",
+    "templateName": "Standard Business COA 19",
+    "description": "Standard chart of accounts for Zambian businesses",
+    "accounts": [
+      {
+        "accountNumber": "1000",
+        "accountName": "Cash",
+        "accountType": "Asset"
+      },
+      {
+        "accountNumber": "1200",
+        "accountName": "Accounts Receivable",
+        "accountType": "Asset"
+      },
+      {
+        "accountNumber": "2000",
+        "accountName": "Accounts Payable",
+        "accountType": "Liability"
+      },
+      {
+        "accountNumber": "3000",
+        "accountName": "Equity",
+        "accountType": "Equity"
+      },
+      {
+        "accountNumber": "4000",
+        "accountName": "Revenue",
+        "accountType": "Revenue"
+      },
+      {
+        "accountNumber": "5000",
+        "accountName": "Expenses",
+        "accountType": "Expense"
+      }
+    ]
+  },
+  {
+    "id": "coa-020",
+    "templateName": "Standard Business COA 20",
+    "description": "Standard chart of accounts for Zambian businesses",
+    "accounts": [
+      {
+        "accountNumber": "1000",
+        "accountName": "Cash",
+        "accountType": "Asset"
+      },
+      {
+        "accountNumber": "1200",
+        "accountName": "Accounts Receivable",
+        "accountType": "Asset"
+      },
+      {
+        "accountNumber": "2000",
+        "accountName": "Accounts Payable",
+        "accountType": "Liability"
+      },
+      {
+        "accountNumber": "3000",
+        "accountName": "Equity",
+        "accountType": "Equity"
+      },
+      {
+        "accountNumber": "4000",
+        "accountName": "Revenue",
+        "accountType": "Revenue"
+      },
+      {
+        "accountNumber": "5000",
+        "accountName": "Expenses",
+        "accountType": "Expense"
+      }
+    ]
+  },
+  {
+    "id": "coa-021",
+    "templateName": "Standard Business COA 21",
+    "description": "Standard chart of accounts for Zambian businesses",
+    "accounts": [
+      {
+        "accountNumber": "1000",
+        "accountName": "Cash",
+        "accountType": "Asset"
+      },
+      {
+        "accountNumber": "1200",
+        "accountName": "Accounts Receivable",
+        "accountType": "Asset"
+      },
+      {
+        "accountNumber": "2000",
+        "accountName": "Accounts Payable",
+        "accountType": "Liability"
+      },
+      {
+        "accountNumber": "3000",
+        "accountName": "Equity",
+        "accountType": "Equity"
+      },
+      {
+        "accountNumber": "4000",
+        "accountName": "Revenue",
+        "accountType": "Revenue"
+      },
+      {
+        "accountNumber": "5000",
+        "accountName": "Expenses",
+        "accountType": "Expense"
+      }
+    ]
+  },
+  {
+    "id": "coa-022",
+    "templateName": "Standard Business COA 22",
+    "description": "Standard chart of accounts for Zambian businesses",
+    "accounts": [
+      {
+        "accountNumber": "1000",
+        "accountName": "Cash",
+        "accountType": "Asset"
+      },
+      {
+        "accountNumber": "1200",
+        "accountName": "Accounts Receivable",
+        "accountType": "Asset"
+      },
+      {
+        "accountNumber": "2000",
+        "accountName": "Accounts Payable",
+        "accountType": "Liability"
+      },
+      {
+        "accountNumber": "3000",
+        "accountName": "Equity",
+        "accountType": "Equity"
+      },
+      {
+        "accountNumber": "4000",
+        "accountName": "Revenue",
+        "accountType": "Revenue"
+      },
+      {
+        "accountNumber": "5000",
+        "accountName": "Expenses",
+        "accountType": "Expense"
+      }
+    ]
+  },
+  {
+    "id": "coa-023",
+    "templateName": "Standard Business COA 23",
+    "description": "Standard chart of accounts for Zambian businesses",
+    "accounts": [
+      {
+        "accountNumber": "1000",
+        "accountName": "Cash",
+        "accountType": "Asset"
+      },
+      {
+        "accountNumber": "1200",
+        "accountName": "Accounts Receivable",
+        "accountType": "Asset"
+      },
+      {
+        "accountNumber": "2000",
+        "accountName": "Accounts Payable",
+        "accountType": "Liability"
+      },
+      {
+        "accountNumber": "3000",
+        "accountName": "Equity",
+        "accountType": "Equity"
+      },
+      {
+        "accountNumber": "4000",
+        "accountName": "Revenue",
+        "accountType": "Revenue"
+      },
+      {
+        "accountNumber": "5000",
+        "accountName": "Expenses",
+        "accountType": "Expense"
+      }
+    ]
+  },
+  {
+    "id": "coa-024",
+    "templateName": "Standard Business COA 24",
+    "description": "Standard chart of accounts for Zambian businesses",
+    "accounts": [
+      {
+        "accountNumber": "1000",
+        "accountName": "Cash",
+        "accountType": "Asset"
+      },
+      {
+        "accountNumber": "1200",
+        "accountName": "Accounts Receivable",
+        "accountType": "Asset"
+      },
+      {
+        "accountNumber": "2000",
+        "accountName": "Accounts Payable",
+        "accountType": "Liability"
+      },
+      {
+        "accountNumber": "3000",
+        "accountName": "Equity",
+        "accountType": "Equity"
+      },
+      {
+        "accountNumber": "4000",
+        "accountName": "Revenue",
+        "accountType": "Revenue"
+      },
+      {
+        "accountNumber": "5000",
+        "accountName": "Expenses",
+        "accountType": "Expense"
+      }
+    ]
+  },
+  {
+    "id": "coa-025",
+    "templateName": "Standard Business COA 25",
+    "description": "Standard chart of accounts for Zambian businesses",
+    "accounts": [
+      {
+        "accountNumber": "1000",
+        "accountName": "Cash",
+        "accountType": "Asset"
+      },
+      {
+        "accountNumber": "1200",
+        "accountName": "Accounts Receivable",
+        "accountType": "Asset"
+      },
+      {
+        "accountNumber": "2000",
+        "accountName": "Accounts Payable",
+        "accountType": "Liability"
+      },
+      {
+        "accountNumber": "3000",
+        "accountName": "Equity",
+        "accountType": "Equity"
+      },
+      {
+        "accountNumber": "4000",
+        "accountName": "Revenue",
+        "accountType": "Revenue"
+      },
+      {
+        "accountNumber": "5000",
+        "accountName": "Expenses",
+        "accountType": "Expense"
+      }
+    ]
+  },
+  {
+    "id": "coa-026",
+    "templateName": "Standard Business COA 26",
+    "description": "Standard chart of accounts for Zambian businesses",
+    "accounts": [
+      {
+        "accountNumber": "1000",
+        "accountName": "Cash",
+        "accountType": "Asset"
+      },
+      {
+        "accountNumber": "1200",
+        "accountName": "Accounts Receivable",
+        "accountType": "Asset"
+      },
+      {
+        "accountNumber": "2000",
+        "accountName": "Accounts Payable",
+        "accountType": "Liability"
+      },
+      {
+        "accountNumber": "3000",
+        "accountName": "Equity",
+        "accountType": "Equity"
+      },
+      {
+        "accountNumber": "4000",
+        "accountName": "Revenue",
+        "accountType": "Revenue"
+      },
+      {
+        "accountNumber": "5000",
+        "accountName": "Expenses",
+        "accountType": "Expense"
+      }
+    ]
+  },
+  {
+    "id": "coa-027",
+    "templateName": "Standard Business COA 27",
+    "description": "Standard chart of accounts for Zambian businesses",
+    "accounts": [
+      {
+        "accountNumber": "1000",
+        "accountName": "Cash",
+        "accountType": "Asset"
+      },
+      {
+        "accountNumber": "1200",
+        "accountName": "Accounts Receivable",
+        "accountType": "Asset"
+      },
+      {
+        "accountNumber": "2000",
+        "accountName": "Accounts Payable",
+        "accountType": "Liability"
+      },
+      {
+        "accountNumber": "3000",
+        "accountName": "Equity",
+        "accountType": "Equity"
+      },
+      {
+        "accountNumber": "4000",
+        "accountName": "Revenue",
+        "accountType": "Revenue"
+      },
+      {
+        "accountNumber": "5000",
+        "accountName": "Expenses",
+        "accountType": "Expense"
+      }
+    ]
+  },
+  {
+    "id": "coa-028",
+    "templateName": "Standard Business COA 28",
+    "description": "Standard chart of accounts for Zambian businesses",
+    "accounts": [
+      {
+        "accountNumber": "1000",
+        "accountName": "Cash",
+        "accountType": "Asset"
+      },
+      {
+        "accountNumber": "1200",
+        "accountName": "Accounts Receivable",
+        "accountType": "Asset"
+      },
+      {
+        "accountNumber": "2000",
+        "accountName": "Accounts Payable",
+        "accountType": "Liability"
+      },
+      {
+        "accountNumber": "3000",
+        "accountName": "Equity",
+        "accountType": "Equity"
+      },
+      {
+        "accountNumber": "4000",
+        "accountName": "Revenue",
+        "accountType": "Revenue"
+      },
+      {
+        "accountNumber": "5000",
+        "accountName": "Expenses",
+        "accountType": "Expense"
+      }
+    ]
+  },
+  {
+    "id": "coa-029",
+    "templateName": "Standard Business COA 29",
+    "description": "Standard chart of accounts for Zambian businesses",
+    "accounts": [
+      {
+        "accountNumber": "1000",
+        "accountName": "Cash",
+        "accountType": "Asset"
+      },
+      {
+        "accountNumber": "1200",
+        "accountName": "Accounts Receivable",
+        "accountType": "Asset"
+      },
+      {
+        "accountNumber": "2000",
+        "accountName": "Accounts Payable",
+        "accountType": "Liability"
+      },
+      {
+        "accountNumber": "3000",
+        "accountName": "Equity",
+        "accountType": "Equity"
+      },
+      {
+        "accountNumber": "4000",
+        "accountName": "Revenue",
+        "accountType": "Revenue"
+      },
+      {
+        "accountNumber": "5000",
+        "accountName": "Expenses",
+        "accountType": "Expense"
+      }
+    ]
+  },
+  {
+    "id": "coa-030",
+    "templateName": "Standard Business COA 30",
+    "description": "Standard chart of accounts for Zambian businesses",
+    "accounts": [
+      {
+        "accountNumber": "1000",
+        "accountName": "Cash",
+        "accountType": "Asset"
+      },
+      {
+        "accountNumber": "1200",
+        "accountName": "Accounts Receivable",
+        "accountType": "Asset"
+      },
+      {
+        "accountNumber": "2000",
+        "accountName": "Accounts Payable",
+        "accountType": "Liability"
+      },
+      {
+        "accountNumber": "3000",
+        "accountName": "Equity",
+        "accountType": "Equity"
+      },
+      {
+        "accountNumber": "4000",
+        "accountName": "Revenue",
+        "accountType": "Revenue"
+      },
+      {
+        "accountNumber": "5000",
+        "accountName": "Expenses",
+        "accountType": "Expense"
+      }
+    ]
+  }
+]

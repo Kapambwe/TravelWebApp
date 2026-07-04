@@ -1,0 +1,148 @@
+{
+  "companyName": "South Luangwa National Park Authority",
+  "companyAddress": "South Luangwa National Park, Eastern Province, Zambia",
+  "companyTaxId": "TPIN-SLNP-901",
+  "generatedDate": "2025-09-30",
+  "currency": "ZMW",
+  "period": {
+    "from": "2025-01-01",
+    "to": "2025-09-30"
+  },
+  "customerStatements": [
+    {
+      "customerId": 1,
+      "customerName": "Copperbelt Investments Ltd",
+      "customerEmail": "accounts@copperbelt.co.zm",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-09-01",
+          "reference": "INV-Z-2025-018",
+          "description": "Accommodation package - Corporate Event",
+          "debit": 2906500,
+          "credit": 0.0,
+          "balance": 2906500
+        }
+      ],
+      "closingBalance": 2906500,
+      "status": "Outstanding"
+    },
+    {
+      "customerId": 2,
+      "customerName": "Kafue Enterprises Ltd",
+      "customerEmail": "contact@kafue.com",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-05-11",
+          "reference": "INV-Z-2025-025",
+          "description": "Corporate retreat package",
+          "debit": 463500,
+          "credit": 0.0,
+          "balance": 463500
+        },
+        {
+          "date": "2025-07-06",
+          "reference": "PMT-Z-2025-024",
+          "description": "Payment received - bank transfer",
+          "debit": 0.0,
+          "credit": 463500,
+          "balance": 0.0
+        }
+      ],
+      "closingBalance": 0.0,
+      "status": "Settled"
+    },
+    {
+      "customerId": 3,
+      "customerName": "Copperbelt Investments Ltd",
+      "customerEmail": "admin@copperbelt.co.zm",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-03-18",
+          "reference": "INV-Z-2025-036",
+          "description": "Room block reservation - Q3 2025",
+          "debit": 1920500,
+          "credit": 0.0,
+          "balance": 1920500
+        },
+        {
+          "date": "2025-05-09",
+          "reference": "PMT-Z-2025-036",
+          "description": "Partial payment received - credit card",
+          "debit": 0.0,
+          "credit": 1089000,
+          "balance": 831500
+        }
+      ],
+      "closingBalance": 831500,
+      "status": "Partially Paid"
+    },
+    {
+      "customerId": 4,
+      "customerName": "Zain Holdings PLC",
+      "customerEmail": "billing@zain.co.zm",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-06-27",
+          "reference": "INV-Z-2025-046",
+          "description": "Spa & wellness package",
+          "debit": 246000,
+          "credit": 0.0,
+          "balance": 246000
+        },
+        {
+          "date": "2025-07-26",
+          "reference": "PMT-Z-2025-042",
+          "description": "Partial deposit received - advance booking",
+          "debit": 0.0,
+          "credit": 94000,
+          "balance": 152000
+        }
+      ],
+      "closingBalance": 152000,
+      "status": "Partially Paid"
+    },
+    {
+      "customerId": 5,
+      "customerName": "Mukuba Industries Ltd",
+      "customerEmail": "contact@mukuba.co.zm",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-05-05",
+          "reference": "INV-Z-2025-052",
+          "description": "Catering services contract",
+          "debit": 2900000,
+          "credit": 0.0,
+          "balance": 2900000
+        },
+        {
+          "date": "2025-06-12",
+          "reference": "PMT-Z-2025-058",
+          "description": "Payment received - bank transfer",
+          "debit": 0.0,
+          "credit": 2900000,
+          "balance": 0.0
+        }
+      ],
+      "closingBalance": 0.0,
+      "status": "Settled"
+    }
+  ],
+  "summary": {
+    "totalInvoiced": 8436500,
+    "totalReceived": 4546500,
+    "totalOutstanding": 3890000,
+    "totalOverdue": 983500.0,
+    "agingSummary": {
+      "current": 2906500.0,
+      "days1to30": 0.0,
+      "days31to60": 0.0,
+      "days61to90": 152000.0,
+      "over90days": 831500.0
+    }
+  }
+}

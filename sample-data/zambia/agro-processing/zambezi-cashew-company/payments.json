@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "paymentNumber": "PAY-2025-001",
+    "invoiceId": 10,
+    "customerId": 5,
+    "clientName": "Sakala Agricultural Ltd",
+    "amount": 665153.23,
+    "paymentDate": "2025-02-02T00:00:00",
+    "paymentMethod": "Bank Transfer",
+    "referenceNumber": "TRF-20250315-001"
+  },
+  {
+    "id": 2,
+    "paymentNumber": "PAY-2025-002",
+    "invoiceId": 7,
+    "customerId": 7,
+    "clientName": "Tembo Farms Co.",
+    "amount": 216734.85,
+    "paymentDate": "2025-01-09T00:00:00",
+    "paymentMethod": "Cheque",
+    "referenceNumber": "CHQ-20250315-002"
+  },
+  {
+    "id": 3,
+    "paymentNumber": "PAY-2025-003",
+    "invoiceId": 9,
+    "customerId": 2,
+    "clientName": "Phiri Farms Group",
+    "amount": 823701.17,
+    "paymentDate": "2024-12-23T00:00:00",
+    "paymentMethod": "Bank Transfer",
+    "referenceNumber": "TRF-20250315-003"
+  },
+  {
+    "id": 4,
+    "paymentNumber": "PAY-2025-004",
+    "invoiceId": 12,
+    "customerId": 1,
+    "clientName": "Chileshe Agricultural Enterprises",
+    "amount": 2064777.85,
+    "paymentDate": "2025-01-08T00:00:00",
+    "paymentMethod": "Cheque",
+    "referenceNumber": "CHQ-20250315-004"
+  },
+  {
+    "id": 5,
+    "paymentNumber": "PAY-2025-005",
+    "invoiceId": 7,
+    "customerId": 7,
+    "clientName": "Tembo Farms Co.",
+    "amount": 216734.85,
+    "paymentDate": "2025-01-17T00:00:00",
+    "paymentMethod": "Mobile Money",
+    "referenceNumber": "MMO-20250315-005"
+  },
+  {
+    "id": 6,
+    "paymentNumber": "PAY-2025-006",
+    "invoiceId": 7,
+    "customerId": 7,
+    "clientName": "Tembo Farms Co.",
+    "amount": 216734.85,
+    "paymentDate": "2025-02-07T00:00:00",
+    "paymentMethod": "Cash",
+    "referenceNumber": "CASH-20250315-006"
+  },
+  {
+    "id": 7,
+    "paymentNumber": "PAY-2025-007",
+    "invoiceId": 12,
+    "customerId": 1,
+    "clientName": "Chileshe Agricultural Enterprises",
+    "amount": 2064777.85,
+    "paymentDate": "2025-03-09T00:00:00",
+    "paymentMethod": "Cheque",
+    "referenceNumber": "CHQ-20250315-007"
+  },
+  {
+    "id": 8,
+    "paymentNumber": "PAY-2025-008",
+    "invoiceId": 12,
+    "customerId": 1,
+    "clientName": "Chileshe Agricultural Enterprises",
+    "amount": 2064777.85,
+    "paymentDate": "2025-01-06T00:00:00",
+    "paymentMethod": "Bank Transfer",
+    "referenceNumber": "TRF-20250315-008"
+  },
+  {
+    "id": 9,
+    "paymentNumber": "PAY-2025-009",
+    "invoiceId": 2,
+    "customerId": 6,
+    "clientName": "Mwamba Farms Solutions",
+    "amount": 3615515.79,
+    "paymentDate": "2025-02-13T00:00:00",
+    "paymentMethod": "Bank Transfer",
+    "referenceNumber": "TRF-20250315-009"
+  },
+  {
+    "id": 10,
+    "paymentNumber": "PAY-2025-010",
+    "invoiceId": 9,
+    "customerId": 2,
+    "clientName": "Phiri Farms Group",
+    "amount": 823701.17,
+    "paymentDate": "2025-03-10T00:00:00",
+    "paymentMethod": "Mobile Money",
+    "referenceNumber": "MMO-20250315-010"
+  }
+]

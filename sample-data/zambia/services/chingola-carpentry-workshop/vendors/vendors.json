@@ -1,0 +1,122 @@
+{
+  "vendors": [
+    {
+      "id": 1,
+      "vendorName": "Mwamba Phiri",
+      "companyName": "Mulenga Artisans Holdings",
+      "contactPerson": "Mwamba Phiri",
+      "email": "mwambaphiri@phiri.co.zm",
+      "phone": "+260 690 452 929",
+      "city": "Lusaka",
+      "country": "Zambia",
+      "defaultPaymentTerms": "Due on Receipt",
+      "taxId": "TAX-575189",
+      "totalAmountOwed": 186661.1
+    },
+    {
+      "id": 2,
+      "vendorName": "Malama Mumba",
+      "companyName": "Bwalya Services Solutions",
+      "contactPerson": "Malama Mumba",
+      "email": "malamamumba@mumba.co.zm",
+      "phone": "+260 389 435 014",
+      "city": "Lusaka",
+      "country": "Zambia",
+      "defaultPaymentTerms": "Net 30",
+      "taxId": "TAX-729432",
+      "totalAmountOwed": 28364.18
+    },
+    {
+      "id": 3,
+      "vendorName": "Kasonde Mutale",
+      "companyName": "Phiri Services Inc.",
+      "contactPerson": "Kasonde Mutale",
+      "email": "kasondemutal@mutale.co.zm",
+      "phone": "+260 771 540 756",
+      "city": "Livingstone",
+      "country": "Zambia",
+      "defaultPaymentTerms": "Due on Receipt",
+      "taxId": "TAX-904276",
+      "totalAmountOwed": 165946.33
+    },
+    {
+      "id": 4,
+      "vendorName": "Siame Siame",
+      "companyName": "Chileshe Technical Services Enterprises",
+      "contactPerson": "Siame Siame",
+      "email": "siamesiame@siame.co.zm",
+      "phone": "+260 655 837 782",
+      "city": "Ndola",
+      "country": "Zambia",
+      "defaultPaymentTerms": "Net 30",
+      "taxId": "TAX-716217",
+      "totalAmountOwed": 143721.39
+    },
+    {
+      "id": 5,
+      "vendorName": "Mulenga Chanda",
+      "companyName": "Banda Services Enterprises",
+      "contactPerson": "Mulenga Chanda",
+      "email": "mulengachand@chanda.co.zm",
+      "phone": "+260 115 367 405",
+      "city": "Chingola",
+      "country": "Zambia",
+      "defaultPaymentTerms": "Net 30",
+      "taxId": "TAX-505241",
+      "totalAmountOwed": 366136.62
+    },
+    {
+      "id": 6,
+      "vendorName": "Nakambwe Ngosa",
+      "companyName": "Ngosa Services Group",
+      "contactPerson": "Nakambwe Ngosa",
+      "email": "nakambwengos@ngosa.co.zm",
+      "phone": "+260 454 466 929",
+      "city": "Chingola",
+      "country": "Zambia",
+      "defaultPaymentTerms": "Due on Receipt",
+      "taxId": "TAX-632711",
+      "totalAmountOwed": 122080.51
+    },
+    {
+      "id": 7,
+      "vendorName": "Chileshe Mwamba",
+      "companyName": "Kaputo Artisans Holdings",
+      "contactPerson": "Chileshe Mwamba",
+      "email": "chileshemwam@mwamba.co.zm",
+      "phone": "+260 210 979 816",
+      "city": "Ndola",
+      "country": "Zambia",
+      "defaultPaymentTerms": "Net 45",
+      "taxId": "TAX-335168",
+      "totalAmountOwed": 427794.97
+    },
+    {
+      "id": 8,
+      "vendorName": "Kaputo Lungu",
+      "companyName": "Mulenga Artisans Inc.",
+      "contactPerson": "Kaputo Lungu",
+      "email": "kaputolungu@lungu.co.zm",
+      "phone": "+260 454 583 394",
+      "city": "Kabwe",
+      "country": "Zambia",
+      "defaultPaymentTerms": "Net 30",
+      "taxId": "TAX-117390",
+      "totalAmountOwed": 186079.89
+    },
+    {
+      "id": 9,
+      "vendorName": "Kasonde Ngosa",
+      "companyName": "Mwale Services Limited",
+      "contactPerson": "Kasonde Ngosa",
+      "email": "kasondengosa@ngosa.co.zm",
+      "phone": "+260 317 323 046",
+      "city": "Lusaka",
+      "country": "Zambia",
+      "defaultPaymentTerms": "Net 15",
+      "taxId": "TAX-530872",
+      "totalAmountOwed": 197669.97
+    }
+  ],
+  "vendorCredits": []
+}

@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "paymentNumber": "PAY-2025-001",
+    "invoiceId": 6,
+    "customerId": 4,
+    "clientName": "Chileshe Publishers Inc.",
+    "amount": 4332580.44,
+    "paymentDate": "2025-02-24T00:00:00",
+    "paymentMethod": "Mobile Money",
+    "referenceNumber": "MMO-20250315-001"
+  },
+  {
+    "id": 2,
+    "paymentNumber": "PAY-2025-002",
+    "invoiceId": 15,
+    "customerId": 1,
+    "clientName": "Kabwe Communications Inc.",
+    "amount": 1436782.88,
+    "paymentDate": "2024-12-21T00:00:00",
+    "paymentMethod": "Mobile Money",
+    "referenceNumber": "MMO-20250315-002"
+  },
+  {
+    "id": 3,
+    "paymentNumber": "PAY-2025-003",
+    "invoiceId": 9,
+    "customerId": 5,
+    "clientName": "Chileshe Communications Enterprises",
+    "amount": 1560129.97,
+    "paymentDate": "2025-01-11T00:00:00",
+    "paymentMethod": "Bank Transfer",
+    "referenceNumber": "TRF-20250315-003"
+  },
+  {
+    "id": 4,
+    "paymentNumber": "PAY-2025-004",
+    "invoiceId": 8,
+    "customerId": 2,
+    "clientName": "Tembo Media Co.",
+    "amount": 835677.58,
+    "paymentDate": "2025-01-10T00:00:00",
+    "paymentMethod": "Bank Transfer",
+    "referenceNumber": "TRF-20250315-004"
+  },
+  {
+    "id": 5,
+    "paymentNumber": "PAY-2025-005",
+    "invoiceId": 14,
+    "customerId": 7,
+    "clientName": "Sakala Broadcasting Limited",
+    "amount": 1913930.83,
+    "paymentDate": "2025-02-02T00:00:00",
+    "paymentMethod": "Bank Transfer",
+    "referenceNumber": "TRF-20250315-005"
+  },
+  {
+    "id": 6,
+    "paymentNumber": "PAY-2025-006",
+    "invoiceId": 8,
+    "customerId": 2,
+    "clientName": "Tembo Media Co.",
+    "amount": 835677.58,
+    "paymentDate": "2024-12-24T00:00:00",
+    "paymentMethod": "Mobile Money",
+    "referenceNumber": "MMO-20250315-006"
+  },
+  {
+    "id": 7,
+    "paymentNumber": "PAY-2025-007",
+    "invoiceId": 11,
+    "customerId": 2,
+    "clientName": "Tembo Media Co.",
+    "amount": 3867668.88,
+    "paymentDate": "2025-01-14T00:00:00",
+    "paymentMethod": "Bank Transfer",
+    "referenceNumber": "TRF-20250315-007"
+  },
+  {
+    "id": 8,
+    "paymentNumber": "PAY-2025-008",
+    "invoiceId": 10,
+    "customerId": 3,
+    "clientName": "Ngosa Publishers Inc.",
+    "amount": 3031431.15,
+    "paymentDate": "2025-02-10T00:00:00",
+    "paymentMethod": "Bank Transfer",
+    "referenceNumber": "TRF-20250315-008"
+  },
+  {
+    "id": 9,
+    "paymentNumber": "PAY-2025-009",
+    "invoiceId": 2,
+    "customerId": 5,
+    "clientName": "Chileshe Communications Enterprises",
+    "amount": 2399336.85,
+    "paymentDate": "2025-02-01T00:00:00",
+    "paymentMethod": "Cheque",
+    "referenceNumber": "CHQ-20250315-009"
+  },
+  {
+    "id": 10,
+    "paymentNumber": "PAY-2025-010",
+    "invoiceId": 13,
+    "customerId": 2,
+    "clientName": "Tembo Media Co.",
+    "amount": 3756169.85,
+    "paymentDate": "2025-02-16T00:00:00",
+    "paymentMethod": "Bank Transfer",
+    "referenceNumber": "TRF-20250315-010"
+  },
+  {
+    "id": 11,
+    "paymentNumber": "PAY-2025-011",
+    "invoiceId": 4,
+    "customerId": 5,
+    "clientName": "Chileshe Communications Enterprises",
+    "amount": 3136890.16,
+    "paymentDate": "2025-02-10T00:00:00",
+    "paymentMethod": "Bank Transfer",
+    "referenceNumber": "TRF-20250315-011"
+  },
+  {
+    "id": 12,
+    "paymentNumber": "PAY-2025-012",
+    "invoiceId": 4,
+    "customerId": 5,
+    "clientName": "Chileshe Communications Enterprises",
+    "amount": 3136890.16,
+    "paymentDate": "2025-01-21T00:00:00",
+    "paymentMethod": "Mobile Money",
+    "referenceNumber": "MMO-20250315-012"
+  }
+]

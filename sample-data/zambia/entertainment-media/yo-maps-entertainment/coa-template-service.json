@@ -1,0 +1,638 @@
+[
+  {
+    "id": "coa-ent-001",
+    "templateName": "Entertainment Industry COA - Zambia",
+    "description": "Comprehensive chart of accounts for music entertainment and media business",
+    "accounts": [
+      {
+        "accountNumber": "1000",
+        "accountName": "Cash - Operating Account",
+        "accountType": "Asset",
+        "subType": "Current Asset"
+      },
+      {
+        "accountNumber": "1010",
+        "accountName": "Cash - Royalties Account",
+        "accountType": "Asset",
+        "subType": "Current Asset"
+      },
+      {
+        "accountNumber": "1020",
+        "accountName": "Cash - Events Account",
+        "accountType": "Asset",
+        "subType": "Current Asset"
+      },
+      {
+        "accountNumber": "1100",
+        "accountName": "Bank - FNB Current Account",
+        "accountType": "Asset",
+        "subType": "Current Asset"
+      },
+      {
+        "accountNumber": "1110",
+        "accountName": "Bank - Stanbic Business Account",
+        "accountType": "Asset",
+        "subType": "Current Asset"
+      },
+      {
+        "accountNumber": "1200",
+        "accountName": "Accounts Receivable - Performance Fees",
+        "accountType": "Asset",
+        "subType": "Current Asset"
+      },
+      {
+        "accountNumber": "1210",
+        "accountName": "Accounts Receivable - Streaming Royalties",
+        "accountType": "Asset",
+        "subType": "Current Asset"
+      },
+      {
+        "accountNumber": "1220",
+        "accountName": "Accounts Receivable - Brand Endorsements",
+        "accountType": "Asset",
+        "subType": "Current Asset"
+      },
+      {
+        "accountNumber": "1230",
+        "accountName": "Accounts Receivable - Property Rent",
+        "accountType": "Asset",
+        "subType": "Current Asset"
+      },
+      {
+        "accountNumber": "1300",
+        "accountName": "Inventory - Merchandise",
+        "accountType": "Asset",
+        "subType": "Current Asset"
+      },
+      {
+        "accountNumber": "1310",
+        "accountName": "Inventory - Physical Albums (CDs)",
+        "accountType": "Asset",
+        "subType": "Current Asset"
+      },
+      {
+        "accountNumber": "1400",
+        "accountName": "Prepaid Expenses - Studio Rental",
+        "accountType": "Asset",
+        "subType": "Current Asset"
+      },
+      {
+        "accountNumber": "1410",
+        "accountName": "Prepaid Expenses - Insurance",
+        "accountType": "Asset",
+        "subType": "Current Asset"
+      },
+      {
+        "accountNumber": "1500",
+        "accountName": "Music Equipment",
+        "accountType": "Asset",
+        "subType": "Fixed Asset"
+      },
+      {
+        "accountNumber": "1510",
+        "accountName": "Sound & Recording Equipment",
+        "accountType": "Asset",
+        "subType": "Fixed Asset"
+      },
+      {
+        "accountNumber": "1520",
+        "accountName": "Musical Instruments",
+        "accountType": "Asset",
+        "subType": "Fixed Asset"
+      },
+      {
+        "accountNumber": "1530",
+        "accountName": "Vehicles",
+        "accountType": "Asset",
+        "subType": "Fixed Asset"
+      },
+      {
+        "accountNumber": "1540",
+        "accountName": "Office Equipment & Furniture",
+        "accountType": "Asset",
+        "subType": "Fixed Asset"
+      },
+      {
+        "accountNumber": "1550",
+        "accountName": "Computers & IT Equipment",
+        "accountType": "Asset",
+        "subType": "Fixed Asset"
+      },
+      {
+        "accountNumber": "1600",
+        "accountName": "Real Estate - Residential Properties",
+        "accountType": "Asset",
+        "subType": "Fixed Asset"
+      },
+      {
+        "accountNumber": "1610",
+        "accountName": "Real Estate - Commercial Properties",
+        "accountType": "Asset",
+        "subType": "Fixed Asset"
+      },
+      {
+        "accountNumber": "1650",
+        "accountName": "Accumulated Depreciation - Equipment",
+        "accountType": "Asset",
+        "subType": "Fixed Asset",
+        "isContra": true
+      },
+      {
+        "accountNumber": "1660",
+        "accountName": "Accumulated Depreciation - Vehicles",
+        "accountType": "Asset",
+        "subType": "Fixed Asset",
+        "isContra": true
+      },
+      {
+        "accountNumber": "1700",
+        "accountName": "Intangible Assets - Master Recordings",
+        "accountType": "Asset",
+        "subType": "Intangible Asset"
+      },
+      {
+        "accountNumber": "1710",
+        "accountName": "Intangible Assets - Music Copyrights",
+        "accountType": "Asset",
+        "subType": "Intangible Asset"
+      },
+      {
+        "accountNumber": "1720",
+        "accountName": "Intangible Assets - Trademarks & Brand",
+        "accountType": "Asset",
+        "subType": "Intangible Asset"
+      },
+      {
+        "accountNumber": "2000",
+        "accountName": "Accounts Payable - Trade",
+        "accountType": "Liability",
+        "subType": "Current Liability"
+      },
+      {
+        "accountNumber": "2010",
+        "accountName": "Accounts Payable - Production Services",
+        "accountType": "Liability",
+        "subType": "Current Liability"
+      },
+      {
+        "accountNumber": "2020",
+        "accountName": "Accounts Payable - Equipment Rental",
+        "accountType": "Liability",
+        "subType": "Current Liability"
+      },
+      {
+        "accountNumber": "2100",
+        "accountName": "Accrued Expenses - Royalties Payable",
+        "accountType": "Liability",
+        "subType": "Current Liability"
+      },
+      {
+        "accountNumber": "2110",
+        "accountName": "Accrued Expenses - Performance Fees",
+        "accountType": "Liability",
+        "subType": "Current Liability"
+      },
+      {
+        "accountNumber": "2120",
+        "accountName": "Accrued Expenses - Production Costs",
+        "accountType": "Liability",
+        "subType": "Current Liability"
+      },
+      {
+        "accountNumber": "2200",
+        "accountName": "Payroll Liabilities - PAYE",
+        "accountType": "Liability",
+        "subType": "Current Liability"
+      },
+      {
+        "accountNumber": "2210",
+        "accountName": "Payroll Liabilities - NAPSA",
+        "accountType": "Liability",
+        "subType": "Current Liability"
+      },
+      {
+        "accountNumber": "2220",
+        "accountName": "Payroll Liabilities - NHIMA",
+        "accountType": "Liability",
+        "subType": "Current Liability"
+      },
+      {
+        "accountNumber": "2300",
+        "accountName": "VAT Payable",
+        "accountType": "Liability",
+        "subType": "Current Liability"
+      },
+      {
+        "accountNumber": "2400",
+        "accountName": "Advance Payments from Customers",
+        "accountType": "Liability",
+        "subType": "Current Liability"
+      },
+      {
+        "accountNumber": "2500",
+        "accountName": "Loans Payable - Bank",
+        "accountType": "Liability",
+        "subType": "Long-term Liability"
+      },
+      {
+        "accountNumber": "2510",
+        "accountName": "Loans Payable - Equipment Finance",
+        "accountType": "Liability",
+        "subType": "Long-term Liability"
+      },
+      {
+        "accountNumber": "3000",
+        "accountName": "Owner's Capital",
+        "accountType": "Equity"
+      },
+      {
+        "accountNumber": "3100",
+        "accountName": "Retained Earnings",
+        "accountType": "Equity"
+      },
+      {
+        "accountNumber": "3200",
+        "accountName": "Owner's Drawings",
+        "accountType": "Equity",
+        "isContra": true
+      },
+      {
+        "accountNumber": "4000",
+        "accountName": "Revenue - Music Sales (Digital)",
+        "accountType": "Revenue"
+      },
+      {
+        "accountNumber": "4010",
+        "accountName": "Revenue - Music Sales (Physical)",
+        "accountType": "Revenue"
+      },
+      {
+        "accountNumber": "4100",
+        "accountName": "Revenue - Streaming Royalties (Spotify)",
+        "accountType": "Revenue"
+      },
+      {
+        "accountNumber": "4110",
+        "accountName": "Revenue - Streaming Royalties (Apple Music)",
+        "accountType": "Revenue"
+      },
+      {
+        "accountNumber": "4120",
+        "accountName": "Revenue - Streaming Royalties (YouTube)",
+        "accountType": "Revenue"
+      },
+      {
+        "accountNumber": "4130",
+        "accountName": "Revenue - Streaming Royalties (Boomplay)",
+        "accountType": "Revenue"
+      },
+      {
+        "accountNumber": "4200",
+        "accountName": "Revenue - Radio Airplay Royalties",
+        "accountType": "Revenue"
+      },
+      {
+        "accountNumber": "4300",
+        "accountName": "Revenue - Live Performances",
+        "accountType": "Revenue"
+      },
+      {
+        "accountNumber": "4310",
+        "accountName": "Revenue - Concert Ticket Sales",
+        "accountType": "Revenue"
+      },
+      {
+        "accountNumber": "4320",
+        "accountName": "Revenue - Private Events",
+        "accountType": "Revenue"
+      },
+      {
+        "accountNumber": "4330",
+        "accountName": "Revenue - Festival Appearances",
+        "accountType": "Revenue"
+      },
+      {
+        "accountNumber": "4400",
+        "accountName": "Revenue - Brand Endorsements",
+        "accountType": "Revenue"
+      },
+      {
+        "accountNumber": "4410",
+        "accountName": "Revenue - Social Media Promotions",
+        "accountType": "Revenue"
+      },
+      {
+        "accountNumber": "4500",
+        "accountName": "Revenue - Merchandise Sales",
+        "accountType": "Revenue"
+      },
+      {
+        "accountNumber": "4600",
+        "accountName": "Revenue - Music Licensing (Film/TV)",
+        "accountType": "Revenue"
+      },
+      {
+        "accountNumber": "4610",
+        "accountName": "Revenue - Sync Licensing",
+        "accountType": "Revenue"
+      },
+      {
+        "accountNumber": "4700",
+        "accountName": "Revenue - Property Rental Income",
+        "accountType": "Revenue"
+      },
+      {
+        "accountNumber": "4800",
+        "accountName": "Revenue - Collaboration Features",
+        "accountType": "Revenue"
+      },
+      {
+        "accountNumber": "4900",
+        "accountName": "Revenue - Other Income",
+        "accountType": "Revenue"
+      },
+      {
+        "accountNumber": "5000",
+        "accountName": "Cost of Goods Sold - Music Production",
+        "accountType": "Expense",
+        "subType": "Cost of Sales"
+      },
+      {
+        "accountNumber": "5010",
+        "accountName": "Cost of Goods Sold - Merchandise",
+        "accountType": "Expense",
+        "subType": "Cost of Sales"
+      },
+      {
+        "accountNumber": "5020",
+        "accountName": "Cost of Goods Sold - Physical Albums",
+        "accountType": "Expense",
+        "subType": "Cost of Sales"
+      },
+      {
+        "accountNumber": "5100",
+        "accountName": "Production Costs - Studio Recording",
+        "accountType": "Expense",
+        "subType": "Operating Expense"
+      },
+      {
+        "accountNumber": "5110",
+        "accountName": "Production Costs - Video Production",
+        "accountType": "Expense",
+        "subType": "Operating Expense"
+      },
+      {
+        "accountNumber": "5120",
+        "accountName": "Production Costs - Music Engineering",
+        "accountType": "Expense",
+        "subType": "Operating Expense"
+      },
+      {
+        "accountNumber": "5130",
+        "accountName": "Production Costs - Featured Artists",
+        "accountType": "Expense",
+        "subType": "Operating Expense"
+      },
+      {
+        "accountNumber": "5200",
+        "accountName": "Event Costs - Stage & Equipment Rental",
+        "accountType": "Expense",
+        "subType": "Operating Expense"
+      },
+      {
+        "accountNumber": "5210",
+        "accountName": "Event Costs - Sound & Lighting",
+        "accountType": "Expense",
+        "subType": "Operating Expense"
+      },
+      {
+        "accountNumber": "5220",
+        "accountName": "Event Costs - Security Services",
+        "accountType": "Expense",
+        "subType": "Operating Expense"
+      },
+      {
+        "accountNumber": "5230",
+        "accountName": "Event Costs - Venue Rental",
+        "accountType": "Expense",
+        "subType": "Operating Expense"
+      },
+      {
+        "accountNumber": "5300",
+        "accountName": "Marketing & Promotion",
+        "accountType": "Expense",
+        "subType": "Operating Expense"
+      },
+      {
+        "accountNumber": "5310",
+        "accountName": "Marketing - Social Media Advertising",
+        "accountType": "Expense",
+        "subType": "Operating Expense"
+      },
+      {
+        "accountNumber": "5320",
+        "accountName": "Marketing - Radio & TV Promotion",
+        "accountType": "Expense",
+        "subType": "Operating Expense"
+      },
+      {
+        "accountNumber": "5330",
+        "accountName": "Marketing - Print & Media",
+        "accountType": "Expense",
+        "subType": "Operating Expense"
+      },
+      {
+        "accountNumber": "5340",
+        "accountName": "Marketing - Public Relations",
+        "accountType": "Expense",
+        "subType": "Operating Expense"
+      },
+      {
+        "accountNumber": "5400",
+        "accountName": "Distribution Costs - Digital Platforms",
+        "accountType": "Expense",
+        "subType": "Operating Expense"
+      },
+      {
+        "accountNumber": "5410",
+        "accountName": "Distribution Costs - Physical Distribution",
+        "accountType": "Expense",
+        "subType": "Operating Expense"
+      },
+      {
+        "accountNumber": "5500",
+        "accountName": "Royalty Expenses - Producers",
+        "accountType": "Expense",
+        "subType": "Operating Expense"
+      },
+      {
+        "accountNumber": "5510",
+        "accountName": "Royalty Expenses - Songwriters",
+        "accountType": "Expense",
+        "subType": "Operating Expense"
+      },
+      {
+        "accountNumber": "5520",
+        "accountName": "Royalty Expenses - Featured Artists",
+        "accountType": "Expense",
+        "subType": "Operating Expense"
+      },
+      {
+        "accountNumber": "5600",
+        "accountName": "Salaries & Wages - Employees",
+        "accountType": "Expense",
+        "subType": "Operating Expense"
+      },
+      {
+        "accountNumber": "5610",
+        "accountName": "Salaries & Wages - Band Members",
+        "accountType": "Expense",
+        "subType": "Operating Expense"
+      },
+      {
+        "accountNumber": "5620",
+        "accountName": "Salaries & Wages - Management Team",
+        "accountType": "Expense",
+        "subType": "Operating Expense"
+      },
+      {
+        "accountNumber": "5700",
+        "accountName": "Professional Fees - Legal",
+        "accountType": "Expense",
+        "subType": "Operating Expense"
+      },
+      {
+        "accountNumber": "5710",
+        "accountName": "Professional Fees - Accounting",
+        "accountType": "Expense",
+        "subType": "Operating Expense"
+      },
+      {
+        "accountNumber": "5720",
+        "accountName": "Professional Fees - Artist Management",
+        "accountType": "Expense",
+        "subType": "Operating Expense"
+      },
+      {
+        "accountNumber": "5800",
+        "accountName": "Travel & Transportation",
+        "accountType": "Expense",
+        "subType": "Operating Expense"
+      },
+      {
+        "accountNumber":="5810",
+        "accountName": "Accommodation & Lodging",
+        "accountType": "Expense",
+        "subType": "Operating Expense"
+      },
+      {
+        "accountNumber": "5900",
+        "accountName": "Equipment Maintenance & Repairs",
+        "accountType": "Expense",
+        "subType": "Operating Expense"
+      },
+      {
+        "accountNumber": "5910",
+        "accountName": "Property Maintenance",
+        "accountType": "Expense",
+        "subType": "Operating Expense"
+      },
+      {
+        "accountNumber": "6000",
+        "accountName": "Office Rent",
+        "accountType": "Expense",
+        "subType": "Operating Expense"
+      },
+      {
+        "accountNumber": "6010",
+        "accountName": "Utilities - Electricity",
+        "accountType": "Expense",
+        "subType": "Operating Expense"
+      },
+      {
+        "accountNumber": "6020",
+        "accountName": "Utilities - Water",
+        "accountType": "Expense",
+        "subType": "Operating Expense"
+      },
+      {
+        "accountNumber": "6030",
+        "accountName": "Utilities - Internet & Phone",
+        "accountType": "Expense",
+        "subType": "Operating Expense"
+      },
+      {
+        "accountNumber": "6100",
+        "accountName": "Insurance - General Business",
+        "accountType": "Expense",
+        "subType": "Operating Expense"
+      },
+      {
+        "accountNumber": "6110",
+        "accountName": "Insurance - Equipment",
+        "accountType": "Expense",
+        "subType": "Operating Expense"
+      },
+      {
+        "accountNumber": "6120",
+        "accountName": "Insurance - Vehicle",
+        "accountType": "Expense",
+        "subType": "Operating Expense"
+      },
+      {
+        "accountNumber": "6200",
+        "accountName": "Depreciation Expense",
+        "accountType": "Expense",
+        "subType": "Operating Expense"
+      },
+      {
+        "accountNumber": "6300",
+        "accountName": "Bank Charges & Fees",
+        "accountType": "Expense",
+        "subType": "Operating Expense"
+      },
+      {
+        "accountNumber": "6400",
+        "accountName": "Licenses & Permits",
+        "accountType": "Expense",
+        "subType": "Operating Expense"
+      },
+      {
+        "accountNumber": "6500",
+        "accountName": "Office Supplies",
+        "accountType": "Expense",
+        "subType": "Operating Expense"
+      },
+      {
+        "accountNumber": "6600",
+        "accountName": "Miscellaneous Expenses",
+        "accountType": "Expense",
+        "subType": "Operating Expense"
+      },
+      {
+        "accountNumber": "7000",
+        "accountName": "Interest Income",
+        "accountType": "Revenue",
+        "subType": "Other Income"
+      },
+      {
+        "accountNumber": "8000",
+        "accountName": "Interest Expense",
+        "accountType": "Expense",
+        "subType": "Other Expense"
+      },
+      {
+        "accountNumber": "8100",
+        "accountName": "Loss on Asset Disposal",
+        "accountType": "Expense",
+        "subType": "Other Expense"
+      },
+      {
+        "accountNumber": "9000",
+        "accountName": "Income Tax Expense",
+        "accountType": "Expense",
+        "subType": "Tax"
+      }
+    ]
+  }
+]

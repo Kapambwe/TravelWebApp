@@ -1,0 +1,132 @@
+{
+  "companyName": "Mutale Mwanza Media",
+  "companyAddress": "Ndola, Zambia",
+  "companyTaxId": "TPIN-4306767-MMM",
+  "generatedDate": "2025-09-30",
+  "currency": "ZMW",
+  "period": {
+    "from": "2025-01-01",
+    "to": "2025-09-30"
+  },
+  "customerStatements": [
+    {
+      "customerId": 1,
+      "customerName": "Copperbelt Investments Ltd",
+      "customerEmail": "finance@copperbelt.co.zm",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-05-10",
+          "reference": "INV-Z-2025-016",
+          "description": "Headline performance - Independence Day Concert",
+          "debit": 796500,
+          "credit": 0.0,
+          "balance": 796500
+        }
+      ],
+      "closingBalance": 796500,
+      "status": "Overdue"
+    },
+    {
+      "customerId": 2,
+      "customerName": "Lusaka Trading Ltd",
+      "customerEmail": "accounts@lusaka.com",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-03-24",
+          "reference": "INV-Z-2025-022",
+          "description": "Royalty payment - streaming Q1 2025",
+          "debit": 1051000,
+          "credit": 0.0,
+          "balance": 1051000
+        },
+        {
+          "date": "2025-05-21",
+          "reference": "PMT-Z-2025-023",
+          "description": "Partial payment received",
+          "debit": 0.0,
+          "credit": 1051000,
+          "balance": 0.0
+        }
+      ],
+      "closingBalance": 0.0,
+      "status": "Settled"
+    },
+    {
+      "customerId": 3,
+      "customerName": "Zain Industries Ltd",
+      "customerEmail": "info@zain.com",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-09-04",
+          "reference": "INV-Z-2025-038",
+          "description": "Brand ambassador fee - Jul-Sep campaign",
+          "debit": 2926500,
+          "credit": 0.0,
+          "balance": 2926500
+        }
+      ],
+      "closingBalance": 2926500,
+      "status": "Outstanding"
+    },
+    {
+      "customerId": 4,
+      "customerName": "Zain Holdings PLC",
+      "customerEmail": "contact@zain.co.zm",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-09-27",
+          "reference": "INV-Z-2025-045",
+          "description": "Live concert performance fee",
+          "debit": 1112500,
+          "credit": 0.0,
+          "balance": 1112500
+        }
+      ],
+      "closingBalance": 1112500,
+      "status": "Outstanding"
+    },
+    {
+      "customerId": 5,
+      "customerName": "Zesco Group Ltd",
+      "customerEmail": "accounts@zesco.com",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-05-09",
+          "reference": "INV-Z-2025-058",
+          "description": "Live concert performance fee",
+          "debit": 810000,
+          "credit": 0.0,
+          "balance": 810000
+        },
+        {
+          "date": "2025-06-04",
+          "reference": "PMT-Z-2025-055",
+          "description": "Partial payment received - bank transfer",
+          "debit": 0.0,
+          "credit": 265500,
+          "balance": 544500
+        }
+      ],
+      "closingBalance": 544500,
+      "status": "Partially Paid"
+    }
+  ],
+  "summary": {
+    "totalInvoiced": 6696500,
+    "totalReceived": 1316500,
+    "totalOutstanding": 5380000,
+    "totalOverdue": 1341000.0,
+    "agingSummary": {
+      "current": 4039000.0,
+      "days1to30": 0.0,
+      "days31to60": 0.0,
+      "days61to90": 0.0,
+      "over90days": 1341000.0
+    }
+  }
+}

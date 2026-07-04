@@ -1,0 +1,140 @@
+{
+  "companyName": "Mununshi Fruit Company",
+  "companyAddress": "Kitwe, Zambia",
+  "companyTaxId": "TPIN-5410558-MFC",
+  "generatedDate": "2025-09-30",
+  "currency": "ZMW",
+  "period": {
+    "from": "2025-01-01",
+    "to": "2025-09-30"
+  },
+  "customerStatements": [
+    {
+      "customerId": 1,
+      "customerName": "Kansanshi Industries Ltd",
+      "customerEmail": "info@kansanshi.com",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-03-26",
+          "reference": "INV-Z-2025-018",
+          "description": "Processing fee - sunflower seeds",
+          "debit": 2545000,
+          "credit": 0.0,
+          "balance": 2545000
+        },
+        {
+          "date": "2025-05-25",
+          "reference": "PMT-Z-2025-015",
+          "description": "Partial payment received",
+          "debit": 0.0,
+          "credit": 2545000,
+          "balance": 0.0
+        }
+      ],
+      "closingBalance": 0.0,
+      "status": "Settled"
+    },
+    {
+      "customerId": 2,
+      "customerName": "Copperbelt Partners Co.",
+      "customerEmail": "billing@copperbelt.com",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-02-14",
+          "reference": "INV-Z-2025-024",
+          "description": "Crop storage facility rental",
+          "debit": 902500,
+          "credit": 0.0,
+          "balance": 902500
+        },
+        {
+          "date": "2025-03-06",
+          "reference": "PMT-Z-2025-027",
+          "description": "Partial payment received",
+          "debit": 0.0,
+          "credit": 902500,
+          "balance": 0.0
+        }
+      ],
+      "closingBalance": 0.0,
+      "status": "Settled"
+    },
+    {
+      "customerId": 3,
+      "customerName": "Luangwa Enterprises Ltd",
+      "customerEmail": "contact@luangwa.co.zm",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-02-23",
+          "reference": "INV-Z-2025-033",
+          "description": "Quality certification services",
+          "debit": 1513000,
+          "credit": 0.0,
+          "balance": 1513000
+        }
+      ],
+      "closingBalance": 1513000,
+      "status": "Overdue"
+    },
+    {
+      "customerId": 4,
+      "customerName": "Lusaka Enterprises Ltd",
+      "customerEmail": "admin@lusaka.com",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-07-08",
+          "reference": "INV-Z-2025-046",
+          "description": "Agricultural produce export contract",
+          "debit": 1747500,
+          "credit": 0.0,
+          "balance": 1747500
+        }
+      ],
+      "closingBalance": 1747500,
+      "status": "Outstanding"
+    },
+    {
+      "customerId": 5,
+      "customerName": "Luangwa Industries Ltd",
+      "customerEmail": "finance@luangwa.com",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-05-04",
+          "reference": "INV-Z-2025-058",
+          "description": "Quality certification services",
+          "debit": 613000,
+          "credit": 0.0,
+          "balance": 613000
+        },
+        {
+          "date": "2025-07-04",
+          "reference": "PMT-Z-2025-056",
+          "description": "Payment received - bank transfer",
+          "debit": 0.0,
+          "credit": 613000,
+          "balance": 0.0
+        }
+      ],
+      "closingBalance": 0.0,
+      "status": "Settled"
+    }
+  ],
+  "summary": {
+    "totalInvoiced": 7321000,
+    "totalReceived": 4060500,
+    "totalOutstanding": 3260500,
+    "totalOverdue": 3260500.0,
+    "agingSummary": {
+      "current": 0.0,
+      "days1to30": 0.0,
+      "days31to60": 1747500.0,
+      "days61to90": 0.0,
+      "over90days": 1513000.0
+    }
+  }
+}

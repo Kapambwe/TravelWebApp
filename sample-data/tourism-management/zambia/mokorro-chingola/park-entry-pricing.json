@@ -1,0 +1,28 @@
+﻿[
+    {
+        "PhotographyPermitFee":  50,
+        "Id":  1,
+        "PricingTier":  0,
+        "DronePermitFee":  150,
+        "VehicleFee":  20,
+        "DailyRate":  50,
+        "WeeklyRate":  200,
+        "FilmPermitFee":  500,
+        "VisitorCategory":  0,
+        "BoatFee":  0,
+        "AnnualRate":  1000
+    },
+    {
+        "PhotographyPermitFee":  300,
+        "Id":  2,
+        "PricingTier":  2,
+        "DronePermitFee":  500,
+        "VehicleFee":  50,
+        "DailyRate":  300,
+        "WeeklyRate":  1500,
+        "FilmPermitFee":  5000,
+        "VisitorCategory":  0,
+        "BoatFee":  0,
+        "AnnualRate":  5000
+    }
+]

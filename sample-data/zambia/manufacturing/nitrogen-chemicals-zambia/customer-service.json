@@ -1,0 +1,302 @@
+[
+  {
+    "id": "cust-001",
+    "customerName": "Agricultural Companies 1",
+    "email": "contact1@customer.zm",
+    "phone": "+260-096-487404",
+    "address": "Plot 1427, Independence Avenue, Northern Province",
+    "taxId": "TPIN-7866932673",
+    "creditLimit": 20000,
+    "outstandingBalance": 20721
+  },
+  {
+    "id": "cust-002",
+    "customerName": "Manufacturing Plants 2",
+    "email": "contact2@customer.zm",
+    "phone": "+260-096-935806",
+    "address": "Plot 9316, Freedom Way, Northern Province",
+    "taxId": "TPIN-8896162676",
+    "creditLimit": 20000,
+    "outstandingBalance": 3429
+  },
+  {
+    "id": "cust-003",
+    "customerName": "Manufacturing Plants 3",
+    "email": "contact3@customer.zm",
+    "phone": "+260-097-411810",
+    "address": "Plot 8601, Cairo Road, Central Province",
+    "taxId": "TPIN-5670221042",
+    "creditLimit": 100000,
+    "outstandingBalance": 8683
+  },
+  {
+    "id": "cust-004",
+    "customerName": "Construction Firms 4",
+    "email": "contact4@customer.zm",
+    "phone": "+260-097-951821",
+    "address": "Plot 3352, Cairo Road, Copperbelt",
+    "taxId": "TPIN-2920597385",
+    "creditLimit": 100000,
+    "outstandingBalance": 5881
+  },
+  {
+    "id": "cust-005",
+    "customerName": "Agricultural Companies 5",
+    "email": "contact5@customer.zm",
+    "phone": "+260-217-645491",
+    "address": "Plot 7799, Twin Palm Road, Southern Province",
+    "taxId": "TPIN-2501946050",
+    "creditLimit": 100000,
+    "outstandingBalance": 5033
+  },
+  {
+    "id": "cust-006",
+    "customerName": "Manufacturing Plants 6",
+    "email": "contact6@customer.zm",
+    "phone": "+260-216-531194",
+    "address": "Plot 9202, Cairo Road, Northern Province",
+    "taxId": "TPIN-9542429931",
+    "creditLimit": 50000,
+    "outstandingBalance": 5792
+  },
+  {
+    "id": "cust-007",
+    "customerName": "Manufacturing Plants 7",
+    "email": "contact7@customer.zm",
+    "phone": "+260-097-451385",
+    "address": "Plot 2038, Cairo Road, Lusaka",
+    "taxId": "TPIN-6782718409",
+    "creditLimit": 100000,
+    "outstandingBalance": 17312
+  },
+  {
+    "id": "cust-008",
+    "customerName": "Agricultural Companies 8",
+    "email": "contact8@customer.zm",
+    "phone": "+260-095-444726",
+    "address": "Plot 3848, Freedom Way, Northern Province",
+    "taxId": "TPIN-6534427728",
+    "creditLimit": 75000,
+    "outstandingBalance": 12995
+  },
+  {
+    "id": "cust-009",
+    "customerName": "Agricultural Companies 9",
+    "email": "contact9@customer.zm",
+    "phone": "+260-094-532453",
+    "address": "Plot 9962, Freedom Way, Lusaka",
+    "taxId": "TPIN-6039174674",
+    "creditLimit": 50000,
+    "outstandingBalance": 8356
+  },
+  {
+    "id": "cust-010",
+    "customerName": "Agricultural Companies 10",
+    "email": "contact10@customer.zm",
+    "phone": "+260-096-386487",
+    "address": "Plot 7130, Twin Palm Road, Northern Province",
+    "taxId": "TPIN-9363805983",
+    "creditLimit": 75000,
+    "outstandingBalance": 5527
+  },
+  {
+    "id": "cust-011",
+    "customerName": "Manufacturing Plants 11",
+    "email": "contact11@customer.zm",
+    "phone": "+260-096-218816",
+    "address": "Plot 2244, Cairo Road, Eastern Province",
+    "taxId": "TPIN-2954983034",
+    "creditLimit": 100000,
+    "outstandingBalance": 24812
+  },
+  {
+    "id": "cust-012",
+    "customerName": "Construction Firms 12",
+    "email": "contact12@customer.zm",
+    "phone": "+260-097-101370",
+    "address": "Plot 1261, Great East Road, Central Province",
+    "taxId": "TPIN-3797561194",
+    "creditLimit": 50000,
+    "outstandingBalance": 16348
+  },
+  {
+    "id": "cust-013",
+    "customerName": "Manufacturing Plants 13",
+    "email": "contact13@customer.zm",
+    "phone": "+260-095-743887",
+    "address": "Plot 7365, Great East Road, Copperbelt",
+    "taxId": "TPIN-5798828562",
+    "creditLimit": 100000,
+    "outstandingBalance": 21057
+  },
+  {
+    "id": "cust-014",
+    "customerName": "Agricultural Companies 14",
+    "email": "contact14@customer.zm",
+    "phone": "+260-216-257365",
+    "address": "Plot 4782, Twin Palm Road, Lusaka",
+    "taxId": "TPIN-3222262230",
+    "creditLimit": 30000,
+    "outstandingBalance": 24810
+  },
+  {
+    "id": "cust-015",
+    "customerName": "Construction Firms 15",
+    "email": "contact15@customer.zm",
+    "phone": "+260-097-388694",
+    "address": "Plot 9908, Cairo Road, Eastern Province",
+    "taxId": "TPIN-6221704194",
+    "creditLimit": 75000,
+    "outstandingBalance": 11455
+  },
+  {
+    "id": "cust-016",
+    "customerName": "Construction Firms 16",
+    "email": "contact16@customer.zm",
+    "phone": "+260-095-544214",
+    "address": "Plot 8961, Twin Palm Road, Lusaka",
+    "taxId": "TPIN-4159734431",
+    "creditLimit": 20000,
+    "outstandingBalance": 24581
+  },
+  {
+    "id": "cust-017",
+    "customerName": "Agricultural Companies 17",
+    "email": "contact17@customer.zm",
+    "phone": "+260-094-179516",
+    "address": "Plot 2052, Freedom Way, Central Province",
+    "taxId": "TPIN-2177665793",
+    "creditLimit": 50000,
+    "outstandingBalance": 22413
+  },
+  {
+    "id": "cust-018",
+    "customerName": "Construction Firms 18",
+    "email": "contact18@customer.zm",
+    "phone": "+260-097-423068",
+    "address": "Plot 6534, Twin Palm Road, Southern Province",
+    "taxId": "TPIN-9236240045",
+    "creditLimit": 30000,
+    "outstandingBalance": 23313
+  },
+  {
+    "id": "cust-019",
+    "customerName": "Agricultural Companies 19",
+    "email": "contact19@customer.zm",
+    "phone": "+260-216-124185",
+    "address": "Plot 3190, Great East Road, Central Province",
+    "taxId": "TPIN-2084571843",
+    "creditLimit": 100000,
+    "outstandingBalance": 4302
+  },
+  {
+    "id": "cust-020",
+    "customerName": "Construction Firms 20",
+    "email": "contact20@customer.zm",
+    "phone": "+260-094-781369",
+    "address": "Plot 5651, Great East Road, Lusaka",
+    "taxId": "TPIN-2210190063",
+    "creditLimit": 75000,
+    "outstandingBalance": 16743
+  },
+  {
+    "id": "cust-021",
+    "customerName": "Construction Firms 21",
+    "email": "contact21@customer.zm",
+    "phone": "+260-217-764778",
+    "address": "Plot 9516, Independence Avenue, Lusaka",
+    "taxId": "TPIN-2657355482",
+    "creditLimit": 30000,
+    "outstandingBalance": 19538
+  },
+  {
+    "id": "cust-022",
+    "customerName": "Construction Firms 22",
+    "email": "contact22@customer.zm",
+    "phone": "+260-216-776362",
+    "address": "Plot 3833, Independence Avenue, Central Province",
+    "taxId": "TPIN-9599834050",
+    "creditLimit": 30000,
+    "outstandingBalance": 11038
+  },
+  {
+    "id": "cust-023",
+    "customerName": "Construction Firms 23",
+    "email": "contact23@customer.zm",
+    "phone": "+260-094-162202",
+    "address": "Plot 6183, Freedom Way, Copperbelt",
+    "taxId": "TPIN-2083726332",
+    "creditLimit": 50000,
+    "outstandingBalance": 16093
+  },
+  {
+    "id": "cust-024",
+    "customerName": "Agricultural Companies 24",
+    "email": "contact24@customer.zm",
+    "phone": "+260-096-461995",
+    "address": "Plot 9927, Great East Road, Southern Province",
+    "taxId": "TPIN-5511697483",
+    "creditLimit": 20000,
+    "outstandingBalance": 1803
+  },
+  {
+    "id": "cust-025",
+    "customerName": "Manufacturing Plants 25",
+    "email": "contact25@customer.zm",
+    "phone": "+260-097-345768",
+    "address": "Plot 7064, Independence Avenue, Copperbelt",
+    "taxId": "TPIN-8725468607",
+    "creditLimit": 75000,
+    "outstandingBalance": 12010
+  },
+  {
+    "id": "cust-026",
+    "customerName": "Manufacturing Plants 26",
+    "email": "contact26@customer.zm",
+    "phone": "+260-096-160608",
+    "address": "Plot 2873, Great East Road, Copperbelt",
+    "taxId": "TPIN-5414910917",
+    "creditLimit": 100000,
+    "outstandingBalance": 8435
+  },
+  {
+    "id": "cust-027",
+    "customerName": "Construction Firms 27",
+    "email": "contact27@customer.zm",
+    "phone": "+260-216-359542",
+    "address": "Plot 7191, Freedom Way, Eastern Province",
+    "taxId": "TPIN-7325298882",
+    "creditLimit": 20000,
+    "outstandingBalance": 23815
+  },
+  {
+    "id": "cust-028",
+    "customerName": "Construction Firms 28",
+    "email": "contact28@customer.zm",
+    "phone": "+260-096-912343",
+    "address": "Plot 3325, Freedom Way, Copperbelt",
+    "taxId": "TPIN-4523139310",
+    "creditLimit": 50000,
+    "outstandingBalance": 22466
+  },
+  {
+    "id": "cust-029",
+    "customerName": "Agricultural Companies 29",
+    "email": "contact29@customer.zm",
+    "phone": "+260-216-555441",
+    "address": "Plot 7837, Independence Avenue, Copperbelt",
+    "taxId": "TPIN-2276205810",
+    "creditLimit": 100000,
+    "outstandingBalance": 21054
+  },
+  {
+    "id": "cust-030",
+    "customerName": "Agricultural Companies 30",
+    "email": "contact30@customer.zm",
+    "phone": "+260-096-296592",
+    "address": "Plot 2424, Twin Palm Road, Central Province",
+    "taxId": "TPIN-1378379152",
+    "creditLimit": 50000,
+    "outstandingBalance": 9329
+  }
+]

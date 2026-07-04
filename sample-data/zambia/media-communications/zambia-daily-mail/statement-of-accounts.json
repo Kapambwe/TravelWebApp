@@ -1,0 +1,132 @@
+{
+  "companyName": "Zambia Daily Mail",
+  "companyAddress": "Chipata, Zambia",
+  "companyTaxId": "TPIN-7637187-ZDM",
+  "generatedDate": "2025-09-30",
+  "currency": "ZMW",
+  "period": {
+    "from": "2025-01-01",
+    "to": "2025-09-30"
+  },
+  "customerStatements": [
+    {
+      "customerId": 1,
+      "customerName": "Lusaka Enterprises Ltd",
+      "customerEmail": "finance@lusaka.co.zm",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-09-26",
+          "reference": "INV-Z-2025-017",
+          "description": "Television commercial airtime",
+          "debit": 1590500,
+          "credit": 0.0,
+          "balance": 1590500
+        }
+      ],
+      "closingBalance": 1590500,
+      "status": "Outstanding"
+    },
+    {
+      "customerId": 2,
+      "customerName": "Mukuba Group Ltd",
+      "customerEmail": "contact@mukuba.co.zm",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-01-15",
+          "reference": "INV-Z-2025-027",
+          "description": "Sponsored content package",
+          "debit": 1272500,
+          "credit": 0.0,
+          "balance": 1272500
+        },
+        {
+          "date": "2025-02-06",
+          "reference": "PMT-Z-2025-025",
+          "description": "Payment received - bank transfer",
+          "debit": 0.0,
+          "credit": 1272500,
+          "balance": 0.0
+        }
+      ],
+      "closingBalance": 0.0,
+      "status": "Settled"
+    },
+    {
+      "customerId": 3,
+      "customerName": "Lusaka Investments Ltd",
+      "customerEmail": "finance@lusaka.co.zm",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-05-26",
+          "reference": "INV-Z-2025-037",
+          "description": "Television commercial airtime",
+          "debit": 1565500,
+          "credit": 0.0,
+          "balance": 1565500
+        },
+        {
+          "date": "2025-07-07",
+          "reference": "PMT-Z-2025-036",
+          "description": "Final payment received",
+          "debit": 0.0,
+          "credit": 1565500,
+          "balance": 0.0
+        }
+      ],
+      "closingBalance": 0.0,
+      "status": "Settled"
+    },
+    {
+      "customerId": 4,
+      "customerName": "Mukuba Group Ltd",
+      "customerEmail": "info@mukuba.co.zm",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-05-27",
+          "reference": "INV-Z-2025-044",
+          "description": "Advertising campaign - Jul-Sep",
+          "debit": 1257500,
+          "credit": 0.0,
+          "balance": 1257500
+        }
+      ],
+      "closingBalance": 1257500,
+      "status": "Overdue"
+    },
+    {
+      "customerId": 5,
+      "customerName": "Copperbelt Holdings PLC",
+      "customerEmail": "info@copperbelt.co.zm",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-09-05",
+          "reference": "INV-Z-2025-058",
+          "description": "Broadcast airtime contract",
+          "debit": 557000,
+          "credit": 0.0,
+          "balance": 557000
+        }
+      ],
+      "closingBalance": 557000,
+      "status": "Outstanding"
+    }
+  ],
+  "summary": {
+    "totalInvoiced": 6243000,
+    "totalReceived": 2838000,
+    "totalOutstanding": 3405000,
+    "totalOverdue": 1257500.0,
+    "agingSummary": {
+      "current": 2147500.0,
+      "days1to30": 0.0,
+      "days31to60": 0.0,
+      "days61to90": 0.0,
+      "over90days": 1257500.0
+    }
+  }
+}

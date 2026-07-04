@@ -1,0 +1,21 @@
+{
+    "userId":  "user-South Luangwa-001",
+    "userName":  "billing@southluangwa.org.zm",
+    "fullName":  "South Luangwa",
+    "roles":  [
+                  "Director General",
+                  "Park Warden",
+                  "Chief Ranger"
+              ],
+    "companyId":  "slnp-001",
+    "companyName":  "South Luangwa National Park Authority",
+    "permissions":  [
+                        "ViewReports",
+                        "CreateTransactions",
+                        "ApproveBudgets",
+                        "ManageParkEntry",
+                        "ManageRangers",
+                        "ViewGateFees",
+                        "ManageConservation"
+                    ]
+}

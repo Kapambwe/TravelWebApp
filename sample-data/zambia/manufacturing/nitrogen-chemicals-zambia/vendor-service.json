@@ -1,0 +1,302 @@
+[
+  {
+    "id": "vendor-001",
+    "vendorName": "Chemical Distributors 1",
+    "email": "vendor1@supplier.zm",
+    "phone": "+260-217-910244",
+    "address": "Plot 1348, Freedom Way, Eastern Province",
+    "taxId": "TPIN-4797970229",
+    "paymentTerms": "NET60",
+    "accountBalance": 24016
+  },
+  {
+    "id": "vendor-002",
+    "vendorName": "Mining Companies 2",
+    "email": "vendor2@supplier.zm",
+    "phone": "+260-216-705671",
+    "address": "Plot 9336, Twin Palm Road, Lusaka",
+    "taxId": "TPIN-6935212925",
+    "paymentTerms": "NET60",
+    "accountBalance": 30945
+  },
+  {
+    "id": "vendor-003",
+    "vendorName": "Chemical Distributors 3",
+    "email": "vendor3@supplier.zm",
+    "phone": "+260-097-762519",
+    "address": "Plot 5095, Great East Road, Eastern Province",
+    "taxId": "TPIN-8225172517",
+    "paymentTerms": "NET60",
+    "accountBalance": 31904
+  },
+  {
+    "id": "vendor-004",
+    "vendorName": "Chemical Distributors 4",
+    "email": "vendor4@supplier.zm",
+    "phone": "+260-095-546714",
+    "address": "Plot 3690, Great East Road, Copperbelt",
+    "taxId": "TPIN-3173102440",
+    "paymentTerms": "NET60",
+    "accountBalance": 40652
+  },
+  {
+    "id": "vendor-005",
+    "vendorName": "Raw Material Importers 5",
+    "email": "vendor5@supplier.zm",
+    "phone": "+260-216-404833",
+    "address": "Plot 2579, Cairo Road, Lusaka",
+    "taxId": "TPIN-2589651651",
+    "paymentTerms": "NET30",
+    "accountBalance": 40435
+  },
+  {
+    "id": "vendor-006",
+    "vendorName": "Mining Companies 6",
+    "email": "vendor6@supplier.zm",
+    "phone": "+260-097-148625",
+    "address": "Plot 4880, Independence Avenue, Copperbelt",
+    "taxId": "TPIN-4770679222",
+    "paymentTerms": "NET30",
+    "accountBalance": 8553
+  },
+  {
+    "id": "vendor-007",
+    "vendorName": "Mining Companies 7",
+    "email": "vendor7@supplier.zm",
+    "phone": "+260-095-719827",
+    "address": "Plot 4380, Twin Palm Road, Southern Province",
+    "taxId": "TPIN-1963065269",
+    "paymentTerms": "NET60",
+    "accountBalance": 44396
+  },
+  {
+    "id": "vendor-008",
+    "vendorName": "Mining Companies 8",
+    "email": "vendor8@supplier.zm",
+    "phone": "+260-217-720129",
+    "address": "Plot 6776, Twin Palm Road, Northern Province",
+    "taxId": "TPIN-6758031504",
+    "paymentTerms": "NET60",
+    "accountBalance": 40256
+  },
+  {
+    "id": "vendor-009",
+    "vendorName": "Chemical Distributors 9",
+    "email": "vendor9@supplier.zm",
+    "phone": "+260-094-553428",
+    "address": "Plot 2547, Independence Avenue, Northern Province",
+    "taxId": "TPIN-3574169731",
+    "paymentTerms": "NET30",
+    "accountBalance": 7241
+  },
+  {
+    "id": "vendor-010",
+    "vendorName": "Mining Companies 10",
+    "email": "vendor10@supplier.zm",
+    "phone": "+260-094-600125",
+    "address": "Plot 4605, Freedom Way, Lusaka",
+    "taxId": "TPIN-6696465366",
+    "paymentTerms": "NET60",
+    "accountBalance": 10760
+  },
+  {
+    "id": "vendor-011",
+    "vendorName": "Mining Companies 11",
+    "email": "vendor11@supplier.zm",
+    "phone": "+260-094-708091",
+    "address": "Plot 6135, Cairo Road, Central Province",
+    "taxId": "TPIN-5021946401",
+    "paymentTerms": "COD",
+    "accountBalance": 18477
+  },
+  {
+    "id": "vendor-012",
+    "vendorName": "Raw Material Importers 12",
+    "email": "vendor12@supplier.zm",
+    "phone": "+260-097-974038",
+    "address": "Plot 6834, Twin Palm Road, Lusaka",
+    "taxId": "TPIN-7703314303",
+    "paymentTerms": "NET60",
+    "accountBalance": 9305
+  },
+  {
+    "id": "vendor-013",
+    "vendorName": "Raw Material Importers 13",
+    "email": "vendor13@supplier.zm",
+    "phone": "+260-216-945277",
+    "address": "Plot 2239, Great East Road, Eastern Province",
+    "taxId": "TPIN-3565898223",
+    "paymentTerms": "NET60",
+    "accountBalance": 31338
+  },
+  {
+    "id": "vendor-014",
+    "vendorName": "Chemical Distributors 14",
+    "email": "vendor14@supplier.zm",
+    "phone": "+260-216-632511",
+    "address": "Plot 8190, Freedom Way, Northern Province",
+    "taxId": "TPIN-8586966695",
+    "paymentTerms": "NET30",
+    "accountBalance": 44513
+  },
+  {
+    "id": "vendor-015",
+    "vendorName": "Raw Material Importers 15",
+    "email": "vendor15@supplier.zm",
+    "phone": "+260-217-763280",
+    "address": "Plot 9268, Freedom Way, Southern Province",
+    "taxId": "TPIN-4374035751",
+    "paymentTerms": "NET30",
+    "accountBalance": 30293
+  },
+  {
+    "id": "vendor-016",
+    "vendorName": "Mining Companies 16",
+    "email": "vendor16@supplier.zm",
+    "phone": "+260-216-689327",
+    "address": "Plot 3776, Twin Palm Road, Northern Province",
+    "taxId": "TPIN-5167769296",
+    "paymentTerms": "COD",
+    "accountBalance": 21180
+  },
+  {
+    "id": "vendor-017",
+    "vendorName": "Mining Companies 17",
+    "email": "vendor17@supplier.zm",
+    "phone": "+260-216-604040",
+    "address": "Plot 4242, Cairo Road, Lusaka",
+    "taxId": "TPIN-1189836117",
+    "paymentTerms": "NET30",
+    "accountBalance": 39143
+  },
+  {
+    "id": "vendor-018",
+    "vendorName": "Chemical Distributors 18",
+    "email": "vendor18@supplier.zm",
+    "phone": "+260-094-601567",
+    "address": "Plot 2201, Independence Avenue, Lusaka",
+    "taxId": "TPIN-6252325834",
+    "paymentTerms": "COD",
+    "accountBalance": 11417
+  },
+  {
+    "id": "vendor-019",
+    "vendorName": "Chemical Distributors 19",
+    "email": "vendor19@supplier.zm",
+    "phone": "+260-216-694046",
+    "address": "Plot 3176, Twin Palm Road, Northern Province",
+    "taxId": "TPIN-3060493710",
+    "paymentTerms": "NET60",
+    "accountBalance": 45388
+  },
+  {
+    "id": "vendor-020",
+    "vendorName": "Raw Material Importers 20",
+    "email": "vendor20@supplier.zm",
+    "phone": "+260-094-969586",
+    "address": "Plot 7317, Twin Palm Road, Eastern Province",
+    "taxId": "TPIN-7831451152",
+    "paymentTerms": "NET30",
+    "accountBalance": 7381
+  },
+  {
+    "id": "vendor-021",
+    "vendorName": "Raw Material Importers 21",
+    "email": "vendor21@supplier.zm",
+    "phone": "+260-217-240293",
+    "address": "Plot 8699, Cairo Road, Northern Province",
+    "taxId": "TPIN-5837457677",
+    "paymentTerms": "NET30",
+    "accountBalance": 8269
+  },
+  {
+    "id": "vendor-022",
+    "vendorName": "Raw Material Importers 22",
+    "email": "vendor22@supplier.zm",
+    "phone": "+260-094-346218",
+    "address": "Plot 2356, Great East Road, Southern Province",
+    "taxId": "TPIN-7132279535",
+    "paymentTerms": "NET60",
+    "accountBalance": 46250
+  },
+  {
+    "id": "vendor-023",
+    "vendorName": "Mining Companies 23",
+    "email": "vendor23@supplier.zm",
+    "phone": "+260-095-386052",
+    "address": "Plot 3650, Great East Road, Lusaka",
+    "taxId": "TPIN-1807364094",
+    "paymentTerms": "COD",
+    "accountBalance": 9781
+  },
+  {
+    "id": "vendor-024",
+    "vendorName": "Chemical Distributors 24",
+    "email": "vendor24@supplier.zm",
+    "phone": "+260-217-369533",
+    "address": "Plot 1159, Twin Palm Road, Lusaka",
+    "taxId": "TPIN-1892701007",
+    "paymentTerms": "COD",
+    "accountBalance": 46384
+  },
+  {
+    "id": "vendor-025",
+    "vendorName": "Mining Companies 25",
+    "email": "vendor25@supplier.zm",
+    "phone": "+260-097-870925",
+    "address": "Plot 2961, Twin Palm Road, Eastern Province",
+    "taxId": "TPIN-3633076269",
+    "paymentTerms": "NET60",
+    "accountBalance": 21904
+  },
+  {
+    "id": "vendor-026",
+    "vendorName": "Mining Companies 26",
+    "email": "vendor26@supplier.zm",
+    "phone": "+260-216-124995",
+    "address": "Plot 3262, Twin Palm Road, Central Province",
+    "taxId": "TPIN-6386084533",
+    "paymentTerms": "COD",
+    "accountBalance": 17874
+  },
+  {
+    "id": "vendor-027",
+    "vendorName": "Raw Material Importers 27",
+    "email": "vendor27@supplier.zm",
+    "phone": "+260-095-697054",
+    "address": "Plot 2691, Great East Road, Northern Province",
+    "taxId": "TPIN-8010305743",
+    "paymentTerms": "COD",
+    "accountBalance": 22901
+  },
+  {
+    "id": "vendor-028",
+    "vendorName": "Mining Companies 28",
+    "email": "vendor28@supplier.zm",
+    "phone": "+260-097-672692",
+    "address": "Plot 3748, Independence Avenue, Eastern Province",
+    "taxId": "TPIN-9352591523",
+    "paymentTerms": "COD",
+    "accountBalance": 43556
+  },
+  {
+    "id": "vendor-029",
+    "vendorName": "Chemical Distributors 29",
+    "email": "vendor29@supplier.zm",
+    "phone": "+260-217-381944",
+    "address": "Plot 1854, Cairo Road, Copperbelt",
+    "taxId": "TPIN-7910069478",
+    "paymentTerms": "NET60",
+    "accountBalance": 7347
+  },
+  {
+    "id": "vendor-030",
+    "vendorName": "Raw Material Importers 30",
+    "email": "vendor30@supplier.zm",
+    "phone": "+260-216-474599",
+    "address": "Plot 7510, Independence Avenue, Southern Province",
+    "taxId": "TPIN-2833186391",
+    "paymentTerms": "NET30",
+    "accountBalance": 44889
+  }
+]

@@ -1,0 +1,21 @@
+{
+    "userId":  "user-Protea Ndola-001",
+    "userName":  "accounts@proteandola.co.zm",
+    "fullName":  "Protea Ndola",
+    "roles":  [
+                  "General Manager",
+                  "Lodge Host",
+                  "Head of Finance"
+              ],
+    "companyId":  "phn-001",
+    "companyName":  "Protea Hotel Ndola by Marriott",
+    "permissions":  [
+                        "ViewReports",
+                        "CreateTransactions",
+                        "ApproveBudgets",
+                        "ManageBookings",
+                        "ManageRooms",
+                        "ViewOccupancy",
+                        "ManageAmenities"
+                    ]
+}

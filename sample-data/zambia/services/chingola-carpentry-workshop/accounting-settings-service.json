@@ -1,0 +1,13 @@
+{
+  "companyName": "Chingola Carpentry Workshop",
+  "defaultCurrency": "ZMW",
+  "fiscalYearStart": "01-01",
+  "taxRate": 16.0,
+  "dateFormat": "DD/MM/YYYY",
+  "numberFormat": "en-ZM",
+  "enableMultiCurrency": false,
+  "defaultPaymentTerms": 14,
+  "companyTpin": "TPIN-6482917354",
+  "companyAddress": "Plot 289, Kafue Road, Chingola",
+  "businessType": "carpentry"
+}

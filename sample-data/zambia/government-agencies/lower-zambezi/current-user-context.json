@@ -1,0 +1,21 @@
+{
+    "userId":  "user-Lower Zambezi-001",
+    "userName":  "billing@lowerzambezi.org.zm",
+    "fullName":  "Lower Zambezi",
+    "roles":  [
+                  "Director General",
+                  "Park Warden",
+                  "Chief Ranger"
+              ],
+    "companyId":  "lznp-001",
+    "companyName":  "Lower Zambezi National Park Conservation",
+    "permissions":  [
+                        "ViewReports",
+                        "CreateTransactions",
+                        "ApproveBudgets",
+                        "ManageParkEntry",
+                        "ManageRangers",
+                        "ViewGateFees",
+                        "ManageConservation"
+                    ]
+}

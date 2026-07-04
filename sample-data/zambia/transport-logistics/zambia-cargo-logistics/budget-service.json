@@ -1,0 +1,242 @@
+[
+  {
+    "id": "budget-001",
+    "budgetName": "Transportation Budget 1",
+    "category": "Operations",
+    "amount": 99648.6,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-002",
+    "budgetName": "Transportation Budget 2",
+    "category": "Operations",
+    "amount": 93944.81,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-003",
+    "budgetName": "Delivery Budget 3",
+    "category": "Administration",
+    "amount": 20614.63,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-004",
+    "budgetName": "Delivery Budget 4",
+    "category": "Development",
+    "amount": 68817.92,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-005",
+    "budgetName": "Sorting Budget 5",
+    "category": "Marketing",
+    "amount": 69664.57,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-006",
+    "budgetName": "Transportation Budget 6",
+    "category": "Marketing",
+    "amount": 71603.5,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-007",
+    "budgetName": "Warehousing Budget 7",
+    "category": "Development",
+    "amount": 51354.72,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-008",
+    "budgetName": "Delivery Budget 8",
+    "category": "Marketing",
+    "amount": 31677.02,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-009",
+    "budgetName": "Delivery Budget 9",
+    "category": "Marketing",
+    "amount": 81203.31,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-010",
+    "budgetName": "Warehousing Budget 10",
+    "category": "Development",
+    "amount": 65790.45,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-011",
+    "budgetName": "Delivery Budget 11",
+    "category": "Administration",
+    "amount": 29591.73,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-012",
+    "budgetName": "Transportation Budget 12",
+    "category": "Development",
+    "amount": 18042.39,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-013",
+    "budgetName": "Sorting Budget 13",
+    "category": "Operations",
+    "amount": 71848.3,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-014",
+    "budgetName": "Transportation Budget 14",
+    "category": "Development",
+    "amount": 68483.03,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-015",
+    "budgetName": "Warehousing Budget 15",
+    "category": "Marketing",
+    "amount": 59652.14,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-016",
+    "budgetName": "Sorting Budget 16",
+    "category": "Administration",
+    "amount": 26517.17,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-017",
+    "budgetName": "Warehousing Budget 17",
+    "category": "Development",
+    "amount": 16063.38,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-018",
+    "budgetName": "Delivery Budget 18",
+    "category": "Operations",
+    "amount": 46440.7,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-019",
+    "budgetName": "Delivery Budget 19",
+    "category": "Marketing",
+    "amount": 22092.16,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-020",
+    "budgetName": "Delivery Budget 20",
+    "category": "Marketing",
+    "amount": 22846.64,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-021",
+    "budgetName": "Delivery Budget 21",
+    "category": "Administration",
+    "amount": 30878.51,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-022",
+    "budgetName": "Delivery Budget 22",
+    "category": "Administration",
+    "amount": 75972.29,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-023",
+    "budgetName": "Sorting Budget 23",
+    "category": "Marketing",
+    "amount": 66693.01,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-024",
+    "budgetName": "Warehousing Budget 24",
+    "category": "Operations",
+    "amount": 62289.04,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-025",
+    "budgetName": "Transportation Budget 25",
+    "category": "Development",
+    "amount": 48894.91,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-026",
+    "budgetName": "Delivery Budget 26",
+    "category": "Marketing",
+    "amount": 45591.06,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-027",
+    "budgetName": "Warehousing Budget 27",
+    "category": "Operations",
+    "amount": 70481.38,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-028",
+    "budgetName": "Transportation Budget 28",
+    "category": "Marketing",
+    "amount": 99947.13,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-029",
+    "budgetName": "Transportation Budget 29",
+    "category": "Development",
+    "amount": 83665.41,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-030",
+    "budgetName": "Sorting Budget 30",
+    "category": "Operations",
+    "amount": 53819.23,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  }
+]

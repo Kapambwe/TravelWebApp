@@ -1,0 +1,142 @@
+{
+  "companyName": "Zambezi Cashew Company",
+  "companyAddress": "Mongu, Zambia",
+  "companyTaxId": "TPIN-1395798-ZCC",
+  "generatedDate": "2025-09-30",
+  "currency": "ZMW",
+  "period": {
+    "from": "2025-01-01",
+    "to": "2025-09-30"
+  },
+  "customerStatements": [
+    {
+      "customerId": 1,
+      "customerName": "Lusaka Trading Ltd",
+      "customerEmail": "info@lusaka.co.zm",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-09-23",
+          "reference": "INV-Z-2025-014",
+          "description": "Agri-input supply contract",
+          "debit": 1133500,
+          "credit": 0.0,
+          "balance": 1133500
+        }
+      ],
+      "closingBalance": 1133500,
+      "status": "Outstanding"
+    },
+    {
+      "customerId": 2,
+      "customerName": "Kafue Trading Ltd",
+      "customerEmail": "contact@kafue.co.zm",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-05-14",
+          "reference": "INV-Z-2025-021",
+          "description": "Processing fee - soya meal",
+          "debit": 2750000,
+          "credit": 0.0,
+          "balance": 2750000
+        }
+      ],
+      "closingBalance": 2750000,
+      "status": "Overdue"
+    },
+    {
+      "customerId": 3,
+      "customerName": "Mukuba Trading Ltd",
+      "customerEmail": "admin@mukuba.com",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-08-10",
+          "reference": "INV-Z-2025-038",
+          "description": "Processing fee - cashew nuts",
+          "debit": 2260500,
+          "credit": 0.0,
+          "balance": 2260500
+        }
+      ],
+      "closingBalance": 2260500,
+      "status": "Outstanding"
+    },
+    {
+      "customerId": 4,
+      "customerName": "Kansanshi Group Ltd",
+      "customerEmail": "contact@kansanshi.co.zm",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-02-11",
+          "reference": "INV-Z-2025-044",
+          "description": "Supply of dried mango - batch 2048",
+          "debit": 1491500,
+          "credit": 0.0,
+          "balance": 1491500
+        },
+        {
+          "date": "2025-04-17",
+          "reference": "PMT-Z-2025-047",
+          "description": "Partial payment received",
+          "debit": 0.0,
+          "credit": 1491500,
+          "balance": 0.0
+        }
+      ],
+      "closingBalance": 0.0,
+      "status": "Settled"
+    },
+    {
+      "customerId": 5,
+      "customerName": "Kafue Enterprises Ltd",
+      "customerEmail": "finance@kafue.co.zm",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-04-08",
+          "reference": "INV-Z-2025-055",
+          "description": "Cold storage & logistics fee",
+          "debit": 1632500,
+          "credit": 0.0,
+          "balance": 1632500
+        }
+      ],
+      "closingBalance": 1632500,
+      "status": "Overdue"
+    },
+    {
+      "customerId": 6,
+      "customerName": "Copperbelt Enterprises Ltd",
+      "customerEmail": "finance@copperbelt.co.zm",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-09-08",
+          "reference": "INV-Z-2025-068",
+          "description": "Processing fee - groundnuts",
+          "debit": 815000,
+          "credit": 0.0,
+          "balance": 815000
+        }
+      ],
+      "closingBalance": 815000,
+      "status": "Outstanding"
+    }
+  ],
+  "summary": {
+    "totalInvoiced": 10083000,
+    "totalReceived": 1491500,
+    "totalOutstanding": 8591500,
+    "totalOverdue": 6643000.0,
+    "agingSummary": {
+      "current": 1948500.0,
+      "days1to30": 2260500.0,
+      "days31to60": 0.0,
+      "days61to90": 0.0,
+      "over90days": 4382500.0
+    }
+  }
+}

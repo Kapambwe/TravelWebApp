@@ -1,0 +1,167 @@
+[
+  {
+    "id": 1,
+    "paymentNumber": "PAY-2025-001",
+    "invoiceId": 14,
+    "customerId": 3,
+    "clientName": "Kabwe Beverages Group",
+    "amount": 1210909.56,
+    "paymentDate": "2025-01-25T00:00:00",
+    "paymentMethod": "Bank Transfer",
+    "referenceNumber": "TRF-20250315-001"
+  },
+  {
+    "id": 2,
+    "paymentNumber": "PAY-2025-002",
+    "invoiceId": 3,
+    "customerId": 4,
+    "clientName": "Bwalya Foods Group",
+    "amount": 1605254.64,
+    "paymentDate": "2025-01-28T00:00:00",
+    "paymentMethod": "Mobile Money",
+    "referenceNumber": "MMO-20250315-002"
+  },
+  {
+    "id": 3,
+    "paymentNumber": "PAY-2025-003",
+    "invoiceId": 5,
+    "customerId": 5,
+    "clientName": "Zimba Provisions Solutions",
+    "amount": 1230210.25,
+    "paymentDate": "2024-12-22T00:00:00",
+    "paymentMethod": "Bank Transfer",
+    "referenceNumber": "TRF-20250315-003"
+  },
+  {
+    "id": 4,
+    "paymentNumber": "PAY-2025-004",
+    "invoiceId": 6,
+    "customerId": 9,
+    "clientName": "Kabwe Foods Solutions",
+    "amount": 2363332.04,
+    "paymentDate": "2025-02-06T00:00:00",
+    "paymentMethod": "Bank Transfer",
+    "referenceNumber": "TRF-20250315-004"
+  },
+  {
+    "id": 5,
+    "paymentNumber": "PAY-2025-005",
+    "invoiceId": 13,
+    "customerId": 9,
+    "clientName": "Kabwe Foods Solutions",
+    "amount": 222776.63,
+    "paymentDate": "2025-02-23T00:00:00",
+    "paymentMethod": "Bank Transfer",
+    "referenceNumber": "TRF-20250315-005"
+  },
+  {
+    "id": 6,
+    "paymentNumber": "PAY-2025-006",
+    "invoiceId": 3,
+    "customerId": 4,
+    "clientName": "Bwalya Foods Group",
+    "amount": 1605254.64,
+    "paymentDate": "2025-01-22T00:00:00",
+    "paymentMethod": "Cheque",
+    "referenceNumber": "CHQ-20250315-006"
+  },
+  {
+    "id": 7,
+    "paymentNumber": "PAY-2025-007",
+    "invoiceId": 11,
+    "customerId": 5,
+    "clientName": "Zimba Provisions Solutions",
+    "amount": 793567.02,
+    "paymentDate": "2025-01-30T00:00:00",
+    "paymentMethod": "Mobile Money",
+    "referenceNumber": "MMO-20250315-007"
+  },
+  {
+    "id": 8,
+    "paymentNumber": "PAY-2025-008",
+    "invoiceId": 4,
+    "customerId": 10,
+    "clientName": "Siame Beverages Group",
+    "amount": 60352.69,
+    "paymentDate": "2025-01-28T00:00:00",
+    "paymentMethod": "Mobile Money",
+    "referenceNumber": "MMO-20250315-008"
+  },
+  {
+    "id": 9,
+    "paymentNumber": "PAY-2025-009",
+    "invoiceId": 10,
+    "customerId": 11,
+    "clientName": "Phiri Foods Enterprises",
+    "amount": 1100930.73,
+    "paymentDate": "2025-01-18T00:00:00",
+    "paymentMethod": "Bank Transfer",
+    "referenceNumber": "TRF-20250315-009"
+  },
+  {
+    "id": 10,
+    "paymentNumber": "PAY-2025-010",
+    "invoiceId": 14,
+    "customerId": 3,
+    "clientName": "Kabwe Beverages Group",
+    "amount": 1210909.56,
+    "paymentDate": "2025-01-22T00:00:00",
+    "paymentMethod": "Mobile Money",
+    "referenceNumber": "MMO-20250315-010"
+  },
+  {
+    "id": 11,
+    "paymentNumber": "PAY-2025-011",
+    "invoiceId": 9,
+    "customerId": 12,
+    "clientName": "Mumba Foods Solutions",
+    "amount": 865065.41,
+    "paymentDate": "2024-12-27T00:00:00",
+    "paymentMethod": "Bank Transfer",
+    "referenceNumber": "TRF-20250315-011"
+  },
+  {
+    "id": 12,
+    "paymentNumber": "PAY-2025-012",
+    "invoiceId": 4,
+    "customerId": 10,
+    "clientName": "Siame Beverages Group",
+    "amount": 60352.69,
+    "paymentDate": "2024-12-20T00:00:00",
+    "paymentMethod": "Cash",
+    "referenceNumber": "CASH-20250315-012"
+  },
+  {
+    "id": 13,
+    "paymentNumber": "PAY-2025-013",
+    "invoiceId": 11,
+    "customerId": 5,
+    "clientName": "Zimba Provisions Solutions",
+    "amount": 793567.02,
+    "paymentDate": "2024-12-21T00:00:00",
+    "paymentMethod": "Bank Transfer",
+    "referenceNumber": "TRF-20250315-013"
+  },
+  {
+    "id": 14,
+    "paymentNumber": "PAY-2025-014",
+    "invoiceId": 13,
+    "customerId": 9,
+    "clientName": "Kabwe Foods Solutions",
+    "amount": 222776.63,
+    "paymentDate": "2025-03-14T00:00:00",
+    "paymentMethod": "Cash",
+    "referenceNumber": "CASH-20250315-014"
+  },
+  {
+    "id": 15,
+    "paymentNumber": "PAY-2025-015",
+    "invoiceId": 4,
+    "customerId": 10,
+    "clientName": "Siame Beverages Group",
+    "amount": 60352.69,
+    "paymentDate": "2025-03-07T00:00:00",
+    "paymentMethod": "Bank Transfer",
+    "referenceNumber": "TRF-20250315-015"
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "id": "prod-001",
+    "productName": "Maintenance Services - Variant 1",
+    "description": "Quality Passenger Flights product",
+    "category": "Operational",
+    "unitPrice": 5585.58,
+    "quantityInStock": 188,
+    "reorderLevel": 47,
+    "supplier": "Maintenance Providers"
+  },
+  {
+    "id": "prod-002",
+    "productName": "Cargo Services - Variant 2",
+    "description": "Quality Maintenance Services product",
+    "category": "Operational",
+    "unitPrice": 8916.12,
+    "quantityInStock": 103,
+    "reorderLevel": 35,
+    "supplier": "Fuel Suppliers"
+  },
+  {
+    "id": "prod-003",
+    "productName": "Passenger Flights - Variant 3",
+    "description": "Quality Maintenance Services product",
+    "category": "Operational",
+    "unitPrice": 3429.37,
+    "quantityInStock": 389,
+    "reorderLevel": 34,
+    "supplier": "Fuel Suppliers"
+  },
+  {
+    "id": "prod-004",
+    "productName": "Passenger Flights - Variant 4",
+    "description": "Quality Passenger Flights product",
+    "category": "Operational",
+    "unitPrice": 4521.48,
+    "quantityInStock": 374,
+    "reorderLevel": 8,
+    "supplier": "Aircraft Manufacturers"
+  },
+  {
+    "id": "prod-005",
+    "productName": "Maintenance Services - Variant 5",
+    "description": "Quality Maintenance Services product",
+    "category": "Operational",
+    "unitPrice": 5939.85,
+    "quantityInStock": 214,
+    "reorderLevel": 48,
+    "supplier": "Fuel Suppliers"
+  },
+  {
+    "id": "prod-006",
+    "productName": "Cargo Services - Variant 6",
+    "description": "Quality Charter Flights product",
+    "category": "Operational",
+    "unitPrice": 1366.38,
+    "quantityInStock": 152,
+    "reorderLevel": 24,
+    "supplier": "Aircraft Manufacturers"
+  },
+  {
+    "id": "prod-007",
+    "productName": "Charter Flights - Variant 7",
+    "description": "Quality Charter Flights product",
+    "category": "Operational",
+    "unitPrice": 2598.8,
+    "quantityInStock": 311,
+    "reorderLevel": 38,
+    "supplier": "Aircraft Manufacturers"
+  },
+  {
+    "id": "prod-008",
+    "productName": "Cargo Services - Variant 8",
+    "description": "Quality Maintenance Services product",
+    "category": "Operational",
+    "unitPrice": 1333.0,
+    "quantityInStock": 288,
+    "reorderLevel": 23,
+    "supplier": "Maintenance Providers"
+  },
+  {
+    "id": "prod-009",
+    "productName": "Cargo Services - Variant 9",
+    "description": "Quality Cargo Services product",
+    "category": "Operational",
+    "unitPrice": 8502.31,
+    "quantityInStock": 100,
+    "reorderLevel": 6,
+    "supplier": "Fuel Suppliers"
+  },
+  {
+    "id": "prod-010",
+    "productName": "Cargo Services - Variant 10",
+    "description": "Quality Cargo Services product",
+    "category": "Operational",
+    "unitPrice": 5545.06,
+    "quantityInStock": 137,
+    "reorderLevel": 42,
+    "supplier": "Aircraft Manufacturers"
+  },
+  {
+    "id": "prod-011",
+    "productName": "Maintenance Services - Variant 11",
+    "description": "Quality Cargo Services product",
+    "category": "Operational",
+    "unitPrice": 636.79,
+    "quantityInStock": 328,
+    "reorderLevel": 44,
+    "supplier": "Fuel Suppliers"
+  },
+  {
+    "id": "prod-012",
+    "productName": "Maintenance Services - Variant 12",
+    "description": "Quality Passenger Flights product",
+    "category": "Operational",
+    "unitPrice": 6374.0,
+    "quantityInStock": 266,
+    "reorderLevel": 30,
+    "supplier": "Maintenance Providers"
+  },
+  {
+    "id": "prod-013",
+    "productName": "Passenger Flights - Variant 13",
+    "description": "Quality Maintenance Services product",
+    "category": "Operational",
+    "unitPrice": 5352.86,
+    "quantityInStock": 168,
+    "reorderLevel": 13,
+    "supplier": "Maintenance Providers"
+  },
+  {
+    "id": "prod-014",
+    "productName": "Charter Flights - Variant 14",
+    "description": "Quality Passenger Flights product",
+    "category": "Operational",
+    "unitPrice": 9762.09,
+    "quantityInStock": 460,
+    "reorderLevel": 33,
+    "supplier": "Aircraft Manufacturers"
+  },
+  {
+    "id": "prod-015",
+    "productName": "Cargo Services - Variant 15",
+    "description": "Quality Charter Flights product",
+    "category": "Operational",
+    "unitPrice": 9051.54,
+    "quantityInStock": 356,
+    "reorderLevel": 45,
+    "supplier": "Fuel Suppliers"
+  },
+  {
+    "id": "prod-016",
+    "productName": "Passenger Flights - Variant 16",
+    "description": "Quality Passenger Flights product",
+    "category": "Operational",
+    "unitPrice": 3807.15,
+    "quantityInStock": 265,
+    "reorderLevel": 43,
+    "supplier": "Fuel Suppliers"
+  },
+  {
+    "id": "prod-017",
+    "productName": "Maintenance Services - Variant 17",
+    "description": "Quality Charter Flights product",
+    "category": "Operational",
+    "unitPrice": 3832.79,
+    "quantityInStock": 485,
+    "reorderLevel": 14,
+    "supplier": "Fuel Suppliers"
+  },
+  {
+    "id": "prod-018",
+    "productName": "Cargo Services - Variant 18",
+    "description": "Quality Passenger Flights product",
+    "category": "Operational",
+    "unitPrice": 7060.26,
+    "quantityInStock": 291,
+    "reorderLevel": 30,
+    "supplier": "Maintenance Providers"
+  },
+  {
+    "id": "prod-019",
+    "productName": "Passenger Flights - Variant 19",
+    "description": "Quality Passenger Flights product",
+    "category": "Operational",
+    "unitPrice": 4423.93,
+    "quantityInStock": 82,
+    "reorderLevel": 7,
+    "supplier": "Fuel Suppliers"
+  },
+  {
+    "id": "prod-020",
+    "productName": "Charter Flights - Variant 20",
+    "description": "Quality Maintenance Services product",
+    "category": "Operational",
+    "unitPrice": 8352.16,
+    "quantityInStock": 276,
+    "reorderLevel": 20,
+    "supplier": "Fuel Suppliers"
+  },
+  {
+    "id": "prod-021",
+    "productName": "Cargo Services - Variant 21",
+    "description": "Quality Cargo Services product",
+    "category": "Operational",
+    "unitPrice": 2429.82,
+    "quantityInStock": 392,
+    "reorderLevel": 31,
+    "supplier": "Fuel Suppliers"
+  },
+  {
+    "id": "prod-022",
+    "productName": "Charter Flights - Variant 22",
+    "description": "Quality Charter Flights product",
+    "category": "Operational",
+    "unitPrice": 2449.3,
+    "quantityInStock": 78,
+    "reorderLevel": 30,
+    "supplier": "Maintenance Providers"
+  },
+  {
+    "id": "prod-023",
+    "productName": "Maintenance Services - Variant 23",
+    "description": "Quality Cargo Services product",
+    "category": "Operational",
+    "unitPrice": 2734.01,
+    "quantityInStock": 272,
+    "reorderLevel": 45,
+    "supplier": "Aircraft Manufacturers"
+  },
+  {
+    "id": "prod-024",
+    "productName": "Cargo Services - Variant 24",
+    "description": "Quality Charter Flights product",
+    "category": "Operational",
+    "unitPrice": 9403.89,
+    "quantityInStock": 301,
+    "reorderLevel": 40,
+    "supplier": "Fuel Suppliers"
+  },
+  {
+    "id": "prod-025",
+    "productName": "Cargo Services - Variant 25",
+    "description": "Quality Passenger Flights product",
+    "category": "Operational",
+    "unitPrice": 2557.44,
+    "quantityInStock": 405,
+    "reorderLevel": 14,
+    "supplier": "Fuel Suppliers"
+  },
+  {
+    "id": "prod-026",
+    "productName": "Cargo Services - Variant 26",
+    "description": "Quality Passenger Flights product",
+    "category": "Operational",
+    "unitPrice": 3388.26,
+    "quantityInStock": 250,
+    "reorderLevel": 23,
+    "supplier": "Maintenance Providers"
+  },
+  {
+    "id": "prod-027",
+    "productName": "Cargo Services - Variant 27",
+    "description": "Quality Maintenance Services product",
+    "category": "Operational",
+    "unitPrice": 5877.46,
+    "quantityInStock": 113,
+    "reorderLevel": 11,
+    "supplier": "Maintenance Providers"
+  },
+  {
+    "id": "prod-028",
+    "productName": "Passenger Flights - Variant 28",
+    "description": "Quality Charter Flights product",
+    "category": "Operational",
+    "unitPrice": 5792.38,
+    "quantityInStock": 348,
+    "reorderLevel": 29,
+    "supplier": "Fuel Suppliers"
+  },
+  {
+    "id": "prod-029",
+    "productName": "Passenger Flights - Variant 29",
+    "description": "Quality Passenger Flights product",
+    "category": "Operational",
+    "unitPrice": 8895.09,
+    "quantityInStock": 262,
+    "reorderLevel": 35,
+    "supplier": "Maintenance Providers"
+  },
+  {
+    "id": "prod-030",
+    "productName": "Cargo Services - Variant 30",
+    "description": "Quality Charter Flights product",
+    "category": "Operational",
+    "unitPrice": 9656.18,
+    "quantityInStock": 33,
+    "reorderLevel": 25,
+    "supplier": "Fuel Suppliers"
+  }
+]

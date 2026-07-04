@@ -1,0 +1,40 @@
+[
+  {
+    "id":1,"estimateNumber":"EST-2025-001","customerId":1,"customerName":"Shoprite Zambia Ltd",
+    "estimateDateDaysAgo":90,"expirationDateDaysFromNow":90,"sentDateDaysAgo":85,
+    "status":"Sent","subTotal":45000000.00,"taxRate":16,"taxAmount":7200000.00,"total":52200000.00,
+    "terms":"Net 30","createdBy":"Chanda Banda - Sales Director","createdDateDaysAgo":90,
+    "lines":[{"lineNumber":1,"description":"Raw Sugar Bulk Annual Supply - 6000MT","quantity":6000,"unitPrice":7500.00,"amount":45000000.00,"itemType":"Product"}]
+  },
+  {
+    "id":2,"estimateNumber":"EST-2025-002","customerId":7,"customerName":"National Milling Corporation",
+    "estimateDateDaysAgo":60,"expirationDateDaysFromNow":60,
+    "status":"Open","subTotal":28000000.00,"taxRate":16,"taxAmount":4480000.00,"total":32480000.00,
+    "terms":"Net 30","createdBy":"Chanda Banda - Sales Director","createdDateDaysAgo":60,
+    "lines":[{"lineNumber":1,"description":"Refined Sugar Export COMESA - 4000MT","quantity":4000,"unitPrice":7000.00,"amount":28000000.00,"itemType":"Product"}]
+  },
+  {
+    "id":3,"estimateNumber":"EST-2025-003","customerId":9,"customerName":"Coca-Cola Zambia",
+    "estimateDateDaysAgo":45,"expirationDateDaysFromNow":90,"sentDateDaysAgo":40,"acceptedDateDaysAgo":20,
+    "status":"Accepted","subTotal":12600000.00,"taxRate":16,"taxAmount":2016000.00,"total":14616000.00,
+    "terms":"Net 30","createdBy":"Grace Phiri - Sales Manager","createdDateDaysAgo":45,
+    "lines":[{"lineNumber":1,"description":"Industrial Grade Molasses - 12 Month Supply Agreement","quantity":12,"unitPrice":1050000.00,"amount":12600000.00,"itemType":"Product"}]
+  },
+  {
+    "id":4,"estimateNumber":"EST-2025-004","customerId":10,"customerName":"SABMiller Zambia",
+    "estimateDateDaysAgo":30,"expirationDateDaysFromNow":30,
+    "status":"Open","subTotal":18000000.00,"taxRate":16,"taxAmount":2880000.00,"total":20880000.00,
+    "terms":"Net 45","createdBy":"Chanda Banda - Sales Director","createdDateDaysAgo":30,
+    "lines":[
+      {"lineNumber":1,"description":"Sugar Syrup Industrial Grade - 6 Months","quantity":6,"unitPrice":1800000.00,"amount":10800000.00,"itemType":"Product"},
+      {"lineNumber":2,"description":"Specialty Sugar Blends - 6 Months","quantity":6,"unitPrice":1200000.00,"amount":7200000.00,"itemType":"Product"}
+    ]
+  },
+  {
+    "id":5,"estimateNumber":"EST-2025-005","customerId":6,"customerName":"Tiger Brands Africa",
+    "estimateDateDaysAgo":15,"expirationDateDaysFromNow":75,
+    "status":"Draft","subTotal":8500000.00,"taxRate":16,"taxAmount":1360000.00,"total":9860000.00,
+    "terms":"Net 30","createdBy":"Grace Phiri - Sales Manager","createdDateDaysAgo":15,
+    "lines":[{"lineNumber":1,"description":"Retail Pack Sugar 2kg - 50000 Units","quantity":50000,"unitPrice":170.00,"amount":8500000.00,"itemType":"Product"}]
+  }
+]

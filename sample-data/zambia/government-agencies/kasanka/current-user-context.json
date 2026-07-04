@@ -1,0 +1,21 @@
+{
+    "userId":  "user-Kasanka-001",
+    "userName":  "billing@kasankatrust.org.zm",
+    "fullName":  "Kasanka",
+    "roles":  [
+                  "Director General",
+                  "Park Warden",
+                  "Chief Ranger"
+              ],
+    "companyId":  "ksnk-001",
+    "companyName":  "Kasanka National Park Trust",
+    "permissions":  [
+                        "ViewReports",
+                        "CreateTransactions",
+                        "ApproveBudgets",
+                        "ManageParkEntry",
+                        "ManageRangers",
+                        "ViewGateFees",
+                        "ManageConservation"
+                    ]
+}

@@ -1,0 +1,38 @@
+﻿[
+    {
+        "Id":  1,
+        "Name":  "Leopard",
+        "ScientificName":  "Panthera pardus",
+        "Population":  450,
+        "PopulationTrend":  0,
+        "ConservationStatus":  "Vulnerable",
+        "LastCensusDate":  "2024-05-15T00:00:00"
+    },
+    {
+        "Id":  2,
+        "Name":  "African Lion",
+        "ScientificName":  "Panthera leo",
+        "Population":  180,
+        "PopulationTrend":  1,
+        "ConservationStatus":  "Vulnerable",
+        "LastCensusDate":  "2024-05-16T00:00:00"
+    },
+    {
+        "Id":  3,
+        "Name":  "African Bush Elephant",
+        "ScientificName":  "Loxodonta africana",
+        "Population":  5200,
+        "PopulationTrend":  1,
+        "ConservationStatus":  "Endangered",
+        "LastCensusDate":  "2024-05-10T00:00:00"
+    },
+    {
+        "Id":  4,
+        "Name":  "Thornicroft Giraffe",
+        "ScientificName":  "Giraffa camelopardalis thornicrofti",
+        "Population":  850,
+        "PopulationTrend":  0,
+        "ConservationStatus":  "Vulnerable",
+        "LastCensusDate":  "2024-05-12T00:00:00"
+    }
+]

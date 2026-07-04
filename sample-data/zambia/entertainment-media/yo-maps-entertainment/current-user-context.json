@@ -1,0 +1,20 @@
+{
+  "userId": "user-yomaps-001",
+  "userName": "admin@yomaps.co.zm",
+  "fullName": "Elton Mulenga (Yo Maps)",
+  "roles": [
+    "CEO",
+    "Artist",
+    "Property Manager"
+  ],
+  "companyId": "yomaps-ent-001",
+  "companyName": "Yo Maps Entertainment & Properties",
+  "permissions": [
+    "ViewReports",
+    "CreateTransactions",
+    "ApproveBudgets",
+    "ManageProperties",
+    "ManageMusicSales",
+    "ViewRoyalties"
+  ]
+}

@@ -1,0 +1,178 @@
+[
+  {
+    "id": 1,
+    "paymentNumber": "PAY-2025-001",
+    "invoiceId": 2,
+    "customerId": 10,
+    "clientName": "Mulenga Products Co.",
+    "amount": 4169873.7,
+    "paymentDate": "2025-01-19T00:00:00",
+    "paymentMethod": "Cheque",
+    "referenceNumber": "CHQ-20250315-001"
+  },
+  {
+    "id": 2,
+    "paymentNumber": "PAY-2025-002",
+    "invoiceId": 14,
+    "customerId": 11,
+    "clientName": "Siame Industries Group",
+    "amount": 1209316.89,
+    "paymentDate": "2025-02-10T00:00:00",
+    "paymentMethod": "Cheque",
+    "referenceNumber": "CHQ-20250315-002"
+  },
+  {
+    "id": 3,
+    "paymentNumber": "PAY-2025-003",
+    "invoiceId": 12,
+    "customerId": 12,
+    "clientName": "Mwamba Products Solutions",
+    "amount": 2453530.03,
+    "paymentDate": "2025-01-28T00:00:00",
+    "paymentMethod": "Mobile Money",
+    "referenceNumber": "MMO-20250315-003"
+  },
+  {
+    "id": 4,
+    "paymentNumber": "PAY-2025-004",
+    "invoiceId": 8,
+    "customerId": 2,
+    "clientName": "Phiri Industrial Ltd",
+    "amount": 4204884.68,
+    "paymentDate": "2025-03-05T00:00:00",
+    "paymentMethod": "Bank Transfer",
+    "referenceNumber": "TRF-20250315-004"
+  },
+  {
+    "id": 5,
+    "paymentNumber": "PAY-2025-005",
+    "invoiceId": 5,
+    "customerId": 9,
+    "clientName": "Mwamba Products Co.",
+    "amount": 3338745.63,
+    "paymentDate": "2025-01-07T00:00:00",
+    "paymentMethod": "Mobile Money",
+    "referenceNumber": "MMO-20250315-005"
+  },
+  {
+    "id": 6,
+    "paymentNumber": "PAY-2025-006",
+    "invoiceId": 9,
+    "customerId": 4,
+    "clientName": "Tembo Industries Ltd",
+    "amount": 4782760.52,
+    "paymentDate": "2025-02-02T00:00:00",
+    "paymentMethod": "Bank Transfer",
+    "referenceNumber": "TRF-20250315-006"
+  },
+  {
+    "id": 7,
+    "paymentNumber": "PAY-2025-007",
+    "invoiceId": 4,
+    "customerId": 10,
+    "clientName": "Mulenga Products Co.",
+    "amount": 3714510.9,
+    "paymentDate": "2025-01-07T00:00:00",
+    "paymentMethod": "Bank Transfer",
+    "referenceNumber": "TRF-20250315-007"
+  },
+  {
+    "id": 8,
+    "paymentNumber": "PAY-2025-008",
+    "invoiceId": 8,
+    "customerId": 2,
+    "clientName": "Phiri Industrial Ltd",
+    "amount": 4204884.68,
+    "paymentDate": "2025-03-04T00:00:00",
+    "paymentMethod": "Cheque",
+    "referenceNumber": "CHQ-20250315-008"
+  },
+  {
+    "id": 9,
+    "paymentNumber": "PAY-2025-009",
+    "invoiceId": 2,
+    "customerId": 10,
+    "clientName": "Mulenga Products Co.",
+    "amount": 4169873.7,
+    "paymentDate": "2025-03-14T00:00:00",
+    "paymentMethod": "Cheque",
+    "referenceNumber": "CHQ-20250315-009"
+  },
+  {
+    "id": 10,
+    "paymentNumber": "PAY-2025-010",
+    "invoiceId": 8,
+    "customerId": 2,
+    "clientName": "Phiri Industrial Ltd",
+    "amount": 4204884.68,
+    "paymentDate": "2025-02-17T00:00:00",
+    "paymentMethod": "Cheque",
+    "referenceNumber": "CHQ-20250315-010"
+  },
+  {
+    "id": 11,
+    "paymentNumber": "PAY-2025-011",
+    "invoiceId": 8,
+    "customerId": 2,
+    "clientName": "Phiri Industrial Ltd",
+    "amount": 4204884.68,
+    "paymentDate": "2025-02-28T00:00:00",
+    "paymentMethod": "Mobile Money",
+    "referenceNumber": "MMO-20250315-011"
+  },
+  {
+    "id": 12,
+    "paymentNumber": "PAY-2025-012",
+    "invoiceId": 4,
+    "customerId": 10,
+    "clientName": "Mulenga Products Co.",
+    "amount": 3714510.9,
+    "paymentDate": "2025-01-17T00:00:00",
+    "paymentMethod": "Bank Transfer",
+    "referenceNumber": "TRF-20250315-012"
+  },
+  {
+    "id": 13,
+    "paymentNumber": "PAY-2025-013",
+    "invoiceId": 4,
+    "customerId": 10,
+    "clientName": "Mulenga Products Co.",
+    "amount": 3714510.9,
+    "paymentDate": "2025-03-10T00:00:00",
+    "paymentMethod": "Cheque",
+    "referenceNumber": "CHQ-20250315-013"
+  },
+  {
+    "id": 14,
+    "paymentNumber": "PAY-2025-014",
+    "invoiceId": 8,
+    "customerId": 2,
+    "clientName": "Phiri Industrial Ltd",
+    "amount": 4204884.68,
+    "paymentDate": "2024-12-31T00:00:00",
+    "paymentMethod": "Cheque",
+    "referenceNumber": "CHQ-20250315-014"
+  },
+  {
+    "id": 15,
+    "paymentNumber": "PAY-2025-015",
+    "invoiceId": 5,
+    "customerId": 9,
+    "clientName": "Mwamba Products Co.",
+    "amount": 3338745.63,
+    "paymentDate": "2025-02-10T00:00:00",
+    "paymentMethod": "Bank Transfer",
+    "referenceNumber": "TRF-20250315-015"
+  },
+  {
+    "id": 16,
+    "paymentNumber": "PAY-2025-016",
+    "invoiceId": 6,
+    "customerId": 8,
+    "clientName": "Mutale Industrial Inc.",
+    "amount": 41866.92,
+    "paymentDate": "2025-02-11T00:00:00",
+    "paymentMethod": "Bank Transfer",
+    "referenceNumber": "TRF-20250315-016"
+  }
+]

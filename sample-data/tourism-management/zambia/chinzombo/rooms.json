@@ -1,0 +1,46 @@
+﻿[
+    {
+        "LodgeType":  0,
+        "Id":  101,
+        "Description":  "Luxury Chalet",
+        "RoomType":  0,
+        "RoomNumber":  "CZ-101",
+        "Floor":  1,
+        "Capacity":  2,
+        "Status":  0,
+        "BaseRate":  14000
+    },
+    {
+        "LodgeType":  0,
+        "Id":  102,
+        "Description":  "Deluxe Room",
+        "RoomType":  1,
+        "RoomNumber":  "CZ-102",
+        "Floor":  1,
+        "Capacity":  2,
+        "Status":  0,
+        "BaseRate":  22000
+    },
+    {
+        "LodgeType":  1,
+        "Id":  201,
+        "Description":  "Luxury Tented Suite",
+        "RoomType":  2,
+        "RoomNumber":  "CZ-201",
+        "Floor":  1,
+        "Capacity":  4,
+        "Status":  0,
+        "BaseRate":  32000
+    },
+    {
+        "LodgeType":  2,
+        "Id":  301,
+        "Description":  "Presidential River Villa",
+        "RoomType":  3,
+        "RoomNumber":  "CZ-301",
+        "Floor":  1,
+        "Capacity":  6,
+        "Status":  0,
+        "BaseRate":  55000
+    }
+]

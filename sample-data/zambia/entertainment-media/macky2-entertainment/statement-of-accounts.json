@@ -1,0 +1,148 @@
+{
+  "companyName": "Macky2 Entertainment",
+  "companyAddress": "Mongu, Zambia",
+  "companyTaxId": "TPIN-7116829-ME",
+  "generatedDate": "2025-09-30",
+  "currency": "ZMW",
+  "period": {
+    "from": "2025-01-01",
+    "to": "2025-09-30"
+  },
+  "customerStatements": [
+    {
+      "customerId": 1,
+      "customerName": "Luangwa Group Ltd",
+      "customerEmail": "accounts@luangwa.co.zm",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-01-11",
+          "reference": "INV-Z-2025-017",
+          "description": "Live concert performance fee",
+          "debit": 1566500,
+          "credit": 0.0,
+          "balance": 1566500
+        },
+        {
+          "date": "2025-03-20",
+          "reference": "PMT-Z-2025-017",
+          "description": "Payment received - bank transfer",
+          "debit": 0.0,
+          "credit": 1566500,
+          "balance": 0.0
+        }
+      ],
+      "closingBalance": 0.0,
+      "status": "Settled"
+    },
+    {
+      "customerId": 2,
+      "customerName": "Mukuba Trading Ltd",
+      "customerEmail": "contact@mukuba.co.zm",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-02-13",
+          "reference": "INV-Z-2025-027",
+          "description": "Merchandise partnership revenue",
+          "debit": 2344500,
+          "credit": 0.0,
+          "balance": 2344500
+        },
+        {
+          "date": "2025-04-01",
+          "reference": "PMT-Z-2025-022",
+          "description": "Partial payment received",
+          "debit": 0.0,
+          "credit": 2344500,
+          "balance": 0.0
+        }
+      ],
+      "closingBalance": 0.0,
+      "status": "Settled"
+    },
+    {
+      "customerId": 3,
+      "customerName": "Chambeshi Partners Co.",
+      "customerEmail": "finance@chambeshi.com",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-07-21",
+          "reference": "INV-Z-2025-033",
+          "description": "Merchandise partnership revenue",
+          "debit": 2485000,
+          "credit": 0.0,
+          "balance": 2485000
+        },
+        {
+          "date": "2025-09-06",
+          "reference": "PMT-Z-2025-032",
+          "description": "Payment received - bank transfer",
+          "debit": 0.0,
+          "credit": 2485000,
+          "balance": 0.0
+        }
+      ],
+      "closingBalance": 0.0,
+      "status": "Settled"
+    },
+    {
+      "customerId": 4,
+      "customerName": "Mukuba Enterprises Ltd",
+      "customerEmail": "accounts@mukuba.com",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-07-22",
+          "reference": "INV-Z-2025-047",
+          "description": "Performance fee - Independence Day Concert",
+          "debit": 2989000,
+          "credit": 0.0,
+          "balance": 2989000
+        },
+        {
+          "date": "2025-09-14",
+          "reference": "PMT-Z-2025-044",
+          "description": "Partial payment received - mobile money",
+          "debit": 0.0,
+          "credit": 1617500,
+          "balance": 1371500
+        }
+      ],
+      "closingBalance": 1371500,
+      "status": "Partially Paid"
+    },
+    {
+      "customerId": 5,
+      "customerName": "Kafue Industries Ltd",
+      "customerEmail": "accounts@kafue.co.zm",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-09-14",
+          "reference": "INV-Z-2025-058",
+          "description": "Live concert performance fee",
+          "debit": 2440500,
+          "credit": 0.0,
+          "balance": 2440500
+        }
+      ],
+      "closingBalance": 2440500,
+      "status": "Outstanding"
+    }
+  ],
+  "summary": {
+    "totalInvoiced": 11825500,
+    "totalReceived": 8013500,
+    "totalOutstanding": 3812000,
+    "totalOverdue": 1371500.0,
+    "agingSummary": {
+      "current": 2440500.0,
+      "days1to30": 0.0,
+      "days31to60": 1371500.0,
+      "days61to90": 0.0,
+      "over90days": 0.0
+    }
+  }
+}

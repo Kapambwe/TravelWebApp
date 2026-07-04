@@ -1,0 +1,64 @@
+[
+  {
+    "userId": "USR-ZM-001",
+    "username": "finance.director",
+    "fullName": "Finance Director",
+    "position": "Finance Director",
+    "department": "Finance",
+    "email": "finance.director@zambia.example.com",
+    "phoneNumber": "+260-211-000001",
+    "userRole": "Finance Director",
+    "accessLevel": "Executive",
+    "permissions": [
+      "Accounting.Dashboard.View",
+      "Accounting.Budgeting.View",
+      "Accounting.Budgeting.Approve",
+      "Accounting.Payments.View",
+      "Accounting.Payments.Approve",
+      "Accounting.Reporting.View"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2025-01-01",
+    "lastLoginDate": "2026-06-20T08:00:00Z",
+    "twoFactorEnabled": true,
+    "assignedModules": [
+      "General Ledger",
+      "Budgeting",
+      "Payments",
+      "Reporting"
+    ],
+    "reportingTo": null,
+    "ministryOffice": "Zambia Default Workspace",
+    "biometricRegistered": false
+  },
+  {
+    "userId": "USR-ZM-002",
+    "username": "hr.officer",
+    "fullName": "Human Resources Officer",
+    "position": "Human Resources Officer",
+    "department": "Human Resources",
+    "email": "hr.officer@zambia.example.com",
+    "phoneNumber": "+260-211-000002",
+    "userRole": "HR Officer",
+    "accessLevel": "Operations",
+    "permissions": [
+      "HR.View",
+      "HR.EmployeeDirectory.View",
+      "HR.LeaveRequests.View",
+      "HR.LeaveRequests.Approve",
+      "Payroll.View"
+    ],
+    "accountStatus": "Active",
+    "createdDate": "2025-01-01",
+    "lastLoginDate": "2026-06-20T08:10:00Z",
+    "twoFactorEnabled": false,
+    "assignedModules": [
+      "Human Resources",
+      "Leave Management",
+      "Payroll"
+    ],
+    "reportingTo": "USR-ZM-001",
+    "ministryOffice": "Zambia Default Workspace",
+    "biometricRegistered": false
+  }
+]

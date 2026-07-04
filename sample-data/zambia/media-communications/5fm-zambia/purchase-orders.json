@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1,
+    "poNumber": "PO-2025-001",
+    "vendorName": "Lungu Publishers Limited",
+    "description": "Freelancer Fees",
+    "orderDate": "2025-02-21T00:00:00",
+    "expectedDate": "2025-03-17T00:00:00",
+    "amount": 2373568.94,
+    "receivedAmount": 0.0,
+    "status": "Cancelled",
+    "approvalStatus": "Approved",
+    "approvedBy": "CEO"
+  },
+  {
+    "id": 2,
+    "poNumber": "PO-2025-002",
+    "vendorName": "Ngosa Publishers Co.",
+    "description": "Printing Costs",
+    "orderDate": "2025-01-24T00:00:00",
+    "expectedDate": "2025-02-16T00:00:00",
+    "amount": 992669.3,
+    "receivedAmount": 690359.28,
+    "status": "PartiallyReceived",
+    "approvalStatus": "Approved",
+    "approvedBy": "CFO"
+  },
+  {
+    "id": 3,
+    "poNumber": "PO-2025-003",
+    "vendorName": "Ngosa Publishers Co.",
+    "description": "Printing Costs",
+    "orderDate": "2025-01-30T00:00:00",
+    "expectedDate": "2025-02-28T00:00:00",
+    "amount": 70461.45,
+    "receivedAmount": 0.0,
+    "status": "Open",
+    "approvalStatus": "Approved",
+    "approvedBy": "Procurement Officer"
+  },
+  {
+    "id": 4,
+    "poNumber": "PO-2025-004",
+    "vendorName": "Kaputo Digital Media Inc.",
+    "description": "Studio Production Costs",
+    "orderDate": "2025-02-23T00:00:00",
+    "expectedDate": "2025-03-19T00:00:00",
+    "amount": 1283685.1,
+    "receivedAmount": 1283685.1,
+    "status": "Closed",
+    "approvalStatus": "Approved",
+    "approvedBy": "CFO"
+  },
+  {
+    "id": 5,
+    "poNumber": "PO-2025-005",
+    "vendorName": "Mwale Digital Media Holdings",
+    "description": "Studio Production Costs",
+    "orderDate": "2024-12-22T00:00:00",
+    "expectedDate": "2025-01-10T00:00:00",
+    "amount": 118642.81,
+    "receivedAmount": 0.0,
+    "status": "Cancelled",
+    "approvalStatus": "Pending",
+    "approvedBy": "CEO"
+  },
+  {
+    "id": 6,
+    "poNumber": "PO-2025-006",
+    "vendorName": "Mwale Digital Media Holdings",
+    "description": "Printing Costs",
+    "orderDate": "2025-03-14T00:00:00",
+    "expectedDate": "2025-03-29T00:00:00",
+    "amount": 2095099.59,
+    "receivedAmount": 1249856.74,
+    "status": "PartiallyReceived",
+    "approvalStatus": "Approved",
+    "approvedBy": "Finance Manager"
+  }
+]

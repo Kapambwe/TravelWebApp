@@ -1,0 +1,287 @@
+[
+  {
+    "id": "rt-001",
+    "description": "Monthly Rent Payment",
+    "amount": 89084.49,
+    "frequency": "Monthly",
+    "startDate": "2025-02-06",
+    "endDate": "2025-11-09",
+    "accountId": "acc-001",
+    "category": "Expense"
+  },
+  {
+    "id": "rt-002",
+    "description": "Quarterly Tax Payment",
+    "amount": 7137.03,
+    "frequency": "Quarterly",
+    "startDate": "2025-12-23",
+    "accountId": "acc-003",
+    "category": "Tax"
+  },
+  {
+    "id": "rt-003",
+    "description": "Monthly Rent Payment",
+    "amount": 66869.68,
+    "frequency": "Monthly",
+    "startDate": "2025-02-06",
+    "endDate": "2025-11-13",
+    "accountId": "acc-001",
+    "category": "Expense"
+  },
+  {
+    "id": "rt-004",
+    "description": "Quarterly Tax Payment",
+    "amount": 34768.58,
+    "frequency": "Quarterly",
+    "startDate": "2025-09-13",
+    "accountId": "acc-003",
+    "category": "Tax"
+  },
+  {
+    "id": "rt-005",
+    "description": "Monthly Rent Payment",
+    "amount": 82956.7,
+    "frequency": "Monthly",
+    "startDate": "2025-10-25",
+    "endDate": "2025-07-04",
+    "accountId": "acc-001",
+    "category": "Expense"
+  },
+  {
+    "id": "rt-006",
+    "description": "Quarterly Tax Payment",
+    "amount": 60474.7,
+    "frequency": "Quarterly",
+    "startDate": "2025-07-08",
+    "accountId": "acc-003",
+    "category": "Tax"
+  },
+  {
+    "id": "rt-007",
+    "description": "Monthly Rent Payment",
+    "amount": 30470.78,
+    "frequency": "Monthly",
+    "startDate": "2025-04-14",
+    "endDate": "2025-07-16",
+    "accountId": "acc-001",
+    "category": "Expense"
+  },
+  {
+    "id": "rt-008",
+    "description": "Quarterly Tax Payment",
+    "amount": 24444.62,
+    "frequency": "Quarterly",
+    "startDate": "2025-10-08",
+    "accountId": "acc-003",
+    "category": "Tax"
+  },
+  {
+    "id": "rt-009",
+    "description": "Monthly Rent Payment",
+    "amount": 838.13,
+    "frequency": "Monthly",
+    "startDate": "2025-10-15",
+    "endDate": "2025-02-17",
+    "accountId": "acc-001",
+    "category": "Expense"
+  },
+  {
+    "id": "rt-010",
+    "description": "Quarterly Tax Payment",
+    "amount": 41518.07,
+    "frequency": "Quarterly",
+    "startDate": "2026-01-07",
+    "accountId": "acc-003",
+    "category": "Tax"
+  },
+  {
+    "id": "rt-011",
+    "description": "Monthly Rent Payment",
+    "amount": 22341.13,
+    "frequency": "Monthly",
+    "startDate": "2025-02-19",
+    "endDate": "2025-10-22",
+    "accountId": "acc-001",
+    "category": "Expense"
+  },
+  {
+    "id": "rt-012",
+    "description": "Quarterly Tax Payment",
+    "amount": 7041.01,
+    "frequency": "Quarterly",
+    "startDate": "2025-10-22",
+    "accountId": "acc-003",
+    "category": "Tax"
+  },
+  {
+    "id": "rt-013",
+    "description": "Monthly Rent Payment",
+    "amount": 56261.41,
+    "frequency": "Monthly",
+    "startDate": "2025-06-09",
+    "endDate": "2025-07-10",
+    "accountId": "acc-001",
+    "category": "Expense"
+  },
+  {
+    "id": "rt-014",
+    "description": "Quarterly Tax Payment",
+    "amount": 42118.43,
+    "frequency": "Quarterly",
+    "startDate": "2025-08-27",
+    "accountId": "acc-003",
+    "category": "Tax"
+  },
+  {
+    "id": "rt-015",
+    "description": "Monthly Rent Payment",
+    "amount": 7806.81,
+    "frequency": "Monthly",
+    "startDate": "2025-08-07",
+    "endDate": "2025-09-27",
+    "accountId": "acc-001",
+    "category": "Expense"
+  },
+  {
+    "id": "rt-016",
+    "description": "Quarterly Tax Payment",
+    "amount": 45877.11,
+    "frequency": "Quarterly",
+    "startDate": "2025-04-17",
+    "accountId": "acc-003",
+    "category": "Tax"
+  },
+  {
+    "id": "rt-017",
+    "description": "Monthly Rent Payment",
+    "amount": 91806.34,
+    "frequency": "Monthly",
+    "startDate": "2025-07-15",
+    "endDate": "2025-04-28",
+    "accountId": "acc-001",
+    "category": "Expense"
+  },
+  {
+    "id": "rt-018",
+    "description": "Quarterly Tax Payment",
+    "amount": 89631.82,
+    "frequency": "Quarterly",
+    "startDate": "2025-02-11",
+    "accountId": "acc-003",
+    "category": "Tax"
+  },
+  {
+    "id": "rt-019",
+    "description": "Monthly Rent Payment",
+    "amount": 65623.34,
+    "frequency": "Monthly",
+    "startDate": "2025-07-08",
+    "endDate": "2025-11-09",
+    "accountId": "acc-001",
+    "category": "Expense"
+  },
+  {
+    "id": "rt-020",
+    "description": "Quarterly Tax Payment",
+    "amount": 33088.67,
+    "frequency": "Quarterly",
+    "startDate": "2025-02-18",
+    "accountId": "acc-003",
+    "category": "Tax"
+  },
+  {
+    "id": "rt-021",
+    "description": "Monthly Rent Payment",
+    "amount": 33330.99,
+    "frequency": "Monthly",
+    "startDate": "2025-04-08",
+    "endDate": "2025-04-20",
+    "accountId": "acc-001",
+    "category": "Expense"
+  },
+  {
+    "id": "rt-022",
+    "description": "Quarterly Tax Payment",
+    "amount": 81122.2,
+    "frequency": "Quarterly",
+    "startDate": "2025-07-13",
+    "accountId": "acc-003",
+    "category": "Tax"
+  },
+  {
+    "id": "rt-023",
+    "description": "Monthly Rent Payment",
+    "amount": 51134.0,
+    "frequency": "Monthly",
+    "startDate": "2025-12-25",
+    "endDate": "2025-09-16",
+    "accountId": "acc-001",
+    "category": "Expense"
+  },
+  {
+    "id": "rt-024",
+    "description": "Quarterly Tax Payment",
+    "amount": 19790.06,
+    "frequency": "Quarterly",
+    "startDate": "2025-05-28",
+    "accountId": "acc-003",
+    "category": "Tax"
+  },
+  {
+    "id": "rt-025",
+    "description": "Monthly Rent Payment",
+    "amount": 73389.23,
+    "frequency": "Monthly",
+    "startDate": "2025-10-18",
+    "endDate": "2025-01-26",
+    "accountId": "acc-001",
+    "category": "Expense"
+  },
+  {
+    "id": "rt-026",
+    "description": "Quarterly Tax Payment",
+    "amount": 30854.84,
+    "frequency": "Quarterly",
+    "startDate": "2025-10-10",
+    "accountId": "acc-003",
+    "category": "Tax"
+  },
+  {
+    "id": "rt-027",
+    "description": "Monthly Rent Payment",
+    "amount": 37790.42,
+    "frequency": "Monthly",
+    "startDate": "2025-03-20",
+    "endDate": "2025-06-04",
+    "accountId": "acc-001",
+    "category": "Expense"
+  },
+  {
+    "id": "rt-028",
+    "description": "Quarterly Tax Payment",
+    "amount": 5233.54,
+    "frequency": "Quarterly",
+    "startDate": "2025-07-21",
+    "accountId": "acc-003",
+    "category": "Tax"
+  },
+  {
+    "id": "rt-029",
+    "description": "Monthly Rent Payment",
+    "amount": 13280.71,
+    "frequency": "Monthly",
+    "startDate": "2025-04-01",
+    "endDate": "2025-04-08",
+    "accountId": "acc-001",
+    "category": "Expense"
+  },
+  {
+    "id": "rt-030",
+    "description": "Quarterly Tax Payment",
+    "amount": 78781.89,
+    "frequency": "Quarterly",
+    "startDate": "2025-05-20",
+    "accountId": "acc-003",
+    "category": "Tax"
+  }
+]

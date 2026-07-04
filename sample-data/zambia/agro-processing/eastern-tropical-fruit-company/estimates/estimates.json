@@ -1,0 +1,190 @@
+[
+  {
+    "id": 1,
+    "estimateNumber": "EST-2025-001",
+    "customerId": 1,
+    "customerName": "Phiri Produce Holdings",
+    "estimateDateDaysAgo": 44,
+    "expirationDateDaysFromNow": 36,
+    "status": "Draft",
+    "subTotal": 868849.32,
+    "taxRate": 15,
+    "taxAmount": 130327.4,
+    "total": 999176.72,
+    "terms": "Net 30",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 44,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Processed Fruit Supply",
+        "quantity": 2,
+        "unitPrice": 434424.66,
+        "amount": 868849.32,
+        "itemType": "Service"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "estimateNumber": "EST-2025-002",
+    "customerId": 1,
+    "customerName": "Phiri Produce Holdings",
+    "estimateDateDaysAgo": 37,
+    "expirationDateDaysFromNow": 36,
+    "status": "Accepted",
+    "subTotal": 3821990.96,
+    "taxRate": 0,
+    "taxAmount": 0.0,
+    "total": 3821990.96,
+    "terms": "Net 30",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 37,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Processed Fruit Supply",
+        "quantity": 5,
+        "unitPrice": 764398.19,
+        "amount": 3821990.96,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 36
+  },
+  {
+    "id": 3,
+    "estimateNumber": "EST-2025-003",
+    "customerId": 9,
+    "customerName": "Mumba Farms Limited",
+    "estimateDateDaysAgo": 7,
+    "expirationDateDaysFromNow": 25,
+    "status": "Declined",
+    "subTotal": 2416810.08,
+    "taxRate": 15,
+    "taxAmount": 362521.51,
+    "total": 2779331.59,
+    "terms": "Net 30",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 7,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Organic Cashew Nuts",
+        "quantity": 1,
+        "unitPrice": 2416810.08,
+        "amount": 2416810.08,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 6
+  },
+  {
+    "id": 4,
+    "estimateNumber": "EST-2025-004",
+    "customerId": 13,
+    "customerName": "Zulu Farms Inc.",
+    "estimateDateDaysAgo": 38,
+    "expirationDateDaysFromNow": 39,
+    "status": "Sent",
+    "subTotal": 737196.6,
+    "taxRate": 16,
+    "taxAmount": 117951.46,
+    "total": 855148.06,
+    "terms": "Net 45",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 38,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Palm Oil Supply",
+        "quantity": 5,
+        "unitPrice": 147439.32,
+        "amount": 737196.6,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 37
+  },
+  {
+    "id": 5,
+    "estimateNumber": "EST-2025-005",
+    "customerId": 5,
+    "customerName": "Phiri Food Industries Ltd",
+    "estimateDateDaysAgo": 54,
+    "expirationDateDaysFromNow": 19,
+    "status": "Sent",
+    "subTotal": 3532128.18,
+    "taxRate": 0,
+    "taxAmount": 0.0,
+    "total": 3532128.18,
+    "terms": "Net 30",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 54,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Dried Mango Export",
+        "quantity": 5,
+        "unitPrice": 706425.64,
+        "amount": 3532128.18,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 53
+  },
+  {
+    "id": 6,
+    "estimateNumber": "EST-2025-006",
+    "customerId": 1,
+    "customerName": "Phiri Produce Holdings",
+    "estimateDateDaysAgo": 56,
+    "expirationDateDaysFromNow": 19,
+    "status": "Declined",
+    "subTotal": 2346610.21,
+    "taxRate": 0,
+    "taxAmount": 0.0,
+    "total": 2346610.21,
+    "terms": "Net 45",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 56,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Palm Oil Supply",
+        "quantity": 3,
+        "unitPrice": 782203.4,
+        "amount": 2346610.21,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 55
+  },
+  {
+    "id": 7,
+    "estimateNumber": "EST-2025-007",
+    "customerId": 6,
+    "customerName": "Phiri Produce Enterprises",
+    "estimateDateDaysAgo": 13,
+    "expirationDateDaysFromNow": 21,
+    "status": "Accepted",
+    "subTotal": 619550.56,
+    "taxRate": 15,
+    "taxAmount": 92932.58,
+    "total": 712483.14,
+    "terms": "Net 45",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 13,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Palm Oil Supply",
+        "quantity": 1,
+        "unitPrice": 619550.56,
+        "amount": 619550.56,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 12
+  }
+]

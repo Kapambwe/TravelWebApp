@@ -1,0 +1,302 @@
+[
+  {
+    "id": "vendor-001",
+    "vendorName": "Agricultural Cooperatives 1",
+    "email": "vendor1@supplier.zm",
+    "phone": "+260-096-528076",
+    "address": "Plot 6223, Independence Avenue, Northern Province",
+    "taxId": "TPIN-3527510880",
+    "paymentTerms": "NET30",
+    "accountBalance": 18262
+  },
+  {
+    "id": "vendor-002",
+    "vendorName": "Processing Equipment 2",
+    "email": "vendor2@supplier.zm",
+    "phone": "+260-096-401358",
+    "address": "Plot 1983, Freedom Way, Copperbelt",
+    "taxId": "TPIN-6187469744",
+    "paymentTerms": "COD",
+    "accountBalance": 20156
+  },
+  {
+    "id": "vendor-003",
+    "vendorName": "Agricultural Cooperatives 3",
+    "email": "vendor3@supplier.zm",
+    "phone": "+260-097-222777",
+    "address": "Plot 8325, Twin Palm Road, Eastern Province",
+    "taxId": "TPIN-5357277134",
+    "paymentTerms": "NET60",
+    "accountBalance": 31435
+  },
+  {
+    "id": "vendor-004",
+    "vendorName": "Processing Equipment 4",
+    "email": "vendor4@supplier.zm",
+    "phone": "+260-095-591307",
+    "address": "Plot 5219, Cairo Road, Lusaka",
+    "taxId": "TPIN-5691130106",
+    "paymentTerms": "NET30",
+    "accountBalance": 38689
+  },
+  {
+    "id": "vendor-005",
+    "vendorName": "Agricultural Cooperatives 5",
+    "email": "vendor5@supplier.zm",
+    "phone": "+260-096-939639",
+    "address": "Plot 1167, Great East Road, Lusaka",
+    "taxId": "TPIN-9513307307",
+    "paymentTerms": "NET30",
+    "accountBalance": 39002
+  },
+  {
+    "id": "vendor-006",
+    "vendorName": "Processing Equipment 6",
+    "email": "vendor6@supplier.zm",
+    "phone": "+260-097-221662",
+    "address": "Plot 3398, Cairo Road, Southern Province",
+    "taxId": "TPIN-4300083960",
+    "paymentTerms": "NET30",
+    "accountBalance": 39491
+  },
+  {
+    "id": "vendor-007",
+    "vendorName": "Local Farmers 7",
+    "email": "vendor7@supplier.zm",
+    "phone": "+260-217-190928",
+    "address": "Plot 4279, Independence Avenue, Eastern Province",
+    "taxId": "TPIN-1189717971",
+    "paymentTerms": "COD",
+    "accountBalance": 21367
+  },
+  {
+    "id": "vendor-008",
+    "vendorName": "Agricultural Cooperatives 8",
+    "email": "vendor8@supplier.zm",
+    "phone": "+260-217-696768",
+    "address": "Plot 8504, Twin Palm Road, Copperbelt",
+    "taxId": "TPIN-2519870170",
+    "paymentTerms": "COD",
+    "accountBalance": 11073
+  },
+  {
+    "id": "vendor-009",
+    "vendorName": "Processing Equipment 9",
+    "email": "vendor9@supplier.zm",
+    "phone": "+260-095-972883",
+    "address": "Plot 7556, Freedom Way, Lusaka",
+    "taxId": "TPIN-6332030703",
+    "paymentTerms": "NET30",
+    "accountBalance": 43538
+  },
+  {
+    "id": "vendor-010",
+    "vendorName": "Processing Equipment 10",
+    "email": "vendor10@supplier.zm",
+    "phone": "+260-097-627677",
+    "address": "Plot 3307, Freedom Way, Lusaka",
+    "taxId": "TPIN-4922536835",
+    "paymentTerms": "NET60",
+    "accountBalance": 35627
+  },
+  {
+    "id": "vendor-011",
+    "vendorName": "Processing Equipment 11",
+    "email": "vendor11@supplier.zm",
+    "phone": "+260-095-889952",
+    "address": "Plot 3480, Independence Avenue, Eastern Province",
+    "taxId": "TPIN-7670965748",
+    "paymentTerms": "COD",
+    "accountBalance": 22439
+  },
+  {
+    "id": "vendor-012",
+    "vendorName": "Local Farmers 12",
+    "email": "vendor12@supplier.zm",
+    "phone": "+260-216-701418",
+    "address": "Plot 3289, Twin Palm Road, Eastern Province",
+    "taxId": "TPIN-8943632396",
+    "paymentTerms": "COD",
+    "accountBalance": 33818
+  },
+  {
+    "id": "vendor-013",
+    "vendorName": "Local Farmers 13",
+    "email": "vendor13@supplier.zm",
+    "phone": "+260-096-241229",
+    "address": "Plot 1802, Great East Road, Copperbelt",
+    "taxId": "TPIN-3053929959",
+    "paymentTerms": "NET60",
+    "accountBalance": 2076
+  },
+  {
+    "id": "vendor-014",
+    "vendorName": "Processing Equipment 14",
+    "email": "vendor14@supplier.zm",
+    "phone": "+260-216-809228",
+    "address": "Plot 2140, Twin Palm Road, Southern Province",
+    "taxId": "TPIN-6886983978",
+    "paymentTerms": "NET60",
+    "accountBalance": 36385
+  },
+  {
+    "id": "vendor-015",
+    "vendorName": "Processing Equipment 15",
+    "email": "vendor15@supplier.zm",
+    "phone": "+260-096-207506",
+    "address": "Plot 2874, Cairo Road, Central Province",
+    "taxId": "TPIN-8378433254",
+    "paymentTerms": "NET30",
+    "accountBalance": 36913
+  },
+  {
+    "id": "vendor-016",
+    "vendorName": "Local Farmers 16",
+    "email": "vendor16@supplier.zm",
+    "phone": "+260-095-344841",
+    "address": "Plot 4466, Independence Avenue, Eastern Province",
+    "taxId": "TPIN-3228910884",
+    "paymentTerms": "NET60",
+    "accountBalance": 24703
+  },
+  {
+    "id": "vendor-017",
+    "vendorName": "Local Farmers 17",
+    "email": "vendor17@supplier.zm",
+    "phone": "+260-095-356393",
+    "address": "Plot 8034, Independence Avenue, Northern Province",
+    "taxId": "TPIN-4503377409",
+    "paymentTerms": "NET30",
+    "accountBalance": 24802
+  },
+  {
+    "id": "vendor-018",
+    "vendorName": "Agricultural Cooperatives 18",
+    "email": "vendor18@supplier.zm",
+    "phone": "+260-216-949183",
+    "address": "Plot 8466, Great East Road, Southern Province",
+    "taxId": "TPIN-6413062063",
+    "paymentTerms": "NET60",
+    "accountBalance": 41029
+  },
+  {
+    "id": "vendor-019",
+    "vendorName": "Agricultural Cooperatives 19",
+    "email": "vendor19@supplier.zm",
+    "phone": "+260-216-874186",
+    "address": "Plot 2021, Twin Palm Road, Southern Province",
+    "taxId": "TPIN-8396523284",
+    "paymentTerms": "NET60",
+    "accountBalance": 31944
+  },
+  {
+    "id": "vendor-020",
+    "vendorName": "Agricultural Cooperatives 20",
+    "email": "vendor20@supplier.zm",
+    "phone": "+260-094-523872",
+    "address": "Plot 9096, Twin Palm Road, Southern Province",
+    "taxId": "TPIN-8714471935",
+    "paymentTerms": "NET60",
+    "accountBalance": 23655
+  },
+  {
+    "id": "vendor-021",
+    "vendorName": "Local Farmers 21",
+    "email": "vendor21@supplier.zm",
+    "phone": "+260-217-926664",
+    "address": "Plot 3199, Twin Palm Road, Southern Province",
+    "taxId": "TPIN-9389920089",
+    "paymentTerms": "NET30",
+    "accountBalance": 39826
+  },
+  {
+    "id": "vendor-022",
+    "vendorName": "Processing Equipment 22",
+    "email": "vendor22@supplier.zm",
+    "phone": "+260-216-819027",
+    "address": "Plot 8253, Freedom Way, Southern Province",
+    "taxId": "TPIN-6709281304",
+    "paymentTerms": "NET60",
+    "accountBalance": 39182
+  },
+  {
+    "id": "vendor-023",
+    "vendorName": "Agricultural Cooperatives 23",
+    "email": "vendor23@supplier.zm",
+    "phone": "+260-095-588364",
+    "address": "Plot 3126, Twin Palm Road, Southern Province",
+    "taxId": "TPIN-3506959754",
+    "paymentTerms": "COD",
+    "accountBalance": 3957
+  },
+  {
+    "id": "vendor-024",
+    "vendorName": "Local Farmers 24",
+    "email": "vendor24@supplier.zm",
+    "phone": "+260-096-502134",
+    "address": "Plot 5542, Great East Road, Copperbelt",
+    "taxId": "TPIN-9374551252",
+    "paymentTerms": "COD",
+    "accountBalance": 46773
+  },
+  {
+    "id": "vendor-025",
+    "vendorName": "Local Farmers 25",
+    "email": "vendor25@supplier.zm",
+    "phone": "+260-097-859121",
+    "address": "Plot 1817, Great East Road, Eastern Province",
+    "taxId": "TPIN-3971841685",
+    "paymentTerms": "NET60",
+    "accountBalance": 1307
+  },
+  {
+    "id": "vendor-026",
+    "vendorName": "Processing Equipment 26",
+    "email": "vendor26@supplier.zm",
+    "phone": "+260-217-456700",
+    "address": "Plot 5253, Freedom Way, Central Province",
+    "taxId": "TPIN-7742694575",
+    "paymentTerms": "COD",
+    "accountBalance": 48934
+  },
+  {
+    "id": "vendor-027",
+    "vendorName": "Processing Equipment 27",
+    "email": "vendor27@supplier.zm",
+    "phone": "+260-216-750271",
+    "address": "Plot 6961, Cairo Road, Southern Province",
+    "taxId": "TPIN-6682332477",
+    "paymentTerms": "NET60",
+    "accountBalance": 27843
+  },
+  {
+    "id": "vendor-028",
+    "vendorName": "Processing Equipment 28",
+    "email": "vendor28@supplier.zm",
+    "phone": "+260-216-253492",
+    "address": "Plot 9856, Independence Avenue, Eastern Province",
+    "taxId": "TPIN-3466631770",
+    "paymentTerms": "COD",
+    "accountBalance": 19282
+  },
+  {
+    "id": "vendor-029",
+    "vendorName": "Agricultural Cooperatives 29",
+    "email": "vendor29@supplier.zm",
+    "phone": "+260-216-793472",
+    "address": "Plot 4107, Independence Avenue, Southern Province",
+    "taxId": "TPIN-8139898330",
+    "paymentTerms": "NET30",
+    "accountBalance": 13384
+  },
+  {
+    "id": "vendor-030",
+    "vendorName": "Processing Equipment 30",
+    "email": "vendor30@supplier.zm",
+    "phone": "+260-216-195284",
+    "address": "Plot 5136, Freedom Way, Central Province",
+    "taxId": "TPIN-2422322532",
+    "paymentTerms": "NET60",
+    "accountBalance": 44625
+  }
+]

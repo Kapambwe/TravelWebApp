@@ -1,0 +1,132 @@
+{
+  "companyName": "Lusaka Bakery Ltd",
+  "companyAddress": "Chipata, Zambia",
+  "companyTaxId": "TPIN-5792866-LBL",
+  "generatedDate": "2025-09-30",
+  "currency": "ZMW",
+  "period": {
+    "from": "2025-01-01",
+    "to": "2025-09-30"
+  },
+  "customerStatements": [
+    {
+      "customerId": 1,
+      "customerName": "Kafue Group Ltd",
+      "customerEmail": "billing@kafue.co.zm",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-06-05",
+          "reference": "INV-Z-2025-013",
+          "description": "Institutional catering contract",
+          "debit": 2155000,
+          "credit": 0.0,
+          "balance": 2155000
+        }
+      ],
+      "closingBalance": 2155000,
+      "status": "Outstanding"
+    },
+    {
+      "customerId": 2,
+      "customerName": "Chambeshi Solutions Ltd",
+      "customerEmail": "admin@chambeshi.com",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-04-12",
+          "reference": "INV-Z-2025-022",
+          "description": "Bakery products bulk order",
+          "debit": 2431000,
+          "credit": 0.0,
+          "balance": 2431000
+        }
+      ],
+      "closingBalance": 2431000,
+      "status": "Overdue"
+    },
+    {
+      "customerId": 3,
+      "customerName": "Kansanshi Group Ltd",
+      "customerEmail": "accounts@kansanshi.co.zm",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-02-04",
+          "reference": "INV-Z-2025-037",
+          "description": "Dairy products supply agreement",
+          "debit": 1509500,
+          "credit": 0.0,
+          "balance": 1509500
+        },
+        {
+          "date": "2025-04-09",
+          "reference": "PMT-Z-2025-032",
+          "description": "Payment received - mobile money",
+          "debit": 0.0,
+          "credit": 1509500,
+          "balance": 0.0
+        }
+      ],
+      "closingBalance": 0.0,
+      "status": "Settled"
+    },
+    {
+      "customerId": 4,
+      "customerName": "Kafue Enterprises Ltd",
+      "customerEmail": "finance@kafue.co.zm",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-07-05",
+          "reference": "INV-Z-2025-045",
+          "description": "Bakery products bulk order",
+          "debit": 2032000,
+          "credit": 0.0,
+          "balance": 2032000
+        }
+      ],
+      "closingBalance": 2032000,
+      "status": "Outstanding"
+    },
+    {
+      "customerId": 5,
+      "customerName": "Kafue Trading Ltd",
+      "customerEmail": "contact@kafue.com",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-01-25",
+          "reference": "INV-Z-2025-056",
+          "description": "Bakery products bulk order",
+          "debit": 2955500,
+          "credit": 0.0,
+          "balance": 2955500
+        },
+        {
+          "date": "2025-02-09",
+          "reference": "PMT-Z-2025-052",
+          "description": "Partial payment received - bank transfer",
+          "debit": 0.0,
+          "credit": 1495500,
+          "balance": 1460000
+        }
+      ],
+      "closingBalance": 1460000,
+      "status": "Partially Paid"
+    }
+  ],
+  "summary": {
+    "totalInvoiced": 11083000,
+    "totalReceived": 3005000,
+    "totalOutstanding": 8078000,
+    "totalOverdue": 8078000.0,
+    "agingSummary": {
+      "current": 0.0,
+      "days1to30": 0.0,
+      "days31to60": 2032000.0,
+      "days61to90": 2155000.0,
+      "over90days": 3891000.0
+    }
+  }
+}

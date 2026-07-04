@@ -1,0 +1,302 @@
+[
+  {
+    "id": "vendor-001",
+    "vendorName": "News Agencies 1",
+    "email": "vendor1@supplier.zm",
+    "phone": "+260-217-249347",
+    "address": "Plot 5303, Great East Road, Copperbelt",
+    "taxId": "TPIN-7506916152",
+    "paymentTerms": "NET60",
+    "accountBalance": 37724
+  },
+  {
+    "id": "vendor-002",
+    "vendorName": "Press Equipment Suppliers 2",
+    "email": "vendor2@supplier.zm",
+    "phone": "+260-096-411844",
+    "address": "Plot 7274, Independence Avenue, Lusaka",
+    "taxId": "TPIN-9949154258",
+    "paymentTerms": "COD",
+    "accountBalance": 29130
+  },
+  {
+    "id": "vendor-003",
+    "vendorName": "Advertisers 3",
+    "email": "vendor3@supplier.zm",
+    "phone": "+260-094-196750",
+    "address": "Plot 6967, Freedom Way, Central Province",
+    "taxId": "TPIN-9607202387",
+    "paymentTerms": "COD",
+    "accountBalance": 31883
+  },
+  {
+    "id": "vendor-004",
+    "vendorName": "News Agencies 4",
+    "email": "vendor4@supplier.zm",
+    "phone": "+260-217-457463",
+    "address": "Plot 9625, Independence Avenue, Southern Province",
+    "taxId": "TPIN-8351040585",
+    "paymentTerms": "NET30",
+    "accountBalance": 21532
+  },
+  {
+    "id": "vendor-005",
+    "vendorName": "News Agencies 5",
+    "email": "vendor5@supplier.zm",
+    "phone": "+260-096-322166",
+    "address": "Plot 8907, Twin Palm Road, Southern Province",
+    "taxId": "TPIN-3743458903",
+    "paymentTerms": "NET60",
+    "accountBalance": 47146
+  },
+  {
+    "id": "vendor-006",
+    "vendorName": "Advertisers 6",
+    "email": "vendor6@supplier.zm",
+    "phone": "+260-216-881531",
+    "address": "Plot 8260, Freedom Way, Southern Province",
+    "taxId": "TPIN-3532062993",
+    "paymentTerms": "NET30",
+    "accountBalance": 15160
+  },
+  {
+    "id": "vendor-007",
+    "vendorName": "Advertisers 7",
+    "email": "vendor7@supplier.zm",
+    "phone": "+260-217-864560",
+    "address": "Plot 9006, Twin Palm Road, Southern Province",
+    "taxId": "TPIN-2264054759",
+    "paymentTerms": "NET30",
+    "accountBalance": 44135
+  },
+  {
+    "id": "vendor-008",
+    "vendorName": "News Agencies 8",
+    "email": "vendor8@supplier.zm",
+    "phone": "+260-095-608269",
+    "address": "Plot 9983, Freedom Way, Northern Province",
+    "taxId": "TPIN-9869187495",
+    "paymentTerms": "COD",
+    "accountBalance": 34753
+  },
+  {
+    "id": "vendor-009",
+    "vendorName": "Press Equipment Suppliers 9",
+    "email": "vendor9@supplier.zm",
+    "phone": "+260-216-278122",
+    "address": "Plot 6621, Cairo Road, Central Province",
+    "taxId": "TPIN-4779870489",
+    "paymentTerms": "COD",
+    "accountBalance": 20605
+  },
+  {
+    "id": "vendor-010",
+    "vendorName": "News Agencies 10",
+    "email": "vendor10@supplier.zm",
+    "phone": "+260-094-977073",
+    "address": "Plot 6188, Great East Road, Northern Province",
+    "taxId": "TPIN-8525930483",
+    "paymentTerms": "NET60",
+    "accountBalance": 43625
+  },
+  {
+    "id": "vendor-011",
+    "vendorName": "News Agencies 11",
+    "email": "vendor11@supplier.zm",
+    "phone": "+260-094-125195",
+    "address": "Plot 2383, Freedom Way, Eastern Province",
+    "taxId": "TPIN-5499258467",
+    "paymentTerms": "NET60",
+    "accountBalance": 7513
+  },
+  {
+    "id": "vendor-012",
+    "vendorName": "Press Equipment Suppliers 12",
+    "email": "vendor12@supplier.zm",
+    "phone": "+260-217-897979",
+    "address": "Plot 2301, Great East Road, Northern Province",
+    "taxId": "TPIN-5494376765",
+    "paymentTerms": "COD",
+    "accountBalance": 44989
+  },
+  {
+    "id": "vendor-013",
+    "vendorName": "Advertisers 13",
+    "email": "vendor13@supplier.zm",
+    "phone": "+260-095-348722",
+    "address": "Plot 8089, Twin Palm Road, Northern Province",
+    "taxId": "TPIN-3838329073",
+    "paymentTerms": "NET60",
+    "accountBalance": 46213
+  },
+  {
+    "id": "vendor-014",
+    "vendorName": "Advertisers 14",
+    "email": "vendor14@supplier.zm",
+    "phone": "+260-094-862804",
+    "address": "Plot 1603, Great East Road, Northern Province",
+    "taxId": "TPIN-8717260649",
+    "paymentTerms": "COD",
+    "accountBalance": 6054
+  },
+  {
+    "id": "vendor-015",
+    "vendorName": "Advertisers 15",
+    "email": "vendor15@supplier.zm",
+    "phone": "+260-216-782170",
+    "address": "Plot 2478, Twin Palm Road, Eastern Province",
+    "taxId": "TPIN-4507112994",
+    "paymentTerms": "NET30",
+    "accountBalance": 44327
+  },
+  {
+    "id": "vendor-016",
+    "vendorName": "Press Equipment Suppliers 16",
+    "email": "vendor16@supplier.zm",
+    "phone": "+260-216-605258",
+    "address": "Plot 8082, Great East Road, Copperbelt",
+    "taxId": "TPIN-2050782455",
+    "paymentTerms": "NET60",
+    "accountBalance": 49777
+  },
+  {
+    "id": "vendor-017",
+    "vendorName": "News Agencies 17",
+    "email": "vendor17@supplier.zm",
+    "phone": "+260-095-826657",
+    "address": "Plot 4176, Independence Avenue, Copperbelt",
+    "taxId": "TPIN-1136047184",
+    "paymentTerms": "COD",
+    "accountBalance": 42467
+  },
+  {
+    "id": "vendor-018",
+    "vendorName": "Press Equipment Suppliers 18",
+    "email": "vendor18@supplier.zm",
+    "phone": "+260-095-645160",
+    "address": "Plot 5344, Great East Road, Northern Province",
+    "taxId": "TPIN-9620789257",
+    "paymentTerms": "NET30",
+    "accountBalance": 29814
+  },
+  {
+    "id": "vendor-019",
+    "vendorName": "News Agencies 19",
+    "email": "vendor19@supplier.zm",
+    "phone": "+260-097-161371",
+    "address": "Plot 4619, Twin Palm Road, Southern Province",
+    "taxId": "TPIN-4886437261",
+    "paymentTerms": "NET60",
+    "accountBalance": 9201
+  },
+  {
+    "id": "vendor-020",
+    "vendorName": "Press Equipment Suppliers 20",
+    "email": "vendor20@supplier.zm",
+    "phone": "+260-096-508184",
+    "address": "Plot 5504, Freedom Way, Eastern Province",
+    "taxId": "TPIN-3469796256",
+    "paymentTerms": "NET60",
+    "accountBalance": 36317
+  },
+  {
+    "id": "vendor-021",
+    "vendorName": "Advertisers 21",
+    "email": "vendor21@supplier.zm",
+    "phone": "+260-094-114008",
+    "address": "Plot 4415, Twin Palm Road, Central Province",
+    "taxId": "TPIN-7783190601",
+    "paymentTerms": "COD",
+    "accountBalance": 11733
+  },
+  {
+    "id": "vendor-022",
+    "vendorName": "News Agencies 22",
+    "email": "vendor22@supplier.zm",
+    "phone": "+260-216-214202",
+    "address": "Plot 8813, Cairo Road, Central Province",
+    "taxId": "TPIN-5992923181",
+    "paymentTerms": "NET60",
+    "accountBalance": 29073
+  },
+  {
+    "id": "vendor-023",
+    "vendorName": "Press Equipment Suppliers 23",
+    "email": "vendor23@supplier.zm",
+    "phone": "+260-217-512624",
+    "address": "Plot 2853, Freedom Way, Eastern Province",
+    "taxId": "TPIN-7648461800",
+    "paymentTerms": "COD",
+    "accountBalance": 11764
+  },
+  {
+    "id": "vendor-024",
+    "vendorName": "Advertisers 24",
+    "email": "vendor24@supplier.zm",
+    "phone": "+260-216-221561",
+    "address": "Plot 1136, Great East Road, Northern Province",
+    "taxId": "TPIN-8544103059",
+    "paymentTerms": "NET60",
+    "accountBalance": 30761
+  },
+  {
+    "id": "vendor-025",
+    "vendorName": "Press Equipment Suppliers 25",
+    "email": "vendor25@supplier.zm",
+    "phone": "+260-216-456896",
+    "address": "Plot 3357, Twin Palm Road, Copperbelt",
+    "taxId": "TPIN-3162115967",
+    "paymentTerms": "NET30",
+    "accountBalance": 13581
+  },
+  {
+    "id": "vendor-026",
+    "vendorName": "News Agencies 26",
+    "email": "vendor26@supplier.zm",
+    "phone": "+260-217-520645",
+    "address": "Plot 4801, Independence Avenue, Copperbelt",
+    "taxId": "TPIN-2814919663",
+    "paymentTerms": "NET30",
+    "accountBalance": 20370
+  },
+  {
+    "id": "vendor-027",
+    "vendorName": "News Agencies 27",
+    "email": "vendor27@supplier.zm",
+    "phone": "+260-096-507860",
+    "address": "Plot 6983, Independence Avenue, Central Province",
+    "taxId": "TPIN-9149061391",
+    "paymentTerms": "NET30",
+    "accountBalance": 19815
+  },
+  {
+    "id": "vendor-028",
+    "vendorName": "News Agencies 28",
+    "email": "vendor28@supplier.zm",
+    "phone": "+260-096-729062",
+    "address": "Plot 3802, Great East Road, Eastern Province",
+    "taxId": "TPIN-4455788844",
+    "paymentTerms": "NET30",
+    "accountBalance": 7677
+  },
+  {
+    "id": "vendor-029",
+    "vendorName": "Press Equipment Suppliers 29",
+    "email": "vendor29@supplier.zm",
+    "phone": "+260-095-713753",
+    "address": "Plot 1783, Great East Road, Central Province",
+    "taxId": "TPIN-3000582806",
+    "paymentTerms": "COD",
+    "accountBalance": 2320
+  },
+  {
+    "id": "vendor-030",
+    "vendorName": "News Agencies 30",
+    "email": "vendor30@supplier.zm",
+    "phone": "+260-096-197382",
+    "address": "Plot 9617, Cairo Road, Northern Province",
+    "taxId": "TPIN-9190169409",
+    "paymentTerms": "NET60",
+    "accountBalance": 16237
+  }
+]

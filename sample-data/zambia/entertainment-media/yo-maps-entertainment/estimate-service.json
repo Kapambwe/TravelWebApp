@@ -1,0 +1,234 @@
+[
+  {
+    "id": "est-ym-001",
+    "customerId": "cust-ym-007",
+    "estimateNumber": "EST-YM-2026-001",
+    "date": "2026-01-15",
+    "validUntil": "2026-02-15",
+    "items": [
+      {
+        "description": "Live Performance - Zambia Music Awards 2026",
+        "quantity": 1,
+        "unitPrice": 75000.00,
+        "total": 75000.00
+      }
+    ],
+    "subtotal": 75000.00,
+    "tax": 0.00,
+    "total": 75000.00,
+    "status": "Sent"
+  },
+  {
+    "id": "est-ym-002",
+    "customerId": "cust-ym-008",
+    "estimateNumber": "EST-YM-2026-002",
+    "date": "2026-01-18",
+    "validUntil": "2026-02-18",
+    "items": [
+      {
+        "description": "Tourism Promotion Event - 3 performances",
+        "quantity": 3,
+        "unitPrice": 25000.00,
+        "total": 75000.00
+      },
+      {
+        "description": "Social Media Promotion - Tourism Campaign",
+        "quantity": 5,
+        "unitPrice": 5000.00,
+        "total": 25000.00
+      }
+    ],
+    "subtotal": 100000.00,
+    "tax": 16000.00,
+    "total": 116000.00,
+    "status": "Accepted"
+  },
+  {
+    "id": "est-ym-003",
+    "customerId": "cust-ym-016",
+    "estimateNumber": "EST-YM-2026-003",
+    "date": "2026-01-20",
+    "validUntil": "2026-02-28",
+    "items": [
+      {
+        "description": "Wedding Performance - 2 hour set",
+        "quantity": 1,
+        "unitPrice": 35000.00,
+        "total": 35000.00
+      },
+      {
+        "description": "Meet & Greet Package",
+        "quantity": 1,
+        "unitPrice": 1500.00,
+        "total": 1500.00
+      }
+    ],
+    "subtotal": 36500.00,
+    "tax": 0.00,
+    "total": 36500.00,
+    "status": "Draft"
+  },
+  {
+    "id": "est-ym-004",
+    "customerId": "cust-ym-009",
+    "estimateNumber": "EST-YM-2026-004",
+    "date": "2026-01-22",
+    "validUntil": "2026-03-31",
+    "items": [
+      {
+        "description": "Brand Ambassador - Mosi Lager (6 months)",
+        "quantity": 6,
+        "unitPrice": 25000.00,
+        "total": 150000.00
+      },
+      {
+        "description": "Social Media Posts (12 posts)",
+        "quantity": 12,
+        "unitPrice": 8000.00,
+        "total": 96000.00
+      },
+      {
+        "description": "Event Appearances (4 events)",
+        "quantity": 4,
+        "unitPrice": 35000.00,
+        "total": 140000.00
+      }
+    ],
+    "subtotal": 386000.00,
+    "tax": 61760.00,
+    "total": 447760.00,
+    "status": "Sent"
+  },
+  {
+    "id": "est-ym-005",
+    "customerId": "cust-ym-014",
+    "estimateNumber": "EST-YM-2026-005",
+    "date": "2026-01-25",
+    "validUntil": "2026-02-25",
+    "items": [
+      {
+        "description": "New Year's Eve Performance",
+        "quantity": 1,
+        "unitPrice": 55000.00,
+        "total": 55000.00
+      }
+    ],
+    "subtotal": 55000.00,
+    "tax": 0.00,
+    "total": 55000.00,
+    "status": "Accepted"
+  },
+  {
+    "id": "est-ym-006",
+    "customerId": "cust-ym-017",
+    "estimateNumber": "EST-YM-2026-006",
+    "date": "2026-01-28",
+    "validUntil": "2026-03-15",
+    "items": [
+      {
+        "description": "Corporate Event Performance",
+        "quantity": 1,
+        "unitPrice": 45000.00,
+        "total": 45000.00
+      },
+      {
+        "description": "Background Music Session",
+        "quantity": 2,
+        "unitPrice": 10000.00,
+        "total": 20000.00
+      }
+    ],
+    "subtotal": 65000.00,
+    "tax": 10400.00,
+    "total": 75400.00,
+    "status": "Draft"
+  },
+  {
+    "id": "est-ym-007",
+    "customerId": "cust-ym-013",
+    "estimateNumber": "EST-YM-2026-007",
+    "date": "2026-02-01",
+    "validUntil": "2026-04-30",
+    "items": [
+      {
+        "description": "Festival Season Appearances (3 festivals)",
+        "quantity": 3,
+        "unitPrice": 55000.00,
+        "total": 165000.00
+      }
+    ],
+    "subtotal": 165000.00,
+    "tax": 0.00,
+    "total": 165000.00,
+    "status": "Sent"
+  },
+  {
+    "id": "est-ym-008",
+    "customerId": "cust-ym-019",
+    "estimateNumber": "EST-YM-2026-008",
+    "date": "2026-02-03",
+    "validUntil": "2026-03-31",
+    "items": [
+      {
+        "description": "Banking Campaign - Brand Partnership",
+        "quantity": 1,
+        "unitPrice": 80000.00,
+        "total": 80000.00
+      },
+      {
+        "description": "TV Commercial Appearance",
+        "quantity": 2,
+        "unitPrice": 30000.00,
+        "total": 60000.00
+      }
+    ],
+    "subtotal": 140000.00,
+    "tax": 22400.00,
+    "total": 162400.00,
+    "status": "Draft"
+  },
+  {
+    "id": "est-ym-009",
+    "customerId": "cust-ym-001",
+    "estimateNumber": "EST-YM-2026-009",
+    "date": "2026-02-05",
+    "validUntil": "2026-03-05",
+    "items": [
+      {
+        "description": "Music Content for ZNBC Show",
+        "quantity": 4,
+        "unitPrice": 12000.00,
+        "total": 48000.00
+      }
+    ],
+    "subtotal": 48000.00,
+    "tax": 7680.00,
+    "total": 55680.00,
+    "status": "Sent"
+  },
+  {
+    "id": "est-ym-010",
+    "customerId": "cust-ym-030",
+    "estimateNumber": "EST-YM-2026-010",
+    "date": "2026-02-07",
+    "validUntil": "2026-04-30",
+    "items": [
+      {
+        "description": "Film Soundtrack - Music Licensing",
+        "quantity": 2,
+        "unitPrice": 25000.00,
+        "total": 50000.00
+      },
+      {
+        "description": "Custom Song Production",
+        "quantity": 1,
+        "unitPrice": 40000.00,
+        "total": 40000.00
+      }
+    ],
+    "subtotal": 90000.00,
+    "tax": 14400.00,
+    "total": 104400.00,
+    "status": "Draft"
+  }
+]

@@ -1,0 +1,272 @@
+[
+  {
+    "id": "je-ym-001",
+    "entryDate": "2026-01-05",
+    "description": "Spotify streaming royalty payment received",
+    "account": "1100",
+    "debit": 8500.00,
+    "credit": 0,
+    "reference": "REF-YM-SPOT-001"
+  },
+  {
+    "id": "je-ym-002",
+    "entryDate": "2026-01-05",
+    "description": "Spotify streaming royalty payment received",
+    "account": "4100",
+    "debit": 0,
+    "credit": 8500.00,
+    "reference": "REF-YM-SPOT-001"
+  },
+  {
+    "id": "je-ym-003",
+    "entryDate": "2026-01-10",
+    "description": "Concert performance - Radisson Blu Hotel",
+    "account": "1200",
+    "debit": 35000.00,
+    "credit": 0,
+    "reference": "REF-YM-PERF-002"
+  },
+  {
+    "id": "je-ym-004",
+    "entryDate": "2026-01-10",
+    "description": "Concert performance - Radisson Blu Hotel",
+    "account": "4300",
+    "debit": 0,
+    "credit": 35000.00,
+    "reference": "REF-YM-PERF-002"
+  },
+  {
+    "id": "je-ym-005",
+    "entryDate": "2026-01-12",
+    "description": "Studio recording session payment",
+    "account": "5100",
+    "debit": 8000.00,
+    "credit": 0,
+    "reference": "REF-YM-STUD-003"
+  },
+  {
+    "id": "je-ym-006",
+    "entryDate": "2026-01-12",
+    "description": "Studio recording session payment",
+    "account": "1100",
+    "debit": 0,
+    "credit": 8000.00,
+    "reference": "REF-YM-STUD-003"
+  },
+  {
+    "id": "je-ym-007",
+    "entryDate": "2026-01-15",
+    "description": "YouTube ad revenue payment",
+    "account": "1100",
+    "debit": 12000.00,
+    "credit": 0,
+    "reference": "REF-YM-YT-004"
+  },
+  {
+    "id": "je-ym-008",
+    "entryDate": "2026-01-15",
+    "description": "YouTube ad revenue payment",
+    "account": "4120",
+    "debit": 0,
+    "credit": 12000.00,
+    "reference": "REF-YM-YT-004"
+  },
+  {
+    "id": "je-ym-009",
+    "entryDate": "2026-01-18",
+    "description": "Merchandise sales - concert venue",
+    "account": "1000",
+    "debit": 4500.00,
+    "credit": 0,
+    "reference": "REF-YM-MERCH-005"
+  },
+  {
+    "id": "je-ym-010",
+    "entryDate": "2026-01-18",
+    "description": "Merchandise sales - concert venue",
+    "account": "4500",
+    "debit": 0,
+    "credit": 4500.00,
+    "reference": "REF-YM-MERCH-005"
+  },
+  {
+    "id": "je-ym-011",
+    "entryDate": "2026-01-20",
+    "description": "Brand endorsement - MTN Zambia",
+    "account": "1220",
+    "debit": 25000.00,
+    "credit": 0,
+    "reference": "REF-YM-END-006"
+  },
+  {
+    "id": "je-ym-012",
+    "entryDate": "2026-01-20",
+    "description": "Brand endorsement - MTN Zambia",
+    "account": "4400",
+    "debit": 0,
+    "credit": 25000.00,
+    "reference": "REF-YM-END-006"
+  },
+  {
+    "id": "je-ym-013",
+    "entryDate": "2026-01-22",
+    "description": "Music video production payment",
+    "account": "5110",
+    "debit": 15000.00,
+    "credit": 0,
+    "reference": "REF-YM-VID-007"
+  },
+  {
+    "id": "je-ym-014",
+    "entryDate": "2026-01-22",
+    "description": "Music video production payment",
+    "account": "2010",
+    "debit": 0,
+    "credit": 15000.00,
+    "reference": "REF-YM-VID-007"
+  },
+  {
+    "id": "je-ym-015",
+    "entryDate": "2026-01-25",
+    "description": "Property rental income - Meanwood residence",
+    "account": "1100",
+    "debit": 5000.00,
+    "credit": 0,
+    "reference": "REF-YM-RENT-008"
+  },
+  {
+    "id": "je-ym-016",
+    "entryDate": "2026-01-25",
+    "description": "Property rental income - Meanwood residence",
+    "account": "4700",
+    "debit": 0,
+    "credit": 5000.00,
+    "reference": "REF-YM-RENT-008"
+  },
+  {
+    "id": "je-ym-017",
+    "entryDate": "2026-01-28",
+    "description": "Social media promotion payment - Airtel",
+    "account": "1100",
+    "debit": 8000.00,
+    "credit": 0,
+    "reference": "REF-YM-SM-009"
+  },
+  {
+    "id": "je-ym-018",
+    "entryDate": "2026-01-28",
+    "description": "Social media promotion payment - Airtel",
+    "account": "4410",
+    "debit": 0,
+    "credit": 8000.00,
+    "reference": "REF-YM-SM-009"
+  },
+  {
+    "id": "je-ym-019",
+    "entryDate": "2026-01-30",
+    "description": "Sound equipment rental for event",
+    "account": "5210",
+    "debit": 5200.00,
+    "credit": 0,
+    "reference": "REF-YM-EQP-010"
+  },
+  {
+    "id": "je-ym-020",
+    "entryDate": "2026-01-30",
+    "description": "Sound equipment rental for event",
+    "account": "1100",
+    "debit": 0,
+    "credit": 5200.00,
+    "reference": "REF-YM-EQP-010"
+  },
+  {
+    "id": "je-ym-021",
+    "entryDate": "2026-02-01",
+    "description": "Radio airplay royalties - ZAMCOPS",
+    "account": "1100",
+    "debit": 4500.00,
+    "credit": 0,
+    "reference": "REF-YM-RAD-011"
+  },
+  {
+    "id": "je-ym-022",
+    "entryDate": "2026-02-01",
+    "description": "Radio airplay royalties - ZAMCOPS",
+    "account": "4200",
+    "debit": 0,
+    "credit": 4500.00,
+    "reference": "REF-YM-RAD-011"
+  },
+  {
+    "id": "je-ym-023",
+    "entryDate": "2026-02-03",
+    "description": "Marketing and promotion expenses",
+    "account": "5300",
+    "debit": 7500.00,
+    "credit": 0,
+    "reference": "REF-YM-MKT-012"
+  },
+  {
+    "id": "je-ym-024",
+    "entryDate": "2026-02-03",
+    "description": "Marketing and promotion expenses",
+    "account": "1100",
+    "debit": 0,
+    "credit": 7500.00,
+    "reference": "REF-YM-MKT-012"
+  },
+  {
+    "id": "je-ym-025",
+    "entryDate": "2026-02-05",
+    "description": "Producer royalties payment",
+    "account": "5500",
+    "debit": 6500.00,
+    "credit": 0,
+    "reference": "REF-YM-ROY-013"
+  },
+  {
+    "id": "je-ym-026",
+    "entryDate": "2026-02-05",
+    "description": "Producer royalties payment",
+    "account": "1100",
+    "debit": 0,
+    "credit": 6500.00,
+    "reference": "REF-YM-ROY-013"
+  },
+  {
+    "id": "je-ym-027",
+    "entryDate": "2026-02-07",
+    "description": "Digital album sales - January",
+    "account": "1100",
+    "debit": 3800.00,
+    "credit": 0,
+    "reference": "REF-YM-ALB-014"
+  },
+  {
+    "id": "je-ym-028",
+    "entryDate": "2026-02-07",
+    "description": "Digital album sales - January",
+    "account": "4000",
+    "debit": 0,
+    "credit": 3800.00,
+    "reference": "REF-YM-ALB-014"
+  },
+  {
+    "id": "je-ym-029",
+    "entryDate": "2026-02-10",
+    "description": "Event security services payment",
+    "account": "5220",
+    "debit": 3800.00,
+    "credit": 0,
+    "reference": "REF-YM-SEC-015"
+  },
+  {
+    "id": "je-ym-030",
+    "entryDate": "2026-02-10",
+    "description": "Event security services payment",
+    "account": "2000",
+    "debit": 0,
+    "credit": 3800.00,
+    "reference": "REF-YM-SEC-015"
+  }
+]

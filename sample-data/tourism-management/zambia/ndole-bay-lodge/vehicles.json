@@ -1,0 +1,12 @@
+﻿{
+    "Capacity":  14,
+    "Id":  303,
+    "RegistrationNumber":  "ZM-NBL-33",
+    "VehicleType":  1,
+    "FuelType":  "Petrol",
+    "Name":  "Tanganyika Explorer Boat",
+    "NextServiceDue":  "2024-11-12",
+    "Status":  0,
+    "LastServiceDate":  "2024-05-12",
+    "FuelLevel":  0.85
+}

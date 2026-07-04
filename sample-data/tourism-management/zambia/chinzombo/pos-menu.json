@@ -1,0 +1,23 @@
+﻿[
+    {
+        "Price":  380,
+        "Category":  0,
+        "Name":  "Zambezi Tigerfish Fillet",
+        "Id":  1,
+        "IsAvailable":  true
+    },
+    {
+        "Price":  110,
+        "Category":  1,
+        "Name":  "Local Mosi Lager",
+        "Id":  2,
+        "IsAvailable":  true
+    },
+    {
+        "Price":  150,
+        "Category":  3,
+        "Name":  "Beadwork Bracelet",
+        "Id":  3,
+        "IsAvailable":  true
+    }
+]

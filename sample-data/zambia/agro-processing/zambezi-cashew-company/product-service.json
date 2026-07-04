@@ -1,0 +1,302 @@
+[
+  {
+    "id": "prod-001",
+    "productName": "Processed Cashews - Variant 1",
+    "description": "Quality Cashew Kernels product",
+    "category": "Operational",
+    "unitPrice": 7268.93,
+    "quantityInStock": 378,
+    "reorderLevel": 40,
+    "supplier": "Agricultural Cooperatives"
+  },
+  {
+    "id": "prod-002",
+    "productName": "Cashew Kernels - Variant 2",
+    "description": "Quality Processed Cashews product",
+    "category": "Operational",
+    "unitPrice": 4654.43,
+    "quantityInStock": 433,
+    "reorderLevel": 6,
+    "supplier": "Agricultural Cooperatives"
+  },
+  {
+    "id": "prod-003",
+    "productName": "Cashew Kernels - Variant 3",
+    "description": "Quality Raw Cashew Nuts product",
+    "category": "Operational",
+    "unitPrice": 7489.13,
+    "quantityInStock": 111,
+    "reorderLevel": 9,
+    "supplier": "Agricultural Cooperatives"
+  },
+  {
+    "id": "prod-004",
+    "productName": "Cashew Butter - Variant 4",
+    "description": "Quality Processed Cashews product",
+    "category": "Operational",
+    "unitPrice": 5443.73,
+    "quantityInStock": 322,
+    "reorderLevel": 8,
+    "supplier": "Processing Equipment"
+  },
+  {
+    "id": "prod-005",
+    "productName": "Cashew Butter - Variant 5",
+    "description": "Quality Processed Cashews product",
+    "category": "Operational",
+    "unitPrice": 1252.16,
+    "quantityInStock": 283,
+    "reorderLevel": 22,
+    "supplier": "Agricultural Cooperatives"
+  },
+  {
+    "id": "prod-006",
+    "productName": "Cashew Kernels - Variant 6",
+    "description": "Quality Cashew Kernels product",
+    "category": "Operational",
+    "unitPrice": 699.89,
+    "quantityInStock": 163,
+    "reorderLevel": 43,
+    "supplier": "Processing Equipment"
+  },
+  {
+    "id": "prod-007",
+    "productName": "Processed Cashews - Variant 7",
+    "description": "Quality Cashew Butter product",
+    "category": "Operational",
+    "unitPrice": 9093.78,
+    "quantityInStock": 368,
+    "reorderLevel": 36,
+    "supplier": "Processing Equipment"
+  },
+  {
+    "id": "prod-008",
+    "productName": "Raw Cashew Nuts - Variant 8",
+    "description": "Quality Cashew Kernels product",
+    "category": "Operational",
+    "unitPrice": 8594.36,
+    "quantityInStock": 157,
+    "reorderLevel": 28,
+    "supplier": "Local Farmers"
+  },
+  {
+    "id": "prod-009",
+    "productName": "Cashew Butter - Variant 9",
+    "description": "Quality Cashew Kernels product",
+    "category": "Operational",
+    "unitPrice": 5371.12,
+    "quantityInStock": 311,
+    "reorderLevel": 6,
+    "supplier": "Agricultural Cooperatives"
+  },
+  {
+    "id": "prod-010",
+    "productName": "Cashew Kernels - Variant 10",
+    "description": "Quality Cashew Butter product",
+    "category": "Operational",
+    "unitPrice": 8114.13,
+    "quantityInStock": 443,
+    "reorderLevel": 31,
+    "supplier": "Local Farmers"
+  },
+  {
+    "id": "prod-011",
+    "productName": "Processed Cashews - Variant 11",
+    "description": "Quality Cashew Kernels product",
+    "category": "Operational",
+    "unitPrice": 3422.88,
+    "quantityInStock": 47,
+    "reorderLevel": 24,
+    "supplier": "Local Farmers"
+  },
+  {
+    "id": "prod-012",
+    "productName": "Cashew Butter - Variant 12",
+    "description": "Quality Raw Cashew Nuts product",
+    "category": "Operational",
+    "unitPrice": 2977.62,
+    "quantityInStock": 146,
+    "reorderLevel": 48,
+    "supplier": "Agricultural Cooperatives"
+  },
+  {
+    "id": "prod-013",
+    "productName": "Processed Cashews - Variant 13",
+    "description": "Quality Cashew Butter product",
+    "category": "Operational",
+    "unitPrice": 5428.51,
+    "quantityInStock": 261,
+    "reorderLevel": 9,
+    "supplier": "Processing Equipment"
+  },
+  {
+    "id": "prod-014",
+    "productName": "Cashew Kernels - Variant 14",
+    "description": "Quality Cashew Butter product",
+    "category": "Operational",
+    "unitPrice": 4454.26,
+    "quantityInStock": 319,
+    "reorderLevel": 22,
+    "supplier": "Agricultural Cooperatives"
+  },
+  {
+    "id": "prod-015",
+    "productName": "Cashew Butter - Variant 15",
+    "description": "Quality Processed Cashews product",
+    "category": "Operational",
+    "unitPrice": 8877.95,
+    "quantityInStock": 498,
+    "reorderLevel": 30,
+    "supplier": "Agricultural Cooperatives"
+  },
+  {
+    "id": "prod-016",
+    "productName": "Raw Cashew Nuts - Variant 16",
+    "description": "Quality Cashew Kernels product",
+    "category": "Operational",
+    "unitPrice": 3092.18,
+    "quantityInStock": 232,
+    "reorderLevel": 8,
+    "supplier": "Processing Equipment"
+  },
+  {
+    "id": "prod-017",
+    "productName": "Cashew Kernels - Variant 17",
+    "description": "Quality Processed Cashews product",
+    "category": "Operational",
+    "unitPrice": 7964.44,
+    "quantityInStock": 328,
+    "reorderLevel": 6,
+    "supplier": "Agricultural Cooperatives"
+  },
+  {
+    "id": "prod-018",
+    "productName": "Cashew Kernels - Variant 18",
+    "description": "Quality Processed Cashews product",
+    "category": "Operational",
+    "unitPrice": 7624.67,
+    "quantityInStock": 370,
+    "reorderLevel": 41,
+    "supplier": "Local Farmers"
+  },
+  {
+    "id": "prod-019",
+    "productName": "Cashew Kernels - Variant 19",
+    "description": "Quality Cashew Kernels product",
+    "category": "Operational",
+    "unitPrice": 6331.54,
+    "quantityInStock": 278,
+    "reorderLevel": 45,
+    "supplier": "Processing Equipment"
+  },
+  {
+    "id": "prod-020",
+    "productName": "Cashew Butter - Variant 20",
+    "description": "Quality Processed Cashews product",
+    "category": "Operational",
+    "unitPrice": 6665.03,
+    "quantityInStock": 359,
+    "reorderLevel": 40,
+    "supplier": "Agricultural Cooperatives"
+  },
+  {
+    "id": "prod-021",
+    "productName": "Processed Cashews - Variant 21",
+    "description": "Quality Cashew Kernels product",
+    "category": "Operational",
+    "unitPrice": 9479.04,
+    "quantityInStock": 84,
+    "reorderLevel": 34,
+    "supplier": "Agricultural Cooperatives"
+  },
+  {
+    "id": "prod-022",
+    "productName": "Processed Cashews - Variant 22",
+    "description": "Quality Cashew Butter product",
+    "category": "Operational",
+    "unitPrice": 2119.99,
+    "quantityInStock": 443,
+    "reorderLevel": 45,
+    "supplier": "Agricultural Cooperatives"
+  },
+  {
+    "id": "prod-023",
+    "productName": "Raw Cashew Nuts - Variant 23",
+    "description": "Quality Raw Cashew Nuts product",
+    "category": "Operational",
+    "unitPrice": 4249.36,
+    "quantityInStock": 467,
+    "reorderLevel": 11,
+    "supplier": "Local Farmers"
+  },
+  {
+    "id": "prod-024",
+    "productName": "Cashew Kernels - Variant 24",
+    "description": "Quality Processed Cashews product",
+    "category": "Operational",
+    "unitPrice": 7978.94,
+    "quantityInStock": 491,
+    "reorderLevel": 46,
+    "supplier": "Agricultural Cooperatives"
+  },
+  {
+    "id": "prod-025",
+    "productName": "Cashew Kernels - Variant 25",
+    "description": "Quality Cashew Butter product",
+    "category": "Operational",
+    "unitPrice": 4201.15,
+    "quantityInStock": 62,
+    "reorderLevel": 23,
+    "supplier": "Processing Equipment"
+  },
+  {
+    "id": "prod-026",
+    "productName": "Cashew Butter - Variant 26",
+    "description": "Quality Cashew Kernels product",
+    "category": "Operational",
+    "unitPrice": 3293.88,
+    "quantityInStock": 151,
+    "reorderLevel": 47,
+    "supplier": "Agricultural Cooperatives"
+  },
+  {
+    "id": "prod-027",
+    "productName": "Cashew Butter - Variant 27",
+    "description": "Quality Processed Cashews product",
+    "category": "Operational",
+    "unitPrice": 4552.23,
+    "quantityInStock": 11,
+    "reorderLevel": 12,
+    "supplier": "Processing Equipment"
+  },
+  {
+    "id": "prod-028",
+    "productName": "Cashew Butter - Variant 28",
+    "description": "Quality Raw Cashew Nuts product",
+    "category": "Operational",
+    "unitPrice": 2392.03,
+    "quantityInStock": 219,
+    "reorderLevel": 48,
+    "supplier": "Local Farmers"
+  },
+  {
+    "id": "prod-029",
+    "productName": "Cashew Butter - Variant 29",
+    "description": "Quality Processed Cashews product",
+    "category": "Operational",
+    "unitPrice": 9379.14,
+    "quantityInStock": 401,
+    "reorderLevel": 17,
+    "supplier": "Processing Equipment"
+  },
+  {
+    "id": "prod-030",
+    "productName": "Cashew Kernels - Variant 30",
+    "description": "Quality Cashew Butter product",
+    "category": "Operational",
+    "unitPrice": 2422.46,
+    "quantityInStock": 197,
+    "reorderLevel": 48,
+    "supplier": "Local Farmers"
+  }
+]

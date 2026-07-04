@@ -1,0 +1,26 @@
+﻿[
+    {
+        "Capacity":  10,
+        "Id":  5,
+        "RegistrationNumber":  "ZM-KF-301",
+        "VehicleType":  0,
+        "FuelType":  "Diesel",
+        "Name":  "Busanga Cruiser",
+        "NextServiceDue":  "2024-10-10",
+        "Status":  0,
+        "LastServiceDate":  "2024-04-10",
+        "FuelLevel":  0.8
+    },
+    {
+        "Capacity":  12,
+        "Id":  6,
+        "RegistrationNumber":  "ZM-KF-302",
+        "VehicleType":  1,
+        "FuelType":  "Petrol",
+        "Name":  "Kafue Explorer Boat",
+        "NextServiceDue":  "2024-10-20",
+        "Status":  0,
+        "LastServiceDate":  "2024-04-20",
+        "FuelLevel":  0.75
+    }
+]

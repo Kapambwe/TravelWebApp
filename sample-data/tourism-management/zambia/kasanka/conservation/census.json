@@ -1,0 +1,18 @@
+﻿[
+    {
+        "Id":  1,
+        "Count":  10000000,
+        "Method":  "Direct Count / Aerial Survey",
+        "Date":  "2024-05-01T00:00:00",
+        "SpeciesId":  13,
+        "Location":  "Kasanka National Park Sector Alpha"
+    },
+    {
+        "Id":  2,
+        "Count":  450,
+        "Method":  "Camera Trapping \u0026 Spoor Count",
+        "Date":  "2024-05-03T00:00:00",
+        "SpeciesId":  14,
+        "Location":  "Kasanka National Park Sector Beta"
+    }
+]

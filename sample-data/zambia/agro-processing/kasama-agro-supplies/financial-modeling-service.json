@@ -1,0 +1,662 @@
+[
+  {
+    "id": "item-001",
+    "modelName": "5-Year Revenue Projection 1",
+    "baseYear": 2024,
+    "projections": [
+      {
+        "year": 2024,
+        "revenue": 1000000.0,
+        "growthRate": 0.0
+      },
+      {
+        "year": 2025,
+        "revenue": 1150000.0,
+        "growthRate": 15.0
+      },
+      {
+        "year": 2026,
+        "revenue": 1322500.0,
+        "growthRate": 15.0
+      }
+    ]
+  },
+  {
+    "id": "item-002",
+    "modelName": "5-Year Revenue Projection 1",
+    "baseYear": 2024,
+    "projections": [
+      {
+        "year": 2024,
+        "revenue": 1000000.0,
+        "growthRate": 0.0
+      },
+      {
+        "year": 2025,
+        "revenue": 1150000.0,
+        "growthRate": 15.0
+      },
+      {
+        "year": 2026,
+        "revenue": 1322500.0,
+        "growthRate": 15.0
+      }
+    ]
+  },
+  {
+    "id": "item-003",
+    "modelName": "5-Year Revenue Projection 1",
+    "baseYear": 2024,
+    "projections": [
+      {
+        "year": 2024,
+        "revenue": 1000000.0,
+        "growthRate": 0.0
+      },
+      {
+        "year": 2025,
+        "revenue": 1150000.0,
+        "growthRate": 15.0
+      },
+      {
+        "year": 2026,
+        "revenue": 1322500.0,
+        "growthRate": 15.0
+      }
+    ]
+  },
+  {
+    "id": "item-004",
+    "modelName": "5-Year Revenue Projection 1",
+    "baseYear": 2024,
+    "projections": [
+      {
+        "year": 2024,
+        "revenue": 1000000.0,
+        "growthRate": 0.0
+      },
+      {
+        "year": 2025,
+        "revenue": 1150000.0,
+        "growthRate": 15.0
+      },
+      {
+        "year": 2026,
+        "revenue": 1322500.0,
+        "growthRate": 15.0
+      }
+    ]
+  },
+  {
+    "id": "item-005",
+    "modelName": "5-Year Revenue Projection 1",
+    "baseYear": 2024,
+    "projections": [
+      {
+        "year": 2024,
+        "revenue": 1000000.0,
+        "growthRate": 0.0
+      },
+      {
+        "year": 2025,
+        "revenue": 1150000.0,
+        "growthRate": 15.0
+      },
+      {
+        "year": 2026,
+        "revenue": 1322500.0,
+        "growthRate": 15.0
+      }
+    ]
+  },
+  {
+    "id": "item-006",
+    "modelName": "5-Year Revenue Projection 1",
+    "baseYear": 2024,
+    "projections": [
+      {
+        "year": 2024,
+        "revenue": 1000000.0,
+        "growthRate": 0.0
+      },
+      {
+        "year": 2025,
+        "revenue": 1150000.0,
+        "growthRate": 15.0
+      },
+      {
+        "year": 2026,
+        "revenue": 1322500.0,
+        "growthRate": 15.0
+      }
+    ]
+  },
+  {
+    "id": "item-007",
+    "modelName": "5-Year Revenue Projection 1",
+    "baseYear": 2024,
+    "projections": [
+      {
+        "year": 2024,
+        "revenue": 1000000.0,
+        "growthRate": 0.0
+      },
+      {
+        "year": 2025,
+        "revenue": 1150000.0,
+        "growthRate": 15.0
+      },
+      {
+        "year": 2026,
+        "revenue": 1322500.0,
+        "growthRate": 15.0
+      }
+    ]
+  },
+  {
+    "id": "item-008",
+    "modelName": "5-Year Revenue Projection 1",
+    "baseYear": 2024,
+    "projections": [
+      {
+        "year": 2024,
+        "revenue": 1000000.0,
+        "growthRate": 0.0
+      },
+      {
+        "year": 2025,
+        "revenue": 1150000.0,
+        "growthRate": 15.0
+      },
+      {
+        "year": 2026,
+        "revenue": 1322500.0,
+        "growthRate": 15.0
+      }
+    ]
+  },
+  {
+    "id": "item-009",
+    "modelName": "5-Year Revenue Projection 1",
+    "baseYear": 2024,
+    "projections": [
+      {
+        "year": 2024,
+        "revenue": 1000000.0,
+        "growthRate": 0.0
+      },
+      {
+        "year": 2025,
+        "revenue": 1150000.0,
+        "growthRate": 15.0
+      },
+      {
+        "year": 2026,
+        "revenue": 1322500.0,
+        "growthRate": 15.0
+      }
+    ]
+  },
+  {
+    "id": "item-010",
+    "modelName": "5-Year Revenue Projection 1",
+    "baseYear": 2024,
+    "projections": [
+      {
+        "year": 2024,
+        "revenue": 1000000.0,
+        "growthRate": 0.0
+      },
+      {
+        "year": 2025,
+        "revenue": 1150000.0,
+        "growthRate": 15.0
+      },
+      {
+        "year": 2026,
+        "revenue": 1322500.0,
+        "growthRate": 15.0
+      }
+    ]
+  },
+  {
+    "id": "item-011",
+    "modelName": "5-Year Revenue Projection 1",
+    "baseYear": 2024,
+    "projections": [
+      {
+        "year": 2024,
+        "revenue": 1000000.0,
+        "growthRate": 0.0
+      },
+      {
+        "year": 2025,
+        "revenue": 1150000.0,
+        "growthRate": 15.0
+      },
+      {
+        "year": 2026,
+        "revenue": 1322500.0,
+        "growthRate": 15.0
+      }
+    ]
+  },
+  {
+    "id": "item-012",
+    "modelName": "5-Year Revenue Projection 1",
+    "baseYear": 2024,
+    "projections": [
+      {
+        "year": 2024,
+        "revenue": 1000000.0,
+        "growthRate": 0.0
+      },
+      {
+        "year": 2025,
+        "revenue": 1150000.0,
+        "growthRate": 15.0
+      },
+      {
+        "year": 2026,
+        "revenue": 1322500.0,
+        "growthRate": 15.0
+      }
+    ]
+  },
+  {
+    "id": "item-013",
+    "modelName": "5-Year Revenue Projection 1",
+    "baseYear": 2024,
+    "projections": [
+      {
+        "year": 2024,
+        "revenue": 1000000.0,
+        "growthRate": 0.0
+      },
+      {
+        "year": 2025,
+        "revenue": 1150000.0,
+        "growthRate": 15.0
+      },
+      {
+        "year": 2026,
+        "revenue": 1322500.0,
+        "growthRate": 15.0
+      }
+    ]
+  },
+  {
+    "id": "item-014",
+    "modelName": "5-Year Revenue Projection 1",
+    "baseYear": 2024,
+    "projections": [
+      {
+        "year": 2024,
+        "revenue": 1000000.0,
+        "growthRate": 0.0
+      },
+      {
+        "year": 2025,
+        "revenue": 1150000.0,
+        "growthRate": 15.0
+      },
+      {
+        "year": 2026,
+        "revenue": 1322500.0,
+        "growthRate": 15.0
+      }
+    ]
+  },
+  {
+    "id": "item-015",
+    "modelName": "5-Year Revenue Projection 1",
+    "baseYear": 2024,
+    "projections": [
+      {
+        "year": 2024,
+        "revenue": 1000000.0,
+        "growthRate": 0.0
+      },
+      {
+        "year": 2025,
+        "revenue": 1150000.0,
+        "growthRate": 15.0
+      },
+      {
+        "year": 2026,
+        "revenue": 1322500.0,
+        "growthRate": 15.0
+      }
+    ]
+  },
+  {
+    "id": "item-016",
+    "modelName": "5-Year Revenue Projection 1",
+    "baseYear": 2024,
+    "projections": [
+      {
+        "year": 2024,
+        "revenue": 1000000.0,
+        "growthRate": 0.0
+      },
+      {
+        "year": 2025,
+        "revenue": 1150000.0,
+        "growthRate": 15.0
+      },
+      {
+        "year": 2026,
+        "revenue": 1322500.0,
+        "growthRate": 15.0
+      }
+    ]
+  },
+  {
+    "id": "item-017",
+    "modelName": "5-Year Revenue Projection 1",
+    "baseYear": 2024,
+    "projections": [
+      {
+        "year": 2024,
+        "revenue": 1000000.0,
+        "growthRate": 0.0
+      },
+      {
+        "year": 2025,
+        "revenue": 1150000.0,
+        "growthRate": 15.0
+      },
+      {
+        "year": 2026,
+        "revenue": 1322500.0,
+        "growthRate": 15.0
+      }
+    ]
+  },
+  {
+    "id": "item-018",
+    "modelName": "5-Year Revenue Projection 1",
+    "baseYear": 2024,
+    "projections": [
+      {
+        "year": 2024,
+        "revenue": 1000000.0,
+        "growthRate": 0.0
+      },
+      {
+        "year": 2025,
+        "revenue": 1150000.0,
+        "growthRate": 15.0
+      },
+      {
+        "year": 2026,
+        "revenue": 1322500.0,
+        "growthRate": 15.0
+      }
+    ]
+  },
+  {
+    "id": "item-019",
+    "modelName": "5-Year Revenue Projection 1",
+    "baseYear": 2024,
+    "projections": [
+      {
+        "year": 2024,
+        "revenue": 1000000.0,
+        "growthRate": 0.0
+      },
+      {
+        "year": 2025,
+        "revenue": 1150000.0,
+        "growthRate": 15.0
+      },
+      {
+        "year": 2026,
+        "revenue": 1322500.0,
+        "growthRate": 15.0
+      }
+    ]
+  },
+  {
+    "id": "item-020",
+    "modelName": "5-Year Revenue Projection 1",
+    "baseYear": 2024,
+    "projections": [
+      {
+        "year": 2024,
+        "revenue": 1000000.0,
+        "growthRate": 0.0
+      },
+      {
+        "year": 2025,
+        "revenue": 1150000.0,
+        "growthRate": 15.0
+      },
+      {
+        "year": 2026,
+        "revenue": 1322500.0,
+        "growthRate": 15.0
+      }
+    ]
+  },
+  {
+    "id": "item-021",
+    "modelName": "5-Year Revenue Projection 1",
+    "baseYear": 2024,
+    "projections": [
+      {
+        "year": 2024,
+        "revenue": 1000000.0,
+        "growthRate": 0.0
+      },
+      {
+        "year": 2025,
+        "revenue": 1150000.0,
+        "growthRate": 15.0
+      },
+      {
+        "year": 2026,
+        "revenue": 1322500.0,
+        "growthRate": 15.0
+      }
+    ]
+  },
+  {
+    "id": "item-022",
+    "modelName": "5-Year Revenue Projection 1",
+    "baseYear": 2024,
+    "projections": [
+      {
+        "year": 2024,
+        "revenue": 1000000.0,
+        "growthRate": 0.0
+      },
+      {
+        "year": 2025,
+        "revenue": 1150000.0,
+        "growthRate": 15.0
+      },
+      {
+        "year": 2026,
+        "revenue": 1322500.0,
+        "growthRate": 15.0
+      }
+    ]
+  },
+  {
+    "id": "item-023",
+    "modelName": "5-Year Revenue Projection 1",
+    "baseYear": 2024,
+    "projections": [
+      {
+        "year": 2024,
+        "revenue": 1000000.0,
+        "growthRate": 0.0
+      },
+      {
+        "year": 2025,
+        "revenue": 1150000.0,
+        "growthRate": 15.0
+      },
+      {
+        "year": 2026,
+        "revenue": 1322500.0,
+        "growthRate": 15.0
+      }
+    ]
+  },
+  {
+    "id": "item-024",
+    "modelName": "5-Year Revenue Projection 1",
+    "baseYear": 2024,
+    "projections": [
+      {
+        "year": 2024,
+        "revenue": 1000000.0,
+        "growthRate": 0.0
+      },
+      {
+        "year": 2025,
+        "revenue": 1150000.0,
+        "growthRate": 15.0
+      },
+      {
+        "year": 2026,
+        "revenue": 1322500.0,
+        "growthRate": 15.0
+      }
+    ]
+  },
+  {
+    "id": "item-025",
+    "modelName": "5-Year Revenue Projection 1",
+    "baseYear": 2024,
+    "projections": [
+      {
+        "year": 2024,
+        "revenue": 1000000.0,
+        "growthRate": 0.0
+      },
+      {
+        "year": 2025,
+        "revenue": 1150000.0,
+        "growthRate": 15.0
+      },
+      {
+        "year": 2026,
+        "revenue": 1322500.0,
+        "growthRate": 15.0
+      }
+    ]
+  },
+  {
+    "id": "item-026",
+    "modelName": "5-Year Revenue Projection 1",
+    "baseYear": 2024,
+    "projections": [
+      {
+        "year": 2024,
+        "revenue": 1000000.0,
+        "growthRate": 0.0
+      },
+      {
+        "year": 2025,
+        "revenue": 1150000.0,
+        "growthRate": 15.0
+      },
+      {
+        "year": 2026,
+        "revenue": 1322500.0,
+        "growthRate": 15.0
+      }
+    ]
+  },
+  {
+    "id": "item-027",
+    "modelName": "5-Year Revenue Projection 1",
+    "baseYear": 2024,
+    "projections": [
+      {
+        "year": 2024,
+        "revenue": 1000000.0,
+        "growthRate": 0.0
+      },
+      {
+        "year": 2025,
+        "revenue": 1150000.0,
+        "growthRate": 15.0
+      },
+      {
+        "year": 2026,
+        "revenue": 1322500.0,
+        "growthRate": 15.0
+      }
+    ]
+  },
+  {
+    "id": "item-028",
+    "modelName": "5-Year Revenue Projection 1",
+    "baseYear": 2024,
+    "projections": [
+      {
+        "year": 2024,
+        "revenue": 1000000.0,
+        "growthRate": 0.0
+      },
+      {
+        "year": 2025,
+        "revenue": 1150000.0,
+        "growthRate": 15.0
+      },
+      {
+        "year": 2026,
+        "revenue": 1322500.0,
+        "growthRate": 15.0
+      }
+    ]
+  },
+  {
+    "id": "item-029",
+    "modelName": "5-Year Revenue Projection 1",
+    "baseYear": 2024,
+    "projections": [
+      {
+        "year": 2024,
+        "revenue": 1000000.0,
+        "growthRate": 0.0
+      },
+      {
+        "year": 2025,
+        "revenue": 1150000.0,
+        "growthRate": 15.0
+      },
+      {
+        "year": 2026,
+        "revenue": 1322500.0,
+        "growthRate": 15.0
+      }
+    ]
+  },
+  {
+    "id": "item-030",
+    "modelName": "5-Year Revenue Projection 1",
+    "baseYear": 2024,
+    "projections": [
+      {
+        "year": 2024,
+        "revenue": 1000000.0,
+        "growthRate": 0.0
+      },
+      {
+        "year": 2025,
+        "revenue": 1150000.0,
+        "growthRate": 15.0
+      },
+      {
+        "year": 2026,
+        "revenue": 1322500.0,
+        "growthRate": 15.0
+      }
+    ]
+  }
+]

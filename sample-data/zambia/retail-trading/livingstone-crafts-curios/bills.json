@@ -1,0 +1,101 @@
+[
+  {
+    "id": 1,
+    "billNumber": "BILL-2025-001",
+    "vendorName": "Chanda Trading Holdings",
+    "description": "Import Duties & Levies",
+    "billDate": "2025-02-22T00:00:00",
+    "dueDate": "2025-03-09T00:00:00",
+    "amount": 1234033.84,
+    "paidAmount": 667131.69,
+    "status": "PartiallyPaid"
+  },
+  {
+    "id": 2,
+    "billNumber": "BILL-2025-002",
+    "vendorName": "Chanda Trading Holdings",
+    "description": "Logistics & Delivery",
+    "billDate": "2024-10-20T00:00:00",
+    "dueDate": "2024-11-19T00:00:00",
+    "amount": 2433462.38,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 3,
+    "billNumber": "BILL-2025-003",
+    "vendorName": "Kaputo Traders Co.",
+    "description": "Logistics & Delivery",
+    "billDate": "2024-11-10T00:00:00",
+    "dueDate": "2024-12-10T00:00:00",
+    "amount": 2320257.47,
+    "paidAmount": 1084303.21,
+    "status": "PartiallyPaid"
+  },
+  {
+    "id": 4,
+    "billNumber": "BILL-2025-004",
+    "vendorName": "Bwalya Trading Holdings",
+    "description": "Logistics & Delivery",
+    "billDate": "2024-12-13T00:00:00",
+    "dueDate": "2024-12-28T00:00:00",
+    "amount": 76898.04,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 5,
+    "billNumber": "BILL-2025-005",
+    "vendorName": "Musonda Merchants Limited",
+    "description": "Logistics & Delivery",
+    "billDate": "2024-12-13T00:00:00",
+    "dueDate": "2025-01-12T00:00:00",
+    "amount": 1425703.21,
+    "paidAmount": 1425703.21,
+    "status": "Paid"
+  },
+  {
+    "id": 6,
+    "billNumber": "BILL-2025-006",
+    "vendorName": "Lungu Trading Group",
+    "description": "Display Fixtures",
+    "billDate": "2024-11-06T00:00:00",
+    "dueDate": "2024-12-06T00:00:00",
+    "amount": 1413821.14,
+    "paidAmount": 1413821.14,
+    "status": "Paid"
+  },
+  {
+    "id": 7,
+    "billNumber": "BILL-2025-007",
+    "vendorName": "Chanda Trading Holdings",
+    "description": "Store Maintenance",
+    "billDate": "2024-12-26T00:00:00",
+    "dueDate": "2025-01-25T00:00:00",
+    "amount": 2337584.23,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 8,
+    "billNumber": "BILL-2025-008",
+    "vendorName": "Chanda Trading Holdings",
+    "description": "Logistics & Delivery",
+    "billDate": "2024-09-20T00:00:00",
+    "dueDate": "2024-10-20T00:00:00",
+    "amount": 333011.04,
+    "paidAmount": 333011.04,
+    "status": "Paid"
+  },
+  {
+    "id": 9,
+    "billNumber": "BILL-2025-009",
+    "vendorName": "Banda Merchants Limited",
+    "description": "Store Maintenance",
+    "billDate": "2025-03-06T00:00:00",
+    "dueDate": "2025-04-20T00:00:00",
+    "amount": 1363143.22,
+    "paidAmount": 833072.91,
+    "status": "PartiallyPaid"
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "estimateNumber": "EST-2025-001",
+    "customerId": 5,
+    "customerName": "Kaputo Training Centre Ltd",
+    "estimateDateDaysAgo": 32,
+    "expirationDateDaysFromNow": 29,
+    "status": "Draft",
+    "subTotal": 1001221.87,
+    "taxRate": 16,
+    "taxAmount": 160195.5,
+    "total": 1161417.37,
+    "terms": "Net 45",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 32,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Development Levy",
+        "quantity": 5,
+        "unitPrice": 200244.37,
+        "amount": 1001221.87,
+        "itemType": "Service"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "estimateNumber": "EST-2025-002",
+    "customerId": 4,
+    "customerName": "Tembo Training Centre Ltd",
+    "estimateDateDaysAgo": 42,
+    "expirationDateDaysFromNow": 33,
+    "status": "Draft",
+    "subTotal": 1966384.04,
+    "taxRate": 16,
+    "taxAmount": 314621.45,
+    "total": 2281005.49,
+    "terms": "Net 45",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 42,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Exam Registration",
+        "quantity": 2,
+        "unitPrice": 983192.02,
+        "amount": 1966384.04,
+        "itemType": "Service"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "estimateNumber": "EST-2025-003",
+    "customerId": 7,
+    "customerName": "Mumba Training Centre Holdings",
+    "estimateDateDaysAgo": 5,
+    "expirationDateDaysFromNow": 40,
+    "status": "Declined",
+    "subTotal": 3532067.14,
+    "taxRate": 18,
+    "taxAmount": 635772.09,
+    "total": 4167839.23,
+    "terms": "Net 15",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 5,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Training Program",
+        "quantity": 4,
+        "unitPrice": 883016.79,
+        "amount": 3532067.14,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 4
+  },
+  {
+    "id": 4,
+    "estimateNumber": "EST-2025-004",
+    "customerId": 3,
+    "customerName": "Musonda Training Centre Ltd",
+    "estimateDateDaysAgo": 7,
+    "expirationDateDaysFromNow": 26,
+    "status": "Sent",
+    "subTotal": 305176.46,
+    "taxRate": 16,
+    "taxAmount": 48828.23,
+    "total": 354004.69,
+    "terms": "Net 45",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 7,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "School Tuition Fees",
+        "quantity": 4,
+        "unitPrice": 76294.12,
+        "amount": 305176.46,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 6
+  },
+  {
+    "id": 5,
+    "estimateNumber": "EST-2025-005",
+    "customerId": 5,
+    "customerName": "Kaputo Training Centre Ltd",
+    "estimateDateDaysAgo": 50,
+    "expirationDateDaysFromNow": 45,
+    "status": "Draft",
+    "subTotal": 2890937.76,
+    "taxRate": 15,
+    "taxAmount": 433640.66,
+    "total": 3324578.42,
+    "terms": "Net 45",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 50,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "School Tuition Fees",
+        "quantity": 1,
+        "unitPrice": 2890937.76,
+        "amount": 2890937.76,
+        "itemType": "Service"
+      }
+    ]
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "id": "cust-001",
+    "customerName": "Mrs John Kabwe",
+    "email": "customer1@business.zm",
+    "phone": "+260-87-5212077",
+    "address": "Plot 8758, Kabwe Road, Local Area",
+    "taxId": "TPIN-5175876311",
+    "creditLimit": 20000,
+    "outstandingBalance": 2587.02
+  },
+  {
+    "id": "cust-002",
+    "customerName": "Mrs James Lubasi",
+    "email": "customer2@business.zm",
+    "phone": "+260-80-6143082",
+    "address": "Plot 3933, Chilimbulu Road, Local Area",
+    "taxId": "TPIN-6616697821",
+    "creditLimit": 20000,
+    "outstandingBalance": 4535.01
+  },
+  {
+    "id": "cust-003",
+    "customerName": "Dr Mary Musonda",
+    "email": "customer3@business.zm",
+    "phone": "+260-90-6022706",
+    "address": "Plot 8331, Kabwe Road, Local Area",
+    "taxId": "TPIN-3230018241",
+    "creditLimit": 15000,
+    "outstandingBalance": 1163.39
+  },
+  {
+    "id": "cust-004",
+    "customerName": "Ms James Lungu",
+    "email": "customer4@business.zm",
+    "phone": "+260-93-6654510",
+    "address": "Plot 1117, Kabwe Road, Local Area",
+    "taxId": "TPIN-5094481272",
+    "creditLimit": 20000,
+    "outstandingBalance": 3006.21
+  },
+  {
+    "id": "cust-005",
+    "customerName": "Mr Elizabeth Mumba",
+    "email": "customer5@business.zm",
+    "phone": "+260-95-2941902",
+    "address": "Plot 9527, Kabwe Road, Local Area",
+    "taxId": "TPIN-3639861662",
+    "creditLimit": 20000,
+    "outstandingBalance": 2928.91
+  },
+  {
+    "id": "cust-006",
+    "customerName": "Mr James Banda",
+    "email": "customer6@business.zm",
+    "phone": "+260-79-5276042",
+    "address": "Plot 5447, Cairo Road, Local Area",
+    "taxId": "TPIN-2198946162",
+    "creditLimit": 20000,
+    "outstandingBalance": 1579.18
+  },
+  {
+    "id": "cust-007",
+    "customerName": "Ms Susan Banda",
+    "email": "customer7@business.zm",
+    "phone": "+260-94-8360124",
+    "address": "Plot 7579, Kafue Road, Local Area",
+    "taxId": "TPIN-8403863814",
+    "creditLimit": 15000,
+    "outstandingBalance": 2751.49
+  },
+  {
+    "id": "cust-008",
+    "customerName": "Mr Susan Tembo",
+    "email": "customer8@business.zm",
+    "phone": "+260-79-9775768",
+    "address": "Plot 9821, Chilimbulu Road, Local Area",
+    "taxId": "TPIN-9520641028",
+    "creditLimit": 20000,
+    "outstandingBalance": 3650.86
+  },
+  {
+    "id": "cust-009",
+    "customerName": "Mr Margaret Banda",
+    "email": "customer9@business.zm",
+    "phone": "+260-80-1443166",
+    "address": "Plot 6833, Chilimbulu Road, Local Area",
+    "taxId": "TPIN-1034971432",
+    "creditLimit": 15000,
+    "outstandingBalance": 3517.05
+  },
+  {
+    "id": "cust-010",
+    "customerName": "Mrs John Tembo",
+    "email": "customer10@business.zm",
+    "phone": "+260-94-9685430",
+    "address": "Plot 6732, Cairo Road, Local Area",
+    "taxId": "TPIN-9617062777",
+    "creditLimit": 20000,
+    "outstandingBalance": 849.05
+  },
+  {
+    "id": "cust-011",
+    "customerName": "Mrs Joseph Mumba",
+    "email": "customer11@business.zm",
+    "phone": "+260-77-5872682",
+    "address": "Plot 9428, Kafue Road, Local Area",
+    "taxId": "TPIN-8207521683",
+    "creditLimit": 15000,
+    "outstandingBalance": 3943.28
+  },
+  {
+    "id": "cust-012",
+    "customerName": "Mrs Peter Kabwe",
+    "email": "customer12@business.zm",
+    "phone": "+260-87-1946121",
+    "address": "Plot 9237, Kaunda Square, Local Area",
+    "taxId": "TPIN-9543331570",
+    "creditLimit": 10000,
+    "outstandingBalance": 3208.86
+  },
+  {
+    "id": "cust-013",
+    "customerName": "Dr John Banda",
+    "email": "customer13@business.zm",
+    "phone": "+260-95-5830060",
+    "address": "Plot 3599, Kaunda Square, Local Area",
+    "taxId": "TPIN-7229659897",
+    "creditLimit": 10000,
+    "outstandingBalance": 3428.24
+  },
+  {
+    "id": "cust-014",
+    "customerName": "Ms David Banda",
+    "email": "customer14@business.zm",
+    "phone": "+260-87-8126409",
+    "address": "Plot 1494, Kafue Road, Local Area",
+    "taxId": "TPIN-6569690755",
+    "creditLimit": 20000,
+    "outstandingBalance": 2620.68
+  },
+  {
+    "id": "cust-015",
+    "customerName": "Mrs Elizabeth Sichone",
+    "email": "customer15@business.zm",
+    "phone": "+260-79-4429762",
+    "address": "Plot 8957, Kafue Road, Local Area",
+    "taxId": "TPIN-8432552425",
+    "creditLimit": 10000,
+    "outstandingBalance": 4901.1
+  },
+  {
+    "id": "cust-016",
+    "customerName": "Mr Peter Banda",
+    "email": "customer16@business.zm",
+    "phone": "+260-83-6628506",
+    "address": "Plot 6383, Cairo Road, Local Area",
+    "taxId": "TPIN-1928028219",
+    "creditLimit": 10000,
+    "outstandingBalance": 485.29
+  },
+  {
+    "id": "cust-017",
+    "customerName": "Mrs Margaret Tembo",
+    "email": "customer17@business.zm",
+    "phone": "+260-87-8160444",
+    "address": "Plot 8970, Chilimbulu Road, Local Area",
+    "taxId": "TPIN-6977211498",
+    "creditLimit": 15000,
+    "outstandingBalance": 3144.51
+  },
+  {
+    "id": "cust-018",
+    "customerName": "Dr Elizabeth Kabwe",
+    "email": "customer18@business.zm",
+    "phone": "+260-76-2448411",
+    "address": "Plot 4265, Chilimbulu Road, Local Area",
+    "taxId": "TPIN-6734667347",
+    "creditLimit": 10000,
+    "outstandingBalance": 578.76
+  },
+  {
+    "id": "cust-019",
+    "customerName": "Ms Elizabeth Sichone",
+    "email": "customer19@business.zm",
+    "phone": "+260-86-1536191",
+    "address": "Plot 4390, Kabwe Road, Local Area",
+    "taxId": "TPIN-2503710692",
+    "creditLimit": 15000,
+    "outstandingBalance": 3943.62
+  },
+  {
+    "id": "cust-020",
+    "customerName": "Dr Elizabeth Tembo",
+    "email": "customer20@business.zm",
+    "phone": "+260-92-3178134",
+    "address": "Plot 8646, Kafue Road, Local Area",
+    "taxId": "TPIN-1747159390",
+    "creditLimit": 15000,
+    "outstandingBalance": 4000.55
+  },
+  {
+    "id": "cust-021",
+    "customerName": "Ms Joseph Lungu",
+    "email": "customer21@business.zm",
+    "phone": "+260-91-1117464",
+    "address": "Plot 8759, Kafue Road, Local Area",
+    "taxId": "TPIN-3649396441",
+    "creditLimit": 10000,
+    "outstandingBalance": 1258.11
+  },
+  {
+    "id": "cust-022",
+    "customerName": "Mr Peter Kabwe",
+    "email": "customer22@business.zm",
+    "phone": "+260-92-8324835",
+    "address": "Plot 3447, Kaunda Square, Local Area",
+    "taxId": "TPIN-8343267615",
+    "creditLimit": 15000,
+    "outstandingBalance": 4714.16
+  },
+  {
+    "id": "cust-023",
+    "customerName": "Ms John Musonda",
+    "email": "customer23@business.zm",
+    "phone": "+260-83-4439688",
+    "address": "Plot 3379, Kaunda Square, Local Area",
+    "taxId": "TPIN-2454707258",
+    "creditLimit": 10000,
+    "outstandingBalance": 3060.76
+  },
+  {
+    "id": "cust-024",
+    "customerName": "Mrs Susan Banda",
+    "email": "customer24@business.zm",
+    "phone": "+260-97-8955374",
+    "address": "Plot 595, Chilimbulu Road, Local Area",
+    "taxId": "TPIN-3257143785",
+    "creditLimit": 15000,
+    "outstandingBalance": 2801.74
+  },
+  {
+    "id": "cust-025",
+    "customerName": "Dr Peter Mumba",
+    "email": "customer25@business.zm",
+    "phone": "+260-85-2596305",
+    "address": "Plot 7815, Cairo Road, Local Area",
+    "taxId": "TPIN-7195776369",
+    "creditLimit": 10000,
+    "outstandingBalance": 3410.03
+  },
+  {
+    "id": "cust-026",
+    "customerName": "Dr John Kabwe",
+    "email": "customer26@business.zm",
+    "phone": "+260-88-1759380",
+    "address": "Plot 7312, Kabwe Road, Local Area",
+    "taxId": "TPIN-8114057574",
+    "creditLimit": 20000,
+    "outstandingBalance": 4400.53
+  },
+  {
+    "id": "cust-027",
+    "customerName": "Ms Margaret Sichone",
+    "email": "customer27@business.zm",
+    "phone": "+260-94-1936216",
+    "address": "Plot 636, Kaunda Square, Local Area",
+    "taxId": "TPIN-2031272507",
+    "creditLimit": 5000,
+    "outstandingBalance": 2042.92
+  },
+  {
+    "id": "cust-028",
+    "customerName": "Dr Joseph Lungu",
+    "email": "customer28@business.zm",
+    "phone": "+260-89-2858887",
+    "address": "Plot 6061, Kabwe Road, Local Area",
+    "taxId": "TPIN-7888308984",
+    "creditLimit": 10000,
+    "outstandingBalance": 3655.96
+  },
+  {
+    "id": "cust-029",
+    "customerName": "Mr Elizabeth Musonda",
+    "email": "customer29@business.zm",
+    "phone": "+260-80-6157066",
+    "address": "Plot 462, Kaunda Square, Local Area",
+    "taxId": "TPIN-7462244215",
+    "creditLimit": 5000,
+    "outstandingBalance": 2831.62
+  },
+  {
+    "id": "cust-030",
+    "customerName": "Mrs Patricia Mulenga",
+    "email": "customer30@business.zm",
+    "phone": "+260-80-3705714",
+    "address": "Plot 190, Kabwe Road, Local Area",
+    "taxId": "TPIN-1610648915",
+    "creditLimit": 5000,
+    "outstandingBalance": 3122.63
+  }
+]

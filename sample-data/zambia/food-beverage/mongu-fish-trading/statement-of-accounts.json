@@ -1,0 +1,158 @@
+{
+  "companyName": "Mongu Fish Trading",
+  "companyAddress": "Kitwe, Zambia",
+  "companyTaxId": "TPIN-6075362-MFT",
+  "generatedDate": "2025-09-30",
+  "currency": "ZMW",
+  "period": {
+    "from": "2025-01-01",
+    "to": "2025-09-30"
+  },
+  "customerStatements": [
+    {
+      "customerId": 1,
+      "customerName": "Zambezi Partners Co.",
+      "customerEmail": "admin@zambezi.co.zm",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-05-18",
+          "reference": "INV-Z-2025-014",
+          "description": "Food supply contract - fresh produce",
+          "debit": 2054500,
+          "credit": 0.0,
+          "balance": 2054500
+        },
+        {
+          "date": "2025-07-25",
+          "reference": "PMT-Z-2025-017",
+          "description": "Standing order payment received",
+          "debit": 0.0,
+          "credit": 2054500,
+          "balance": 0.0
+        }
+      ],
+      "closingBalance": 0.0,
+      "status": "Settled"
+    },
+    {
+      "customerId": 2,
+      "customerName": "Zesco Partners Co.",
+      "customerEmail": "info@zesco.com",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-01-12",
+          "reference": "INV-Z-2025-025",
+          "description": "Food supply contract - baked goods",
+          "debit": 1714500,
+          "credit": 0.0,
+          "balance": 1714500
+        },
+        {
+          "date": "2025-03-21",
+          "reference": "PMT-Z-2025-025",
+          "description": "Partial payment received - bank transfer",
+          "debit": 0.0,
+          "credit": 1011000,
+          "balance": 703500
+        }
+      ],
+      "closingBalance": 703500,
+      "status": "Partially Paid"
+    },
+    {
+      "customerId": 3,
+      "customerName": "Kansanshi Group Ltd",
+      "customerEmail": "info@kansanshi.com",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-04-08",
+          "reference": "INV-Z-2025-031",
+          "description": "Beverage distribution deal",
+          "debit": 2305500,
+          "credit": 0.0,
+          "balance": 2305500
+        },
+        {
+          "date": "2025-05-28",
+          "reference": "PMT-Z-2025-039",
+          "description": "Payment received - bank transfer",
+          "debit": 0.0,
+          "credit": 2305500,
+          "balance": 0.0
+        }
+      ],
+      "closingBalance": 0.0,
+      "status": "Settled"
+    },
+    {
+      "customerId": 4,
+      "customerName": "Zambezi Industries Ltd",
+      "customerEmail": "info@zambezi.co.zm",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-03-01",
+          "reference": "INV-Z-2025-042",
+          "description": "Bakery products bulk order",
+          "debit": 176500,
+          "credit": 0.0,
+          "balance": 176500
+        }
+      ],
+      "closingBalance": 176500,
+      "status": "Overdue"
+    },
+    {
+      "customerId": 5,
+      "customerName": "Kafue Enterprises Ltd",
+      "customerEmail": "finance@kafue.co.zm",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-09-01",
+          "reference": "INV-Z-2025-055",
+          "description": "Institutional catering contract",
+          "debit": 442500,
+          "credit": 0.0,
+          "balance": 442500
+        }
+      ],
+      "closingBalance": 442500,
+      "status": "Outstanding"
+    },
+    {
+      "customerId": 6,
+      "customerName": "Zesco Enterprises Ltd",
+      "customerEmail": "billing@zesco.com",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-01-20",
+          "reference": "INV-Z-2025-061",
+          "description": "Food supply contract - processed meats",
+          "debit": 1444500,
+          "credit": 0.0,
+          "balance": 1444500
+        }
+      ],
+      "closingBalance": 1444500,
+      "status": "Overdue"
+    }
+  ],
+  "summary": {
+    "totalInvoiced": 8138000,
+    "totalReceived": 5371000,
+    "totalOutstanding": 2767000,
+    "totalOverdue": 2324500.0,
+    "agingSummary": {
+      "current": 442500.0,
+      "days1to30": 0.0,
+      "days31to60": 0.0,
+      "days61to90": 0.0,
+      "over90days": 2324500.0
+    }
+  }
+}

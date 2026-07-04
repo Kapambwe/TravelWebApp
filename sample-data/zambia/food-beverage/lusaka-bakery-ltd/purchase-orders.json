@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "poNumber": "PO-2025-001",
+    "vendorName": "Chanda Provisions Enterprises",
+    "description": "Packaging Materials",
+    "orderDate": "2024-12-16T00:00:00",
+    "expectedDate": "2025-01-03T00:00:00",
+    "amount": 841465.49,
+    "receivedAmount": 841465.49,
+    "status": "Closed",
+    "approvalStatus": "Approved",
+    "approvedBy": "CFO"
+  },
+  {
+    "id": 2,
+    "poNumber": "PO-2025-002",
+    "vendorName": "Kaputo Provisions Holdings",
+    "description": "Cold Chain Transport",
+    "orderDate": "2025-02-15T00:00:00",
+    "expectedDate": "2025-03-01T00:00:00",
+    "amount": 1499726.28,
+    "receivedAmount": 0.0,
+    "status": "Open",
+    "approvalStatus": "Approved",
+    "approvedBy": "CEO"
+  },
+  {
+    "id": 3,
+    "poNumber": "PO-2025-003",
+    "vendorName": "Chanda Provisions Enterprises",
+    "description": "Processing Equipment Maintenance",
+    "orderDate": "2025-01-26T00:00:00",
+    "expectedDate": "2025-02-14T00:00:00",
+    "amount": 385203.05,
+    "receivedAmount": 0.0,
+    "status": "Open",
+    "approvalStatus": "Approved",
+    "approvedBy": "Finance Manager"
+  },
+  {
+    "id": 4,
+    "poNumber": "PO-2025-004",
+    "vendorName": "Kabwe Provisions Inc.",
+    "description": "Processing Equipment Maintenance",
+    "orderDate": "2025-02-15T00:00:00",
+    "expectedDate": "2025-02-26T00:00:00",
+    "amount": 2477082.7,
+    "receivedAmount": 0.0,
+    "status": "Open",
+    "approvalStatus": "Pending",
+    "approvedBy": "CFO"
+  },
+  {
+    "id": 5,
+    "poNumber": "PO-2025-005",
+    "vendorName": "Banda Beverages Limited",
+    "description": "Raw Ingredients Purchase",
+    "orderDate": "2025-02-20T00:00:00",
+    "expectedDate": "2025-03-19T00:00:00",
+    "amount": 147870.84,
+    "receivedAmount": 98048.96,
+    "status": "PartiallyReceived",
+    "approvalStatus": "Approved",
+    "approvedBy": "CFO"
+  }
+]

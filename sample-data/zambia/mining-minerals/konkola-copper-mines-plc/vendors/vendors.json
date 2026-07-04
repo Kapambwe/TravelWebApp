@@ -1,0 +1,17 @@
+{
+  "vendors": [
+    {"id":1,"vendorName":"Chipo Ngoma","companyName":"ZESCO Limited","contactPerson":"Chipo Ngoma","email":"accounts@zesco.co.zm","phone":"+260 211 000 001","city":"Lusaka","country":"Zambia","defaultPaymentTerms":"Net 30","taxId":"TPIN-ZES-001","totalAmountOwed":0.00},
+    {"id":2,"vendorName":"Mwansa Sakala","companyName":"Atlas Copco Zambia Ltd","contactPerson":"Mwansa Sakala","email":"m.sakala@atlascopco.co.zm","phone":"+260 212 000 002","city":"Kitwe","country":"Zambia","defaultPaymentTerms":"Net 30","taxId":"TPIN-ATC-002","totalAmountOwed":0.00},
+    {"id":3,"vendorName":"Bwalya Lungu","companyName":"Total Zambia Ltd","contactPerson":"Bwalya Lungu","email":"b.lungu@total.co.zm","phone":"+260 211 000 003","city":"Lusaka","country":"Zambia","defaultPaymentTerms":"Net 30","taxId":"TPIN-TOT-003","totalAmountOwed":3200000.00},
+    {"id":4,"vendorName":"Ngosa Kapata","companyName":"NAPSA","contactPerson":"Ngosa Kapata","email":"employer@napsa.co.zm","phone":"+260 211 000 004","city":"Lusaka","country":"Zambia","defaultPaymentTerms":"Net 30","taxId":"TPIN-NPS-004","totalAmountOwed":0.00},
+    {"id":5,"vendorName":"Malama Phiri","companyName":"Zambia Revenue Authority","contactPerson":"Malama Phiri","email":"largepayers@zra.org.zm","phone":"+260 211 000 005","city":"Lusaka","country":"Zambia","defaultPaymentTerms":"Net 30","taxId":"TPIN-ZRA-005","totalAmountOwed":0.00},
+    {"id":6,"vendorName":"Mwale Zimba","companyName":"Kagem Mining Ltd","contactPerson":"Mwale Zimba","email":"m.zimba@kagem.co.zm","phone":"+260 212 000 006","city":"Ndola","country":"Zambia","defaultPaymentTerms":"Net 30","taxId":"TPIN-KGM-006","totalAmountOwed":0.00},
+    {"id":7,"vendorName":"Fredrick Banda","companyName":"Barloworld Equipment Zambia","contactPerson":"Fredrick Banda","email":"f.banda@barloworld.co.zm","phone":"+260 211 000 007","city":"Lusaka","country":"Zambia","defaultPaymentTerms":"Net 30","taxId":"TPIN-BAR-007","totalAmountOwed":3500000.00},
+    {"id":8,"vendorName":"Tembo Mulenga","companyName":"AECI Mining Explosives Zambia","contactPerson":"Tembo Mulenga","email":"t.mulenga@aeci.co.zm","phone":"+260 212 000 008","city":"Kitwe","country":"Zambia","defaultPaymentTerms":"Net 30","taxId":"TPIN-AEC-008","totalAmountOwed":0.00},
+    {"id":9,"vendorName":"Grace Mutale","companyName":"Sandvik Mining Zambia Ltd","contactPerson":"Grace Mutale","email":"g.mutale@sandvik.co.zm","phone":"+260 212 000 009","city":"Kitwe","country":"Zambia","defaultPaymentTerms":"Net 30","taxId":"TPIN-SND-009","totalAmountOwed":1750000.00},
+    {"id":10,"vendorName":"Chipasha Mumba","companyName":"First Quantum Spares","contactPerson":"Chipasha Mumba","email":"c.mumba@fqm.co.zm","phone":"+260 977 000 010","city":"Solwezi","country":"Zambia","defaultPaymentTerms":"Net 45","taxId":"TPIN-FQS-010","totalAmountOwed":0.00},
+    {"id":11,"vendorName":"Peter Zulu","companyName":"Metso Minerals Zambia","contactPerson":"Peter Zulu","email":"p.zulu@metso.co.zm","phone":"+260 212 000 011","city":"Ndola","country":"Zambia","defaultPaymentTerms":"Net 30","taxId":"TPIN-MET-011","totalAmountOwed":1900000.00},
+    {"id":12,"vendorName":"Susan Nkonde","companyName":"Engen Petroleum Zambia","contactPerson":"Susan Nkonde","email":"s.nkonde@engen.co.zm","phone":"+260 211 000 012","city":"Lusaka","country":"Zambia","defaultPaymentTerms":"Net 30","taxId":"TPIN-ENG-012","totalAmountOwed":0.00}
+  ],
+  "vendorCredits": []
+}

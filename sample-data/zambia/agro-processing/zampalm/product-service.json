@@ -1,0 +1,302 @@
+[
+  {
+    "id": "prod-001",
+    "productName": "Biodiesel - Variant 1",
+    "description": "Quality Refined Palm Oil product",
+    "category": "Operational",
+    "unitPrice": 5180.09,
+    "quantityInStock": 475,
+    "reorderLevel": 6,
+    "supplier": "Plantation Managers"
+  },
+  {
+    "id": "prod-002",
+    "productName": "Refined Palm Oil - Variant 2",
+    "description": "Quality Biodiesel product",
+    "category": "Operational",
+    "unitPrice": 2859.43,
+    "quantityInStock": 249,
+    "reorderLevel": 14,
+    "supplier": "Equipment Suppliers"
+  },
+  {
+    "id": "prod-003",
+    "productName": "Crude Palm Oil - Variant 3",
+    "description": "Quality Biodiesel product",
+    "category": "Operational",
+    "unitPrice": 4124.71,
+    "quantityInStock": 389,
+    "reorderLevel": 20,
+    "supplier": "Plantation Managers"
+  },
+  {
+    "id": "prod-004",
+    "productName": "Palm Kernel Oil - Variant 4",
+    "description": "Quality Palm Kernel Oil product",
+    "category": "Operational",
+    "unitPrice": 1342.34,
+    "quantityInStock": 425,
+    "reorderLevel": 5,
+    "supplier": "Equipment Suppliers"
+  },
+  {
+    "id": "prod-005",
+    "productName": "Biodiesel - Variant 5",
+    "description": "Quality Biodiesel product",
+    "category": "Operational",
+    "unitPrice": 7458.32,
+    "quantityInStock": 402,
+    "reorderLevel": 46,
+    "supplier": "Energy Providers"
+  },
+  {
+    "id": "prod-006",
+    "productName": "Biodiesel - Variant 6",
+    "description": "Quality Refined Palm Oil product",
+    "category": "Operational",
+    "unitPrice": 2685.55,
+    "quantityInStock": 293,
+    "reorderLevel": 5,
+    "supplier": "Equipment Suppliers"
+  },
+  {
+    "id": "prod-007",
+    "productName": "Biodiesel - Variant 7",
+    "description": "Quality Biodiesel product",
+    "category": "Operational",
+    "unitPrice": 1730.95,
+    "quantityInStock": 43,
+    "reorderLevel": 22,
+    "supplier": "Equipment Suppliers"
+  },
+  {
+    "id": "prod-008",
+    "productName": "Palm Kernel Oil - Variant 8",
+    "description": "Quality Refined Palm Oil product",
+    "category": "Operational",
+    "unitPrice": 5180.99,
+    "quantityInStock": 268,
+    "reorderLevel": 40,
+    "supplier": "Plantation Managers"
+  },
+  {
+    "id": "prod-009",
+    "productName": "Biodiesel - Variant 9",
+    "description": "Quality Refined Palm Oil product",
+    "category": "Operational",
+    "unitPrice": 7160.28,
+    "quantityInStock": 231,
+    "reorderLevel": 49,
+    "supplier": "Equipment Suppliers"
+  },
+  {
+    "id": "prod-010",
+    "productName": "Crude Palm Oil - Variant 10",
+    "description": "Quality Crude Palm Oil product",
+    "category": "Operational",
+    "unitPrice": 5020.42,
+    "quantityInStock": 324,
+    "reorderLevel": 16,
+    "supplier": "Plantation Managers"
+  },
+  {
+    "id": "prod-011",
+    "productName": "Refined Palm Oil - Variant 11",
+    "description": "Quality Crude Palm Oil product",
+    "category": "Operational",
+    "unitPrice": 3921.53,
+    "quantityInStock": 32,
+    "reorderLevel": 32,
+    "supplier": "Equipment Suppliers"
+  },
+  {
+    "id": "prod-012",
+    "productName": "Palm Kernel Oil - Variant 12",
+    "description": "Quality Palm Kernel Oil product",
+    "category": "Operational",
+    "unitPrice": 7815.25,
+    "quantityInStock": 103,
+    "reorderLevel": 35,
+    "supplier": "Energy Providers"
+  },
+  {
+    "id": "prod-013",
+    "productName": "Refined Palm Oil - Variant 13",
+    "description": "Quality Refined Palm Oil product",
+    "category": "Operational",
+    "unitPrice": 8143.31,
+    "quantityInStock": 275,
+    "reorderLevel": 23,
+    "supplier": "Energy Providers"
+  },
+  {
+    "id": "prod-014",
+    "productName": "Biodiesel - Variant 14",
+    "description": "Quality Crude Palm Oil product",
+    "category": "Operational",
+    "unitPrice": 597.93,
+    "quantityInStock": 102,
+    "reorderLevel": 17,
+    "supplier": "Energy Providers"
+  },
+  {
+    "id": "prod-015",
+    "productName": "Crude Palm Oil - Variant 15",
+    "description": "Quality Refined Palm Oil product",
+    "category": "Operational",
+    "unitPrice": 661.68,
+    "quantityInStock": 100,
+    "reorderLevel": 18,
+    "supplier": "Equipment Suppliers"
+  },
+  {
+    "id": "prod-016",
+    "productName": "Palm Kernel Oil - Variant 16",
+    "description": "Quality Palm Kernel Oil product",
+    "category": "Operational",
+    "unitPrice": 1115.83,
+    "quantityInStock": 358,
+    "reorderLevel": 14,
+    "supplier": "Energy Providers"
+  },
+  {
+    "id": "prod-017",
+    "productName": "Palm Kernel Oil - Variant 17",
+    "description": "Quality Refined Palm Oil product",
+    "category": "Operational",
+    "unitPrice": 1676.9,
+    "quantityInStock": 274,
+    "reorderLevel": 35,
+    "supplier": "Plantation Managers"
+  },
+  {
+    "id": "prod-018",
+    "productName": "Biodiesel - Variant 18",
+    "description": "Quality Refined Palm Oil product",
+    "category": "Operational",
+    "unitPrice": 7697.89,
+    "quantityInStock": 134,
+    "reorderLevel": 24,
+    "supplier": "Equipment Suppliers"
+  },
+  {
+    "id": "prod-019",
+    "productName": "Crude Palm Oil - Variant 19",
+    "description": "Quality Refined Palm Oil product",
+    "category": "Operational",
+    "unitPrice": 7754.37,
+    "quantityInStock": 165,
+    "reorderLevel": 31,
+    "supplier": "Energy Providers"
+  },
+  {
+    "id": "prod-020",
+    "productName": "Refined Palm Oil - Variant 20",
+    "description": "Quality Refined Palm Oil product",
+    "category": "Operational",
+    "unitPrice": 3974.62,
+    "quantityInStock": 409,
+    "reorderLevel": 49,
+    "supplier": "Energy Providers"
+  },
+  {
+    "id": "prod-021",
+    "productName": "Palm Kernel Oil - Variant 21",
+    "description": "Quality Refined Palm Oil product",
+    "category": "Operational",
+    "unitPrice": 7574.28,
+    "quantityInStock": 21,
+    "reorderLevel": 49,
+    "supplier": "Energy Providers"
+  },
+  {
+    "id": "prod-022",
+    "productName": "Crude Palm Oil - Variant 22",
+    "description": "Quality Refined Palm Oil product",
+    "category": "Operational",
+    "unitPrice": 4043.25,
+    "quantityInStock": 205,
+    "reorderLevel": 39,
+    "supplier": "Energy Providers"
+  },
+  {
+    "id": "prod-023",
+    "productName": "Crude Palm Oil - Variant 23",
+    "description": "Quality Biodiesel product",
+    "category": "Operational",
+    "unitPrice": 1677.94,
+    "quantityInStock": 329,
+    "reorderLevel": 22,
+    "supplier": "Equipment Suppliers"
+  },
+  {
+    "id": "prod-024",
+    "productName": "Crude Palm Oil - Variant 24",
+    "description": "Quality Crude Palm Oil product",
+    "category": "Operational",
+    "unitPrice": 5006.18,
+    "quantityInStock": 238,
+    "reorderLevel": 32,
+    "supplier": "Plantation Managers"
+  },
+  {
+    "id": "prod-025",
+    "productName": "Palm Kernel Oil - Variant 25",
+    "description": "Quality Refined Palm Oil product",
+    "category": "Operational",
+    "unitPrice": 1411.78,
+    "quantityInStock": 297,
+    "reorderLevel": 5,
+    "supplier": "Energy Providers"
+  },
+  {
+    "id": "prod-026",
+    "productName": "Biodiesel - Variant 26",
+    "description": "Quality Palm Kernel Oil product",
+    "category": "Operational",
+    "unitPrice": 4083.18,
+    "quantityInStock": 113,
+    "reorderLevel": 47,
+    "supplier": "Equipment Suppliers"
+  },
+  {
+    "id": "prod-027",
+    "productName": "Palm Kernel Oil - Variant 27",
+    "description": "Quality Crude Palm Oil product",
+    "category": "Operational",
+    "unitPrice": 3466.91,
+    "quantityInStock": 440,
+    "reorderLevel": 32,
+    "supplier": "Energy Providers"
+  },
+  {
+    "id": "prod-028",
+    "productName": "Crude Palm Oil - Variant 28",
+    "description": "Quality Biodiesel product",
+    "category": "Operational",
+    "unitPrice": 7967.82,
+    "quantityInStock": 100,
+    "reorderLevel": 47,
+    "supplier": "Energy Providers"
+  },
+  {
+    "id": "prod-029",
+    "productName": "Biodiesel - Variant 29",
+    "description": "Quality Refined Palm Oil product",
+    "category": "Operational",
+    "unitPrice": 7339.11,
+    "quantityInStock": 448,
+    "reorderLevel": 16,
+    "supplier": "Plantation Managers"
+  },
+  {
+    "id": "prod-030",
+    "productName": "Refined Palm Oil - Variant 30",
+    "description": "Quality Palm Kernel Oil product",
+    "category": "Operational",
+    "unitPrice": 3684.66,
+    "quantityInStock": 439,
+    "reorderLevel": 28,
+    "supplier": "Plantation Managers"
+  }
+]

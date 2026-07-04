@@ -1,0 +1,122 @@
+{
+  "companyName": "Times Printpak",
+  "companyAddress": "Lusaka, Zambia",
+  "companyTaxId": "TPIN-3668601-TP",
+  "generatedDate": "2025-09-30",
+  "currency": "ZMW",
+  "period": {
+    "from": "2025-01-01",
+    "to": "2025-09-30"
+  },
+  "customerStatements": [
+    {
+      "customerId": 1,
+      "customerName": "Mukuba Partners Co.",
+      "customerEmail": "contact@mukuba.co.zm",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-01-02",
+          "reference": "INV-Z-2025-013",
+          "description": "Sponsored content package",
+          "debit": 2993500,
+          "credit": 0.0,
+          "balance": 2993500
+        },
+        {
+          "date": "2025-03-20",
+          "reference": "PMT-Z-2025-012",
+          "description": "Installment payment received",
+          "debit": 0.0,
+          "credit": 2993500,
+          "balance": 0.0
+        }
+      ],
+      "closingBalance": 0.0,
+      "status": "Settled"
+    },
+    {
+      "customerId": 2,
+      "customerName": "Copperbelt Holdings PLC",
+      "customerEmail": "admin@copperbelt.co.zm",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-06-11",
+          "reference": "INV-Z-2025-028",
+          "description": "Television commercial airtime",
+          "debit": 1566500,
+          "credit": 0.0,
+          "balance": 1566500
+        },
+        {
+          "date": "2025-07-28",
+          "reference": "PMT-Z-2025-023",
+          "description": "Partial final payment received",
+          "debit": 0.0,
+          "credit": 650500,
+          "balance": 916000
+        }
+      ],
+      "closingBalance": 916000,
+      "status": "Partially Paid"
+    },
+    {
+      "customerId": 3,
+      "customerName": "Luangwa Partners Co.",
+      "customerEmail": "info@luangwa.co.zm",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-08-23",
+          "reference": "INV-Z-2025-034",
+          "description": "News coverage & PR services",
+          "debit": 1637000,
+          "credit": 0.0,
+          "balance": 1637000
+        }
+      ],
+      "closingBalance": 1637000,
+      "status": "Outstanding"
+    },
+    {
+      "customerId": 4,
+      "customerName": "Kansanshi Trading Ltd",
+      "customerEmail": "contact@kansanshi.co.zm",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-03-20",
+          "reference": "INV-Z-2025-042",
+          "description": "Advertising campaign - Q2",
+          "debit": 1082500,
+          "credit": 0.0,
+          "balance": 1082500
+        },
+        {
+          "date": "2025-05-17",
+          "reference": "PMT-Z-2025-046",
+          "description": "Partial advance payment received",
+          "debit": 0.0,
+          "credit": 441500,
+          "balance": 641000
+        }
+      ],
+      "closingBalance": 641000,
+      "status": "Partially Paid"
+    }
+  ],
+  "summary": {
+    "totalInvoiced": 7279500,
+    "totalReceived": 4085500,
+    "totalOutstanding": 3194000,
+    "totalOverdue": 3194000.0,
+    "agingSummary": {
+      "current": 0.0,
+      "days1to30": 1637000.0,
+      "days31to60": 0.0,
+      "days61to90": 916000.0,
+      "over90days": 641000.0
+    }
+  }
+}

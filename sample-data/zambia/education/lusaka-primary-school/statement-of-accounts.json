@@ -1,0 +1,150 @@
+{
+  "companyName": "Lusaka Primary School",
+  "companyAddress": "Kabwe, Zambia",
+  "companyTaxId": "TPIN-9460711-LPS",
+  "generatedDate": "2025-09-30",
+  "currency": "ZMW",
+  "period": {
+    "from": "2025-01-01",
+    "to": "2025-09-30"
+  },
+  "customerStatements": [
+    {
+      "customerId": 1,
+      "customerName": "Copperbelt Trading Ltd",
+      "customerEmail": "accounts@copperbelt.co.zm",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-02-18",
+          "reference": "INV-Z-2025-018",
+          "description": "Skills training programme",
+          "debit": 1535000,
+          "credit": 0.0,
+          "balance": 1535000
+        },
+        {
+          "date": "2025-04-14",
+          "reference": "PMT-Z-2025-019",
+          "description": "Grant disbursement received",
+          "debit": 0.0,
+          "credit": 1535000,
+          "balance": 0.0
+        }
+      ],
+      "closingBalance": 0.0,
+      "status": "Settled"
+    },
+    {
+      "customerId": 2,
+      "customerName": "Chambeshi Holdings PLC",
+      "customerEmail": "accounts@chambeshi.com",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-04-24",
+          "reference": "INV-Z-2025-028",
+          "description": "Library & resources subscription",
+          "debit": 1357500,
+          "credit": 0.0,
+          "balance": 1357500
+        },
+        {
+          "date": "2025-06-09",
+          "reference": "PMT-Z-2025-025",
+          "description": "Partial student fee payment received",
+          "debit": 0.0,
+          "credit": 580500,
+          "balance": 777000
+        }
+      ],
+      "closingBalance": 777000,
+      "status": "Partially Paid"
+    },
+    {
+      "customerId": 3,
+      "customerName": "Mukuba Enterprises Ltd",
+      "customerEmail": "finance@mukuba.co.zm",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-07-27",
+          "reference": "INV-Z-2025-034",
+          "description": "Academic services fee",
+          "debit": 2498500,
+          "credit": 0.0,
+          "balance": 2498500
+        }
+      ],
+      "closingBalance": 2498500,
+      "status": "Overdue"
+    },
+    {
+      "customerId": 4,
+      "customerName": "Luangwa Solutions Ltd",
+      "customerEmail": "info@luangwa.co.zm",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-06-18",
+          "reference": "INV-Z-2025-043",
+          "description": "Training program contract",
+          "debit": 2965500,
+          "credit": 0.0,
+          "balance": 2965500
+        }
+      ],
+      "closingBalance": 2965500,
+      "status": "Outstanding"
+    },
+    {
+      "customerId": 5,
+      "customerName": "Kansanshi Holdings PLC",
+      "customerEmail": "contact@kansanshi.com",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-06-22",
+          "reference": "INV-Z-2025-059",
+          "description": "E-learning license fee",
+          "debit": 346000,
+          "credit": 0.0,
+          "balance": 346000
+        }
+      ],
+      "closingBalance": 346000,
+      "status": "Outstanding"
+    },
+    {
+      "customerId": 6,
+      "customerName": "Zain Partners Co.",
+      "customerEmail": "accounts@zain.co.zm",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-06-08",
+          "reference": "INV-Z-2025-064",
+          "description": "Training program contract",
+          "debit": 1399500,
+          "credit": 0.0,
+          "balance": 1399500
+        }
+      ],
+      "closingBalance": 1399500,
+      "status": "Outstanding"
+    }
+  ],
+  "summary": {
+    "totalInvoiced": 10102000,
+    "totalReceived": 2115500,
+    "totalOutstanding": 7986500,
+    "totalOverdue": 7986500.0,
+    "agingSummary": {
+      "current": 0.0,
+      "days1to30": 0.0,
+      "days31to60": 0.0,
+      "days61to90": 7209500.0,
+      "over90days": 777000.0
+    }
+  }
+}

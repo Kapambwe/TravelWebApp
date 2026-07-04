@@ -1,0 +1,12 @@
+﻿{
+    "Capacity":  14,
+    "Id":  201,
+    "RegistrationNumber":  "ZM-GCK-10",
+    "VehicleType":  2,
+    "FuelType":  "Petrol",
+    "Name":  "Garden Shuttle Van",
+    "NextServiceDue":  "2024-12-01",
+    "Status":  0,
+    "LastServiceDate":  "2024-06-01",
+    "FuelLevel":  0.9
+}

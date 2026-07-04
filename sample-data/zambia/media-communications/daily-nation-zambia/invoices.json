@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "invoiceNumber": "INV-2025-001",
+    "clientName": "Sakala Publishers Limited",
+    "description": "Online Content Package",
+    "invoiceDate": "2025-01-27T00:00:00",
+    "dueDate": "2025-03-13T00:00:00",
+    "amount": 206424.0,
+    "receivedAmount": 0.0,
+    "status": "Open",
+    "customerId": 7
+  },
+  {
+    "id": 2,
+    "invoiceNumber": "INV-2025-002",
+    "clientName": "Zulu Digital Media Group",
+    "description": "Media Production",
+    "invoiceDate": "2024-09-26T00:00:00",
+    "dueDate": "2024-10-26T00:00:00",
+    "amount": 4249907.02,
+    "receivedAmount": 4249907.02,
+    "status": "Paid",
+    "customerId": 10
+  },
+  {
+    "id": 3,
+    "invoiceNumber": "INV-2025-003",
+    "clientName": "Banda Broadcasting Co.",
+    "description": "Radio Airtime",
+    "invoiceDate": "2024-11-14T00:00:00",
+    "dueDate": "2024-11-29T00:00:00",
+    "amount": 4352406.92,
+    "receivedAmount": 0.0,
+    "status": "Open",
+    "customerId": 5
+  },
+  {
+    "id": 4,
+    "invoiceNumber": "INV-2025-004",
+    "clientName": "Mwamba Communications Group",
+    "description": "Online Content Package",
+    "invoiceDate": "2025-02-22T00:00:00",
+    "dueDate": "2025-04-08T00:00:00",
+    "amount": 584042.3,
+    "receivedAmount": 0.0,
+    "status": "Open",
+    "customerId": 3
+  },
+  {
+    "id": 5,
+    "invoiceNumber": "INV-2025-005",
+    "clientName": "Mwamba Communications Group",
+    "description": "Media Production",
+    "invoiceDate": "2024-10-29T00:00:00",
+    "dueDate": "2024-12-28T00:00:00",
+    "amount": 4196436.81,
+    "receivedAmount": 0.0,
+    "status": "Open",
+    "customerId": 3
+  },
+  {
+    "id": 6,
+    "invoiceNumber": "INV-2025-006",
+    "clientName": "Bwalya Media Holdings",
+    "description": "Print Advertising Space",
+    "invoiceDate": "2024-11-17T00:00:00",
+    "dueDate": "2025-01-01T00:00:00",
+    "amount": 978828.16,
+    "receivedAmount": 978828.16,
+    "status": "Paid",
+    "customerId": 9
+  },
+  {
+    "id": 7,
+    "invoiceNumber": "INV-2025-007",
+    "clientName": "Sakala Publishers Limited",
+    "description": "Radio Airtime",
+    "invoiceDate": "2025-01-02T00:00:00",
+    "dueDate": "2025-02-01T00:00:00",
+    "amount": 4630331.87,
+    "receivedAmount": 4630331.87,
+    "status": "Paid",
+    "customerId": 7
+  },
+  {
+    "id": 8,
+    "invoiceNumber": "INV-2025-008",
+    "clientName": "Mwamba Communications Group",
+    "description": "Radio Airtime",
+    "invoiceDate": "2024-12-01T00:00:00",
+    "dueDate": "2025-01-30T00:00:00",
+    "amount": 1902294.59,
+    "receivedAmount": 1902294.59,
+    "status": "Paid",
+    "customerId": 3
+  }
+]

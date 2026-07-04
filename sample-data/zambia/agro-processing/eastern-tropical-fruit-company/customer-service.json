@@ -1,0 +1,302 @@
+[
+  {
+    "id": "cust-001",
+    "customerName": "Retailers 1",
+    "email": "contact1@customer.zm",
+    "phone": "+260-095-115787",
+    "address": "Plot 6207, Independence Avenue, Copperbelt",
+    "taxId": "TPIN-6744102148",
+    "creditLimit": 50000,
+    "outstandingBalance": 11390
+  },
+  {
+    "id": "cust-002",
+    "customerName": "Hotels 2",
+    "email": "contact2@customer.zm",
+    "phone": "+260-217-455642",
+    "address": "Plot 7432, Freedom Way, Lusaka",
+    "taxId": "TPIN-9835904278",
+    "creditLimit": 30000,
+    "outstandingBalance": 12965
+  },
+  {
+    "id": "cust-003",
+    "customerName": "Hotels 3",
+    "email": "contact3@customer.zm",
+    "phone": "+260-094-744513",
+    "address": "Plot 7498, Twin Palm Road, Lusaka",
+    "taxId": "TPIN-3384904633",
+    "creditLimit": 50000,
+    "outstandingBalance": 23638
+  },
+  {
+    "id": "cust-004",
+    "customerName": "Food Processors 4",
+    "email": "contact4@customer.zm",
+    "phone": "+260-217-418886",
+    "address": "Plot 2613, Great East Road, Northern Province",
+    "taxId": "TPIN-5467811919",
+    "creditLimit": 75000,
+    "outstandingBalance": 2531
+  },
+  {
+    "id": "cust-005",
+    "customerName": "Hotels 5",
+    "email": "contact5@customer.zm",
+    "phone": "+260-097-656727",
+    "address": "Plot 1931, Great East Road, Southern Province",
+    "taxId": "TPIN-7809254492",
+    "creditLimit": 20000,
+    "outstandingBalance": 10098
+  },
+  {
+    "id": "cust-006",
+    "customerName": "Exporters 6",
+    "email": "contact6@customer.zm",
+    "phone": "+260-217-144398",
+    "address": "Plot 4608, Twin Palm Road, Southern Province",
+    "taxId": "TPIN-1871572087",
+    "creditLimit": 20000,
+    "outstandingBalance": 1369
+  },
+  {
+    "id": "cust-007",
+    "customerName": "Exporters 7",
+    "email": "contact7@customer.zm",
+    "phone": "+260-216-652012",
+    "address": "Plot 4304, Cairo Road, Lusaka",
+    "taxId": "TPIN-9503815453",
+    "creditLimit": 75000,
+    "outstandingBalance": 3079
+  },
+  {
+    "id": "cust-008",
+    "customerName": "Hotels 8",
+    "email": "contact8@customer.zm",
+    "phone": "+260-096-634295",
+    "address": "Plot 6420, Freedom Way, Lusaka",
+    "taxId": "TPIN-4422385023",
+    "creditLimit": 100000,
+    "outstandingBalance": 7047
+  },
+  {
+    "id": "cust-009",
+    "customerName": "Hotels 9",
+    "email": "contact9@customer.zm",
+    "phone": "+260-217-217552",
+    "address": "Plot 6087, Twin Palm Road, Central Province",
+    "taxId": "TPIN-9772284333",
+    "creditLimit": 50000,
+    "outstandingBalance": 5539
+  },
+  {
+    "id": "cust-010",
+    "customerName": "Retailers 10",
+    "email": "contact10@customer.zm",
+    "phone": "+260-096-603964",
+    "address": "Plot 7380, Freedom Way, Lusaka",
+    "taxId": "TPIN-1945682860",
+    "creditLimit": 75000,
+    "outstandingBalance": 7316
+  },
+  {
+    "id": "cust-011",
+    "customerName": "Food Processors 11",
+    "email": "contact11@customer.zm",
+    "phone": "+260-097-410646",
+    "address": "Plot 3706, Twin Palm Road, Northern Province",
+    "taxId": "TPIN-4532589062",
+    "creditLimit": 30000,
+    "outstandingBalance": 4522
+  },
+  {
+    "id": "cust-012",
+    "customerName": "Retailers 12",
+    "email": "contact12@customer.zm",
+    "phone": "+260-096-860926",
+    "address": "Plot 9621, Twin Palm Road, Copperbelt",
+    "taxId": "TPIN-8447201445",
+    "creditLimit": 75000,
+    "outstandingBalance": 4370
+  },
+  {
+    "id": "cust-013",
+    "customerName": "Food Processors 13",
+    "email": "contact13@customer.zm",
+    "phone": "+260-097-442317",
+    "address": "Plot 1557, Cairo Road, Copperbelt",
+    "taxId": "TPIN-5982995791",
+    "creditLimit": 75000,
+    "outstandingBalance": 19053
+  },
+  {
+    "id": "cust-014",
+    "customerName": "Hotels 14",
+    "email": "contact14@customer.zm",
+    "phone": "+260-095-119351",
+    "address": "Plot 5142, Cairo Road, Eastern Province",
+    "taxId": "TPIN-1681041950",
+    "creditLimit": 75000,
+    "outstandingBalance": 12262
+  },
+  {
+    "id": "cust-015",
+    "customerName": "Exporters 15",
+    "email": "contact15@customer.zm",
+    "phone": "+260-217-401876",
+    "address": "Plot 1259, Twin Palm Road, Central Province",
+    "taxId": "TPIN-5941298434",
+    "creditLimit": 75000,
+    "outstandingBalance": 9921
+  },
+  {
+    "id": "cust-016",
+    "customerName": "Food Processors 16",
+    "email": "contact16@customer.zm",
+    "phone": "+260-096-592608",
+    "address": "Plot 5930, Independence Avenue, Lusaka",
+    "taxId": "TPIN-9354552392",
+    "creditLimit": 30000,
+    "outstandingBalance": 3582
+  },
+  {
+    "id": "cust-017",
+    "customerName": "Food Processors 17",
+    "email": "contact17@customer.zm",
+    "phone": "+260-096-803622",
+    "address": "Plot 2876, Freedom Way, Southern Province",
+    "taxId": "TPIN-8930213160",
+    "creditLimit": 50000,
+    "outstandingBalance": 23487
+  },
+  {
+    "id": "cust-018",
+    "customerName": "Exporters 18",
+    "email": "contact18@customer.zm",
+    "phone": "+260-095-679319",
+    "address": "Plot 7621, Freedom Way, Southern Province",
+    "taxId": "TPIN-3137743037",
+    "creditLimit": 50000,
+    "outstandingBalance": 2908
+  },
+  {
+    "id": "cust-019",
+    "customerName": "Retailers 19",
+    "email": "contact19@customer.zm",
+    "phone": "+260-095-619126",
+    "address": "Plot 4945, Twin Palm Road, Central Province",
+    "taxId": "TPIN-7082512000",
+    "creditLimit": 50000,
+    "outstandingBalance": 5613
+  },
+  {
+    "id": "cust-020",
+    "customerName": "Hotels 20",
+    "email": "contact20@customer.zm",
+    "phone": "+260-094-123220",
+    "address": "Plot 7575, Great East Road, Northern Province",
+    "taxId": "TPIN-9402701098",
+    "creditLimit": 75000,
+    "outstandingBalance": 11778
+  },
+  {
+    "id": "cust-021",
+    "customerName": "Retailers 21",
+    "email": "contact21@customer.zm",
+    "phone": "+260-095-691052",
+    "address": "Plot 7194, Independence Avenue, Northern Province",
+    "taxId": "TPIN-8562192769",
+    "creditLimit": 100000,
+    "outstandingBalance": 13926
+  },
+  {
+    "id": "cust-022",
+    "customerName": "Food Processors 22",
+    "email": "contact22@customer.zm",
+    "phone": "+260-216-837110",
+    "address": "Plot 8185, Cairo Road, Central Province",
+    "taxId": "TPIN-3913857075",
+    "creditLimit": 20000,
+    "outstandingBalance": 21189
+  },
+  {
+    "id": "cust-023",
+    "customerName": "Food Processors 23",
+    "email": "contact23@customer.zm",
+    "phone": "+260-217-428643",
+    "address": "Plot 4714, Twin Palm Road, Southern Province",
+    "taxId": "TPIN-4661202401",
+    "creditLimit": 100000,
+    "outstandingBalance": 23410
+  },
+  {
+    "id": "cust-024",
+    "customerName": "Hotels 24",
+    "email": "contact24@customer.zm",
+    "phone": "+260-094-119553",
+    "address": "Plot 8606, Independence Avenue, Central Province",
+    "taxId": "TPIN-2655294903",
+    "creditLimit": 100000,
+    "outstandingBalance": 8266
+  },
+  {
+    "id": "cust-025",
+    "customerName": "Retailers 25",
+    "email": "contact25@customer.zm",
+    "phone": "+260-096-338282",
+    "address": "Plot 5194, Cairo Road, Copperbelt",
+    "taxId": "TPIN-5623738506",
+    "creditLimit": 50000,
+    "outstandingBalance": 1669
+  },
+  {
+    "id": "cust-026",
+    "customerName": "Hotels 26",
+    "email": "contact26@customer.zm",
+    "phone": "+260-096-391019",
+    "address": "Plot 9389, Independence Avenue, Eastern Province",
+    "taxId": "TPIN-1365603718",
+    "creditLimit": 30000,
+    "outstandingBalance": 2350
+  },
+  {
+    "id": "cust-027",
+    "customerName": "Retailers 27",
+    "email": "contact27@customer.zm",
+    "phone": "+260-096-429005",
+    "address": "Plot 8539, Twin Palm Road, Lusaka",
+    "taxId": "TPIN-1510441663",
+    "creditLimit": 30000,
+    "outstandingBalance": 14728
+  },
+  {
+    "id": "cust-028",
+    "customerName": "Hotels 28",
+    "email": "contact28@customer.zm",
+    "phone": "+260-094-405562",
+    "address": "Plot 1115, Twin Palm Road, Central Province",
+    "taxId": "TPIN-1763260915",
+    "creditLimit": 100000,
+    "outstandingBalance": 8446
+  },
+  {
+    "id": "cust-029",
+    "customerName": "Food Processors 29",
+    "email": "contact29@customer.zm",
+    "phone": "+260-216-470475",
+    "address": "Plot 9662, Independence Avenue, Eastern Province",
+    "taxId": "TPIN-7357803298",
+    "creditLimit": 100000,
+    "outstandingBalance": 8776
+  },
+  {
+    "id": "cust-030",
+    "customerName": "Food Processors 30",
+    "email": "contact30@customer.zm",
+    "phone": "+260-094-242998",
+    "address": "Plot 5619, Cairo Road, Eastern Province",
+    "taxId": "TPIN-8662646933",
+    "creditLimit": 50000,
+    "outstandingBalance": 13100
+  }
+]

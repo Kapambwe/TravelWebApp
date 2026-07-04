@@ -1,0 +1,18 @@
+﻿[
+    {
+        "Id":  3,
+        "Name":  "Mulenga Zulu",
+        "EmployeeId":  "EMP-051",
+        "IsAvailable":  true,
+        "Specialization":  "River Guiding \u0026 Angling",
+        "Rating":  4.8
+    },
+    {
+        "Id":  4,
+        "Name":  "Kelvin Tembo",
+        "EmployeeId":  "EMP-052",
+        "IsAvailable":  true,
+        "Specialization":  "Canoe Safaris",
+        "Rating":  4.9
+    }
+]

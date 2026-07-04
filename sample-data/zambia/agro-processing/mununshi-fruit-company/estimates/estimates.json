@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "estimateNumber": "EST-2025-001",
+    "customerId": 2,
+    "customerName": "Tembo Agro Holdings",
+    "estimateDateDaysAgo": 22,
+    "expirationDateDaysFromNow": 35,
+    "status": "Expired",
+    "subTotal": 995442.49,
+    "taxRate": 18,
+    "taxAmount": 179179.65,
+    "total": 1174622.14,
+    "terms": "Net 45",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 22,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Mango Juice Concentrate",
+        "quantity": 3,
+        "unitPrice": 331814.16,
+        "amount": 995442.49,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 21
+  },
+  {
+    "id": 2,
+    "estimateNumber": "EST-2025-002",
+    "customerId": 10,
+    "customerName": "Siame Food Industries Limited",
+    "estimateDateDaysAgo": 19,
+    "expirationDateDaysFromNow": 29,
+    "status": "Expired",
+    "subTotal": 2589090.01,
+    "taxRate": 18,
+    "taxAmount": 466036.2,
+    "total": 3055126.21,
+    "terms": "Net 30",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 19,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Mango Juice Concentrate",
+        "quantity": 4,
+        "unitPrice": 647272.5,
+        "amount": 2589090.01,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 18
+  },
+  {
+    "id": 3,
+    "estimateNumber": "EST-2025-003",
+    "customerId": 4,
+    "customerName": "Tembo Farms Enterprises",
+    "estimateDateDaysAgo": 17,
+    "expirationDateDaysFromNow": 26,
+    "status": "Declined",
+    "subTotal": 2382426.03,
+    "taxRate": 0,
+    "taxAmount": 0.0,
+    "total": 2382426.03,
+    "terms": "Net 15",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 17,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Dried Fruit Mix",
+        "quantity": 3,
+        "unitPrice": 794142.01,
+        "amount": 2382426.03,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 16
+  },
+  {
+    "id": 4,
+    "estimateNumber": "EST-2025-004",
+    "customerId": 3,
+    "customerName": "Ngosa Produce Inc.",
+    "estimateDateDaysAgo": 27,
+    "expirationDateDaysFromNow": 42,
+    "status": "Declined",
+    "subTotal": 2137956.58,
+    "taxRate": 16,
+    "taxAmount": 342073.05,
+    "total": 2480029.63,
+    "terms": "Net 45",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 27,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Dried Mango Export",
+        "quantity": 5,
+        "unitPrice": 427591.32,
+        "amount": 2137956.58,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 26
+  },
+  {
+    "id": 5,
+    "estimateNumber": "EST-2025-005",
+    "customerId": 7,
+    "customerName": "Mumba Agricultural Limited",
+    "estimateDateDaysAgo": 59,
+    "expirationDateDaysFromNow": 35,
+    "status": "Accepted",
+    "subTotal": 3445654.71,
+    "taxRate": 0,
+    "taxAmount": 0.0,
+    "total": 3445654.71,
+    "terms": "Net 30",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 59,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Mango Juice Concentrate",
+        "quantity": 2,
+        "unitPrice": 1722827.35,
+        "amount": 3445654.71,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 58
+  }
+]

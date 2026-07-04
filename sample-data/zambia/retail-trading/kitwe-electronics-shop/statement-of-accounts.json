@@ -1,0 +1,140 @@
+{
+  "companyName": "Kitwe Electronics Shop",
+  "companyAddress": "Mongu, Zambia",
+  "companyTaxId": "TPIN-4061343-KES",
+  "generatedDate": "2025-09-30",
+  "currency": "ZMW",
+  "period": {
+    "from": "2025-01-01",
+    "to": "2025-09-30"
+  },
+  "customerStatements": [
+    {
+      "customerId": 1,
+      "customerName": "Zain Solutions Ltd",
+      "customerEmail": "info@zain.co.zm",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-01-16",
+          "reference": "INV-Z-2025-018",
+          "description": "Furniture & fixtures supply",
+          "debit": 2492000,
+          "credit": 0.0,
+          "balance": 2492000
+        },
+        {
+          "date": "2025-03-17",
+          "reference": "PMT-Z-2025-017",
+          "description": "Partial full settlement received",
+          "debit": 0.0,
+          "credit": 1713000,
+          "balance": 779000
+        }
+      ],
+      "closingBalance": 779000,
+      "status": "Partially Paid"
+    },
+    {
+      "customerId": 2,
+      "customerName": "Luangwa Holdings PLC",
+      "customerEmail": "billing@luangwa.co.zm",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-07-05",
+          "reference": "INV-Z-2025-025",
+          "description": "General merchandise supply",
+          "debit": 2313000,
+          "credit": 0.0,
+          "balance": 2313000
+        }
+      ],
+      "closingBalance": 2313000,
+      "status": "Outstanding"
+    },
+    {
+      "customerId": 3,
+      "customerName": "Lusaka Partners Co.",
+      "customerEmail": "finance@lusaka.co.zm",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-04-22",
+          "reference": "INV-Z-2025-032",
+          "description": "Furniture & fixtures supply",
+          "debit": 2367500,
+          "credit": 0.0,
+          "balance": 2367500
+        },
+        {
+          "date": "2025-06-21",
+          "reference": "PMT-Z-2025-035",
+          "description": "Payment received - bank transfer",
+          "debit": 0.0,
+          "credit": 2367500,
+          "balance": 0.0
+        }
+      ],
+      "closingBalance": 0.0,
+      "status": "Settled"
+    },
+    {
+      "customerId": 4,
+      "customerName": "Lusaka Industries Ltd",
+      "customerEmail": "finance@lusaka.co.zm",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-03-01",
+          "reference": "INV-Z-2025-042",
+          "description": "Seasonal stock supply agreement",
+          "debit": 760500,
+          "credit": 0.0,
+          "balance": 760500
+        },
+        {
+          "date": "2025-04-11",
+          "reference": "PMT-Z-2025-048",
+          "description": "Partial full settlement received",
+          "debit": 0.0,
+          "credit": 292000,
+          "balance": 468500
+        }
+      ],
+      "closingBalance": 468500,
+      "status": "Partially Paid"
+    },
+    {
+      "customerId": 5,
+      "customerName": "Mukuba Industries Ltd",
+      "customerEmail": "contact@mukuba.co.zm",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-09-15",
+          "reference": "INV-Z-2025-051",
+          "description": "General merchandise supply",
+          "debit": 2397000,
+          "credit": 0.0,
+          "balance": 2397000
+        }
+      ],
+      "closingBalance": 2397000,
+      "status": "Outstanding"
+    }
+  ],
+  "summary": {
+    "totalInvoiced": 10330000,
+    "totalReceived": 4372500,
+    "totalOutstanding": 5957500,
+    "totalOverdue": 3560500.0,
+    "agingSummary": {
+      "current": 2397000.0,
+      "days1to30": 0.0,
+      "days31to60": 2313000.0,
+      "days61to90": 0.0,
+      "over90days": 1247500.0
+    }
+  }
+}

@@ -1,0 +1,34 @@
+﻿[
+    {
+        "BasePrice":  7500,
+        "Id":  1,
+        "CreatedAt":  "2024-01-10T00:00:00",
+        "IncludesParkEntry":  false,
+        "Tier":  0,
+        "Name":  "Bronze Explorer Pass",
+        "IncludesGuide":  false,
+        "PeakMultiplier":  1.15,
+        "Description":  "Includes standard lodge room accommodation and breakfast.",
+        "IncludesGameDrives":  false,
+        "IncludesTransfers":  false,
+        "IncludesMeals":  false,
+        "IsActive":  true,
+        "IncludesAccommodation":  true
+    },
+    {
+        "BasePrice":  24000,
+        "Id":  2,
+        "CreatedAt":  "2024-01-20T00:00:00",
+        "IncludesParkEntry":  true,
+        "Tier":  2,
+        "Name":  "Gold Full-Board Safari",
+        "IncludesGuide":  true,
+        "PeakMultiplier":  1.25,
+        "Description":  "Full-board chalet accommodation, standard activities, and local transfers.",
+        "IncludesGameDrives":  true,
+        "IncludesTransfers":  true,
+        "IncludesMeals":  true,
+        "IsActive":  true,
+        "IncludesAccommodation":  true
+    }
+]

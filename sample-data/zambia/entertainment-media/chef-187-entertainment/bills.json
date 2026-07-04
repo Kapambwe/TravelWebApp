@@ -1,0 +1,167 @@
+[
+  {
+    "id": 1,
+    "billNumber": "BILL-2025-001",
+    "vendorName": "Zulu Productions Holdings",
+    "description": "PR Campaign",
+    "billDate": "2024-09-30T00:00:00",
+    "dueDate": "2024-10-15T00:00:00",
+    "amount": 1216969.34,
+    "paidAmount": 1216969.34,
+    "status": "Paid"
+  },
+  {
+    "id": 2,
+    "billNumber": "BILL-2025-002",
+    "vendorName": "Zulu Creative Agency Group",
+    "description": "PR Campaign",
+    "billDate": "2024-10-09T00:00:00",
+    "dueDate": "2024-11-23T00:00:00",
+    "amount": 3197021.33,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 3,
+    "billNumber": "BILL-2025-003",
+    "vendorName": "Bwalya Productions Solutions",
+    "description": "Studio Recording Session",
+    "billDate": "2024-11-25T00:00:00",
+    "dueDate": "2024-12-25T00:00:00",
+    "amount": 860733.52,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 4,
+    "billNumber": "BILL-2025-004",
+    "vendorName": "Chileshe Creative Agency Solutions",
+    "description": "PR Campaign",
+    "billDate": "2024-10-15T00:00:00",
+    "dueDate": "2024-11-14T00:00:00",
+    "amount": 1060727.83,
+    "paidAmount": 0.0,
+    "status": "Overdue"
+  },
+  {
+    "id": 5,
+    "billNumber": "BILL-2025-005",
+    "vendorName": "Kabwe Productions Inc.",
+    "description": "Studio Recording Session",
+    "billDate": "2024-10-03T00:00:00",
+    "dueDate": "2024-11-02T00:00:00",
+    "amount": 525111.2,
+    "paidAmount": 525111.2,
+    "status": "Paid"
+  },
+  {
+    "id": 6,
+    "billNumber": "BILL-2025-006",
+    "vendorName": "Zulu Productions Holdings",
+    "description": "Studio Recording Session",
+    "billDate": "2024-12-13T00:00:00",
+    "dueDate": "2025-01-12T00:00:00",
+    "amount": 3133626.41,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 7,
+    "billNumber": "BILL-2025-007",
+    "vendorName": "Banda Entertainment Solutions",
+    "description": "Music Video Production",
+    "billDate": "2025-03-14T00:00:00",
+    "dueDate": "2025-04-28T00:00:00",
+    "amount": 2414288.44,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 8,
+    "billNumber": "BILL-2025-008",
+    "vendorName": "Mutale Creative Agency Co.",
+    "description": "Music Video Production",
+    "billDate": "2025-02-11T00:00:00",
+    "dueDate": "2025-03-13T00:00:00",
+    "amount": 857166.04,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 9,
+    "billNumber": "BILL-2025-009",
+    "vendorName": "Phiri Productions Inc.",
+    "description": "PR Campaign",
+    "billDate": "2025-03-07T00:00:00",
+    "dueDate": "2025-04-21T00:00:00",
+    "amount": 899343.4,
+    "paidAmount": 899343.4,
+    "status": "Paid"
+  },
+  {
+    "id": 10,
+    "billNumber": "BILL-2025-010",
+    "vendorName": "Chileshe Creative Agency Solutions",
+    "description": "Sound & Lighting Hire",
+    "billDate": "2025-01-16T00:00:00",
+    "dueDate": "2025-02-15T00:00:00",
+    "amount": 1497044.19,
+    "paidAmount": 640456.56,
+    "status": "PartiallyPaid"
+  },
+  {
+    "id": 11,
+    "billNumber": "BILL-2025-011",
+    "vendorName": "Chileshe Creative Agency Solutions",
+    "description": "Management Fee",
+    "billDate": "2025-03-14T00:00:00",
+    "dueDate": "2025-03-29T00:00:00",
+    "amount": 1430828.47,
+    "paidAmount": 1430828.47,
+    "status": "Paid"
+  },
+  {
+    "id": 12,
+    "billNumber": "BILL-2025-012",
+    "vendorName": "Zulu Creative Agency Group",
+    "description": "PR Campaign",
+    "billDate": "2024-10-20T00:00:00",
+    "dueDate": "2024-11-19T00:00:00",
+    "amount": 3381212.17,
+    "paidAmount": 3381212.17,
+    "status": "Paid"
+  },
+  {
+    "id": 13,
+    "billNumber": "BILL-2025-013",
+    "vendorName": "Bwalya Productions Solutions",
+    "description": "PR Campaign",
+    "billDate": "2024-12-31T00:00:00",
+    "dueDate": "2025-02-14T00:00:00",
+    "amount": 1997795.31,
+    "paidAmount": 1997795.31,
+    "status": "Paid"
+  },
+  {
+    "id": 14,
+    "billNumber": "BILL-2025-014",
+    "vendorName": "Phiri Productions Inc.",
+    "description": "Social Media Management",
+    "billDate": "2024-10-06T00:00:00",
+    "dueDate": "2024-11-20T00:00:00",
+    "amount": 1502940.88,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 15,
+    "billNumber": "BILL-2025-015",
+    "vendorName": "Phiri Productions Inc.",
+    "description": "Music Video Production",
+    "billDate": "2025-02-20T00:00:00",
+    "dueDate": "2025-03-22T00:00:00",
+    "amount": 3356293.91,
+    "paidAmount": 0.0,
+    "status": "Overdue"
+  }
+]

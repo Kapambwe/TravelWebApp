@@ -1,0 +1,218 @@
+[
+  {
+    "id": 1,
+    "estimateNumber": "EST-2025-001",
+    "customerId": 2,
+    "customerName": "Tembo Entertainment Inc.",
+    "estimateDateDaysAgo": 57,
+    "expirationDateDaysFromNow": 29,
+    "status": "Open",
+    "subTotal": 3092119.79,
+    "taxRate": 0,
+    "taxAmount": 0.0,
+    "total": 3092119.79,
+    "terms": "Net 30",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 57,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Brand Deal",
+        "quantity": 5,
+        "unitPrice": 618423.96,
+        "amount": 3092119.79,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 56
+  },
+  {
+    "id": 2,
+    "estimateNumber": "EST-2025-002",
+    "customerId": 1,
+    "customerName": "Ngosa Media Enterprises",
+    "estimateDateDaysAgo": 27,
+    "expirationDateDaysFromNow": 37,
+    "status": "Expired",
+    "subTotal": 2227839.5,
+    "taxRate": 0,
+    "taxAmount": 0.0,
+    "total": 2227839.5,
+    "terms": "Net 30",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 27,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Streaming Royalty",
+        "quantity": 1,
+        "unitPrice": 2227839.5,
+        "amount": 2227839.5,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 26
+  },
+  {
+    "id": 3,
+    "estimateNumber": "EST-2025-003",
+    "customerId": 2,
+    "customerName": "Tembo Entertainment Inc.",
+    "estimateDateDaysAgo": 10,
+    "expirationDateDaysFromNow": 17,
+    "status": "Declined",
+    "subTotal": 83736.32,
+    "taxRate": 18,
+    "taxAmount": 15072.54,
+    "total": 98808.86,
+    "terms": "Net 15",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 10,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Music Licensing",
+        "quantity": 4,
+        "unitPrice": 20934.08,
+        "amount": 83736.32,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 9
+  },
+  {
+    "id": 4,
+    "estimateNumber": "EST-2025-004",
+    "customerId": 6,
+    "customerName": "Musonda Entertainment Enterprises",
+    "estimateDateDaysAgo": 48,
+    "expirationDateDaysFromNow": 43,
+    "status": "Expired",
+    "subTotal": 368214.04,
+    "taxRate": 0,
+    "taxAmount": 0.0,
+    "total": 368214.04,
+    "terms": "Net 45",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 48,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Performance Fee",
+        "quantity": 3,
+        "unitPrice": 122738.01,
+        "amount": 368214.04,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 47
+  },
+  {
+    "id": 5,
+    "estimateNumber": "EST-2025-005",
+    "customerId": 6,
+    "customerName": "Musonda Entertainment Enterprises",
+    "estimateDateDaysAgo": 31,
+    "expirationDateDaysFromNow": 31,
+    "status": "Declined",
+    "subTotal": 2069436.47,
+    "taxRate": 18,
+    "taxAmount": 372498.56,
+    "total": 2441935.03,
+    "terms": "Net 30",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 31,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Merchandise Revenue",
+        "quantity": 5,
+        "unitPrice": 413887.29,
+        "amount": 2069436.47,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 30
+  },
+  {
+    "id": 6,
+    "estimateNumber": "EST-2025-006",
+    "customerId": 5,
+    "customerName": "Sakala Media Inc.",
+    "estimateDateDaysAgo": 43,
+    "expirationDateDaysFromNow": 16,
+    "status": "Open",
+    "subTotal": 2843938.44,
+    "taxRate": 0,
+    "taxAmount": 0.0,
+    "total": 2843938.44,
+    "terms": "Net 30",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 43,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Merchandise Revenue",
+        "quantity": 5,
+        "unitPrice": 568787.69,
+        "amount": 2843938.44,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 42
+  },
+  {
+    "id": 7,
+    "estimateNumber": "EST-2025-007",
+    "customerId": 7,
+    "customerName": "Zimba Entertainment Enterprises",
+    "estimateDateDaysAgo": 37,
+    "expirationDateDaysFromNow": 21,
+    "status": "Expired",
+    "subTotal": 2733091.94,
+    "taxRate": 18,
+    "taxAmount": 491956.55,
+    "total": 3225048.49,
+    "terms": "Net 45",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 37,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Music Licensing",
+        "quantity": 3,
+        "unitPrice": 911030.65,
+        "amount": 2733091.94,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 36
+  },
+  {
+    "id": 8,
+    "estimateNumber": "EST-2025-008",
+    "customerId": 6,
+    "customerName": "Musonda Entertainment Enterprises",
+    "estimateDateDaysAgo": 27,
+    "expirationDateDaysFromNow": 26,
+    "status": "Declined",
+    "subTotal": 887704.79,
+    "taxRate": 15,
+    "taxAmount": 133155.72,
+    "total": 1020860.51,
+    "terms": "Net 15",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 27,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Merchandise Revenue",
+        "quantity": 2,
+        "unitPrice": 443852.4,
+        "amount": 887704.79,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 26
+  }
+]

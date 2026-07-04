@@ -1,0 +1,22 @@
+﻿[
+    {
+        "Capacity":  100,
+        "HasEquipment":  true,
+        "IsAvailable":  true,
+        "Id":  1,
+        "Location":  "Luangwa Overlook Point",
+        "Name":  "Riverbank Conference Lodge",
+        "HasCatering":  true,
+        "HourlyRate":  5000
+    },
+    {
+        "Capacity":  60,
+        "HasEquipment":  false,
+        "IsAvailable":  true,
+        "Id":  2,
+        "Location":  "Camp Fire Ring",
+        "Name":  "Wilderness Boma",
+        "HasCatering":  true,
+        "HourlyRate":  3500
+    }
+]

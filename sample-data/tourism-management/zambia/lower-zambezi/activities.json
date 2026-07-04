@@ -1,0 +1,32 @@
+﻿[
+    {
+        "BasePrice":  6000,
+        "Capacity":  6,
+        "IsActive":  true,
+        "Id":  4,
+        "Name":  "Zambezi Canoe Safari",
+        "Type":  4,
+        "Description":  "Paddle down the Zambezi river alongside elephants and hippos.",
+        "Duration":  240
+    },
+    {
+        "BasePrice":  8000,
+        "Capacity":  4,
+        "IsActive":  true,
+        "Id":  5,
+        "Name":  "Tiger Fishing Charter",
+        "Type":  5,
+        "Description":  "Full day sport fishing on the Zambezi.",
+        "Duration":  360
+    },
+    {
+        "BasePrice":  2500,
+        "Capacity":  15,
+        "IsActive":  true,
+        "Id":  6,
+        "Name":  "River Sunset Cruise",
+        "Type":  5,
+        "Description":  "Relaxing boat cruise with drinks and snacks.",
+        "Duration":  120
+    }
+]

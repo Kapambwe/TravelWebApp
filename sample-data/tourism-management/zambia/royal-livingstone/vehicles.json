@@ -1,0 +1,26 @@
+﻿[
+    {
+        "Capacity":  22,
+        "Id":  101,
+        "RegistrationNumber":  "ZM-RL-01",
+        "VehicleType":  2,
+        "FuelType":  "Diesel",
+        "Name":  "Royal Shuttle Bus 1",
+        "NextServiceDue":  "2024-12-01",
+        "Status":  0,
+        "LastServiceDate":  "2024-06-01",
+        "FuelLevel":  0.9
+    },
+    {
+        "Capacity":  4,
+        "Id":  102,
+        "RegistrationNumber":  "ZM-RL-02",
+        "VehicleType":  3,
+        "FuelType":  "Petrol",
+        "Name":  "VIP Transfer Sedan",
+        "NextServiceDue":  "2024-12-15",
+        "Status":  0,
+        "LastServiceDate":  "2024-06-15",
+        "FuelLevel":  0.8
+    }
+]

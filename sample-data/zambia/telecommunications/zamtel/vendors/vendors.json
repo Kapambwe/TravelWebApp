@@ -1,0 +1,17 @@
+{
+  "vendors": [
+    {"id":1,"vendorName":"Mwansa Tembo","companyName":"Huawei Technologies Zambia","contactPerson":"Mwansa Tembo","email":"m.tembo@huawei.co.zm","phone":"+260 211 000 001","city":"Lusaka","country":"Zambia","defaultPaymentTerms":"Net 30","taxId":"TPIN-HWZ-001","totalAmountOwed":0.00},
+    {"id":2,"vendorName":"Bwalya Banda","companyName":"Nokia Networks Zambia","contactPerson":"Bwalya Banda","email":"b.banda@nokia.co.zm","phone":"+260 211 000 002","city":"Lusaka","country":"Zambia","defaultPaymentTerms":"Net 30","taxId":"TPIN-NOK-002","totalAmountOwed":0.00},
+    {"id":3,"vendorName":"Ngosa Lungu","companyName":"Ericsson Zambia","contactPerson":"Ngosa Lungu","email":"n.lungu@ericsson.co.zm","phone":"+260 211 000 003","city":"Lusaka","country":"Zambia","defaultPaymentTerms":"Net 30","taxId":"TPIN-ERI-003","totalAmountOwed":2800000.00},
+    {"id":4,"vendorName":"Chanda Mwale","companyName":"NAPSA","contactPerson":"Chanda Mwale","email":"c.mwale@napsa.co.zm","phone":"+260 211 000 004","city":"Lusaka","country":"Zambia","defaultPaymentTerms":"Net 30","taxId":"TPIN-NPS-004","totalAmountOwed":0.00},
+    {"id":5,"vendorName":"Malama Kapata","companyName":"Cisco Systems Zambia","contactPerson":"Malama Kapata","email":"m.kapata@cisco.co.zm","phone":"+260 211 000 005","city":"Lusaka","country":"Zambia","defaultPaymentTerms":"Net 30","taxId":"TPIN-CSC-005","totalAmountOwed":0.00},
+    {"id":6,"vendorName":"Sakala Phiri","companyName":"Oracle Zambia","contactPerson":"Sakala Phiri","email":"s.phiri@oracle.co.zm","phone":"+260 211 000 006","city":"Lusaka","country":"Zambia","defaultPaymentTerms":"Net 30","taxId":"TPIN-ORC-006","totalAmountOwed":2600000.00},
+    {"id":7,"vendorName":"Zimba Mwale","companyName":"SAP Zambia Ltd","contactPerson":"Zimba Mwale","email":"z.mwale@sap.co.zm","phone":"+260 211 000 007","city":"Lusaka","country":"Zambia","defaultPaymentTerms":"Net 30","taxId":"TPIN-SAP-007","totalAmountOwed":1800000.00},
+    {"id":8,"vendorName":"Fredrick Zulu","companyName":"ZESCO Limited","contactPerson":"Fredrick Zulu","email":"f.zulu@zesco.co.zm","phone":"+260 211 000 008","city":"Lusaka","country":"Zambia","defaultPaymentTerms":"Net 30","taxId":"TPIN-ZES-008","totalAmountOwed":0.00},
+    {"id":9,"vendorName":"Grace Nkonde","companyName":"Liquid Telecom Zambia","contactPerson":"Grace Nkonde","email":"g.nkonde@liquidtelecom.co.zm","phone":"+260 211 000 009","city":"Lusaka","country":"Zambia","defaultPaymentTerms":"Net 30","taxId":"TPIN-LTZ-009","totalAmountOwed":3500000.00},
+    {"id":10,"vendorName":"Peter Kaunda","companyName":"Zambia Road Transport","contactPerson":"Peter Kaunda","email":"p.kaunda@zrt.co.zm","phone":"+260 977 000 010","city":"Lusaka","country":"Zambia","defaultPaymentTerms":"Net 30","taxId":"TPIN-ZRT-010","totalAmountOwed":0.00},
+    {"id":11,"vendorName":"Agnes Chileshe","companyName":"Crown Paints Zambia","contactPerson":"Agnes Chileshe","email":"a.chileshe@crownpaints.co.zm","phone":"+260 977 000 011","city":"Lusaka","country":"Zambia","defaultPaymentTerms":"Net 30","taxId":"TPIN-CPZ-011","totalAmountOwed":0.00},
+    {"id":12,"vendorName":"Susan Mumba","companyName":"Zambia Revenue Authority","contactPerson":"Susan Mumba","email":"s.mumba@zra.org.zm","phone":"+260 211 000 012","city":"Lusaka","country":"Zambia","defaultPaymentTerms":"Net 30","taxId":"TPIN-ZRA-012","totalAmountOwed":0.00}
+  ],
+  "vendorCredits": []
+}

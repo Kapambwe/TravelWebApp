@@ -1,0 +1,302 @@
+[
+  {
+    "id": "campaign-001",
+    "campaignName": "Q1 2024 Promotion 1",
+    "startDate": "2025-10-10",
+    "endDate": "2025-06-20",
+    "budget": 50000.0,
+    "actualSpent": 30000.0,
+    "leads": 150,
+    "conversions": 45
+  },
+  {
+    "id": "campaign-002",
+    "campaignName": "Q1 2024 Promotion 1",
+    "startDate": "2025-10-10",
+    "endDate": "2025-06-20",
+    "budget": 50000.0,
+    "actualSpent": 30000.0,
+    "leads": 150,
+    "conversions": 45
+  },
+  {
+    "id": "campaign-003",
+    "campaignName": "Q1 2024 Promotion 1",
+    "startDate": "2025-10-10",
+    "endDate": "2025-06-20",
+    "budget": 50000.0,
+    "actualSpent": 30000.0,
+    "leads": 150,
+    "conversions": 45
+  },
+  {
+    "id": "campaign-004",
+    "campaignName": "Q1 2024 Promotion 1",
+    "startDate": "2025-10-10",
+    "endDate": "2025-06-20",
+    "budget": 50000.0,
+    "actualSpent": 30000.0,
+    "leads": 150,
+    "conversions": 45
+  },
+  {
+    "id": "campaign-005",
+    "campaignName": "Q1 2024 Promotion 1",
+    "startDate": "2025-10-10",
+    "endDate": "2025-06-20",
+    "budget": 50000.0,
+    "actualSpent": 30000.0,
+    "leads": 150,
+    "conversions": 45
+  },
+  {
+    "id": "campaign-006",
+    "campaignName": "Q1 2024 Promotion 1",
+    "startDate": "2025-10-10",
+    "endDate": "2025-06-20",
+    "budget": 50000.0,
+    "actualSpent": 30000.0,
+    "leads": 150,
+    "conversions": 45
+  },
+  {
+    "id": "campaign-007",
+    "campaignName": "Q1 2024 Promotion 1",
+    "startDate": "2025-10-10",
+    "endDate": "2025-06-20",
+    "budget": 50000.0,
+    "actualSpent": 30000.0,
+    "leads": 150,
+    "conversions": 45
+  },
+  {
+    "id": "campaign-008",
+    "campaignName": "Q1 2024 Promotion 1",
+    "startDate": "2025-10-10",
+    "endDate": "2025-06-20",
+    "budget": 50000.0,
+    "actualSpent": 30000.0,
+    "leads": 150,
+    "conversions": 45
+  },
+  {
+    "id": "campaign-009",
+    "campaignName": "Q1 2024 Promotion 1",
+    "startDate": "2025-10-10",
+    "endDate": "2025-06-20",
+    "budget": 50000.0,
+    "actualSpent": 30000.0,
+    "leads": 150,
+    "conversions": 45
+  },
+  {
+    "id": "campaign-010",
+    "campaignName": "Q1 2024 Promotion 1",
+    "startDate": "2025-10-10",
+    "endDate": "2025-06-20",
+    "budget": 50000.0,
+    "actualSpent": 30000.0,
+    "leads": 150,
+    "conversions": 45
+  },
+  {
+    "id": "campaign-011",
+    "campaignName": "Q1 2024 Promotion 1",
+    "startDate": "2025-10-10",
+    "endDate": "2025-06-20",
+    "budget": 50000.0,
+    "actualSpent": 30000.0,
+    "leads": 150,
+    "conversions": 45
+  },
+  {
+    "id": "campaign-012",
+    "campaignName": "Q1 2024 Promotion 1",
+    "startDate": "2025-10-10",
+    "endDate": "2025-06-20",
+    "budget": 50000.0,
+    "actualSpent": 30000.0,
+    "leads": 150,
+    "conversions": 45
+  },
+  {
+    "id": "campaign-013",
+    "campaignName": "Q1 2024 Promotion 1",
+    "startDate": "2025-10-10",
+    "endDate": "2025-06-20",
+    "budget": 50000.0,
+    "actualSpent": 30000.0,
+    "leads": 150,
+    "conversions": 45
+  },
+  {
+    "id": "campaign-014",
+    "campaignName": "Q1 2024 Promotion 1",
+    "startDate": "2025-10-10",
+    "endDate": "2025-06-20",
+    "budget": 50000.0,
+    "actualSpent": 30000.0,
+    "leads": 150,
+    "conversions": 45
+  },
+  {
+    "id": "campaign-015",
+    "campaignName": "Q1 2024 Promotion 1",
+    "startDate": "2025-10-10",
+    "endDate": "2025-06-20",
+    "budget": 50000.0,
+    "actualSpent": 30000.0,
+    "leads": 150,
+    "conversions": 45
+  },
+  {
+    "id": "campaign-016",
+    "campaignName": "Q1 2024 Promotion 1",
+    "startDate": "2025-10-10",
+    "endDate": "2025-06-20",
+    "budget": 50000.0,
+    "actualSpent": 30000.0,
+    "leads": 150,
+    "conversions": 45
+  },
+  {
+    "id": "campaign-017",
+    "campaignName": "Q1 2024 Promotion 1",
+    "startDate": "2025-10-10",
+    "endDate": "2025-06-20",
+    "budget": 50000.0,
+    "actualSpent": 30000.0,
+    "leads": 150,
+    "conversions": 45
+  },
+  {
+    "id": "campaign-018",
+    "campaignName": "Q1 2024 Promotion 1",
+    "startDate": "2025-10-10",
+    "endDate": "2025-06-20",
+    "budget": 50000.0,
+    "actualSpent": 30000.0,
+    "leads": 150,
+    "conversions": 45
+  },
+  {
+    "id": "campaign-019",
+    "campaignName": "Q1 2024 Promotion 1",
+    "startDate": "2025-10-10",
+    "endDate": "2025-06-20",
+    "budget": 50000.0,
+    "actualSpent": 30000.0,
+    "leads": 150,
+    "conversions": 45
+  },
+  {
+    "id": "campaign-020",
+    "campaignName": "Q1 2024 Promotion 1",
+    "startDate": "2025-10-10",
+    "endDate": "2025-06-20",
+    "budget": 50000.0,
+    "actualSpent": 30000.0,
+    "leads": 150,
+    "conversions": 45
+  },
+  {
+    "id": "campaign-021",
+    "campaignName": "Q1 2024 Promotion 1",
+    "startDate": "2025-10-10",
+    "endDate": "2025-06-20",
+    "budget": 50000.0,
+    "actualSpent": 30000.0,
+    "leads": 150,
+    "conversions": 45
+  },
+  {
+    "id": "campaign-022",
+    "campaignName": "Q1 2024 Promotion 1",
+    "startDate": "2025-10-10",
+    "endDate": "2025-06-20",
+    "budget": 50000.0,
+    "actualSpent": 30000.0,
+    "leads": 150,
+    "conversions": 45
+  },
+  {
+    "id": "campaign-023",
+    "campaignName": "Q1 2024 Promotion 1",
+    "startDate": "2025-10-10",
+    "endDate": "2025-06-20",
+    "budget": 50000.0,
+    "actualSpent": 30000.0,
+    "leads": 150,
+    "conversions": 45
+  },
+  {
+    "id": "campaign-024",
+    "campaignName": "Q1 2024 Promotion 1",
+    "startDate": "2025-10-10",
+    "endDate": "2025-06-20",
+    "budget": 50000.0,
+    "actualSpent": 30000.0,
+    "leads": 150,
+    "conversions": 45
+  },
+  {
+    "id": "campaign-025",
+    "campaignName": "Q1 2024 Promotion 1",
+    "startDate": "2025-10-10",
+    "endDate": "2025-06-20",
+    "budget": 50000.0,
+    "actualSpent": 30000.0,
+    "leads": 150,
+    "conversions": 45
+  },
+  {
+    "id": "campaign-026",
+    "campaignName": "Q1 2024 Promotion 1",
+    "startDate": "2025-10-10",
+    "endDate": "2025-06-20",
+    "budget": 50000.0,
+    "actualSpent": 30000.0,
+    "leads": 150,
+    "conversions": 45
+  },
+  {
+    "id": "campaign-027",
+    "campaignName": "Q1 2024 Promotion 1",
+    "startDate": "2025-10-10",
+    "endDate": "2025-06-20",
+    "budget": 50000.0,
+    "actualSpent": 30000.0,
+    "leads": 150,
+    "conversions": 45
+  },
+  {
+    "id": "campaign-028",
+    "campaignName": "Q1 2024 Promotion 1",
+    "startDate": "2025-10-10",
+    "endDate": "2025-06-20",
+    "budget": 50000.0,
+    "actualSpent": 30000.0,
+    "leads": 150,
+    "conversions": 45
+  },
+  {
+    "id": "campaign-029",
+    "campaignName": "Q1 2024 Promotion 1",
+    "startDate": "2025-10-10",
+    "endDate": "2025-06-20",
+    "budget": 50000.0,
+    "actualSpent": 30000.0,
+    "leads": 150,
+    "conversions": 45
+  },
+  {
+    "id": "campaign-030",
+    "campaignName": "Q1 2024 Promotion 1",
+    "startDate": "2025-10-10",
+    "endDate": "2025-06-20",
+    "budget": 50000.0,
+    "actualSpent": 30000.0,
+    "leads": 150,
+    "conversions": 45
+  }
+]

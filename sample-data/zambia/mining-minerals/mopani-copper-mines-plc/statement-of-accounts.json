@@ -1,0 +1,174 @@
+{
+  "companyName": "Mopani Copper Mines Plc",
+  "companyAddress": "Kabwe, Zambia",
+  "companyTaxId": "TPIN-2712361-MCMP",
+  "generatedDate": "2025-09-30",
+  "currency": "ZMW",
+  "period": {
+    "from": "2025-01-01",
+    "to": "2025-09-30"
+  },
+  "customerStatements": [
+    {
+      "customerId": 1,
+      "customerName": "Kafue Solutions Ltd",
+      "customerEmail": "admin@kafue.co.zm",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-02-23",
+          "reference": "INV-Z-2025-012",
+          "description": "Ore transportation contract",
+          "debit": 2011000,
+          "credit": 0.0,
+          "balance": 2011000
+        },
+        {
+          "date": "2025-03-12",
+          "reference": "PMT-Z-2025-017",
+          "description": "Payment received - SWIFT",
+          "debit": 0.0,
+          "credit": 2011000,
+          "balance": 0.0
+        }
+      ],
+      "closingBalance": 0.0,
+      "status": "Settled"
+    },
+    {
+      "customerId": 2,
+      "customerName": "Chambeshi Investments Ltd",
+      "customerEmail": "billing@chambeshi.co.zm",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-08-07",
+          "reference": "INV-Z-2025-023",
+          "description": "Equipment leasing - heavy machinery",
+          "debit": 2774500,
+          "credit": 0.0,
+          "balance": 2774500
+        }
+      ],
+      "closingBalance": 2774500,
+      "status": "Outstanding"
+    },
+    {
+      "customerId": 3,
+      "customerName": "Zesco Solutions Ltd",
+      "customerEmail": "finance@zesco.co.zm",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-07-11",
+          "reference": "INV-Z-2025-035",
+          "description": "Mineral supply - iron ore",
+          "debit": 2680000,
+          "credit": 0.0,
+          "balance": 2680000
+        },
+        {
+          "date": "2025-08-02",
+          "reference": "PMT-Z-2025-033",
+          "description": "Payment received - SWIFT",
+          "debit": 0.0,
+          "credit": 2680000,
+          "balance": 0.0
+        }
+      ],
+      "closingBalance": 0.0,
+      "status": "Settled"
+    },
+    {
+      "customerId": 4,
+      "customerName": "Chambeshi Holdings PLC",
+      "customerEmail": "billing@chambeshi.co.zm",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-01-27",
+          "reference": "INV-Z-2025-046",
+          "description": "Mining services contract - phase 9845",
+          "debit": 2166000,
+          "credit": 0.0,
+          "balance": 2166000
+        },
+        {
+          "date": "2025-02-19",
+          "reference": "PMT-Z-2025-049",
+          "description": "Partial payment received - bank transfer",
+          "debit": 0.0,
+          "credit": 959000,
+          "balance": 1207000
+        }
+      ],
+      "closingBalance": 1207000,
+      "status": "Partially Paid"
+    },
+    {
+      "customerId": 5,
+      "customerName": "Zambezi Solutions Ltd",
+      "customerEmail": "finance@zambezi.com",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-06-26",
+          "reference": "INV-Z-2025-052",
+          "description": "Processing plant services fee",
+          "debit": 2686500,
+          "credit": 0.0,
+          "balance": 2686500
+        },
+        {
+          "date": "2025-07-21",
+          "reference": "PMT-Z-2025-056",
+          "description": "Payment received - bank transfer",
+          "debit": 0.0,
+          "credit": 2686500,
+          "balance": 0.0
+        }
+      ],
+      "closingBalance": 0.0,
+      "status": "Settled"
+    },
+    {
+      "customerId": 6,
+      "customerName": "Zain Trading Ltd",
+      "customerEmail": "billing@zain.com",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-02-26",
+          "reference": "INV-Z-2025-062",
+          "description": "Equipment leasing - heavy machinery",
+          "debit": 2223500,
+          "credit": 0.0,
+          "balance": 2223500
+        },
+        {
+          "date": "2025-03-15",
+          "reference": "PMT-Z-2025-066",
+          "description": "Partial payment received - bank transfer",
+          "debit": 0.0,
+          "credit": 777500,
+          "balance": 1446000
+        }
+      ],
+      "closingBalance": 1446000,
+      "status": "Partially Paid"
+    }
+  ],
+  "summary": {
+    "totalInvoiced": 14541500,
+    "totalReceived": 9114000,
+    "totalOutstanding": 5427500,
+    "totalOverdue": 5427500.0,
+    "agingSummary": {
+      "current": 0.0,
+      "days1to30": 2774500.0,
+      "days31to60": 0.0,
+      "days61to90": 0.0,
+      "over90days": 2653000.0
+    }
+  }
+}

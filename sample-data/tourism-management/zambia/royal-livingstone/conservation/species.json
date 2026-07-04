@@ -1,0 +1,20 @@
+﻿[
+    {
+        "Id":  101,
+        "Name":  "Plains Zebra",
+        "ScientificName":  "Equus quagga",
+        "Population":  45,
+        "PopulationTrend":  1,
+        "ConservationStatus":  "Least Concern",
+        "LastCensusDate":  "2024-05-01T00:00:00"
+    },
+    {
+        "Id":  102,
+        "Name":  "Chacma Baboon",
+        "ScientificName":  "Papio ursinus",
+        "Population":  120,
+        "PopulationTrend":  1,
+        "ConservationStatus":  "Least Concern",
+        "LastCensusDate":  "2024-05-01T00:00:00"
+    }
+]

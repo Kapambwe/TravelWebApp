@@ -1,0 +1,302 @@
+[
+  {
+    "id": "tax-filing-001",
+    "filingType": "VAT Return",
+    "period": "January 2024",
+    "filingDate": "2025-11-04",
+    "dueDate": "2025-05-01",
+    "status": "Pending",
+    "taxAmount": 16000.0,
+    "reference": "VAT-2024-001"
+  },
+  {
+    "id": "tax-filing-002",
+    "filingType": "VAT Return",
+    "period": "January 2024",
+    "filingDate": "2025-11-04",
+    "dueDate": "2025-05-01",
+    "status": "Pending",
+    "taxAmount": 16000.0,
+    "reference": "VAT-2024-001"
+  },
+  {
+    "id": "tax-filing-003",
+    "filingType": "VAT Return",
+    "period": "January 2024",
+    "filingDate": "2025-11-04",
+    "dueDate": "2025-05-01",
+    "status": "Pending",
+    "taxAmount": 16000.0,
+    "reference": "VAT-2024-001"
+  },
+  {
+    "id": "tax-filing-004",
+    "filingType": "VAT Return",
+    "period": "January 2024",
+    "filingDate": "2025-11-04",
+    "dueDate": "2025-05-01",
+    "status": "Pending",
+    "taxAmount": 16000.0,
+    "reference": "VAT-2024-001"
+  },
+  {
+    "id": "tax-filing-005",
+    "filingType": "VAT Return",
+    "period": "January 2024",
+    "filingDate": "2025-11-04",
+    "dueDate": "2025-05-01",
+    "status": "Pending",
+    "taxAmount": 16000.0,
+    "reference": "VAT-2024-001"
+  },
+  {
+    "id": "tax-filing-006",
+    "filingType": "VAT Return",
+    "period": "January 2024",
+    "filingDate": "2025-11-04",
+    "dueDate": "2025-05-01",
+    "status": "Pending",
+    "taxAmount": 16000.0,
+    "reference": "VAT-2024-001"
+  },
+  {
+    "id": "tax-filing-007",
+    "filingType": "VAT Return",
+    "period": "January 2024",
+    "filingDate": "2025-11-04",
+    "dueDate": "2025-05-01",
+    "status": "Pending",
+    "taxAmount": 16000.0,
+    "reference": "VAT-2024-001"
+  },
+  {
+    "id": "tax-filing-008",
+    "filingType": "VAT Return",
+    "period": "January 2024",
+    "filingDate": "2025-11-04",
+    "dueDate": "2025-05-01",
+    "status": "Pending",
+    "taxAmount": 16000.0,
+    "reference": "VAT-2024-001"
+  },
+  {
+    "id": "tax-filing-009",
+    "filingType": "VAT Return",
+    "period": "January 2024",
+    "filingDate": "2025-11-04",
+    "dueDate": "2025-05-01",
+    "status": "Pending",
+    "taxAmount": 16000.0,
+    "reference": "VAT-2024-001"
+  },
+  {
+    "id": "tax-filing-010",
+    "filingType": "VAT Return",
+    "period": "January 2024",
+    "filingDate": "2025-11-04",
+    "dueDate": "2025-05-01",
+    "status": "Pending",
+    "taxAmount": 16000.0,
+    "reference": "VAT-2024-001"
+  },
+  {
+    "id": "tax-filing-011",
+    "filingType": "VAT Return",
+    "period": "January 2024",
+    "filingDate": "2025-11-04",
+    "dueDate": "2025-05-01",
+    "status": "Pending",
+    "taxAmount": 16000.0,
+    "reference": "VAT-2024-001"
+  },
+  {
+    "id": "tax-filing-012",
+    "filingType": "VAT Return",
+    "period": "January 2024",
+    "filingDate": "2025-11-04",
+    "dueDate": "2025-05-01",
+    "status": "Pending",
+    "taxAmount": 16000.0,
+    "reference": "VAT-2024-001"
+  },
+  {
+    "id": "tax-filing-013",
+    "filingType": "VAT Return",
+    "period": "January 2024",
+    "filingDate": "2025-11-04",
+    "dueDate": "2025-05-01",
+    "status": "Pending",
+    "taxAmount": 16000.0,
+    "reference": "VAT-2024-001"
+  },
+  {
+    "id": "tax-filing-014",
+    "filingType": "VAT Return",
+    "period": "January 2024",
+    "filingDate": "2025-11-04",
+    "dueDate": "2025-05-01",
+    "status": "Pending",
+    "taxAmount": 16000.0,
+    "reference": "VAT-2024-001"
+  },
+  {
+    "id": "tax-filing-015",
+    "filingType": "VAT Return",
+    "period": "January 2024",
+    "filingDate": "2025-11-04",
+    "dueDate": "2025-05-01",
+    "status": "Pending",
+    "taxAmount": 16000.0,
+    "reference": "VAT-2024-001"
+  },
+  {
+    "id": "tax-filing-016",
+    "filingType": "VAT Return",
+    "period": "January 2024",
+    "filingDate": "2025-11-04",
+    "dueDate": "2025-05-01",
+    "status": "Pending",
+    "taxAmount": 16000.0,
+    "reference": "VAT-2024-001"
+  },
+  {
+    "id": "tax-filing-017",
+    "filingType": "VAT Return",
+    "period": "January 2024",
+    "filingDate": "2025-11-04",
+    "dueDate": "2025-05-01",
+    "status": "Pending",
+    "taxAmount": 16000.0,
+    "reference": "VAT-2024-001"
+  },
+  {
+    "id": "tax-filing-018",
+    "filingType": "VAT Return",
+    "period": "January 2024",
+    "filingDate": "2025-11-04",
+    "dueDate": "2025-05-01",
+    "status": "Pending",
+    "taxAmount": 16000.0,
+    "reference": "VAT-2024-001"
+  },
+  {
+    "id": "tax-filing-019",
+    "filingType": "VAT Return",
+    "period": "January 2024",
+    "filingDate": "2025-11-04",
+    "dueDate": "2025-05-01",
+    "status": "Pending",
+    "taxAmount": 16000.0,
+    "reference": "VAT-2024-001"
+  },
+  {
+    "id": "tax-filing-020",
+    "filingType": "VAT Return",
+    "period": "January 2024",
+    "filingDate": "2025-11-04",
+    "dueDate": "2025-05-01",
+    "status": "Pending",
+    "taxAmount": 16000.0,
+    "reference": "VAT-2024-001"
+  },
+  {
+    "id": "tax-filing-021",
+    "filingType": "VAT Return",
+    "period": "January 2024",
+    "filingDate": "2025-11-04",
+    "dueDate": "2025-05-01",
+    "status": "Pending",
+    "taxAmount": 16000.0,
+    "reference": "VAT-2024-001"
+  },
+  {
+    "id": "tax-filing-022",
+    "filingType": "VAT Return",
+    "period": "January 2024",
+    "filingDate": "2025-11-04",
+    "dueDate": "2025-05-01",
+    "status": "Pending",
+    "taxAmount": 16000.0,
+    "reference": "VAT-2024-001"
+  },
+  {
+    "id": "tax-filing-023",
+    "filingType": "VAT Return",
+    "period": "January 2024",
+    "filingDate": "2025-11-04",
+    "dueDate": "2025-05-01",
+    "status": "Pending",
+    "taxAmount": 16000.0,
+    "reference": "VAT-2024-001"
+  },
+  {
+    "id": "tax-filing-024",
+    "filingType": "VAT Return",
+    "period": "January 2024",
+    "filingDate": "2025-11-04",
+    "dueDate": "2025-05-01",
+    "status": "Pending",
+    "taxAmount": 16000.0,
+    "reference": "VAT-2024-001"
+  },
+  {
+    "id": "tax-filing-025",
+    "filingType": "VAT Return",
+    "period": "January 2024",
+    "filingDate": "2025-11-04",
+    "dueDate": "2025-05-01",
+    "status": "Pending",
+    "taxAmount": 16000.0,
+    "reference": "VAT-2024-001"
+  },
+  {
+    "id": "tax-filing-026",
+    "filingType": "VAT Return",
+    "period": "January 2024",
+    "filingDate": "2025-11-04",
+    "dueDate": "2025-05-01",
+    "status": "Pending",
+    "taxAmount": 16000.0,
+    "reference": "VAT-2024-001"
+  },
+  {
+    "id": "tax-filing-027",
+    "filingType": "VAT Return",
+    "period": "January 2024",
+    "filingDate": "2025-11-04",
+    "dueDate": "2025-05-01",
+    "status": "Pending",
+    "taxAmount": 16000.0,
+    "reference": "VAT-2024-001"
+  },
+  {
+    "id": "tax-filing-028",
+    "filingType": "VAT Return",
+    "period": "January 2024",
+    "filingDate": "2025-11-04",
+    "dueDate": "2025-05-01",
+    "status": "Pending",
+    "taxAmount": 16000.0,
+    "reference": "VAT-2024-001"
+  },
+  {
+    "id": "tax-filing-029",
+    "filingType": "VAT Return",
+    "period": "January 2024",
+    "filingDate": "2025-11-04",
+    "dueDate": "2025-05-01",
+    "status": "Pending",
+    "taxAmount": 16000.0,
+    "reference": "VAT-2024-001"
+  },
+  {
+    "id": "tax-filing-030",
+    "filingType": "VAT Return",
+    "period": "January 2024",
+    "filingDate": "2025-11-04",
+    "dueDate": "2025-05-01",
+    "status": "Pending",
+    "taxAmount": 16000.0,
+    "reference": "VAT-2024-001"
+  }
+]

@@ -1,0 +1,17 @@
+{
+  "userId": "user-001",
+  "userName": "john.doe@example.com",
+  "fullName": "John Doe",
+  "roles": [
+    "Accountant",
+    "Manager"
+  ],
+  "companyId": "comp-001",
+  "companyName": "Times Printpak",
+  "permissions": [
+    "ViewReports",
+    "CreateTransactions",
+    "ApproveBudgets"
+  ],
+  "companyTaxId": "TPIN-4410472891"
+}

@@ -1,0 +1,32 @@
+﻿[
+    {
+        "BasePrice":  4500,
+        "Capacity":  8,
+        "IsActive":  true,
+        "Id":  1,
+        "Name":  "Dawn Walking Safari",
+        "Type":  1,
+        "Description":  "Explore the Luangwa wilderness on foot with an armed scout.",
+        "Duration":  180
+    },
+    {
+        "BasePrice":  3500,
+        "Capacity":  10,
+        "IsActive":  true,
+        "Id":  2,
+        "Name":  "Night Game Drive",
+        "Type":  2,
+        "Description":  "Spot leopards, hyenas, and other nocturnal predators.",
+        "Duration":  150
+    },
+    {
+        "BasePrice":  3000,
+        "Capacity":  12,
+        "IsActive":  true,
+        "Id":  3,
+        "Name":  "Morning Game Drive",
+        "Type":  0,
+        "Description":  "Standard 4x4 open vehicle safari.",
+        "Duration":  240
+    }
+]

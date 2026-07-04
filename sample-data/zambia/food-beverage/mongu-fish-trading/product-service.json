@@ -1,0 +1,272 @@
+[
+  {
+    "id": "prod-001",
+    "productName": "Fresh Catfish",
+    "productCode": "SKU-69416",
+    "category": "Fish Trading",
+    "price": 8150.36,
+    "cost": 2376.79,
+    "description": "Quality Fresh Catfish for fish trading business"
+  },
+  {
+    "id": "prod-002",
+    "productName": "Fresh Tilapia",
+    "productCode": "SKU-44167",
+    "category": "Fish Trading",
+    "price": 3441.52,
+    "cost": 1127.71,
+    "description": "Quality Fresh Tilapia for fish trading business"
+  },
+  {
+    "id": "prod-003",
+    "productName": "Dried Fish",
+    "productCode": "SKU-77758",
+    "category": "Fish Trading",
+    "price": 10720.95,
+    "cost": 7215.26,
+    "description": "Quality Dried Fish for fish trading business"
+  },
+  {
+    "id": "prod-004",
+    "productName": "Smoked Fish",
+    "productCode": "SKU-27201",
+    "category": "Fish Trading",
+    "price": 7959.93,
+    "cost": 7641.32,
+    "description": "Quality Smoked Fish for fish trading business"
+  },
+  {
+    "id": "prod-005",
+    "productName": "Salted Fish",
+    "productCode": "SKU-36681",
+    "category": "Fish Trading",
+    "price": 3109.94,
+    "cost": 3733.06,
+    "description": "Quality Salted Fish for fish trading business"
+  },
+  {
+    "id": "prod-006",
+    "productName": "Fish Meal",
+    "productCode": "SKU-54473",
+    "category": "Fish Trading",
+    "price": 4910.39,
+    "cost": 3992.54,
+    "description": "Quality Fish Meal for fish trading business"
+  },
+  {
+    "id": "prod-007",
+    "productName": "Fishing Nets",
+    "productCode": "SKU-85529",
+    "category": "Fish Trading",
+    "price": 10457.65,
+    "cost": 4698.64,
+    "description": "Quality Fishing Nets for fish trading business"
+  },
+  {
+    "id": "prod-008",
+    "productName": "Ice (bulk)",
+    "productCode": "SKU-77417",
+    "category": "Fish Trading",
+    "price": 3247.01,
+    "cost": 2341.8,
+    "description": "Quality Ice (bulk) for fish trading business"
+  },
+  {
+    "id": "prod-009",
+    "productName": "Fresh Bream",
+    "productCode": "SKU-39599",
+    "category": "Fish Trading",
+    "price": 1276.13,
+    "cost": 7703.18,
+    "description": "Quality Fresh Bream for fish trading business"
+  },
+  {
+    "id": "prod-010",
+    "productName": "Fresh Catfish",
+    "productCode": "SKU-53698",
+    "category": "Fish Trading",
+    "price": 2971.74,
+    "cost": 5002.42,
+    "description": "Quality Fresh Catfish for fish trading business"
+  },
+  {
+    "id": "prod-011",
+    "productName": "Fresh Tilapia",
+    "productCode": "SKU-84349",
+    "category": "Fish Trading",
+    "price": 5053.15,
+    "cost": 6082.61,
+    "description": "Quality Fresh Tilapia for fish trading business"
+  },
+  {
+    "id": "prod-012",
+    "productName": "Dried Fish",
+    "productCode": "SKU-88226",
+    "category": "Fish Trading",
+    "price": 10666.87,
+    "cost": 2406.45,
+    "description": "Quality Dried Fish for fish trading business"
+  },
+  {
+    "id": "prod-013",
+    "productName": "Smoked Fish",
+    "productCode": "SKU-60859",
+    "category": "Fish Trading",
+    "price": 2229.55,
+    "cost": 7661.32,
+    "description": "Quality Smoked Fish for fish trading business"
+  },
+  {
+    "id": "prod-014",
+    "productName": "Salted Fish",
+    "productCode": "SKU-90660",
+    "category": "Fish Trading",
+    "price": 6326.36,
+    "cost": 5538.54,
+    "description": "Quality Salted Fish for fish trading business"
+  },
+  {
+    "id": "prod-015",
+    "productName": "Fish Meal",
+    "productCode": "SKU-64441",
+    "category": "Fish Trading",
+    "price": 12161.61,
+    "cost": 6190.41,
+    "description": "Quality Fish Meal for fish trading business"
+  },
+  {
+    "id": "prod-016",
+    "productName": "Fishing Nets",
+    "productCode": "SKU-20578",
+    "category": "Fish Trading",
+    "price": 13474.83,
+    "cost": 226.64,
+    "description": "Quality Fishing Nets for fish trading business"
+  },
+  {
+    "id": "prod-017",
+    "productName": "Ice (bulk)",
+    "productCode": "SKU-23460",
+    "category": "Fish Trading",
+    "price": 12199.18,
+    "cost": 1316.0,
+    "description": "Quality Ice (bulk) for fish trading business"
+  },
+  {
+    "id": "prod-018",
+    "productName": "Fresh Bream",
+    "productCode": "SKU-39200",
+    "category": "Fish Trading",
+    "price": 3810.91,
+    "cost": 1127.07,
+    "description": "Quality Fresh Bream for fish trading business"
+  },
+  {
+    "id": "prod-019",
+    "productName": "Fresh Catfish",
+    "productCode": "SKU-62304",
+    "category": "Fish Trading",
+    "price": 9027.18,
+    "cost": 5478.33,
+    "description": "Quality Fresh Catfish for fish trading business"
+  },
+  {
+    "id": "prod-020",
+    "productName": "Fresh Tilapia",
+    "productCode": "SKU-42143",
+    "category": "Fish Trading",
+    "price": 4966.31,
+    "cost": 2049.76,
+    "description": "Quality Fresh Tilapia for fish trading business"
+  },
+  {
+    "id": "prod-021",
+    "productName": "Dried Fish",
+    "productCode": "SKU-68626",
+    "category": "Fish Trading",
+    "price": 2718.71,
+    "cost": 1129.59,
+    "description": "Quality Dried Fish for fish trading business"
+  },
+  {
+    "id": "prod-022",
+    "productName": "Smoked Fish",
+    "productCode": "SKU-73049",
+    "category": "Fish Trading",
+    "price": 10123.44,
+    "cost": 824.58,
+    "description": "Quality Smoked Fish for fish trading business"
+  },
+  {
+    "id": "prod-023",
+    "productName": "Salted Fish",
+    "productCode": "SKU-26715",
+    "category": "Fish Trading",
+    "price": 2180.46,
+    "cost": 7193.85,
+    "description": "Quality Salted Fish for fish trading business"
+  },
+  {
+    "id": "prod-024",
+    "productName": "Fish Meal",
+    "productCode": "SKU-81112",
+    "category": "Fish Trading",
+    "price": 5178.57,
+    "cost": 812.68,
+    "description": "Quality Fish Meal for fish trading business"
+  },
+  {
+    "id": "prod-025",
+    "productName": "Fishing Nets",
+    "productCode": "SKU-24769",
+    "category": "Fish Trading",
+    "price": 8497.05,
+    "cost": 1341.9,
+    "description": "Quality Fishing Nets for fish trading business"
+  },
+  {
+    "id": "prod-026",
+    "productName": "Ice (bulk)",
+    "productCode": "SKU-83817",
+    "category": "Fish Trading",
+    "price": 13057.88,
+    "cost": 7406.14,
+    "description": "Quality Ice (bulk) for fish trading business"
+  },
+  {
+    "id": "prod-027",
+    "productName": "Fresh Bream",
+    "productCode": "SKU-62878",
+    "category": "Fish Trading",
+    "price": 9595.09,
+    "cost": 432.48,
+    "description": "Quality Fresh Bream for fish trading business"
+  },
+  {
+    "id": "prod-028",
+    "productName": "Fresh Catfish",
+    "productCode": "SKU-35019",
+    "category": "Fish Trading",
+    "price": 11929.36,
+    "cost": 773.79,
+    "description": "Quality Fresh Catfish for fish trading business"
+  },
+  {
+    "id": "prod-029",
+    "productName": "Fresh Tilapia",
+    "productCode": "SKU-96395",
+    "category": "Fish Trading",
+    "price": 8346.82,
+    "cost": 3687.55,
+    "description": "Quality Fresh Tilapia for fish trading business"
+  },
+  {
+    "id": "prod-030",
+    "productName": "Dried Fish",
+    "productCode": "SKU-40235",
+    "category": "Fish Trading",
+    "price": 13066.94,
+    "cost": 7663.89,
+    "description": "Quality Dried Fish for fish trading business"
+  }
+]

@@ -1,0 +1,101 @@
+[
+  {
+    "id": 1,
+    "billNumber": "BILL-2025-001",
+    "vendorName": "Phiri Digital Media Co.",
+    "description": "License Fees",
+    "billDate": "2025-02-21T00:00:00",
+    "dueDate": "2025-03-23T00:00:00",
+    "amount": 1366176.03,
+    "paidAmount": 1004876.97,
+    "status": "PartiallyPaid"
+  },
+  {
+    "id": 2,
+    "billNumber": "BILL-2025-002",
+    "vendorName": "Phiri Digital Media Co.",
+    "description": "Printing Costs",
+    "billDate": "2024-12-01T00:00:00",
+    "dueDate": "2024-12-31T00:00:00",
+    "amount": 1578993.43,
+    "paidAmount": 0.0,
+    "status": "Overdue"
+  },
+  {
+    "id": 3,
+    "billNumber": "BILL-2025-003",
+    "vendorName": "Tembo Broadcasting Enterprises",
+    "description": "Broadcasting Equipment Hire",
+    "billDate": "2025-01-11T00:00:00",
+    "dueDate": "2025-01-26T00:00:00",
+    "amount": 3390528.27,
+    "paidAmount": 0.0,
+    "status": "Overdue"
+  },
+  {
+    "id": 4,
+    "billNumber": "BILL-2025-004",
+    "vendorName": "Kaputo Publishers Limited",
+    "description": "Printing Costs",
+    "billDate": "2024-09-18T00:00:00",
+    "dueDate": "2024-11-02T00:00:00",
+    "amount": 1588268.54,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 5,
+    "billNumber": "BILL-2025-005",
+    "vendorName": "Ngosa Media Holdings",
+    "description": "License Fees",
+    "billDate": "2025-01-18T00:00:00",
+    "dueDate": "2025-03-04T00:00:00",
+    "amount": 72042.13,
+    "paidAmount": 0.0,
+    "status": "Overdue"
+  },
+  {
+    "id": 6,
+    "billNumber": "BILL-2025-006",
+    "vendorName": "Kaputo Publishers Limited",
+    "description": "Freelancer Fees",
+    "billDate": "2024-12-13T00:00:00",
+    "dueDate": "2025-01-12T00:00:00",
+    "amount": 1202850.26,
+    "paidAmount": 1202850.26,
+    "status": "Paid"
+  },
+  {
+    "id": 7,
+    "billNumber": "BILL-2025-007",
+    "vendorName": "Ngosa Media Holdings",
+    "description": "Printing Costs",
+    "billDate": "2024-11-06T00:00:00",
+    "dueDate": "2024-11-21T00:00:00",
+    "amount": 890093.54,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 8,
+    "billNumber": "BILL-2025-008",
+    "vendorName": "Chanda Publishers Inc.",
+    "description": "Broadcasting Equipment Hire",
+    "billDate": "2024-12-31T00:00:00",
+    "dueDate": "2025-01-15T00:00:00",
+    "amount": 598995.39,
+    "paidAmount": 598995.39,
+    "status": "Paid"
+  },
+  {
+    "id": 9,
+    "billNumber": "BILL-2025-009",
+    "vendorName": "Zulu Communications Solutions",
+    "description": "Freelancer Fees",
+    "billDate": "2024-11-01T00:00:00",
+    "dueDate": "2024-12-16T00:00:00",
+    "amount": 2507349.39,
+    "paidAmount": 2507349.39,
+    "status": "Paid"
+  }
+]

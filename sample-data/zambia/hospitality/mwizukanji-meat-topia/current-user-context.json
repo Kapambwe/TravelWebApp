@@ -1,0 +1,21 @@
+{
+  "userId": "user-mwizukanji-001",
+  "userName": "admin@meattopia.co.zm",
+  "fullName": "Mwizukanji",
+  "roles": [
+    "CEO",
+    "Brand Influencer",
+    "Restaurant Owner"
+  ],
+  "companyId": "meattopia-001",
+  "companyName": "Mwizukanji Meat Topia",
+  "permissions": [
+    "ViewReports",
+    "CreateTransactions",
+    "ApproveBudgets",
+    "ManageRestaurant",
+    "ManageInventory",
+    "ViewSales",
+    "ManageBranding"
+  ]
+}
