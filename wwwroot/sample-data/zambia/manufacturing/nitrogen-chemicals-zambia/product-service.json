@@ -1,0 +1,302 @@
+[
+  {
+    "id": "prod-001",
+    "productName": "Potassium Nitrate - Variant 1",
+    "description": "Quality Sulfuric Acid product",
+    "category": "Operational",
+    "unitPrice": 5296.59,
+    "quantityInStock": 188,
+    "reorderLevel": 36,
+    "supplier": "Raw Material Importers"
+  },
+  {
+    "id": "prod-002",
+    "productName": "Potassium Nitrate - Variant 2",
+    "description": "Quality Phosphoric Acid product",
+    "category": "Operational",
+    "unitPrice": 6616.23,
+    "quantityInStock": 222,
+    "reorderLevel": 11,
+    "supplier": "Chemical Distributors"
+  },
+  {
+    "id": "prod-003",
+    "productName": "Nitrogen Fertilizer - Variant 3",
+    "description": "Quality Nitrogen Fertilizer product",
+    "category": "Operational",
+    "unitPrice": 6894.85,
+    "quantityInStock": 24,
+    "reorderLevel": 44,
+    "supplier": "Mining Companies"
+  },
+  {
+    "id": "prod-004",
+    "productName": "Ammonia - Variant 4",
+    "description": "Quality Phosphoric Acid product",
+    "category": "Operational",
+    "unitPrice": 8539.19,
+    "quantityInStock": 217,
+    "reorderLevel": 13,
+    "supplier": "Chemical Distributors"
+  },
+  {
+    "id": "prod-005",
+    "productName": "Ammonia - Variant 5",
+    "description": "Quality Phosphoric Acid product",
+    "category": "Operational",
+    "unitPrice": 5014.77,
+    "quantityInStock": 113,
+    "reorderLevel": 27,
+    "supplier": "Chemical Distributors"
+  },
+  {
+    "id": "prod-006",
+    "productName": "Ammonia - Variant 6",
+    "description": "Quality Ammonia product",
+    "category": "Operational",
+    "unitPrice": 6860.52,
+    "quantityInStock": 413,
+    "reorderLevel": 8,
+    "supplier": "Chemical Distributors"
+  },
+  {
+    "id": "prod-007",
+    "productName": "Nitrogen Fertilizer - Variant 7",
+    "description": "Quality Ammonia product",
+    "category": "Operational",
+    "unitPrice": 4933.63,
+    "quantityInStock": 494,
+    "reorderLevel": 11,
+    "supplier": "Chemical Distributors"
+  },
+  {
+    "id": "prod-008",
+    "productName": "Sulfuric Acid - Variant 8",
+    "description": "Quality Phosphoric Acid product",
+    "category": "Operational",
+    "unitPrice": 462.91,
+    "quantityInStock": 348,
+    "reorderLevel": 32,
+    "supplier": "Mining Companies"
+  },
+  {
+    "id": "prod-009",
+    "productName": "Phosphoric Acid - Variant 9",
+    "description": "Quality Ammonia product",
+    "category": "Operational",
+    "unitPrice": 304.59,
+    "quantityInStock": 382,
+    "reorderLevel": 17,
+    "supplier": "Chemical Distributors"
+  },
+  {
+    "id": "prod-010",
+    "productName": "Ammonia - Variant 10",
+    "description": "Quality Potassium Nitrate product",
+    "category": "Operational",
+    "unitPrice": 8070.69,
+    "quantityInStock": 214,
+    "reorderLevel": 6,
+    "supplier": "Chemical Distributors"
+  },
+  {
+    "id": "prod-011",
+    "productName": "Potassium Nitrate - Variant 11",
+    "description": "Quality Nitrogen Fertilizer product",
+    "category": "Operational",
+    "unitPrice": 6105.16,
+    "quantityInStock": 133,
+    "reorderLevel": 9,
+    "supplier": "Chemical Distributors"
+  },
+  {
+    "id": "prod-012",
+    "productName": "Phosphoric Acid - Variant 12",
+    "description": "Quality Phosphoric Acid product",
+    "category": "Operational",
+    "unitPrice": 7114.54,
+    "quantityInStock": 177,
+    "reorderLevel": 13,
+    "supplier": "Raw Material Importers"
+  },
+  {
+    "id": "prod-013",
+    "productName": "Potassium Nitrate - Variant 13",
+    "description": "Quality Phosphoric Acid product",
+    "category": "Operational",
+    "unitPrice": 6297.76,
+    "quantityInStock": 74,
+    "reorderLevel": 19,
+    "supplier": "Raw Material Importers"
+  },
+  {
+    "id": "prod-014",
+    "productName": "Ammonia - Variant 14",
+    "description": "Quality Potassium Nitrate product",
+    "category": "Operational",
+    "unitPrice": 5961.02,
+    "quantityInStock": 93,
+    "reorderLevel": 34,
+    "supplier": "Chemical Distributors"
+  },
+  {
+    "id": "prod-015",
+    "productName": "Phosphoric Acid - Variant 15",
+    "description": "Quality Potassium Nitrate product",
+    "category": "Operational",
+    "unitPrice": 541.39,
+    "quantityInStock": 205,
+    "reorderLevel": 17,
+    "supplier": "Mining Companies"
+  },
+  {
+    "id": "prod-016",
+    "productName": "Sulfuric Acid - Variant 16",
+    "description": "Quality Ammonia product",
+    "category": "Operational",
+    "unitPrice": 8330.22,
+    "quantityInStock": 225,
+    "reorderLevel": 46,
+    "supplier": "Raw Material Importers"
+  },
+  {
+    "id": "prod-017",
+    "productName": "Phosphoric Acid - Variant 17",
+    "description": "Quality Ammonia product",
+    "category": "Operational",
+    "unitPrice": 7355.82,
+    "quantityInStock": 136,
+    "reorderLevel": 29,
+    "supplier": "Raw Material Importers"
+  },
+  {
+    "id": "prod-018",
+    "productName": "Nitrogen Fertilizer - Variant 18",
+    "description": "Quality Potassium Nitrate product",
+    "category": "Operational",
+    "unitPrice": 667.27,
+    "quantityInStock": 255,
+    "reorderLevel": 33,
+    "supplier": "Mining Companies"
+  },
+  {
+    "id": "prod-019",
+    "productName": "Ammonia - Variant 19",
+    "description": "Quality Sulfuric Acid product",
+    "category": "Operational",
+    "unitPrice": 9405.28,
+    "quantityInStock": 486,
+    "reorderLevel": 50,
+    "supplier": "Raw Material Importers"
+  },
+  {
+    "id": "prod-020",
+    "productName": "Ammonia - Variant 20",
+    "description": "Quality Potassium Nitrate product",
+    "category": "Operational",
+    "unitPrice": 5977.3,
+    "quantityInStock": 474,
+    "reorderLevel": 29,
+    "supplier": "Mining Companies"
+  },
+  {
+    "id": "prod-021",
+    "productName": "Phosphoric Acid - Variant 21",
+    "description": "Quality Sulfuric Acid product",
+    "category": "Operational",
+    "unitPrice": 9498.88,
+    "quantityInStock": 417,
+    "reorderLevel": 20,
+    "supplier": "Raw Material Importers"
+  },
+  {
+    "id": "prod-022",
+    "productName": "Nitrogen Fertilizer - Variant 22",
+    "description": "Quality Potassium Nitrate product",
+    "category": "Operational",
+    "unitPrice": 4282.45,
+    "quantityInStock": 223,
+    "reorderLevel": 37,
+    "supplier": "Chemical Distributors"
+  },
+  {
+    "id": "prod-023",
+    "productName": "Nitrogen Fertilizer - Variant 23",
+    "description": "Quality Nitrogen Fertilizer product",
+    "category": "Operational",
+    "unitPrice": 3929.07,
+    "quantityInStock": 460,
+    "reorderLevel": 7,
+    "supplier": "Mining Companies"
+  },
+  {
+    "id": "prod-024",
+    "productName": "Ammonia - Variant 24",
+    "description": "Quality Nitrogen Fertilizer product",
+    "category": "Operational",
+    "unitPrice": 9220.51,
+    "quantityInStock": 219,
+    "reorderLevel": 25,
+    "supplier": "Chemical Distributors"
+  },
+  {
+    "id": "prod-025",
+    "productName": "Potassium Nitrate - Variant 25",
+    "description": "Quality Ammonia product",
+    "category": "Operational",
+    "unitPrice": 4472.15,
+    "quantityInStock": 377,
+    "reorderLevel": 32,
+    "supplier": "Mining Companies"
+  },
+  {
+    "id": "prod-026",
+    "productName": "Sulfuric Acid - Variant 26",
+    "description": "Quality Sulfuric Acid product",
+    "category": "Operational",
+    "unitPrice": 4542.4,
+    "quantityInStock": 276,
+    "reorderLevel": 20,
+    "supplier": "Mining Companies"
+  },
+  {
+    "id": "prod-027",
+    "productName": "Ammonia - Variant 27",
+    "description": "Quality Sulfuric Acid product",
+    "category": "Operational",
+    "unitPrice": 8223.01,
+    "quantityInStock": 230,
+    "reorderLevel": 41,
+    "supplier": "Raw Material Importers"
+  },
+  {
+    "id": "prod-028",
+    "productName": "Sulfuric Acid - Variant 28",
+    "description": "Quality Potassium Nitrate product",
+    "category": "Operational",
+    "unitPrice": 9172.47,
+    "quantityInStock": 407,
+    "reorderLevel": 19,
+    "supplier": "Mining Companies"
+  },
+  {
+    "id": "prod-029",
+    "productName": "Nitrogen Fertilizer - Variant 29",
+    "description": "Quality Ammonia product",
+    "category": "Operational",
+    "unitPrice": 1842.57,
+    "quantityInStock": 73,
+    "reorderLevel": 40,
+    "supplier": "Chemical Distributors"
+  },
+  {
+    "id": "prod-030",
+    "productName": "Nitrogen Fertilizer - Variant 30",
+    "description": "Quality Sulfuric Acid product",
+    "category": "Operational",
+    "unitPrice": 2186.19,
+    "quantityInStock": 207,
+    "reorderLevel": 38,
+    "supplier": "Mining Companies"
+  }
+]

@@ -1,0 +1,22 @@
+﻿[
+    {
+        "BasePrice":  2200,
+        "Capacity":  15,
+        "IsActive":  true,
+        "Id":  307,
+        "Name":  "Urban Garden Cocktail Masterclass",
+        "Type":  8,
+        "Description":  "Learn mixology using local herbs and fruits.",
+        "Duration":  120
+    },
+    {
+        "BasePrice":  2800,
+        "Capacity":  8,
+        "IsActive":  true,
+        "Id":  308,
+        "Name":  "Ndola Craft and Culture Tour",
+        "Type":  12,
+        "Description":  "Explore local craft centers and historical copper monuments.",
+        "Duration":  180
+    }
+]

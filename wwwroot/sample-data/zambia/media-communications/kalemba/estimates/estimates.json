@@ -1,0 +1,136 @@
+[
+  {
+    "id": 1,
+    "estimateNumber": "EST-2025-001",
+    "customerId": 7,
+    "customerName": "Sakala Broadcasting Limited",
+    "estimateDateDaysAgo": 56,
+    "expirationDateDaysFromNow": 38,
+    "status": "Declined",
+    "subTotal": 3656691.36,
+    "taxRate": 15,
+    "taxAmount": 548503.7,
+    "total": 4205195.06,
+    "terms": "Net 15",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 56,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Radio Airtime",
+        "quantity": 3,
+        "unitPrice": 1218897.12,
+        "amount": 3656691.36,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 55
+  },
+  {
+    "id": 2,
+    "estimateNumber": "EST-2025-002",
+    "customerId": 7,
+    "customerName": "Sakala Broadcasting Limited",
+    "estimateDateDaysAgo": 8,
+    "expirationDateDaysFromNow": 18,
+    "status": "Draft",
+    "subTotal": 1132739.52,
+    "taxRate": 16,
+    "taxAmount": 181238.32,
+    "total": 1313977.84,
+    "terms": "Net 30",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 8,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Print Advertising Space",
+        "quantity": 2,
+        "unitPrice": 566369.76,
+        "amount": 1132739.52,
+        "itemType": "Service"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "estimateNumber": "EST-2025-003",
+    "customerId": 2,
+    "customerName": "Tembo Media Co.",
+    "estimateDateDaysAgo": 26,
+    "expirationDateDaysFromNow": 18,
+    "status": "Expired",
+    "subTotal": 3014003.91,
+    "taxRate": 18,
+    "taxAmount": 542520.7,
+    "total": 3556524.61,
+    "terms": "Net 30",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 26,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Online Content Package",
+        "quantity": 1,
+        "unitPrice": 3014003.91,
+        "amount": 3014003.91,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 25
+  },
+  {
+    "id": 4,
+    "estimateNumber": "EST-2025-004",
+    "customerId": 4,
+    "customerName": "Chileshe Publishers Inc.",
+    "estimateDateDaysAgo": 21,
+    "expirationDateDaysFromNow": 41,
+    "status": "Open",
+    "subTotal": 864232.6,
+    "taxRate": 16,
+    "taxAmount": 138277.22,
+    "total": 1002509.82,
+    "terms": "Net 15",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 21,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Radio Airtime",
+        "quantity": 4,
+        "unitPrice": 216058.15,
+        "amount": 864232.6,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 20
+  },
+  {
+    "id": 5,
+    "estimateNumber": "EST-2025-005",
+    "customerId": 7,
+    "customerName": "Sakala Broadcasting Limited",
+    "estimateDateDaysAgo": 10,
+    "expirationDateDaysFromNow": 33,
+    "status": "Declined",
+    "subTotal": 1946677.81,
+    "taxRate": 16,
+    "taxAmount": 311468.45,
+    "total": 2258146.26,
+    "terms": "Net 15",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 10,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Digital Advertising",
+        "quantity": 1,
+        "unitPrice": 1946677.81,
+        "amount": 1946677.81,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 9
+  }
+]

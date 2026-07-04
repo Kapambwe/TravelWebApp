@@ -1,0 +1,12 @@
+﻿{
+    "Capacity":  10,
+    "Id":  107,
+    "RegistrationNumber":  "ZM-CW-07",
+    "VehicleType":  1,
+    "FuelType":  "Petrol",
+    "Name":  "Chiawa Explorer Boat",
+    "NextServiceDue":  "2024-12-02",
+    "Status":  0,
+    "LastServiceDate":  "2024-06-02",
+    "FuelLevel":  0.88
+}

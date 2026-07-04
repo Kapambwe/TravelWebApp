@@ -1,0 +1,123 @@
+[
+  {
+    "id": 1,
+    "paymentNumber": "PAY-2025-001",
+    "invoiceId": 3,
+    "customerId": 6,
+    "clientName": "Siame Corporation Co.",
+    "amount": 3077424.54,
+    "paymentDate": "2025-02-19T00:00:00",
+    "paymentMethod": "Bank Transfer",
+    "referenceNumber": "TRF-20250315-001"
+  },
+  {
+    "id": 2,
+    "paymentNumber": "PAY-2025-002",
+    "invoiceId": 2,
+    "customerId": 4,
+    "clientName": "Sakala Agency Enterprises",
+    "amount": 1714295.2,
+    "paymentDate": "2025-01-29T00:00:00",
+    "paymentMethod": "Bank Transfer",
+    "referenceNumber": "TRF-20250315-002"
+  },
+  {
+    "id": 3,
+    "paymentNumber": "PAY-2025-003",
+    "invoiceId": 1,
+    "customerId": 3,
+    "clientName": "Chileshe Corporation Solutions",
+    "amount": 4697351.02,
+    "paymentDate": "2025-01-14T00:00:00",
+    "paymentMethod": "Mobile Money",
+    "referenceNumber": "MMO-20250315-003"
+  },
+  {
+    "id": 4,
+    "paymentNumber": "PAY-2025-004",
+    "invoiceId": 2,
+    "customerId": 4,
+    "clientName": "Sakala Agency Enterprises",
+    "amount": 1714295.2,
+    "paymentDate": "2024-12-31T00:00:00",
+    "paymentMethod": "Bank Transfer",
+    "referenceNumber": "TRF-20250315-004"
+  },
+  {
+    "id": 5,
+    "paymentNumber": "PAY-2025-005",
+    "invoiceId": 10,
+    "customerId": 5,
+    "clientName": "Bwalya Commission Limited",
+    "amount": 3895990.97,
+    "paymentDate": "2025-02-12T00:00:00",
+    "paymentMethod": "Cheque",
+    "referenceNumber": "CHQ-20250315-005"
+  },
+  {
+    "id": 6,
+    "paymentNumber": "PAY-2025-006",
+    "invoiceId": 2,
+    "customerId": 4,
+    "clientName": "Sakala Agency Enterprises",
+    "amount": 1714295.2,
+    "paymentDate": "2025-02-17T00:00:00",
+    "paymentMethod": "Mobile Money",
+    "referenceNumber": "MMO-20250315-006"
+  },
+  {
+    "id": 7,
+    "paymentNumber": "PAY-2025-007",
+    "invoiceId": 1,
+    "customerId": 3,
+    "clientName": "Chileshe Corporation Solutions",
+    "amount": 4697351.02,
+    "paymentDate": "2025-01-31T00:00:00",
+    "paymentMethod": "Bank Transfer",
+    "referenceNumber": "TRF-20250315-007"
+  },
+  {
+    "id": 8,
+    "paymentNumber": "PAY-2025-008",
+    "invoiceId": 1,
+    "customerId": 3,
+    "clientName": "Chileshe Corporation Solutions",
+    "amount": 4697351.02,
+    "paymentDate": "2024-12-18T00:00:00",
+    "paymentMethod": "Cheque",
+    "referenceNumber": "CHQ-20250315-008"
+  },
+  {
+    "id": 9,
+    "paymentNumber": "PAY-2025-009",
+    "invoiceId": 1,
+    "customerId": 3,
+    "clientName": "Chileshe Corporation Solutions",
+    "amount": 4697351.02,
+    "paymentDate": "2025-01-03T00:00:00",
+    "paymentMethod": "Bank Transfer",
+    "referenceNumber": "TRF-20250315-009"
+  },
+  {
+    "id": 10,
+    "paymentNumber": "PAY-2025-010",
+    "invoiceId": 2,
+    "customerId": 4,
+    "clientName": "Sakala Agency Enterprises",
+    "amount": 1714295.2,
+    "paymentDate": "2025-01-06T00:00:00",
+    "paymentMethod": "Bank Transfer",
+    "referenceNumber": "TRF-20250315-010"
+  },
+  {
+    "id": 11,
+    "paymentNumber": "PAY-2025-011",
+    "invoiceId": 2,
+    "customerId": 4,
+    "clientName": "Sakala Agency Enterprises",
+    "amount": 1714295.2,
+    "paymentDate": "2025-02-14T00:00:00",
+    "paymentMethod": "Bank Transfer",
+    "referenceNumber": "TRF-20250315-011"
+  }
+]

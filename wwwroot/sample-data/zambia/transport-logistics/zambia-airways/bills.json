@@ -1,0 +1,178 @@
+[
+  {
+    "id": 1,
+    "billNumber": "BILL-2025-001",
+    "vendorName": "Sakala Transport Ltd",
+    "description": "Fuel Purchase",
+    "billDate": "2025-01-24T00:00:00",
+    "dueDate": "2025-03-10T00:00:00",
+    "amount": 2084597.84,
+    "paidAmount": 2084597.84,
+    "status": "Paid"
+  },
+  {
+    "id": 2,
+    "billNumber": "BILL-2025-002",
+    "vendorName": "Banda Haulage Group",
+    "description": "Vehicle Maintenance",
+    "billDate": "2025-01-26T00:00:00",
+    "dueDate": "2025-02-10T00:00:00",
+    "amount": 2353427.61,
+    "paidAmount": 0.0,
+    "status": "Overdue"
+  },
+  {
+    "id": 3,
+    "billNumber": "BILL-2025-003",
+    "vendorName": "Banda Haulage Group",
+    "description": "Driver Wages",
+    "billDate": "2025-03-08T00:00:00",
+    "dueDate": "2025-04-07T00:00:00",
+    "amount": 1003851.52,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 4,
+    "billNumber": "BILL-2025-004",
+    "vendorName": "Banda Haulage Group",
+    "description": "Driver Wages",
+    "billDate": "2024-10-20T00:00:00",
+    "dueDate": "2024-11-19T00:00:00",
+    "amount": 658019.97,
+    "paidAmount": 658019.97,
+    "status": "Paid"
+  },
+  {
+    "id": 5,
+    "billNumber": "BILL-2025-005",
+    "vendorName": "Kaputo Logistics Inc.",
+    "description": "Spare Parts & Tyres",
+    "billDate": "2024-10-30T00:00:00",
+    "dueDate": "2024-11-14T00:00:00",
+    "amount": 1987624.46,
+    "paidAmount": 1987624.46,
+    "status": "Paid"
+  },
+  {
+    "id": 6,
+    "billNumber": "BILL-2025-006",
+    "vendorName": "Banda Haulage Group",
+    "description": "Fuel Purchase",
+    "billDate": "2024-11-03T00:00:00",
+    "dueDate": "2024-12-18T00:00:00",
+    "amount": 3114317.41,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 7,
+    "billNumber": "BILL-2025-007",
+    "vendorName": "Mumba Logistics Co.",
+    "description": "Spare Parts & Tyres",
+    "billDate": "2024-10-10T00:00:00",
+    "dueDate": "2024-11-09T00:00:00",
+    "amount": 3089283.0,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 8,
+    "billNumber": "BILL-2025-008",
+    "vendorName": "Lungu Cargo Enterprises",
+    "description": "Spare Parts & Tyres",
+    "billDate": "2024-10-29T00:00:00",
+    "dueDate": "2024-12-13T00:00:00",
+    "amount": 2262531.22,
+    "paidAmount": 2262531.22,
+    "status": "Paid"
+  },
+  {
+    "id": 9,
+    "billNumber": "BILL-2025-009",
+    "vendorName": "Kabwe Freight Ltd",
+    "description": "Fuel Purchase",
+    "billDate": "2025-01-07T00:00:00",
+    "dueDate": "2025-02-06T00:00:00",
+    "amount": 3246740.45,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 10,
+    "billNumber": "BILL-2025-010",
+    "vendorName": "Tembo Freight Enterprises",
+    "description": "Spare Parts & Tyres",
+    "billDate": "2025-03-03T00:00:00",
+    "dueDate": "2025-04-02T00:00:00",
+    "amount": 2130364.93,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 11,
+    "billNumber": "BILL-2025-011",
+    "vendorName": "Lungu Cargo Enterprises",
+    "description": "Port Handling Charges",
+    "billDate": "2024-12-29T00:00:00",
+    "dueDate": "2025-02-12T00:00:00",
+    "amount": 2741990.86,
+    "paidAmount": 2046851.32,
+    "status": "PartiallyPaid"
+  },
+  {
+    "id": 12,
+    "billNumber": "BILL-2025-012",
+    "vendorName": "Lungu Cargo Enterprises",
+    "description": "Driver Wages",
+    "billDate": "2025-01-23T00:00:00",
+    "dueDate": "2025-02-22T00:00:00",
+    "amount": 1490556.27,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 13,
+    "billNumber": "BILL-2025-013",
+    "vendorName": "Tembo Freight Enterprises",
+    "description": "Fleet Insurance",
+    "billDate": "2025-01-27T00:00:00",
+    "dueDate": "2025-02-11T00:00:00",
+    "amount": 2216669.92,
+    "paidAmount": 2216669.92,
+    "status": "Paid"
+  },
+  {
+    "id": 14,
+    "billNumber": "BILL-2025-014",
+    "vendorName": "Mulenga Cargo Ltd",
+    "description": "Vehicle Maintenance",
+    "billDate": "2024-12-19T00:00:00",
+    "dueDate": "2025-01-18T00:00:00",
+    "amount": 3083348.76,
+    "paidAmount": 3083348.76,
+    "status": "Paid"
+  },
+  {
+    "id": 15,
+    "billNumber": "BILL-2025-015",
+    "vendorName": "Mumba Logistics Co.",
+    "description": "Driver Wages",
+    "billDate": "2024-11-30T00:00:00",
+    "dueDate": "2024-12-15T00:00:00",
+    "amount": 1523946.57,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 16,
+    "billNumber": "BILL-2025-016",
+    "vendorName": "Tembo Freight Enterprises",
+    "description": "Port Handling Charges",
+    "billDate": "2024-09-25T00:00:00",
+    "dueDate": "2024-11-09T00:00:00",
+    "amount": 712164.65,
+    "paidAmount": 476605.46,
+    "status": "PartiallyPaid"
+  }
+]

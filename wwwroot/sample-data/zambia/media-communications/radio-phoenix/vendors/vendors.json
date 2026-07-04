@@ -1,0 +1,109 @@
+{
+  "vendors": [
+    {
+      "id": 1,
+      "vendorName": "Siame Siame",
+      "companyName": "Ngosa Media Solutions",
+      "contactPerson": "Siame Siame",
+      "email": "siamesiame@siame.co.zm",
+      "phone": "+260 425 311 304",
+      "city": "Chipata",
+      "country": "Zambia",
+      "defaultPaymentTerms": "Net 45",
+      "taxId": "TAX-543496",
+      "totalAmountOwed": 20438.15
+    },
+    {
+      "id": 2,
+      "vendorName": "Musonda Mwamba",
+      "companyName": "Mutale Broadcasting Enterprises",
+      "contactPerson": "Musonda Mwamba",
+      "email": "musondamwamb@mwamba.co.zm",
+      "phone": "+260 853 221 360",
+      "city": "Kitwe",
+      "country": "Zambia",
+      "defaultPaymentTerms": "Net 30",
+      "taxId": "TAX-399699",
+      "totalAmountOwed": 425663.08
+    },
+    {
+      "id": 3,
+      "vendorName": "Nakambwe Tembo",
+      "companyName": "Musonda Publishers Enterprises",
+      "contactPerson": "Nakambwe Tembo",
+      "email": "nakambwetemb@tembo.co.zm",
+      "phone": "+260 955 183 454",
+      "city": "Kitwe",
+      "country": "Zambia",
+      "defaultPaymentTerms": "Due on Receipt",
+      "taxId": "TAX-637893",
+      "totalAmountOwed": 237519.4
+    },
+    {
+      "id": 4,
+      "vendorName": "Ngosa Mwamba",
+      "companyName": "Mumba Communications Group",
+      "contactPerson": "Ngosa Mwamba",
+      "email": "ngosamwamba@mwamba.co.zm",
+      "phone": "+260 308 998 718",
+      "city": "Kabwe",
+      "country": "Zambia",
+      "defaultPaymentTerms": "Due on Receipt",
+      "taxId": "TAX-417337",
+      "totalAmountOwed": 391574.22
+    },
+    {
+      "id": 5,
+      "vendorName": "Chileshe Mwamba",
+      "companyName": "Zimba Publishers Group",
+      "contactPerson": "Chileshe Mwamba",
+      "email": "chileshemwam@mwamba.co.zm",
+      "phone": "+260 888 250 319",
+      "city": "Kitwe",
+      "country": "Zambia",
+      "defaultPaymentTerms": "Net 30",
+      "taxId": "TAX-419143",
+      "totalAmountOwed": 247385.88
+    },
+    {
+      "id": 6,
+      "vendorName": "Malama Tembo",
+      "companyName": "Kabwe Communications Inc.",
+      "contactPerson": "Malama Tembo",
+      "email": "malamatembo@tembo.co.zm",
+      "phone": "+260 411 188 366",
+      "city": "Chingola",
+      "country": "Zambia",
+      "defaultPaymentTerms": "Net 45",
+      "taxId": "TAX-671112",
+      "totalAmountOwed": 129394.19
+    },
+    {
+      "id": 7,
+      "vendorName": "Chisanga Sakala",
+      "companyName": "Zimba Communications Ltd",
+      "contactPerson": "Chisanga Sakala",
+      "email": "chisangasaka@sakala.co.zm",
+      "phone": "+260 110 600 028",
+      "city": "Chipata",
+      "country": "Zambia",
+      "defaultPaymentTerms": "Due on Receipt",
+      "taxId": "TAX-557798",
+      "totalAmountOwed": 422604.4
+    },
+    {
+      "id": 8,
+      "vendorName": "Nkole Zimba",
+      "companyName": "Kabwe Publishers Ltd",
+      "contactPerson": "Nkole Zimba",
+      "email": "nkolezimba@zimba.co.zm",
+      "phone": "+260 393 956 274",
+      "city": "Livingstone",
+      "country": "Zambia",
+      "defaultPaymentTerms": "Net 45",
+      "taxId": "TAX-239644",
+      "totalAmountOwed": 177082.94
+    }
+  ],
+  "vendorCredits": []
+}

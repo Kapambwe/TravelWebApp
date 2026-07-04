@@ -1,0 +1,163 @@
+[
+  {
+    "id": 1,
+    "estimateNumber": "EST-2025-001",
+    "customerId": 10,
+    "customerName": "Zulu Digital Media Group",
+    "estimateDateDaysAgo": 28,
+    "expirationDateDaysFromNow": 39,
+    "status": "Declined",
+    "subTotal": 2058609.18,
+    "taxRate": 15,
+    "taxAmount": 308791.38,
+    "total": 2367400.56,
+    "terms": "Net 30",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 28,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Radio Airtime",
+        "quantity": 5,
+        "unitPrice": 411721.84,
+        "amount": 2058609.18,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 27
+  },
+  {
+    "id": 2,
+    "estimateNumber": "EST-2025-002",
+    "customerId": 4,
+    "customerName": "Ngosa Communications Limited",
+    "estimateDateDaysAgo": 35,
+    "expirationDateDaysFromNow": 19,
+    "status": "Accepted",
+    "subTotal": 3772073.49,
+    "taxRate": 16,
+    "taxAmount": 603531.76,
+    "total": 4375605.25,
+    "terms": "Net 45",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 35,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Print Advertising Space",
+        "quantity": 2,
+        "unitPrice": 1886036.75,
+        "amount": 3772073.49,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 34
+  },
+  {
+    "id": 3,
+    "estimateNumber": "EST-2025-003",
+    "customerId": 10,
+    "customerName": "Zulu Digital Media Group",
+    "estimateDateDaysAgo": 26,
+    "expirationDateDaysFromNow": 15,
+    "status": "Expired",
+    "subTotal": 1974620.57,
+    "taxRate": 15,
+    "taxAmount": 296193.09,
+    "total": 2270813.66,
+    "terms": "Net 15",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 26,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Online Content Package",
+        "quantity": 3,
+        "unitPrice": 658206.86,
+        "amount": 1974620.57,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 25
+  },
+  {
+    "id": 4,
+    "estimateNumber": "EST-2025-004",
+    "customerId": 9,
+    "customerName": "Bwalya Media Holdings",
+    "estimateDateDaysAgo": 15,
+    "expirationDateDaysFromNow": 41,
+    "status": "Draft",
+    "subTotal": 1853826.27,
+    "taxRate": 15,
+    "taxAmount": 278073.94,
+    "total": 2131900.21,
+    "terms": "Net 30",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 15,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Online Content Package",
+        "quantity": 1,
+        "unitPrice": 1853826.27,
+        "amount": 1853826.27,
+        "itemType": "Service"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "estimateNumber": "EST-2025-005",
+    "customerId": 10,
+    "customerName": "Zulu Digital Media Group",
+    "estimateDateDaysAgo": 51,
+    "expirationDateDaysFromNow": 28,
+    "status": "Open",
+    "subTotal": 2177203.8,
+    "taxRate": 18,
+    "taxAmount": 391896.68,
+    "total": 2569100.48,
+    "terms": "Net 30",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 51,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "TV Commercial Slot",
+        "quantity": 4,
+        "unitPrice": 544300.95,
+        "amount": 2177203.8,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 50
+  },
+  {
+    "id": 6,
+    "estimateNumber": "EST-2025-006",
+    "customerId": 9,
+    "customerName": "Bwalya Media Holdings",
+    "estimateDateDaysAgo": 25,
+    "expirationDateDaysFromNow": 37,
+    "status": "Declined",
+    "subTotal": 803234.07,
+    "taxRate": 18,
+    "taxAmount": 144582.13,
+    "total": 947816.2,
+    "terms": "Net 30",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 25,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Online Content Package",
+        "quantity": 2,
+        "unitPrice": 401617.03,
+        "amount": 803234.07,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 24
+  }
+]

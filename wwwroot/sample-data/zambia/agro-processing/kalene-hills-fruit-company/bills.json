@@ -1,0 +1,178 @@
+[
+  {
+    "id": 1,
+    "billNumber": "BILL-2025-001",
+    "vendorName": "Musonda Farms Limited",
+    "description": "Processing Equipment Maintenance",
+    "billDate": "2024-10-07T00:00:00",
+    "dueDate": "2024-11-21T00:00:00",
+    "amount": 2024268.32,
+    "paidAmount": 2024268.32,
+    "status": "Paid"
+  },
+  {
+    "id": 2,
+    "billNumber": "BILL-2025-002",
+    "vendorName": "Phiri Farms Inc.",
+    "description": "Transport Charges",
+    "billDate": "2025-03-06T00:00:00",
+    "dueDate": "2025-04-20T00:00:00",
+    "amount": 1040213.62,
+    "paidAmount": 1040213.62,
+    "status": "Paid"
+  },
+  {
+    "id": 3,
+    "billNumber": "BILL-2025-003",
+    "vendorName": "Kaputo Food Industries Inc.",
+    "description": "Processing Equipment Maintenance",
+    "billDate": "2025-03-06T00:00:00",
+    "dueDate": "2025-03-21T00:00:00",
+    "amount": 833701.31,
+    "paidAmount": 349899.08,
+    "status": "PartiallyPaid"
+  },
+  {
+    "id": 4,
+    "billNumber": "BILL-2025-004",
+    "vendorName": "Musonda Farms Limited",
+    "description": "Cold Storage Fees",
+    "billDate": "2024-12-26T00:00:00",
+    "dueDate": "2025-01-25T00:00:00",
+    "amount": 2165651.32,
+    "paidAmount": 2165651.32,
+    "status": "Paid"
+  },
+  {
+    "id": 5,
+    "billNumber": "BILL-2025-005",
+    "vendorName": "Mwale Agricultural Co.",
+    "description": "Processing Equipment Maintenance",
+    "billDate": "2024-12-16T00:00:00",
+    "dueDate": "2025-01-30T00:00:00",
+    "amount": 1439157.47,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 6,
+    "billNumber": "BILL-2025-006",
+    "vendorName": "Phiri Farms Inc.",
+    "description": "Processing Equipment Maintenance",
+    "billDate": "2024-10-22T00:00:00",
+    "dueDate": "2024-11-21T00:00:00",
+    "amount": 3276972.07,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 7,
+    "billNumber": "BILL-2025-007",
+    "vendorName": "Phiri Farms Limited",
+    "description": "Raw Produce Purchase",
+    "billDate": "2024-09-24T00:00:00",
+    "dueDate": "2024-10-24T00:00:00",
+    "amount": 1081832.61,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 8,
+    "billNumber": "BILL-2025-008",
+    "vendorName": "Mulenga Produce Ltd",
+    "description": "Raw Produce Purchase",
+    "billDate": "2025-02-27T00:00:00",
+    "dueDate": "2025-04-13T00:00:00",
+    "amount": 2088365.22,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 9,
+    "billNumber": "BILL-2025-009",
+    "vendorName": "Chanda Agricultural Ltd",
+    "description": "Transport Charges",
+    "billDate": "2024-11-08T00:00:00",
+    "dueDate": "2024-12-23T00:00:00",
+    "amount": 2894151.68,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 10,
+    "billNumber": "BILL-2025-010",
+    "vendorName": "Kaputo Food Industries Inc.",
+    "description": "Transport Charges",
+    "billDate": "2024-12-24T00:00:00",
+    "dueDate": "2025-01-08T00:00:00",
+    "amount": 2231418.32,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 11,
+    "billNumber": "BILL-2025-011",
+    "vendorName": "Zulu Farms Ltd",
+    "description": "Packaging Materials",
+    "billDate": "2025-01-01T00:00:00",
+    "dueDate": "2025-02-15T00:00:00",
+    "amount": 3153599.58,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 12,
+    "billNumber": "BILL-2025-012",
+    "vendorName": "Chanda Agricultural Ltd",
+    "description": "Raw Produce Purchase",
+    "billDate": "2024-10-16T00:00:00",
+    "dueDate": "2024-11-15T00:00:00",
+    "amount": 592043.25,
+    "paidAmount": 592043.25,
+    "status": "Paid"
+  },
+  {
+    "id": 13,
+    "billNumber": "BILL-2025-013",
+    "vendorName": "Mwale Agricultural Co.",
+    "description": "Cold Storage Fees",
+    "billDate": "2024-12-14T00:00:00",
+    "dueDate": "2025-01-28T00:00:00",
+    "amount": 2656013.42,
+    "paidAmount": 2656013.42,
+    "status": "Paid"
+  },
+  {
+    "id": 14,
+    "billNumber": "BILL-2025-014",
+    "vendorName": "Phiri Farms Inc.",
+    "description": "Transport Charges",
+    "billDate": "2024-11-12T00:00:00",
+    "dueDate": "2024-11-27T00:00:00",
+    "amount": 3183166.16,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 15,
+    "billNumber": "BILL-2025-015",
+    "vendorName": "Mwale Agricultural Co.",
+    "description": "Transport Charges",
+    "billDate": "2024-09-26T00:00:00",
+    "dueDate": "2024-10-26T00:00:00",
+    "amount": 959365.92,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 16,
+    "billNumber": "BILL-2025-016",
+    "vendorName": "Zulu Farms Ltd",
+    "description": "Packaging Materials",
+    "billDate": "2025-02-04T00:00:00",
+    "dueDate": "2025-03-21T00:00:00",
+    "amount": 219356.44,
+    "paidAmount": 115576.32,
+    "status": "PartiallyPaid"
+  }
+]

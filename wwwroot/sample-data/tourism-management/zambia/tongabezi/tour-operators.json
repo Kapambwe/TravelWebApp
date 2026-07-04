@@ -1,0 +1,24 @@
+﻿[
+    {
+        "TotalBookings":  45,
+        "CommissionRate":  15,
+        "Id":  1,
+        "TotalRevenue":  1850000,
+        "Name":  "Zambia Safari Safaris",
+        "Phone":  "+260971234567",
+        "IsActive":  true,
+        "ContactPerson":  "Chipo Phiri",
+        "Email":  "chipo@zambiasafari.zm"
+    },
+    {
+        "TotalBookings":  30,
+        "CommissionRate":  12.5,
+        "Id":  2,
+        "TotalRevenue":  1200000,
+        "Name":  "African EcoTravel",
+        "Phone":  "+27119876543",
+        "IsActive":  true,
+        "ContactPerson":  "Laura Schmidt",
+        "Email":  "laura@ecotravel.co.za"
+    }
+]

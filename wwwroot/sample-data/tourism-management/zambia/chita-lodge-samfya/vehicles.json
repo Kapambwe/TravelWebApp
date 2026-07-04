@@ -1,0 +1,26 @@
+﻿[
+    {
+        "Capacity":  12,
+        "Id":  301,
+        "RegistrationNumber":  "ZM-CLS-31",
+        "VehicleType":  1,
+        "FuelType":  "Petrol",
+        "Name":  "Bangweulu Express Boat",
+        "NextServiceDue":  "2024-12-01",
+        "Status":  0,
+        "LastServiceDate":  "2024-06-01",
+        "FuelLevel":  0.9
+    },
+    {
+        "Capacity":  8,
+        "Id":  302,
+        "RegistrationNumber":  "ZM-CLS-32",
+        "VehicleType":  0,
+        "FuelType":  "Diesel",
+        "Name":  "Samfya Safari Jeep",
+        "NextServiceDue":  "2024-12-05",
+        "Status":  0,
+        "LastServiceDate":  "2024-06-05",
+        "FuelLevel":  0.75
+    }
+]

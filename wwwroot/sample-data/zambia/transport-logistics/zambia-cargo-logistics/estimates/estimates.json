@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "estimateNumber": "EST-2025-001",
+    "customerId": 10,
+    "customerName": "Mwamba Logistics Solutions",
+    "estimateDateDaysAgo": 43,
+    "expirationDateDaysFromNow": 34,
+    "status": "Open",
+    "subTotal": 3912725.53,
+    "taxRate": 18,
+    "taxAmount": 704290.6,
+    "total": 4617016.13,
+    "terms": "Net 30",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 43,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Air Cargo Haulage",
+        "quantity": 2,
+        "unitPrice": 1956362.76,
+        "amount": 3912725.53,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 42
+  },
+  {
+    "id": 2,
+    "estimateNumber": "EST-2025-002",
+    "customerId": 4,
+    "customerName": "Mutale Transport Enterprises",
+    "estimateDateDaysAgo": 38,
+    "expirationDateDaysFromNow": 32,
+    "status": "Sent",
+    "subTotal": 3249988.98,
+    "taxRate": 16,
+    "taxAmount": 519998.24,
+    "total": 3769987.22,
+    "terms": "Net 30",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 38,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Cross-Border Transport",
+        "quantity": 4,
+        "unitPrice": 812497.24,
+        "amount": 3249988.98,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 37
+  },
+  {
+    "id": 3,
+    "estimateNumber": "EST-2025-003",
+    "customerId": 7,
+    "customerName": "Chileshe Transport Limited",
+    "estimateDateDaysAgo": 46,
+    "expirationDateDaysFromNow": 36,
+    "status": "Accepted",
+    "subTotal": 512039.87,
+    "taxRate": 15,
+    "taxAmount": 76805.98,
+    "total": 588845.85,
+    "terms": "Net 30",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 46,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Port Handling Services",
+        "quantity": 5,
+        "unitPrice": 102407.97,
+        "amount": 512039.87,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 45
+  },
+  {
+    "id": 4,
+    "estimateNumber": "EST-2025-004",
+    "customerId": 7,
+    "customerName": "Chileshe Transport Limited",
+    "estimateDateDaysAgo": 5,
+    "expirationDateDaysFromNow": 43,
+    "status": "Declined",
+    "subTotal": 2931192.47,
+    "taxRate": 16,
+    "taxAmount": 468990.8,
+    "total": 3400183.27,
+    "terms": "Net 15",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 5,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Road Freight Services",
+        "quantity": 3,
+        "unitPrice": 977064.16,
+        "amount": 2931192.47,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 4
+  },
+  {
+    "id": 5,
+    "estimateNumber": "EST-2025-005",
+    "customerId": 1,
+    "customerName": "Kaputo Logistics Holdings",
+    "estimateDateDaysAgo": 36,
+    "expirationDateDaysFromNow": 45,
+    "status": "Expired",
+    "subTotal": 2576028.16,
+    "taxRate": 0,
+    "taxAmount": 0.0,
+    "total": 2576028.16,
+    "terms": "Net 45",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 36,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Warehousing & Storage",
+        "quantity": 5,
+        "unitPrice": 515205.63,
+        "amount": 2576028.16,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 35
+  }
+]

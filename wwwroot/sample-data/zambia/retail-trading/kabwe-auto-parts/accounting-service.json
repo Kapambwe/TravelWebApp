@@ -1,0 +1,212 @@
+[
+  {
+    "id": "acct-001",
+    "accountCode": "ACC-1001",
+    "accountName": "Bank Account",
+    "accountType": "Liability",
+    "balance": 43634.57
+  },
+  {
+    "id": "acct-002",
+    "accountCode": "ACC-1002",
+    "accountName": "Rent Expense",
+    "accountType": "Expense",
+    "balance": 72507.89
+  },
+  {
+    "id": "acct-003",
+    "accountCode": "ACC-1003",
+    "accountName": "Equipment",
+    "accountType": "Revenue",
+    "balance": 29906.82
+  },
+  {
+    "id": "acct-004",
+    "accountCode": "ACC-1004",
+    "accountName": "Equipment",
+    "accountType": "Equity",
+    "balance": 45914.74
+  },
+  {
+    "id": "acct-005",
+    "accountCode": "ACC-1005",
+    "accountName": "Cash Account",
+    "accountType": "Revenue",
+    "balance": 34434.98
+  },
+  {
+    "id": "acct-006",
+    "accountCode": "ACC-1006",
+    "accountName": "Equipment",
+    "accountType": "Revenue",
+    "balance": 39310.53
+  },
+  {
+    "id": "acct-007",
+    "accountCode": "ACC-1007",
+    "accountName": "Bank Account",
+    "accountType": "Asset",
+    "balance": 55762.27
+  },
+  {
+    "id": "acct-008",
+    "accountCode": "ACC-1008",
+    "accountName": "Inventory",
+    "accountType": "Liability",
+    "balance": 53647.31
+  },
+  {
+    "id": "acct-009",
+    "accountCode": "ACC-1009",
+    "accountName": "Rent Expense",
+    "accountType": "Equity",
+    "balance": 89328.94
+  },
+  {
+    "id": "acct-010",
+    "accountCode": "ACC-1010",
+    "accountName": "Accounts Receivable",
+    "accountType": "Expense",
+    "balance": 12699.58
+  },
+  {
+    "id": "acct-011",
+    "accountCode": "ACC-1011",
+    "accountName": "Accounts Receivable",
+    "accountType": "Liability",
+    "balance": 96957.54
+  },
+  {
+    "id": "acct-012",
+    "accountCode": "ACC-1012",
+    "accountName": "Inventory",
+    "accountType": "Liability",
+    "balance": 14411.36
+  },
+  {
+    "id": "acct-013",
+    "accountCode": "ACC-1013",
+    "accountName": "Cash Account",
+    "accountType": "Liability",
+    "balance": 45934.38
+  },
+  {
+    "id": "acct-014",
+    "accountCode": "ACC-1014",
+    "accountName": "Rent Expense",
+    "accountType": "Asset",
+    "balance": 37156.23
+  },
+  {
+    "id": "acct-015",
+    "accountCode": "ACC-1015",
+    "accountName": "Equipment",
+    "accountType": "Asset",
+    "balance": 85405.15
+  },
+  {
+    "id": "acct-016",
+    "accountCode": "ACC-1016",
+    "accountName": "Inventory",
+    "accountType": "Equity",
+    "balance": 87796.19
+  },
+  {
+    "id": "acct-017",
+    "accountCode": "ACC-1017",
+    "accountName": "Bank Account",
+    "accountType": "Equity",
+    "balance": 45988.19
+  },
+  {
+    "id": "acct-018",
+    "accountCode": "ACC-1018",
+    "accountName": "Inventory",
+    "accountType": "Liability",
+    "balance": 42553.2
+  },
+  {
+    "id": "acct-019",
+    "accountCode": "ACC-1019",
+    "accountName": "Purchase Expense",
+    "accountType": "Asset",
+    "balance": 56267.04
+  },
+  {
+    "id": "acct-020",
+    "accountCode": "ACC-1020",
+    "accountName": "Purchase Expense",
+    "accountType": "Revenue",
+    "balance": 4524.49
+  },
+  {
+    "id": "acct-021",
+    "accountCode": "ACC-1021",
+    "accountName": "Purchase Expense",
+    "accountType": "Revenue",
+    "balance": 16134.59
+  },
+  {
+    "id": "acct-022",
+    "accountCode": "ACC-1022",
+    "accountName": "Accounts Receivable",
+    "accountType": "Liability",
+    "balance": 78986.25
+  },
+  {
+    "id": "acct-023",
+    "accountCode": "ACC-1023",
+    "accountName": "Utilities Expense",
+    "accountType": "Expense",
+    "balance": 60718.74
+  },
+  {
+    "id": "acct-024",
+    "accountCode": "ACC-1024",
+    "accountName": "Salary Expense",
+    "accountType": "Equity",
+    "balance": 28070.91
+  },
+  {
+    "id": "acct-025",
+    "accountCode": "ACC-1025",
+    "accountName": "Sales Revenue",
+    "accountType": "Equity",
+    "balance": 15446.31
+  },
+  {
+    "id": "acct-026",
+    "accountCode": "ACC-1026",
+    "accountName": "Accounts Receivable",
+    "accountType": "Asset",
+    "balance": 10282.46
+  },
+  {
+    "id": "acct-027",
+    "accountCode": "ACC-1027",
+    "accountName": "Salary Expense",
+    "accountType": "Revenue",
+    "balance": 61873.52
+  },
+  {
+    "id": "acct-028",
+    "accountCode": "ACC-1028",
+    "accountName": "Utilities Expense",
+    "accountType": "Expense",
+    "balance": 24579.39
+  },
+  {
+    "id": "acct-029",
+    "accountCode": "ACC-1029",
+    "accountName": "Salary Expense",
+    "accountType": "Liability",
+    "balance": 12058.82
+  },
+  {
+    "id": "acct-030",
+    "accountCode": "ACC-1030",
+    "accountName": "Bank Account",
+    "accountType": "Liability",
+    "balance": 57271.89
+  }
+]

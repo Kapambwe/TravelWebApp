@@ -1,0 +1,302 @@
+[
+  {
+    "id": "vend-001",
+    "vendorName": "Trusted Vendors Ltd 1",
+    "email": "vendor1@business.zm",
+    "phone": "+260-78-5475153",
+    "address": "Plot 9752, Cairo Road, Supplier City",
+    "taxId": "TPIN-6264652223",
+    "paymentTerms": 7,
+    "creditLimit": 39691.2
+  },
+  {
+    "id": "vend-002",
+    "vendorName": "Local Producers 2",
+    "email": "vendor2@business.zm",
+    "phone": "+260-96-8678579",
+    "address": "Plot 1592, Kaunda Square, Supplier City",
+    "taxId": "TPIN-2511064921",
+    "paymentTerms": 30,
+    "creditLimit": 45060.44
+  },
+  {
+    "id": "vend-003",
+    "vendorName": "Regional Suppliers 3",
+    "email": "vendor3@business.zm",
+    "phone": "+260-83-2100816",
+    "address": "Plot 8935, Kabwe Road, Supplier City",
+    "taxId": "TPIN-7546105250",
+    "paymentTerms": 14,
+    "creditLimit": 60233.39
+  },
+  {
+    "id": "vend-004",
+    "vendorName": "Trusted Vendors Ltd 4",
+    "email": "vendor4@business.zm",
+    "phone": "+260-92-4619436",
+    "address": "Plot 2298, Kabwe Road, Supplier City",
+    "taxId": "TPIN-7758800022",
+    "paymentTerms": 14,
+    "creditLimit": 53545.32
+  },
+  {
+    "id": "vend-005",
+    "vendorName": "Wholesale Trading Co 5",
+    "email": "vendor5@business.zm",
+    "phone": "+260-79-6878810",
+    "address": "Plot 3528, Kaunda Square, Supplier City",
+    "taxId": "TPIN-7155142388",
+    "paymentTerms": 14,
+    "creditLimit": 25553.46
+  },
+  {
+    "id": "vend-006",
+    "vendorName": "Import Distributors 6",
+    "email": "vendor6@business.zm",
+    "phone": "+260-82-1032738",
+    "address": "Plot 2105, Kabwe Road, Supplier City",
+    "taxId": "TPIN-9301903566",
+    "paymentTerms": 30,
+    "creditLimit": 41863.43
+  },
+  {
+    "id": "vend-007",
+    "vendorName": "Wholesale Trading Co 7",
+    "email": "vendor7@business.zm",
+    "phone": "+260-78-2344414",
+    "address": "Plot 9847, Kabwe Road, Supplier City",
+    "taxId": "TPIN-7961397705",
+    "paymentTerms": 30,
+    "creditLimit": 38769.78
+  },
+  {
+    "id": "vend-008",
+    "vendorName": "Import Distributors 8",
+    "email": "vendor8@business.zm",
+    "phone": "+260-81-7525395",
+    "address": "Plot 7860, Kaunda Square, Supplier City",
+    "taxId": "TPIN-7753066325",
+    "paymentTerms": 14,
+    "creditLimit": 32463.2
+  },
+  {
+    "id": "vend-009",
+    "vendorName": "General Supplies Ltd 9",
+    "email": "vendor9@business.zm",
+    "phone": "+260-90-8150512",
+    "address": "Plot 6804, Cairo Road, Supplier City",
+    "taxId": "TPIN-7895021914",
+    "paymentTerms": 7,
+    "creditLimit": 91032.34
+  },
+  {
+    "id": "vend-010",
+    "vendorName": "Import Distributors 10",
+    "email": "vendor10@business.zm",
+    "phone": "+260-85-8960271",
+    "address": "Plot 8023, Kabwe Road, Supplier City",
+    "taxId": "TPIN-2241277626",
+    "paymentTerms": 7,
+    "creditLimit": 75373.57
+  },
+  {
+    "id": "vend-011",
+    "vendorName": "Local Producers 11",
+    "email": "vendor11@business.zm",
+    "phone": "+260-81-5178334",
+    "address": "Plot 7008, Kaunda Square, Supplier City",
+    "taxId": "TPIN-6990268581",
+    "paymentTerms": 7,
+    "creditLimit": 83162.28
+  },
+  {
+    "id": "vend-012",
+    "vendorName": "Local Producers 12",
+    "email": "vendor12@business.zm",
+    "phone": "+260-92-2086972",
+    "address": "Plot 885, Cairo Road, Supplier City",
+    "taxId": "TPIN-4514926996",
+    "paymentTerms": 7,
+    "creditLimit": 49413.13
+  },
+  {
+    "id": "vend-013",
+    "vendorName": "Regional Suppliers 13",
+    "email": "vendor13@business.zm",
+    "phone": "+260-86-7456791",
+    "address": "Plot 9408, Kabwe Road, Supplier City",
+    "taxId": "TPIN-9489599128",
+    "paymentTerms": 30,
+    "creditLimit": 39425.1
+  },
+  {
+    "id": "vend-014",
+    "vendorName": "Wholesale Trading Co 14",
+    "email": "vendor14@business.zm",
+    "phone": "+260-88-6294136",
+    "address": "Plot 9909, Kabwe Road, Supplier City",
+    "taxId": "TPIN-6297885629",
+    "paymentTerms": 7,
+    "creditLimit": 85296.3
+  },
+  {
+    "id": "vend-015",
+    "vendorName": "Quality Products Inc 15",
+    "email": "vendor15@business.zm",
+    "phone": "+260-87-5171126",
+    "address": "Plot 7357, Kabwe Road, Supplier City",
+    "taxId": "TPIN-6731029775",
+    "paymentTerms": 30,
+    "creditLimit": 57792.13
+  },
+  {
+    "id": "vend-016",
+    "vendorName": "Trusted Vendors Ltd 16",
+    "email": "vendor16@business.zm",
+    "phone": "+260-86-3955113",
+    "address": "Plot 5839, Kaunda Square, Supplier City",
+    "taxId": "TPIN-7387499545",
+    "paymentTerms": 7,
+    "creditLimit": 35915.26
+  },
+  {
+    "id": "vend-017",
+    "vendorName": "Quality Products Inc 17",
+    "email": "vendor17@business.zm",
+    "phone": "+260-77-7742018",
+    "address": "Plot 8021, Kabwe Road, Supplier City",
+    "taxId": "TPIN-8615396763",
+    "paymentTerms": 30,
+    "creditLimit": 92237.57
+  },
+  {
+    "id": "vend-018",
+    "vendorName": "Regional Suppliers 18",
+    "email": "vendor18@business.zm",
+    "phone": "+260-80-8788132",
+    "address": "Plot 6393, Kabwe Road, Supplier City",
+    "taxId": "TPIN-5796952939",
+    "paymentTerms": 7,
+    "creditLimit": 58928.28
+  },
+  {
+    "id": "vend-019",
+    "vendorName": "Trusted Vendors Ltd 19",
+    "email": "vendor19@business.zm",
+    "phone": "+260-94-6476589",
+    "address": "Plot 8328, Kaunda Square, Supplier City",
+    "taxId": "TPIN-8647019989",
+    "paymentTerms": 7,
+    "creditLimit": 71612.0
+  },
+  {
+    "id": "vend-020",
+    "vendorName": "General Supplies Ltd 20",
+    "email": "vendor20@business.zm",
+    "phone": "+260-94-7824704",
+    "address": "Plot 5477, Kabwe Road, Supplier City",
+    "taxId": "TPIN-6482501521",
+    "paymentTerms": 30,
+    "creditLimit": 60667.67
+  },
+  {
+    "id": "vend-021",
+    "vendorName": "Regional Suppliers 21",
+    "email": "vendor21@business.zm",
+    "phone": "+260-76-6888941",
+    "address": "Plot 1048, Kaunda Square, Supplier City",
+    "taxId": "TPIN-3068862426",
+    "paymentTerms": 30,
+    "creditLimit": 55205.91
+  },
+  {
+    "id": "vend-022",
+    "vendorName": "Local Producers 22",
+    "email": "vendor22@business.zm",
+    "phone": "+260-97-3692771",
+    "address": "Plot 8977, Cairo Road, Supplier City",
+    "taxId": "TPIN-7728897856",
+    "paymentTerms": 7,
+    "creditLimit": 55268.48
+  },
+  {
+    "id": "vend-023",
+    "vendorName": "Local Producers 23",
+    "email": "vendor23@business.zm",
+    "phone": "+260-79-1922043",
+    "address": "Plot 4738, Cairo Road, Supplier City",
+    "taxId": "TPIN-5585032459",
+    "paymentTerms": 7,
+    "creditLimit": 66169.71
+  },
+  {
+    "id": "vend-024",
+    "vendorName": "Trusted Vendors Ltd 24",
+    "email": "vendor24@business.zm",
+    "phone": "+260-94-7805204",
+    "address": "Plot 3087, Cairo Road, Supplier City",
+    "taxId": "TPIN-5862665295",
+    "paymentTerms": 7,
+    "creditLimit": 58210.27
+  },
+  {
+    "id": "vend-025",
+    "vendorName": "Trusted Vendors Ltd 25",
+    "email": "vendor25@business.zm",
+    "phone": "+260-82-8228216",
+    "address": "Plot 3059, Kabwe Road, Supplier City",
+    "taxId": "TPIN-1108013223",
+    "paymentTerms": 30,
+    "creditLimit": 57983.76
+  },
+  {
+    "id": "vend-026",
+    "vendorName": "Regional Suppliers 26",
+    "email": "vendor26@business.zm",
+    "phone": "+260-84-5637195",
+    "address": "Plot 3272, Kabwe Road, Supplier City",
+    "taxId": "TPIN-7503567434",
+    "paymentTerms": 7,
+    "creditLimit": 62689.54
+  },
+  {
+    "id": "vend-027",
+    "vendorName": "Regional Suppliers 27",
+    "email": "vendor27@business.zm",
+    "phone": "+260-82-7465091",
+    "address": "Plot 6642, Kabwe Road, Supplier City",
+    "taxId": "TPIN-6437097775",
+    "paymentTerms": 7,
+    "creditLimit": 25141.79
+  },
+  {
+    "id": "vend-028",
+    "vendorName": "Trusted Vendors Ltd 28",
+    "email": "vendor28@business.zm",
+    "phone": "+260-94-7923527",
+    "address": "Plot 7557, Kaunda Square, Supplier City",
+    "taxId": "TPIN-1187814971",
+    "paymentTerms": 7,
+    "creditLimit": 23038.63
+  },
+  {
+    "id": "vend-029",
+    "vendorName": "Wholesale Trading Co 29",
+    "email": "vendor29@business.zm",
+    "phone": "+260-80-8377566",
+    "address": "Plot 3377, Kaunda Square, Supplier City",
+    "taxId": "TPIN-3996378779",
+    "paymentTerms": 14,
+    "creditLimit": 36190.79
+  },
+  {
+    "id": "vend-030",
+    "vendorName": "Import Distributors 30",
+    "email": "vendor30@business.zm",
+    "phone": "+260-80-1919313",
+    "address": "Plot 6956, Kaunda Square, Supplier City",
+    "taxId": "TPIN-6382728041",
+    "paymentTerms": 7,
+    "creditLimit": 94545.18
+  }
+]

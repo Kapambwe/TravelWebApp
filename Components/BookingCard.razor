@@ -1,0 +1,121 @@
+﻿@using TravelWebApp.Models
+@using TravelWebApp.Services
+@using Radzen.Blazor
+@inject NavigationManager Navigation
+@inject ICartService CartService
+@inject NotificationService NotificationService
+
+<div class="booking-card">
+    <RadzenText TextStyle="TextStyle.H4" Style="color:#003B95;font-weight:700;">
+        @_currency@((int)Property.PricePerNight)
+    </RadzenText>
+    @if (Property.OriginalPrice.HasValue)
+    {
+        <RadzenText TextStyle="TextStyle.Caption" Style="text-decoration:line-through;color:#999;">
+            @_currency@((int)Property.OriginalPrice.Value)
+        </RadzenText>
+    }
+    <RadzenText TextStyle="TextStyle.Body2" Style="color:#5A5A7A;">per night</RadzenText>
+
+    <div style="margin:16px 0;">
+        <div style="display:flex;gap:8px;margin-bottom:8px;">
+            <RadzenDatePicker @bind-Value="@_checkIn" Placeholder="Check-in" Style="width:50%;" Change="@(args => RecalculateTotal())" />
+            <RadzenDatePicker @bind-Value="@_checkOut" Placeholder="Check-out" Style="width:50%;" Change="@(args => RecalculateTotal())" />
+        </div>
+        <RadzenDropDown @bind-Value="@_guestCount" Data="@_guestOptions" Style="width:100%;margin-bottom:8px;" Change="@(args => RecalculateTotal())" />
+    </div>
+
+    <div style="padding:12px 0;border-top:1px solid #E0E4EC;margin-bottom:12px;">
+        <div style="display:flex;justify-content:space-between;">
+            <span>@_currency@((int)Property.PricePerNight) x @_nights nights</span>
+            <span>@_currency@((int)_subtotal)</span>
+        </div>
+        @if (Property.BreakfastIncluded)
+        {
+            <div style="display:flex;justify-content:space-between;color:#008A0E;">
+                <span>Breakfast included</span><span>Free</span>
+            </div>
+        }
+        <div style="display:flex;justify-content:space-between;font-weight:600;font-size:1.125rem;border-top:2px solid #1A1A2E;padding-top:8px;margin-top:8px;">
+            <span>Total</span><span style="color:#003B95;">@_currency@((int)_total)</span>
+        </div>
+    </div>
+
+    <RadzenButton Text="Book Now" Icon="lock" ButtonStyle="ButtonStyle.Primary" Click="@GoToCheckout" Style="width:100%;padding:14px;font-size:1.05rem;border-radius:8px;margin-bottom:8px;" />
+    <RadzenButton Text="Add to Cart" Icon="shopping_cart" ButtonStyle="ButtonStyle.Primary" Variant="Variant.Outlined" Click="@AddToCart" Style="width:100%;padding:14px;font-size:1.05rem;border-radius:8px;" />
+
+    @if (Property.FreeCancellation)
+    {
+        <div style="display:flex;align-items:center;gap:6px;margin-top:8px;color:#008A0E;justify-content:center;">
+            <span>âœ“</span><RadzenText TextStyle="TextStyle.Caption">Free cancellation</RadzenText>
+        </div>
+    }
+    <RadzenText TextStyle="TextStyle.Caption" Style="color:#5A5A7A;text-align:center;display:block;margin-top:4px;">
+        ðŸ”’ Secure payment â€¢ No hidden fees
+    </RadzenText>
+</div>
+
+<style>
+    .booking-card {
+        background: white; padding: 24px; border-radius: 12px;
+        border: 1px solid var(--border); box-shadow: 0 8px 24px rgba(0,0,0,0.1);
+        position: sticky; top: 90px;
+    }
+    .booking-card .rz-calendar .rz-inputtext, .booking-card .rz-dropdown .rz-inputtext { padding: 12px 16px; font-weight: 500; }
+</style>
+
+@code {
+    [Parameter] public Property Property { get; set; } = new();
+
+    private string _currency = "R";
+    private DateTime? _checkIn = DateTime.UtcNow.AddDays(30);
+    private DateTime? _checkOut = DateTime.UtcNow.AddDays(33);
+    private string _guestCount = "2 Adults, 1 Room";
+    private int _nights = 3;
+    private decimal _subtotal;
+    private decimal _total;
+
+    private readonly string[] _guestOptions = ["1 Adult, 1 Room", "2 Adults, 1 Room", "2 Adults, 2 Rooms", "3 Adults, 2 Rooms", "4 Adults, 2 Rooms"];
+
+    protected override void OnInitialized() => RecalculateTotal();
+
+    private void RecalculateTotal()
+    {
+        if (_checkIn.HasValue && _checkOut.HasValue && _checkOut > _checkIn)
+        {
+            _nights = (int)(_checkOut.Value - _checkIn.Value).TotalDays;
+        }
+        else
+        {
+            _nights = 1;
+        }
+        _subtotal = Property.PricePerNight * _nights;
+        _total = _subtotal;
+    }
+
+    private void AddToCart()
+    {
+        CartService.AddItem(new CartItem
+        {
+            ProductId = Property.Id,
+            Name = Property.Name,
+            Description = Property.Type,
+            Image = Property.Image,
+            Price = Property.PricePerNight,
+            Quantity = _nights,
+            Type = "Accommodation",
+            Date = _checkIn,
+            EndDate = _checkOut
+        });
+        
+        NotificationService.Notify(new NotificationMessage { Severity = NotificationSeverity.Success, Summary = "Added to cart", Detail = $"{Property.Name} added to your travel plan." });
+    }
+
+    private void GoToCheckout()
+    {
+        var ci = _checkIn?.ToString("yyyy-MM-dd") ?? "";
+        var co = _checkOut?.ToString("yyyy-MM-dd") ?? "";
+        Navigation.NavigateTo($"/checkout?id={Property.Id}&checkIn={ci}&checkOut={co}&guests={Uri.EscapeDataString(_guestCount)}");
+    }
+}
+

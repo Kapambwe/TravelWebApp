@@ -1,0 +1,12 @@
+﻿{
+    "Capacity":  8,
+    "Id":  7,
+    "RegistrationNumber":  "ZM-KS-401",
+    "VehicleType":  0,
+    "FuelType":  "Diesel",
+    "Name":  "Kasanka LandCruiser",
+    "NextServiceDue":  "2024-11-05",
+    "Status":  0,
+    "LastServiceDate":  "2024-05-05",
+    "FuelLevel":  0.9
+}

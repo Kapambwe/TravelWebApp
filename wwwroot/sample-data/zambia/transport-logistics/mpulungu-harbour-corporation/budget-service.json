@@ -1,0 +1,242 @@
+[
+  {
+    "id": "budget-001",
+    "budgetName": "Loading/Unloading Budget 1",
+    "category": "Operations",
+    "amount": 82395.41,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-002",
+    "budgetName": "Storage Budget 2",
+    "category": "Marketing",
+    "amount": 50178.16,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-003",
+    "budgetName": "Documentation Budget 3",
+    "category": "Development",
+    "amount": 34369.3,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-004",
+    "budgetName": "Loading/Unloading Budget 4",
+    "category": "Administration",
+    "amount": 73357.43,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-005",
+    "budgetName": "Documentation Budget 5",
+    "category": "Operations",
+    "amount": 50374.76,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-006",
+    "budgetName": "Documentation Budget 6",
+    "category": "Marketing",
+    "amount": 33453.89,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-007",
+    "budgetName": "Documentation Budget 7",
+    "category": "Development",
+    "amount": 50074.0,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-008",
+    "budgetName": "Security Budget 8",
+    "category": "Development",
+    "amount": 64585.95,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-009",
+    "budgetName": "Security Budget 9",
+    "category": "Development",
+    "amount": 95838.75,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-010",
+    "budgetName": "Security Budget 10",
+    "category": "Marketing",
+    "amount": 28486.55,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-011",
+    "budgetName": "Security Budget 11",
+    "category": "Marketing",
+    "amount": 18233.74,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-012",
+    "budgetName": "Loading/Unloading Budget 12",
+    "category": "Administration",
+    "amount": 15129.53,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-013",
+    "budgetName": "Loading/Unloading Budget 13",
+    "category": "Marketing",
+    "amount": 72587.88,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-014",
+    "budgetName": "Storage Budget 14",
+    "category": "Marketing",
+    "amount": 44113.92,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-015",
+    "budgetName": "Storage Budget 15",
+    "category": "Operations",
+    "amount": 43420.55,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-016",
+    "budgetName": "Documentation Budget 16",
+    "category": "Development",
+    "amount": 89002.24,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-017",
+    "budgetName": "Documentation Budget 17",
+    "category": "Development",
+    "amount": 52565.2,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-018",
+    "budgetName": "Storage Budget 18",
+    "category": "Operations",
+    "amount": 22357.27,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-019",
+    "budgetName": "Security Budget 19",
+    "category": "Development",
+    "amount": 14797.08,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-020",
+    "budgetName": "Documentation Budget 20",
+    "category": "Development",
+    "amount": 11013.02,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-021",
+    "budgetName": "Security Budget 21",
+    "category": "Development",
+    "amount": 82947.48,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-022",
+    "budgetName": "Loading/Unloading Budget 22",
+    "category": "Operations",
+    "amount": 72383.03,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-023",
+    "budgetName": "Security Budget 23",
+    "category": "Marketing",
+    "amount": 94741.36,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-024",
+    "budgetName": "Security Budget 24",
+    "category": "Development",
+    "amount": 19870.38,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-025",
+    "budgetName": "Storage Budget 25",
+    "category": "Administration",
+    "amount": 83919.66,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-026",
+    "budgetName": "Storage Budget 26",
+    "category": "Marketing",
+    "amount": 32927.56,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-027",
+    "budgetName": "Storage Budget 27",
+    "category": "Administration",
+    "amount": 74659.98,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-028",
+    "budgetName": "Documentation Budget 28",
+    "category": "Administration",
+    "amount": 86346.48,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-029",
+    "budgetName": "Storage Budget 29",
+    "category": "Operations",
+    "amount": 43243.54,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-030",
+    "budgetName": "Documentation Budget 30",
+    "category": "Marketing",
+    "amount": 65155.79,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  }
+]

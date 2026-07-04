@@ -1,0 +1,24 @@
+﻿[
+    {
+        "LodgeType":  0,
+        "Id":  101,
+        "Description":  "Standard Lakeview Room",
+        "RoomType":  0,
+        "RoomNumber":  "IBR-101",
+        "Floor":  1,
+        "Capacity":  2,
+        "Status":  0,
+        "BaseRate":  10000
+    },
+    {
+        "LodgeType":  1,
+        "Id":  201,
+        "Description":  "Luxury Beachfront Chalet",
+        "RoomType":  2,
+        "RoomNumber":  "IBR-201",
+        "Floor":  1,
+        "Capacity":  4,
+        "Status":  0,
+        "BaseRate":  26000
+    }
+]

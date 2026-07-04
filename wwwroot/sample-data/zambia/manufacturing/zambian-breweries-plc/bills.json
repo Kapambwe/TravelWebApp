@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "billNumber": "BILL-2025-001",
+    "vendorName": "Mutale Manufacturing Inc.",
+    "description": "Transport & Distribution",
+    "billDate": "2024-11-21T00:00:00",
+    "dueDate": "2024-12-21T00:00:00",
+    "amount": 1920090.83,
+    "paidAmount": 1920090.83,
+    "status": "Paid"
+  },
+  {
+    "id": 2,
+    "billNumber": "BILL-2025-002",
+    "vendorName": "Mwamba Products Co.",
+    "description": "Raw Materials Purchase",
+    "billDate": "2024-10-19T00:00:00",
+    "dueDate": "2024-11-03T00:00:00",
+    "amount": 1910734.27,
+    "paidAmount": 1910734.27,
+    "status": "Paid"
+  },
+  {
+    "id": 3,
+    "billNumber": "BILL-2025-003",
+    "vendorName": "Mwale Industries Solutions",
+    "description": "Chemical Inputs",
+    "billDate": "2025-03-12T00:00:00",
+    "dueDate": "2025-03-27T00:00:00",
+    "amount": 1419452.96,
+    "paidAmount": 1419452.96,
+    "status": "Paid"
+  },
+  {
+    "id": 4,
+    "billNumber": "BILL-2025-004",
+    "vendorName": "Chileshe Industries Limited",
+    "description": "Packaging Materials",
+    "billDate": "2025-02-19T00:00:00",
+    "dueDate": "2025-03-06T00:00:00",
+    "amount": 1308276.95,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 5,
+    "billNumber": "BILL-2025-005",
+    "vendorName": "Mwale Industries Solutions",
+    "description": "Transport & Distribution",
+    "billDate": "2024-12-28T00:00:00",
+    "dueDate": "2025-02-11T00:00:00",
+    "amount": 2013615.66,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 6,
+    "billNumber": "BILL-2025-006",
+    "vendorName": "Mwale Industries Solutions",
+    "description": "Chemical Inputs",
+    "billDate": "2024-09-29T00:00:00",
+    "dueDate": "2024-10-14T00:00:00",
+    "amount": 1732477.63,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 7,
+    "billNumber": "BILL-2025-007",
+    "vendorName": "Chileshe Industries Limited",
+    "description": "Equipment Maintenance",
+    "billDate": "2024-10-14T00:00:00",
+    "dueDate": "2024-11-28T00:00:00",
+    "amount": 1819400.83,
+    "paidAmount": 1819400.83,
+    "status": "Paid"
+  },
+  {
+    "id": 8,
+    "billNumber": "BILL-2025-008",
+    "vendorName": "Mwamba Products Co.",
+    "description": "Energy & Utilities",
+    "billDate": "2024-12-27T00:00:00",
+    "dueDate": "2025-01-26T00:00:00",
+    "amount": 623734.62,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 9,
+    "billNumber": "BILL-2025-009",
+    "vendorName": "Chileshe Industries Limited",
+    "description": "Chemical Inputs",
+    "billDate": "2024-11-10T00:00:00",
+    "dueDate": "2024-12-25T00:00:00",
+    "amount": 231044.88,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 10,
+    "billNumber": "BILL-2025-010",
+    "vendorName": "Kaputo Industrial Ltd",
+    "description": "Chemical Inputs",
+    "billDate": "2025-01-12T00:00:00",
+    "dueDate": "2025-02-26T00:00:00",
+    "amount": 2200687.49,
+    "paidAmount": 2200687.49,
+    "status": "Paid"
+  },
+  {
+    "id": 11,
+    "billNumber": "BILL-2025-011",
+    "vendorName": "Lungu Industrial Group",
+    "description": "Equipment Maintenance",
+    "billDate": "2025-01-28T00:00:00",
+    "dueDate": "2025-02-12T00:00:00",
+    "amount": 1121070.27,
+    "paidAmount": 367762.54,
+    "status": "PartiallyPaid"
+  },
+  {
+    "id": 12,
+    "billNumber": "BILL-2025-012",
+    "vendorName": "Musonda Industrial Inc.",
+    "description": "Chemical Inputs",
+    "billDate": "2024-10-19T00:00:00",
+    "dueDate": "2024-11-18T00:00:00",
+    "amount": 1803535.56,
+    "paidAmount": 801832.85,
+    "status": "PartiallyPaid"
+  }
+]

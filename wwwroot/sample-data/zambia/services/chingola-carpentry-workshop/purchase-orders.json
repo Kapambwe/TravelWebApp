@@ -1,0 +1,93 @@
+[
+  {
+    "id": 1,
+    "poNumber": "PO-2025-001",
+    "vendorName": "Banda Services Enterprises",
+    "description": "Workshop Overheads",
+    "orderDate": "2025-02-10T00:00:00",
+    "expectedDate": "2025-02-17T00:00:00",
+    "amount": 1573934.42,
+    "receivedAmount": 0.0,
+    "status": "Open",
+    "approvalStatus": "Approved",
+    "approvedBy": "Procurement Officer"
+  },
+  {
+    "id": 2,
+    "poNumber": "PO-2025-002",
+    "vendorName": "Mulenga Artisans Inc.",
+    "description": "Subcontractor Fees",
+    "orderDate": "2025-01-30T00:00:00",
+    "expectedDate": "2025-02-08T00:00:00",
+    "amount": 2746936.07,
+    "receivedAmount": 1900226.55,
+    "status": "PartiallyReceived",
+    "approvalStatus": "Approved",
+    "approvedBy": "CFO"
+  },
+  {
+    "id": 3,
+    "poNumber": "PO-2025-003",
+    "vendorName": "Kaputo Artisans Holdings",
+    "description": "Subcontractor Fees",
+    "orderDate": "2025-02-20T00:00:00",
+    "expectedDate": "2025-03-17T00:00:00",
+    "amount": 943892.19,
+    "receivedAmount": 389588.64,
+    "status": "PartiallyReceived",
+    "approvalStatus": "Approved",
+    "approvedBy": "CFO"
+  },
+  {
+    "id": 4,
+    "poNumber": "PO-2025-004",
+    "vendorName": "Mwale Services Limited",
+    "description": "Workshop Overheads",
+    "orderDate": "2025-03-13T00:00:00",
+    "expectedDate": "2025-04-03T00:00:00",
+    "amount": 88566.22,
+    "receivedAmount": 0.0,
+    "status": "Open",
+    "approvalStatus": "Approved",
+    "approvedBy": "CFO"
+  },
+  {
+    "id": 5,
+    "poNumber": "PO-2025-005",
+    "vendorName": "Phiri Services Inc.",
+    "description": "Tools & Equipment",
+    "orderDate": "2024-12-15T00:00:00",
+    "expectedDate": "2025-01-08T00:00:00",
+    "amount": 2471614.29,
+    "receivedAmount": 2471614.29,
+    "status": "Closed",
+    "approvalStatus": "Pending",
+    "approvedBy": "Finance Manager"
+  },
+  {
+    "id": 6,
+    "poNumber": "PO-2025-006",
+    "vendorName": "Mulenga Artisans Inc.",
+    "description": "Subcontractor Fees",
+    "orderDate": "2025-03-14T00:00:00",
+    "expectedDate": "2025-03-28T00:00:00",
+    "amount": 2350368.88,
+    "receivedAmount": 2350368.88,
+    "status": "Closed",
+    "approvalStatus": "Approved",
+    "approvedBy": "CFO"
+  },
+  {
+    "id": 7,
+    "poNumber": "PO-2025-007",
+    "vendorName": "Kaputo Artisans Holdings",
+    "description": "Materials Purchase",
+    "orderDate": "2025-02-25T00:00:00",
+    "expectedDate": "2025-03-13T00:00:00",
+    "amount": 2846802.04,
+    "receivedAmount": 0.0,
+    "status": "Open",
+    "approvalStatus": "Pending",
+    "approvedBy": "CFO"
+  }
+]

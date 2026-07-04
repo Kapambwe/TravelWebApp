@@ -1,0 +1,22 @@
+﻿[
+    {
+        "BasePrice":  2200,
+        "Capacity":  12,
+        "IsActive":  true,
+        "Id":  409,
+        "Name":  "Chishimba Falls Tour",
+        "Type":  12,
+        "Description":  "Guided tour to the three sacred waterfalls of Chishimba.",
+        "Duration":  180
+    },
+    {
+        "BasePrice":  1800,
+        "Capacity":  8,
+        "IsActive":  true,
+        "Id":  410,
+        "Name":  "Mwela Rock Art Excursion",
+        "Type":  12,
+        "Description":  "Explore the ancient Iron Age rock paintings on the outskirts of Kasama.",
+        "Duration":  120
+    }
+]

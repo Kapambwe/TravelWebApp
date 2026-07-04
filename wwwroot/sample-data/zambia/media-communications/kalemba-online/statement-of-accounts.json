@@ -1,0 +1,140 @@
+{
+  "companyName": "Kalemba Online",
+  "companyAddress": "Lusaka, Zambia",
+  "companyTaxId": "TPIN-3291608-KO",
+  "generatedDate": "2025-09-30",
+  "currency": "ZMW",
+  "period": {
+    "from": "2025-01-01",
+    "to": "2025-09-30"
+  },
+  "customerStatements": [
+    {
+      "customerId": 1,
+      "customerName": "Zambezi Enterprises Ltd",
+      "customerEmail": "admin@zambezi.co.zm",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-06-13",
+          "reference": "INV-Z-2025-013",
+          "description": "Advertising campaign - Q3",
+          "debit": 2952000,
+          "credit": 0.0,
+          "balance": 2952000
+        }
+      ],
+      "closingBalance": 2952000,
+      "status": "Outstanding"
+    },
+    {
+      "customerId": 2,
+      "customerName": "Lusaka Trading Ltd",
+      "customerEmail": "contact@lusaka.co.zm",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-08-09",
+          "reference": "INV-Z-2025-022",
+          "description": "News coverage & PR services",
+          "debit": 2852000,
+          "credit": 0.0,
+          "balance": 2852000
+        }
+      ],
+      "closingBalance": 2852000,
+      "status": "Outstanding"
+    },
+    {
+      "customerId": 3,
+      "customerName": "Chambeshi Enterprises Ltd",
+      "customerEmail": "accounts@chambeshi.co.zm",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-04-01",
+          "reference": "INV-Z-2025-035",
+          "description": "Media placement package",
+          "debit": 1164500,
+          "credit": 0.0,
+          "balance": 1164500
+        },
+        {
+          "date": "2025-06-09",
+          "reference": "PMT-Z-2025-032",
+          "description": "Installment payment received",
+          "debit": 0.0,
+          "credit": 1164500,
+          "balance": 0.0
+        }
+      ],
+      "closingBalance": 0.0,
+      "status": "Settled"
+    },
+    {
+      "customerId": 4,
+      "customerName": "Kafue Partners Co.",
+      "customerEmail": "admin@kafue.co.zm",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-06-17",
+          "reference": "INV-Z-2025-049",
+          "description": "Digital content licensing",
+          "debit": 403000,
+          "credit": 0.0,
+          "balance": 403000
+        },
+        {
+          "date": "2025-08-06",
+          "reference": "PMT-Z-2025-042",
+          "description": "Installment payment received",
+          "debit": 0.0,
+          "credit": 403000,
+          "balance": 0.0
+        }
+      ],
+      "closingBalance": 0.0,
+      "status": "Settled"
+    },
+    {
+      "customerId": 5,
+      "customerName": "Mukuba Solutions Ltd",
+      "customerEmail": "info@mukuba.com",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-05-12",
+          "reference": "INV-Z-2025-056",
+          "description": "Sponsored content package",
+          "debit": 2053500,
+          "credit": 0.0,
+          "balance": 2053500
+        },
+        {
+          "date": "2025-07-27",
+          "reference": "PMT-Z-2025-057",
+          "description": "Advance payment received",
+          "debit": 0.0,
+          "credit": 2053500,
+          "balance": 0.0
+        }
+      ],
+      "closingBalance": 0.0,
+      "status": "Settled"
+    }
+  ],
+  "summary": {
+    "totalInvoiced": 9425000,
+    "totalReceived": 3621000,
+    "totalOutstanding": 5804000,
+    "totalOverdue": 5804000.0,
+    "agingSummary": {
+      "current": 0.0,
+      "days1to30": 2852000.0,
+      "days31to60": 0.0,
+      "days61to90": 2952000.0,
+      "over90days": 0.0
+    }
+  }
+}

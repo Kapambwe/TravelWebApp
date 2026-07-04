@@ -1,0 +1,26 @@
+﻿[
+    {
+        "Capacity":  10,
+        "Id":  1,
+        "RegistrationNumber":  "ZM-SL-101",
+        "VehicleType":  0,
+        "FuelType":  "Diesel",
+        "Name":  "Luangwa Cruiser 1",
+        "NextServiceDue":  "2024-11-01",
+        "Status":  0,
+        "LastServiceDate":  "2024-05-01",
+        "FuelLevel":  0.85
+    },
+    {
+        "Capacity":  10,
+        "Id":  2,
+        "RegistrationNumber":  "ZM-SL-102",
+        "VehicleType":  0,
+        "FuelType":  "Diesel",
+        "Name":  "Luangwa Cruiser 2",
+        "NextServiceDue":  "2024-11-15",
+        "Status":  0,
+        "LastServiceDate":  "2024-05-15",
+        "FuelLevel":  0.7
+    }
+]

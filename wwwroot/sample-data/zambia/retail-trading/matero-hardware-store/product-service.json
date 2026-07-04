@@ -1,0 +1,272 @@
+[
+  {
+    "id": "prod-001",
+    "productName": "Screws",
+    "productCode": "SKU-74259",
+    "category": "Retail",
+    "price": 7757.99,
+    "cost": 2117.19,
+    "description": "Quality Screws for retail business"
+  },
+  {
+    "id": "prod-002",
+    "productName": "Bolts",
+    "productCode": "SKU-50254",
+    "category": "Retail",
+    "price": 4289.46,
+    "cost": 5744.77,
+    "description": "Quality Bolts for retail business"
+  },
+  {
+    "id": "prod-003",
+    "productName": "Paint",
+    "productCode": "SKU-50158",
+    "category": "Retail",
+    "price": 5902.46,
+    "cost": 4366.72,
+    "description": "Quality Paint for retail business"
+  },
+  {
+    "id": "prod-004",
+    "productName": "Brushes",
+    "productCode": "SKU-18082",
+    "category": "Retail",
+    "price": 6508.52,
+    "cost": 7742.67,
+    "description": "Quality Brushes for retail business"
+  },
+  {
+    "id": "prod-005",
+    "productName": "Rollers",
+    "productCode": "SKU-42119",
+    "category": "Retail",
+    "price": 1218.59,
+    "cost": 3185.16,
+    "description": "Quality Rollers for retail business"
+  },
+  {
+    "id": "prod-006",
+    "productName": "Hammers",
+    "productCode": "SKU-93970",
+    "category": "Retail",
+    "price": 7216.47,
+    "cost": 7557.14,
+    "description": "Quality Hammers for retail business"
+  },
+  {
+    "id": "prod-007",
+    "productName": "Saws",
+    "productCode": "SKU-63931",
+    "category": "Retail",
+    "price": 5814.25,
+    "cost": 4254.58,
+    "description": "Quality Saws for retail business"
+  },
+  {
+    "id": "prod-008",
+    "productName": "Chisels",
+    "productCode": "SKU-75889",
+    "category": "Retail",
+    "price": 7674.32,
+    "cost": 826.61,
+    "description": "Quality Chisels for retail business"
+  },
+  {
+    "id": "prod-009",
+    "productName": "Pliers",
+    "productCode": "SKU-96305",
+    "category": "Retail",
+    "price": 544.3,
+    "cost": 4262.28,
+    "description": "Quality Pliers for retail business"
+  },
+  {
+    "id": "prod-010",
+    "productName": "Wrenches",
+    "productCode": "SKU-74173",
+    "category": "Retail",
+    "price": 14716.31,
+    "cost": 1610.32,
+    "description": "Quality Wrenches for retail business"
+  },
+  {
+    "id": "prod-011",
+    "productName": "Drill Bits",
+    "productCode": "SKU-90489",
+    "category": "Retail",
+    "price": 11351.63,
+    "cost": 2594.98,
+    "description": "Quality Drill Bits for retail business"
+  },
+  {
+    "id": "prod-012",
+    "productName": "Hinges",
+    "productCode": "SKU-49394",
+    "category": "Retail",
+    "price": 5221.61,
+    "cost": 1239.71,
+    "description": "Quality Hinges for retail business"
+  },
+  {
+    "id": "prod-013",
+    "productName": "Locks",
+    "productCode": "SKU-90901",
+    "category": "Retail",
+    "price": 6728.83,
+    "cost": 4428.75,
+    "description": "Quality Locks for retail business"
+  },
+  {
+    "id": "prod-014",
+    "productName": "Wire",
+    "productCode": "SKU-62935",
+    "category": "Retail",
+    "price": 14888.71,
+    "cost": 4669.26,
+    "description": "Quality Wire for retail business"
+  },
+  {
+    "id": "prod-015",
+    "productName": "Nails",
+    "productCode": "SKU-96986",
+    "category": "Retail",
+    "price": 4841.77,
+    "cost": 1009.27,
+    "description": "Quality Nails for retail business"
+  },
+  {
+    "id": "prod-016",
+    "productName": "Screws",
+    "productCode": "SKU-26574",
+    "category": "Retail",
+    "price": 12116.88,
+    "cost": 261.76,
+    "description": "Quality Screws for retail business"
+  },
+  {
+    "id": "prod-017",
+    "productName": "Bolts",
+    "productCode": "SKU-73420",
+    "category": "Retail",
+    "price": 12621.37,
+    "cost": 3192.13,
+    "description": "Quality Bolts for retail business"
+  },
+  {
+    "id": "prod-018",
+    "productName": "Paint",
+    "productCode": "SKU-81521",
+    "category": "Retail",
+    "price": 875.24,
+    "cost": 4718.12,
+    "description": "Quality Paint for retail business"
+  },
+  {
+    "id": "prod-019",
+    "productName": "Brushes",
+    "productCode": "SKU-30432",
+    "category": "Retail",
+    "price": 7958.12,
+    "cost": 550.85,
+    "description": "Quality Brushes for retail business"
+  },
+  {
+    "id": "prod-020",
+    "productName": "Rollers",
+    "productCode": "SKU-33123",
+    "category": "Retail",
+    "price": 9006.52,
+    "cost": 6250.54,
+    "description": "Quality Rollers for retail business"
+  },
+  {
+    "id": "prod-021",
+    "productName": "Hammers",
+    "productCode": "SKU-32118",
+    "category": "Retail",
+    "price": 937.76,
+    "cost": 1995.05,
+    "description": "Quality Hammers for retail business"
+  },
+  {
+    "id": "prod-022",
+    "productName": "Saws",
+    "productCode": "SKU-22903",
+    "category": "Retail",
+    "price": 3982.64,
+    "cost": 6626.05,
+    "description": "Quality Saws for retail business"
+  },
+  {
+    "id": "prod-023",
+    "productName": "Chisels",
+    "productCode": "SKU-71275",
+    "category": "Retail",
+    "price": 2617.2,
+    "cost": 2361.92,
+    "description": "Quality Chisels for retail business"
+  },
+  {
+    "id": "prod-024",
+    "productName": "Pliers",
+    "productCode": "SKU-20992",
+    "category": "Retail",
+    "price": 9225.69,
+    "cost": 3844.38,
+    "description": "Quality Pliers for retail business"
+  },
+  {
+    "id": "prod-025",
+    "productName": "Wrenches",
+    "productCode": "SKU-24416",
+    "category": "Retail",
+    "price": 7340.44,
+    "cost": 7564.72,
+    "description": "Quality Wrenches for retail business"
+  },
+  {
+    "id": "prod-026",
+    "productName": "Drill Bits",
+    "productCode": "SKU-51474",
+    "category": "Retail",
+    "price": 12677.57,
+    "cost": 6495.47,
+    "description": "Quality Drill Bits for retail business"
+  },
+  {
+    "id": "prod-027",
+    "productName": "Hinges",
+    "productCode": "SKU-88812",
+    "category": "Retail",
+    "price": 11844.75,
+    "cost": 7924.36,
+    "description": "Quality Hinges for retail business"
+  },
+  {
+    "id": "prod-028",
+    "productName": "Locks",
+    "productCode": "SKU-26771",
+    "category": "Retail",
+    "price": 9685.14,
+    "cost": 3057.72,
+    "description": "Quality Locks for retail business"
+  },
+  {
+    "id": "prod-029",
+    "productName": "Wire",
+    "productCode": "SKU-84029",
+    "category": "Retail",
+    "price": 3722.97,
+    "cost": 4039.71,
+    "description": "Quality Wire for retail business"
+  },
+  {
+    "id": "prod-030",
+    "productName": "Nails",
+    "productCode": "SKU-51993",
+    "category": "Retail",
+    "price": 2577.7,
+    "cost": 1329.14,
+    "description": "Quality Nails for retail business"
+  }
+]

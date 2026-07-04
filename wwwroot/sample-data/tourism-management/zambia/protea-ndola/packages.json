@@ -1,0 +1,50 @@
+﻿[
+    {
+        "BasePrice":  3500,
+        "Id":  1,
+        "CreatedAt":  "2024-01-10T00:00:00",
+        "IncludesParkEntry":  false,
+        "Tier":  0,
+        "Name":  "Corporate Day Delegate Pass",
+        "IncludesGuide":  false,
+        "PeakMultiplier":  1.05,
+        "Description":  "Includes meeting room access, high-speed Wi-Fi, and executive lunch.",
+        "IncludesGameDrives":  false,
+        "IncludesTransfers":  false,
+        "IncludesMeals":  true,
+        "IsActive":  true,
+        "IncludesAccommodation":  false
+    },
+    {
+        "BasePrice":  9500,
+        "Id":  2,
+        "CreatedAt":  "2024-01-15T00:00:00",
+        "IncludesParkEntry":  false,
+        "Tier":  1,
+        "Name":  "Copperbelt Weekend Bed \u0026 Breakfast",
+        "IncludesGuide":  false,
+        "PeakMultiplier":  1.1,
+        "Description":  "Standard accommodation with luxury breakfast buffet.",
+        "IncludesGameDrives":  false,
+        "IncludesTransfers":  false,
+        "IncludesMeals":  true,
+        "IsActive":  true,
+        "IncludesAccommodation":  true
+    },
+    {
+        "BasePrice":  18000,
+        "Id":  3,
+        "CreatedAt":  "2024-01-20T00:00:00",
+        "IncludesParkEntry":  false,
+        "Tier":  2,
+        "Name":  "Executive Full-Board Package",
+        "IncludesGuide":  true,
+        "PeakMultiplier":  1.15,
+        "Description":  "Executive suite lodging, all meals, and local airport shuttle transfers.",
+        "IncludesGameDrives":  false,
+        "IncludesTransfers":  true,
+        "IncludesMeals":  true,
+        "IsActive":  true,
+        "IncludesAccommodation":  true
+    }
+]

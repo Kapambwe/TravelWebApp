@@ -1,0 +1,66 @@
+@page "/group-bookings"
+
+<div class="page-section">
+    <div style="max-width:800px;margin:0 auto;text-align:center;">
+        <RadzenText TextStyle="TextStyle.H3">Travelling as a Group?</RadzenText>
+        <RadzenText TextStyle="TextStyle.Body1" Style="margin:16px 0 40px;">
+            Planning a school trip, wedding, NGO mission, or conference? We handle groups of 10+ with ease. Enjoy discounted rates and coordinated logistics.
+        </RadzenText>
+        
+        <RadzenRow>
+            <RadzenColumn Size="4">
+                <RadzenCard Style="height:100%;">
+                    <div style="font-size:2.5rem;margin-bottom:16px;">🎒</div>
+                    <RadzenText TextStyle="TextStyle.H6">Education</RadzenText>
+                    <RadzenText TextStyle="TextStyle.Caption">School tours and university research groups.</RadzenText>
+                </RadzenCard>
+            </RadzenColumn>
+            <RadzenColumn Size="4">
+                <RadzenCard Style="height:100%;">
+                    <div style="font-size:2.5rem;margin-bottom:16px;">🤝</div>
+                    <RadzenText TextStyle="TextStyle.H6">MICE</RadzenText>
+                    <RadzenText TextStyle="TextStyle.Caption">Meetings, Incentives, Conferences, and Events.</RadzenText>
+                </RadzenCard>
+            </RadzenColumn>
+            <RadzenColumn Size="4">
+                <RadzenCard Style="height:100%;">
+                    <div style="font-size:2.5rem;margin-bottom:16px;">💍</div>
+                    <RadzenText TextStyle="TextStyle.H6">Social</RadzenText>
+                    <RadzenText TextStyle="TextStyle.Caption">Weddings, family reunions, and club outings.</RadzenText>
+                </RadzenCard>
+            </RadzenColumn>
+        </RadzenRow>
+
+        <RadzenCard Style="margin-top:40px;padding:40px;text-align:left;border-radius:16px;">
+            <RadzenText TextStyle="TextStyle.H5" Style="margin-bottom:24px;">Group Inquiry Form</RadzenText>
+            
+            <div style="display:grid;grid-template-columns:1fr 1fr;gap:20px;margin-bottom:20px;">
+                <RadzenFormField Text="Lead Name">
+                    <RadzenTextBox Style="width:100%;" />
+                </RadzenFormField>
+                <RadzenFormField Text="Email Address">
+                    <RadzenTextBox Style="width:100%;" />
+                </RadzenFormField>
+            </div>
+            
+            <div style="display:grid;grid-template-columns:1fr 1fr;gap:20px;margin-bottom:20px;">
+                <RadzenFormField Text="Destination">
+                    <RadzenTextBox Style="width:100%;" />
+                </RadzenFormField>
+                <RadzenFormField Text="Group Size">
+                    <RadzenNumeric Value="10" Min="10" Style="width:100%;" />
+                </RadzenFormField>
+            </div>
+            
+            <RadzenFormField Text="Group Type" Style="width:100%;margin-bottom:20px;">
+                <RadzenDropDown TValue="string" Data="@(new[] { "School", "Conference", "Wedding", "NGO", "Other" })" Style="width:100%;" />
+            </RadzenFormField>
+            
+            <RadzenFormField Text="Message / Special Requirements" Style="width:100%;margin-bottom:32px;">
+                <RadzenTextArea Style="width:100%;" Rows="4" />
+            </RadzenFormField>
+            
+            <RadzenButton Text="Send Inquiry" ButtonStyle="ButtonStyle.Primary" Style="padding:0 60px;" />
+        </RadzenCard>
+    </div>
+</div>

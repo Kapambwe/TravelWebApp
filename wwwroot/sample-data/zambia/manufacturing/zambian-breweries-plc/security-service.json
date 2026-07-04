@@ -1,0 +1,482 @@
+[
+  {
+    "id": "sec-001",
+    "userId": "user-001",
+    "userName": "Lungu Chanda",
+    "roles": [
+      "Accountant",
+      "Manager"
+    ],
+    "permissions": [
+      "ViewReports",
+      "CreateTransactions",
+      "ApproveBudgets"
+    ],
+    "lastLogin": "2024-01-20T08:30:00Z",
+    "isActive": true
+  },
+  {
+    "id": "sec-002",
+    "userId": "user-001",
+    "userName": "Simukonda Lubinda",
+    "roles": [
+      "Accountant",
+      "Manager"
+    ],
+    "permissions": [
+      "ViewReports",
+      "CreateTransactions",
+      "ApproveBudgets"
+    ],
+    "lastLogin": "2024-01-20T08:30:00Z",
+    "isActive": true
+  },
+  {
+    "id": "sec-003",
+    "userId": "user-001",
+    "userName": "Lungu Lubinda",
+    "roles": [
+      "Accountant",
+      "Manager"
+    ],
+    "permissions": [
+      "ViewReports",
+      "CreateTransactions",
+      "ApproveBudgets"
+    ],
+    "lastLogin": "2024-01-20T08:30:00Z",
+    "isActive": true
+  },
+  {
+    "id": "sec-004",
+    "userId": "user-001",
+    "userName": "Lungu Mulenga",
+    "roles": [
+      "Accountant",
+      "Manager"
+    ],
+    "permissions": [
+      "ViewReports",
+      "CreateTransactions",
+      "ApproveBudgets"
+    ],
+    "lastLogin": "2024-01-20T08:30:00Z",
+    "isActive": true
+  },
+  {
+    "id": "sec-005",
+    "userId": "user-001",
+    "userName": "Chola Simukonda",
+    "roles": [
+      "Accountant",
+      "Manager"
+    ],
+    "permissions": [
+      "ViewReports",
+      "CreateTransactions",
+      "ApproveBudgets"
+    ],
+    "lastLogin": "2024-01-20T08:30:00Z",
+    "isActive": true
+  },
+  {
+    "id": "sec-006",
+    "userId": "user-001",
+    "userName": "Bwalya Musonda",
+    "roles": [
+      "Accountant",
+      "Manager"
+    ],
+    "permissions": [
+      "ViewReports",
+      "CreateTransactions",
+      "ApproveBudgets"
+    ],
+    "lastLogin": "2024-01-20T08:30:00Z",
+    "isActive": true
+  },
+  {
+    "id": "sec-007",
+    "userId": "user-001",
+    "userName": "Lungu Mulenga",
+    "roles": [
+      "Accountant",
+      "Manager"
+    ],
+    "permissions": [
+      "ViewReports",
+      "CreateTransactions",
+      "ApproveBudgets"
+    ],
+    "lastLogin": "2024-01-20T08:30:00Z",
+    "isActive": true
+  },
+  {
+    "id": "sec-008",
+    "userId": "user-001",
+    "userName": "Lungu Mwape",
+    "roles": [
+      "Accountant",
+      "Manager"
+    ],
+    "permissions": [
+      "ViewReports",
+      "CreateTransactions",
+      "ApproveBudgets"
+    ],
+    "lastLogin": "2024-01-20T08:30:00Z",
+    "isActive": true
+  },
+  {
+    "id": "sec-009",
+    "userId": "user-001",
+    "userName": "Chanda Tembo",
+    "roles": [
+      "Accountant",
+      "Manager"
+    ],
+    "permissions": [
+      "ViewReports",
+      "CreateTransactions",
+      "ApproveBudgets"
+    ],
+    "lastLogin": "2024-01-20T08:30:00Z",
+    "isActive": true
+  },
+  {
+    "id": "sec-010",
+    "userId": "user-001",
+    "userName": "Chanda Chiluba",
+    "roles": [
+      "Accountant",
+      "Manager"
+    ],
+    "permissions": [
+      "ViewReports",
+      "CreateTransactions",
+      "ApproveBudgets"
+    ],
+    "lastLogin": "2024-01-20T08:30:00Z",
+    "isActive": true
+  },
+  {
+    "id": "sec-011",
+    "userId": "user-001",
+    "userName": "Chola Kaunda",
+    "roles": [
+      "Accountant",
+      "Manager"
+    ],
+    "permissions": [
+      "ViewReports",
+      "CreateTransactions",
+      "ApproveBudgets"
+    ],
+    "lastLogin": "2024-01-20T08:30:00Z",
+    "isActive": true
+  },
+  {
+    "id": "sec-012",
+    "userId": "user-001",
+    "userName": "Chola Sichone",
+    "roles": [
+      "Accountant",
+      "Manager"
+    ],
+    "permissions": [
+      "ViewReports",
+      "CreateTransactions",
+      "ApproveBudgets"
+    ],
+    "lastLogin": "2024-01-20T08:30:00Z",
+    "isActive": true
+  },
+  {
+    "id": "sec-013",
+    "userId": "user-001",
+    "userName": "Phiri Mutale",
+    "roles": [
+      "Accountant",
+      "Manager"
+    ],
+    "permissions": [
+      "ViewReports",
+      "CreateTransactions",
+      "ApproveBudgets"
+    ],
+    "lastLogin": "2024-01-20T08:30:00Z",
+    "isActive": true
+  },
+  {
+    "id": "sec-014",
+    "userId": "user-001",
+    "userName": "Sakala Sata",
+    "roles": [
+      "Accountant",
+      "Manager"
+    ],
+    "permissions": [
+      "ViewReports",
+      "CreateTransactions",
+      "ApproveBudgets"
+    ],
+    "lastLogin": "2024-01-20T08:30:00Z",
+    "isActive": true
+  },
+  {
+    "id": "sec-015",
+    "userId": "user-001",
+    "userName": "Chanda Lungu",
+    "roles": [
+      "Accountant",
+      "Manager"
+    ],
+    "permissions": [
+      "ViewReports",
+      "CreateTransactions",
+      "ApproveBudgets"
+    ],
+    "lastLogin": "2024-01-20T08:30:00Z",
+    "isActive": true
+  },
+  {
+    "id": "sec-016",
+    "userId": "user-001",
+    "userName": "Kapembwa Phiri",
+    "roles": [
+      "Accountant",
+      "Manager"
+    ],
+    "permissions": [
+      "ViewReports",
+      "CreateTransactions",
+      "ApproveBudgets"
+    ],
+    "lastLogin": "2024-01-20T08:30:00Z",
+    "isActive": true
+  },
+  {
+    "id": "sec-017",
+    "userId": "user-001",
+    "userName": "Phiri Zulu",
+    "roles": [
+      "Accountant",
+      "Manager"
+    ],
+    "permissions": [
+      "ViewReports",
+      "CreateTransactions",
+      "ApproveBudgets"
+    ],
+    "lastLogin": "2024-01-20T08:30:00Z",
+    "isActive": true
+  },
+  {
+    "id": "sec-018",
+    "userId": "user-001",
+    "userName": "Daka Sichone",
+    "roles": [
+      "Accountant",
+      "Manager"
+    ],
+    "permissions": [
+      "ViewReports",
+      "CreateTransactions",
+      "ApproveBudgets"
+    ],
+    "lastLogin": "2024-01-20T08:30:00Z",
+    "isActive": true
+  },
+  {
+    "id": "sec-019",
+    "userId": "user-001",
+    "userName": "Kambole Musonda",
+    "roles": [
+      "Accountant",
+      "Manager"
+    ],
+    "permissions": [
+      "ViewReports",
+      "CreateTransactions",
+      "ApproveBudgets"
+    ],
+    "lastLogin": "2024-01-20T08:30:00Z",
+    "isActive": true
+  },
+  {
+    "id": "sec-020",
+    "userId": "user-001",
+    "userName": "Kabwe Mwape",
+    "roles": [
+      "Accountant",
+      "Manager"
+    ],
+    "permissions": [
+      "ViewReports",
+      "CreateTransactions",
+      "ApproveBudgets"
+    ],
+    "lastLogin": "2024-01-20T08:30:00Z",
+    "isActive": true
+  },
+  {
+    "id": "sec-021",
+    "userId": "user-001",
+    "userName": "Lungu Chola",
+    "roles": [
+      "Accountant",
+      "Manager"
+    ],
+    "permissions": [
+      "ViewReports",
+      "CreateTransactions",
+      "ApproveBudgets"
+    ],
+    "lastLogin": "2024-01-20T08:30:00Z",
+    "isActive": true
+  },
+  {
+    "id": "sec-022",
+    "userId": "user-001",
+    "userName": "Mwape Chanda",
+    "roles": [
+      "Accountant",
+      "Manager"
+    ],
+    "permissions": [
+      "ViewReports",
+      "CreateTransactions",
+      "ApproveBudgets"
+    ],
+    "lastLogin": "2024-01-20T08:30:00Z",
+    "isActive": true
+  },
+  {
+    "id": "sec-023",
+    "userId": "user-001",
+    "userName": "Mwamba Tembo",
+    "roles": [
+      "Accountant",
+      "Manager"
+    ],
+    "permissions": [
+      "ViewReports",
+      "CreateTransactions",
+      "ApproveBudgets"
+    ],
+    "lastLogin": "2024-01-20T08:30:00Z",
+    "isActive": true
+  },
+  {
+    "id": "sec-024",
+    "userId": "user-001",
+    "userName": "Sakala Chishimba",
+    "roles": [
+      "Accountant",
+      "Manager"
+    ],
+    "permissions": [
+      "ViewReports",
+      "CreateTransactions",
+      "ApproveBudgets"
+    ],
+    "lastLogin": "2024-01-20T08:30:00Z",
+    "isActive": true
+  },
+  {
+    "id": "sec-025",
+    "userId": "user-001",
+    "userName": "Mulenga Chiluba",
+    "roles": [
+      "Accountant",
+      "Manager"
+    ],
+    "permissions": [
+      "ViewReports",
+      "CreateTransactions",
+      "ApproveBudgets"
+    ],
+    "lastLogin": "2024-01-20T08:30:00Z",
+    "isActive": true
+  },
+  {
+    "id": "sec-026",
+    "userId": "user-001",
+    "userName": "Musonda Banda",
+    "roles": [
+      "Accountant",
+      "Manager"
+    ],
+    "permissions": [
+      "ViewReports",
+      "CreateTransactions",
+      "ApproveBudgets"
+    ],
+    "lastLogin": "2024-01-20T08:30:00Z",
+    "isActive": true
+  },
+  {
+    "id": "sec-027",
+    "userId": "user-001",
+    "userName": "Mwape Chiluba",
+    "roles": [
+      "Accountant",
+      "Manager"
+    ],
+    "permissions": [
+      "ViewReports",
+      "CreateTransactions",
+      "ApproveBudgets"
+    ],
+    "lastLogin": "2024-01-20T08:30:00Z",
+    "isActive": true
+  },
+  {
+    "id": "sec-028",
+    "userId": "user-001",
+    "userName": "Mutale Lubinda",
+    "roles": [
+      "Accountant",
+      "Manager"
+    ],
+    "permissions": [
+      "ViewReports",
+      "CreateTransactions",
+      "ApproveBudgets"
+    ],
+    "lastLogin": "2024-01-20T08:30:00Z",
+    "isActive": true
+  },
+  {
+    "id": "sec-029",
+    "userId": "user-001",
+    "userName": "Tembo Lubinda",
+    "roles": [
+      "Accountant",
+      "Manager"
+    ],
+    "permissions": [
+      "ViewReports",
+      "CreateTransactions",
+      "ApproveBudgets"
+    ],
+    "lastLogin": "2024-01-20T08:30:00Z",
+    "isActive": true
+  },
+  {
+    "id": "sec-030",
+    "userId": "user-001",
+    "userName": "Mwape Lubinda",
+    "roles": [
+      "Accountant",
+      "Manager"
+    ],
+    "permissions": [
+      "ViewReports",
+      "CreateTransactions",
+      "ApproveBudgets"
+    ],
+    "lastLogin": "2024-01-20T08:30:00Z",
+    "isActive": true
+  }
+]

@@ -1,0 +1,217 @@
+[
+  {
+    "id": 1,
+    "estimateNumber": "EST-2025-001",
+    "customerId": 1,
+    "customerName": "Lungu Beverages Solutions",
+    "estimateDateDaysAgo": 54,
+    "expirationDateDaysFromNow": 45,
+    "status": "Sent",
+    "subTotal": 2947263.76,
+    "taxRate": 16,
+    "taxAmount": 471562.2,
+    "total": 3418825.96,
+    "terms": "Net 15",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 54,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Beverages",
+        "quantity": 3,
+        "unitPrice": 982421.25,
+        "amount": 2947263.76,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 53
+  },
+  {
+    "id": 2,
+    "estimateNumber": "EST-2025-002",
+    "customerId": 5,
+    "customerName": "Zimba Provisions Solutions",
+    "estimateDateDaysAgo": 43,
+    "expirationDateDaysFromNow": 39,
+    "status": "Draft",
+    "subTotal": 2920838.09,
+    "taxRate": 16,
+    "taxAmount": 467334.09,
+    "total": 3388172.18,
+    "terms": "Net 15",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 43,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Fresh Fish Products",
+        "quantity": 4,
+        "unitPrice": 730209.52,
+        "amount": 2920838.09,
+        "itemType": "Service"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "estimateNumber": "EST-2025-003",
+    "customerId": 9,
+    "customerName": "Kabwe Foods Solutions",
+    "estimateDateDaysAgo": 7,
+    "expirationDateDaysFromNow": 21,
+    "status": "Sent",
+    "subTotal": 1452653.66,
+    "taxRate": 15,
+    "taxAmount": 217898.05,
+    "total": 1670551.71,
+    "terms": "Net 30",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 7,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Dairy Products",
+        "quantity": 2,
+        "unitPrice": 726326.83,
+        "amount": 1452653.66,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 6
+  },
+  {
+    "id": 4,
+    "estimateNumber": "EST-2025-004",
+    "customerId": 3,
+    "customerName": "Kabwe Beverages Group",
+    "estimateDateDaysAgo": 21,
+    "expirationDateDaysFromNow": 22,
+    "status": "Expired",
+    "subTotal": 1596658.95,
+    "taxRate": 16,
+    "taxAmount": 255465.43,
+    "total": 1852124.38,
+    "terms": "Net 45",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 21,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Beverages",
+        "quantity": 4,
+        "unitPrice": 399164.74,
+        "amount": 1596658.95,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 20
+  },
+  {
+    "id": 5,
+    "estimateNumber": "EST-2025-005",
+    "customerId": 9,
+    "customerName": "Kabwe Foods Solutions",
+    "estimateDateDaysAgo": 32,
+    "expirationDateDaysFromNow": 26,
+    "status": "Open",
+    "subTotal": 2037513.79,
+    "taxRate": 0,
+    "taxAmount": 0.0,
+    "total": 2037513.79,
+    "terms": "Net 15",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 32,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Bakery Goods",
+        "quantity": 1,
+        "unitPrice": 2037513.79,
+        "amount": 2037513.79,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 31
+  },
+  {
+    "id": 6,
+    "estimateNumber": "EST-2025-006",
+    "customerId": 1,
+    "customerName": "Lungu Beverages Solutions",
+    "estimateDateDaysAgo": 17,
+    "expirationDateDaysFromNow": 24,
+    "status": "Expired",
+    "subTotal": 2833607.75,
+    "taxRate": 16,
+    "taxAmount": 453377.24,
+    "total": 3286984.99,
+    "terms": "Net 45",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 17,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Beef Products Supply",
+        "quantity": 2,
+        "unitPrice": 1416803.88,
+        "amount": 2833607.75,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 16
+  },
+  {
+    "id": 7,
+    "estimateNumber": "EST-2025-007",
+    "customerId": 5,
+    "customerName": "Zimba Provisions Solutions",
+    "estimateDateDaysAgo": 10,
+    "expirationDateDaysFromNow": 20,
+    "status": "Sent",
+    "subTotal": 242770.81,
+    "taxRate": 0,
+    "taxAmount": 0.0,
+    "total": 242770.81,
+    "terms": "Net 30",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 10,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Beverages",
+        "quantity": 2,
+        "unitPrice": 121385.4,
+        "amount": 242770.81,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 9
+  },
+  {
+    "id": 8,
+    "estimateNumber": "EST-2025-008",
+    "customerId": 12,
+    "customerName": "Mumba Foods Solutions",
+    "estimateDateDaysAgo": 56,
+    "expirationDateDaysFromNow": 17,
+    "status": "Accepted",
+    "subTotal": 3976772.02,
+    "taxRate": 0,
+    "taxAmount": 0.0,
+    "total": 3976772.02,
+    "terms": "Net 15",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 56,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Fresh Fish Products",
+        "quantity": 5,
+        "unitPrice": 795354.4,
+        "amount": 3976772.02,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 55
+  }
+]

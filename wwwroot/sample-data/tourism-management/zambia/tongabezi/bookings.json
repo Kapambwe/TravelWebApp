@@ -1,0 +1,34 @@
+﻿{
+    "Children":  0,
+    "CheckInDate":  "2024-09-05T00:00:00",
+    "Id":  101,
+    "GuestPhone":  "+442079460192",
+    "CreatedAt":  "2024-06-01T10:00:00",
+    "BookingType":  11,
+    "Adults":  2,
+    "Nationality":  "British",
+    "GuestEmail":  "alice.green@email.com",
+    "TotalAmount":  60000,
+    "PackageId":  3,
+    "PassportNumber":  "GB987654",
+    "Notes":  "Honeymoon stay.",
+    "UpdatedAt":  "2024-06-02T11:00:00",
+    "RoomId":  201,
+    "CheckOutDate":  "2024-09-10T00:00:00",
+    "BalanceAmount":  0,
+    "BookingNumber":  "BK-TB-2024-001",
+    "Status":  1,
+    "LineItems":  [
+                      {
+                          "Id":  1,
+                          "Description":  "Classic Gold Safari Package (5 Nights)",
+                          "BookingId":  101,
+                          "Date":  "2024-09-05",
+                          "Quantity":  2,
+                          "UnitPrice":  30000,
+                          "TotalPrice":  60000
+                      }
+                  ],
+    "PaidAmount":  60000,
+    "GuestName":  "Alice Green"
+}

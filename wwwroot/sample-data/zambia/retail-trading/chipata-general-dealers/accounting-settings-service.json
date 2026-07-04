@@ -1,0 +1,13 @@
+{
+  "companyName": "Chipata General Dealers",
+  "defaultCurrency": "ZMW",
+  "fiscalYearStart": "01-01",
+  "taxRate": 16.0,
+  "dateFormat": "DD/MM/YYYY",
+  "numberFormat": "en-ZM",
+  "enableMultiCurrency": false,
+  "defaultPaymentTerms": 14,
+  "companyTpin": "TPIN-7354621983",
+  "companyAddress": "Plot 567, Kaunda Square, Chipata",
+  "businessType": "general_retail"
+}

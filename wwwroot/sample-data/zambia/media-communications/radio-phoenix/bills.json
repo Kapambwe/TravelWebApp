@@ -1,0 +1,123 @@
+[
+  {
+    "id": 1,
+    "billNumber": "BILL-2025-001",
+    "vendorName": "Kabwe Communications Inc.",
+    "description": "License Fees",
+    "billDate": "2024-10-27T00:00:00",
+    "dueDate": "2024-11-11T00:00:00",
+    "amount": 1502266.63,
+    "paidAmount": 825623.45,
+    "status": "PartiallyPaid"
+  },
+  {
+    "id": 2,
+    "billNumber": "BILL-2025-002",
+    "vendorName": "Kabwe Communications Inc.",
+    "description": "Broadcasting Equipment Hire",
+    "billDate": "2025-02-28T00:00:00",
+    "dueDate": "2025-03-15T00:00:00",
+    "amount": 3480541.09,
+    "paidAmount": 1826381.17,
+    "status": "PartiallyPaid"
+  },
+  {
+    "id": 3,
+    "billNumber": "BILL-2025-003",
+    "vendorName": "Zimba Communications Ltd",
+    "description": "Freelancer Fees",
+    "billDate": "2024-10-13T00:00:00",
+    "dueDate": "2024-10-28T00:00:00",
+    "amount": 723337.86,
+    "paidAmount": 723337.86,
+    "status": "Paid"
+  },
+  {
+    "id": 4,
+    "billNumber": "BILL-2025-004",
+    "vendorName": "Musonda Publishers Enterprises",
+    "description": "License Fees",
+    "billDate": "2024-10-01T00:00:00",
+    "dueDate": "2024-11-15T00:00:00",
+    "amount": 1715379.58,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 5,
+    "billNumber": "BILL-2025-005",
+    "vendorName": "Ngosa Media Solutions",
+    "description": "Printing Costs",
+    "billDate": "2024-10-16T00:00:00",
+    "dueDate": "2024-11-30T00:00:00",
+    "amount": 647465.27,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 6,
+    "billNumber": "BILL-2025-006",
+    "vendorName": "Kabwe Publishers Ltd",
+    "description": "Broadcasting Equipment Hire",
+    "billDate": "2024-12-11T00:00:00",
+    "dueDate": "2025-01-25T00:00:00",
+    "amount": 936751.4,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 7,
+    "billNumber": "BILL-2025-007",
+    "vendorName": "Zimba Communications Ltd",
+    "description": "Studio Production Costs",
+    "billDate": "2025-02-06T00:00:00",
+    "dueDate": "2025-02-21T00:00:00",
+    "amount": 3323774.43,
+    "paidAmount": 2288642.33,
+    "status": "PartiallyPaid"
+  },
+  {
+    "id": 8,
+    "billNumber": "BILL-2025-008",
+    "vendorName": "Kabwe Publishers Ltd",
+    "description": "Studio Production Costs",
+    "billDate": "2025-03-06T00:00:00",
+    "dueDate": "2025-04-20T00:00:00",
+    "amount": 954813.01,
+    "paidAmount": 954813.01,
+    "status": "Paid"
+  },
+  {
+    "id": 9,
+    "billNumber": "BILL-2025-009",
+    "vendorName": "Kabwe Publishers Ltd",
+    "description": "Broadcasting Equipment Hire",
+    "billDate": "2024-10-26T00:00:00",
+    "dueDate": "2024-11-25T00:00:00",
+    "amount": 1238925.88,
+    "paidAmount": 1238925.88,
+    "status": "Paid"
+  },
+  {
+    "id": 10,
+    "billNumber": "BILL-2025-010",
+    "vendorName": "Zimba Publishers Group",
+    "description": "License Fees",
+    "billDate": "2024-09-17T00:00:00",
+    "dueDate": "2024-11-01T00:00:00",
+    "amount": 1611632.29,
+    "paidAmount": 1611632.29,
+    "status": "Paid"
+  },
+  {
+    "id": 11,
+    "billNumber": "BILL-2025-011",
+    "vendorName": "Zimba Communications Ltd",
+    "description": "Broadcasting Equipment Hire",
+    "billDate": "2025-02-17T00:00:00",
+    "dueDate": "2025-03-19T00:00:00",
+    "amount": 2308865.37,
+    "paidAmount": 2308865.37,
+    "status": "Paid"
+  }
+]

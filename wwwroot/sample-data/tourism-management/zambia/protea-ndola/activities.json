@@ -1,0 +1,22 @@
+﻿[
+    {
+        "BasePrice":  3000,
+        "Capacity":  4,
+        "IsActive":  true,
+        "Id":  303,
+        "Name":  "Ndola Golf Course Tee Time",
+        "Type":  8,
+        "Description":  "18-hole golf booking at the Ndola Golf Club.",
+        "Duration":  240
+    },
+    {
+        "BasePrice":  1800,
+        "Capacity":  12,
+        "IsActive":  true,
+        "Id":  304,
+        "Name":  "Stadium Tour and Executive Lunch",
+        "Type":  12,
+        "Description":  "Tour of Levy Mwanawasa Stadium with lunch on site.",
+        "Duration":  120
+    }
+]

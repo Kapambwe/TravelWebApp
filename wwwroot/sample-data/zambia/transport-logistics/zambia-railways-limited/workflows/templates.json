@@ -1,0 +1,191 @@
+{
+  "templates": [
+    {
+      "id": 201,
+      "name": "Freight Billing Approval",
+      "description": "Approve freight charges before invoices are issued to customers.",
+      "category": "Accounts Receivable",
+      "industry": "Transport",
+      "iconName": "receipt_long",
+      "iconColor": "#2563eb",
+      "isFeatured": true,
+      "isRecommended": true,
+      "usageCount": 86,
+      "rating": 4.7,
+      "tags": ["freight", "billing", "approval", "ar"],
+      "templateDefinition": {
+        "name": "Freight Billing Approval",
+        "description": "Validate freight billing before issue",
+        "category": "Accounting",
+        "trigger": {
+          "triggerType": "Event",
+          "eventType": "FreightChargeRecorded"
+        },
+        "steps": [
+          {
+            "stepNumber": 1,
+            "stepType": "Condition",
+            "name": "Check Charge Amount",
+            "conditions": [
+              { "field": "Amount", "operator": "GreaterThan", "value": "5000", "valueType": "Number" }
+            ]
+          },
+          {
+            "stepNumber": 2,
+            "stepType": "Approval",
+            "name": "Finance Approval",
+            "approval": {
+              "approvalType": "Single",
+              "approvers": ["finance@railways.co.zm"],
+              "timeoutHours": 24
+            }
+          },
+          {
+            "stepNumber": 3,
+            "stepType": "Action",
+            "name": "Issue Customer Invoice",
+            "action": {
+              "actionType": "CreateRecord",
+              "entityType": "Invoice",
+              "fieldMappings": {
+                "Status": "Approved",
+                "InvoiceType": "Freight"
+              }
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 202,
+      "name": "Maintenance Expense Review",
+      "description": "Route rail maintenance expenses for supervisory review and budget tracking.",
+      "category": "Accounts Payable",
+      "industry": "Transport",
+      "iconName": "engineering",
+      "iconColor": "#f59e0b",
+      "isFeatured": false,
+      "isRecommended": true,
+      "usageCount": 64,
+      "rating": 4.5,
+      "tags": ["maintenance", "expense", "review", "ap"],
+      "templateDefinition": {
+        "name": "Maintenance Expense Review",
+        "description": "Review maintenance bills before payment",
+        "category": "Operations",
+        "trigger": {
+          "triggerType": "Event",
+          "eventType": "BillCreated"
+        },
+        "steps": [
+          {
+            "stepNumber": 1,
+            "stepType": "Approval",
+            "name": "Operations Manager Review",
+            "approval": {
+              "approvalType": "Single",
+              "approvers": ["ops.manager@railways.co.zm"],
+              "timeoutHours": 48
+            }
+          },
+          {
+            "stepNumber": 2,
+            "stepType": "Action",
+            "name": "Notify Accounts Payable",
+            "action": {
+              "actionType": "SendNotification",
+              "parameters": { "Channel": "Email", "Recipient": "ap@railways.co.zm", "Message": "Maintenance expense approved." }
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 203,
+      "name": "Cargo Manifest Release",
+      "description": "Release cargo only after compliance checks and documentation are approved.",
+      "category": "Operations",
+      "industry": "Transport",
+      "iconName": "local_shipping",
+      "iconColor": "#0ea5e9",
+      "isFeatured": true,
+      "isRecommended": true,
+      "usageCount": 74,
+      "rating": 4.6,
+      "tags": ["cargo", "manifest", "release", "compliance"],
+      "templateDefinition": {
+        "name": "Cargo Manifest Release",
+        "description": "Approve cargo release after checks",
+        "category": "Operations",
+        "trigger": {
+          "triggerType": "Event",
+          "eventType": "CargoManifestSubmitted"
+        },
+        "steps": [
+          {
+            "stepNumber": 1,
+            "stepType": "Condition",
+            "name": "Check Compliance Status",
+            "conditions": [
+              { "field": "ComplianceStatus", "operator": "Equals", "value": "Approved", "valueType": "String" }
+            ]
+          },
+          {
+            "stepNumber": 2,
+            "stepType": "Action",
+            "name": "Notify Dispatch Team",
+            "action": {
+              "actionType": "SendNotification",
+              "parameters": { "Channel": "Email", "Recipient": "dispatch@railways.co.zm", "Message": "Cargo manifest released." }
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 204,
+      "name": "Fuel Expense Reconciliation",
+      "description": "Reconcile fuel purchase records against route and vehicle usage.",
+      "category": "Finance",
+      "industry": "Transport",
+      "iconName": "local_gas_station",
+      "iconColor": "#d97706",
+      "isFeatured": false,
+      "isRecommended": true,
+      "usageCount": 58,
+      "rating": 4.5,
+      "tags": ["fuel", "reconciliation", "expense", "fleet"],
+      "templateDefinition": {
+        "name": "Fuel Expense Reconciliation",
+        "description": "Match fuel spend with fleet activity",
+        "category": "Accounting",
+        "trigger": {
+          "triggerType": "Schedule",
+          "scheduleType": "Weekly",
+          "cronExpression": "0 6 * * 1"
+        },
+        "steps": [
+          {
+            "stepNumber": 1,
+            "stepType": "Action",
+            "name": "Run Fuel Report",
+            "action": {
+              "actionType": "RunReport",
+              "parameters": { "ReportType": "FuelUsageByVehicle", "Period": "LastWeek" }
+            }
+          },
+          {
+            "stepNumber": 2,
+            "stepType": "Approval",
+            "name": "Fleet Manager Review",
+            "approval": {
+              "approvalType": "Single",
+              "approvers": ["fleet.manager@railways.co.zm"],
+              "timeoutHours": 24
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

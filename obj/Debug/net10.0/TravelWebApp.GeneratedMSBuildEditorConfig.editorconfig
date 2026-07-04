@@ -1,0 +1,150 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.VerifyReferenceTrimCompatibility = 
+build_property.VerifyReferenceAotCompatibility = 
+build_property.TargetFramework = net10.0
+build_property.TargetFrameworkIdentifier = .NETCoreApp
+build_property.TargetFrameworkVersion = v10.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EntryPointFilePath = 
+build_property._SupportedPlatformList = browser
+build_property.RootNamespace = TravelWebApp
+build_property.RootNamespace = TravelWebApp
+build_property.ProjectDir = C:\Dev\Accounting-As-A-Service\src\WebApps\TravelWebApp\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = false
+build_property.RazorLangVersion = 10.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Dev\Accounting-As-A-Service\src\WebApps\TravelWebApp
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 10.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/Dev/Accounting-As-A-Service/src/WebApps/TravelWebApp/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Dev/Accounting-As-A-Service/src/WebApps/TravelWebApp/Components/BookingCard.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xCb29raW5nQ2FyZC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Dev/Accounting-As-A-Service/src/WebApps/TravelWebApp/Components/FilterSidebar.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xGaWx0ZXJTaWRlYmFyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Dev/Accounting-As-A-Service/src/WebApps/TravelWebApp/Components/HeroSearch.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xIZXJvU2VhcmNoLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Dev/Accounting-As-A-Service/src/WebApps/TravelWebApp/Components/OttoChat.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xPdHRvQ2hhdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Dev/Accounting-As-A-Service/src/WebApps/TravelWebApp/Components/ServiceCard.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xTZXJ2aWNlQ2FyZC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Dev/Accounting-As-A-Service/src/WebApps/TravelWebApp/Pages/Activities.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWN0aXZpdGllcy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Dev/Accounting-As-A-Service/src/WebApps/TravelWebApp/Pages/AIAssistant.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQUlBc3Npc3RhbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Dev/Accounting-As-A-Service/src/WebApps/TravelWebApp/Pages/BookingCardItem.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQm9va2luZ0NhcmRJdGVtLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Dev/Accounting-As-A-Service/src/WebApps/TravelWebApp/Pages/Cart.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FydC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Dev/Accounting-As-A-Service/src/WebApps/TravelWebApp/Pages/Checkout.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2hlY2tvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Dev/Accounting-As-A-Service/src/WebApps/TravelWebApp/Pages/Confirmation.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29uZmlybWF0aW9uLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Dev/Accounting-As-A-Service/src/WebApps/TravelWebApp/Pages/CorporateTravel.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29ycG9yYXRlVHJhdmVsLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Dev/Accounting-As-A-Service/src/WebApps/TravelWebApp/Pages/Detail.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGV0YWlsLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Dev/Accounting-As-A-Service/src/WebApps/TravelWebApp/Pages/GroupBookings.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR3JvdXBCb29raW5ncy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Dev/Accounting-As-A-Service/src/WebApps/TravelWebApp/Pages/HolidayPackages.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9saWRheVBhY2thZ2VzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Dev/Accounting-As-A-Service/src/WebApps/TravelWebApp/Pages/Home.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Dev/Accounting-As-A-Service/src/WebApps/TravelWebApp/Pages/Login.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW4ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Dev/Accounting-As-A-Service/src/WebApps/TravelWebApp/Pages/Loyalty.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG95YWx0eS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Dev/Accounting-As-A-Service/src/WebApps/TravelWebApp/Pages/MyBookings.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTXlCb29raW5ncy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Dev/Accounting-As-A-Service/src/WebApps/TravelWebApp/Pages/NotFound.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTm90Rm91bmQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Dev/Accounting-As-A-Service/src/WebApps/TravelWebApp/Pages/ParkEntry.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGFya0VudHJ5LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Dev/Accounting-As-A-Service/src/WebApps/TravelWebApp/Pages/ProductsServices.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZHVjdHNTZXJ2aWNlcy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Dev/Accounting-As-A-Service/src/WebApps/TravelWebApp/Pages/Profile.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZmlsZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Dev/Accounting-As-A-Service/src/WebApps/TravelWebApp/Pages/Register.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVnaXN0ZXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Dev/Accounting-As-A-Service/src/WebApps/TravelWebApp/Pages/Search.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2VhcmNoLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Dev/Accounting-As-A-Service/src/WebApps/TravelWebApp/Pages/TravellersGuide.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVHJhdmVsbGVyc0d1aWRlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Dev/Accounting-As-A-Service/src/WebApps/TravelWebApp/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Dev/Accounting-As-A-Service/src/WebApps/TravelWebApp/Layout/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-it7qp2ljxv
+
+[C:/Dev/Accounting-As-A-Service/src/WebApps/TravelWebApp/Layout/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-c48xnhzee2

@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "invoiceNumber": "INV-2025-001",
+    "clientName": "Phiri Music Group Ltd",
+    "description": "Collaboration Fee",
+    "invoiceDate": "2025-01-30T00:00:00",
+    "dueDate": "2025-03-01T00:00:00",
+    "amount": 4946758.16,
+    "receivedAmount": 0.0,
+    "status": "Open",
+    "customerId": 3
+  },
+  {
+    "id": 2,
+    "invoiceNumber": "INV-2025-002",
+    "clientName": "Musonda Entertainment Ltd",
+    "description": "Performance Fee",
+    "invoiceDate": "2024-10-06T00:00:00",
+    "dueDate": "2024-11-20T00:00:00",
+    "amount": 3600744.19,
+    "receivedAmount": 0.0,
+    "status": "Open",
+    "customerId": 2
+  },
+  {
+    "id": 3,
+    "invoiceNumber": "INV-2025-003",
+    "clientName": "Lungu Music Group Enterprises",
+    "description": "Concert Headlining Fee",
+    "invoiceDate": "2024-09-22T00:00:00",
+    "dueDate": "2024-11-21T00:00:00",
+    "amount": 1683873.9,
+    "receivedAmount": 0.0,
+    "status": "Overdue",
+    "customerId": 5
+  },
+  {
+    "id": 4,
+    "invoiceNumber": "INV-2025-004",
+    "clientName": "Chileshe Creative Agency Enterprises",
+    "description": "Performance Fee",
+    "invoiceDate": "2024-11-06T00:00:00",
+    "dueDate": "2025-01-05T00:00:00",
+    "amount": 359267.89,
+    "receivedAmount": 359267.89,
+    "status": "Paid",
+    "customerId": 8
+  },
+  {
+    "id": 5,
+    "invoiceNumber": "INV-2025-005",
+    "clientName": "Mutale Media Ltd",
+    "description": "Music Licensing",
+    "invoiceDate": "2025-03-10T00:00:00",
+    "dueDate": "2025-04-09T00:00:00",
+    "amount": 2164780.72,
+    "receivedAmount": 1288852.86,
+    "status": "PartiallyPaid",
+    "customerId": 6
+  },
+  {
+    "id": 6,
+    "invoiceNumber": "INV-2025-006",
+    "clientName": "Phiri Music Group Ltd",
+    "description": "Music Licensing",
+    "invoiceDate": "2024-11-23T00:00:00",
+    "dueDate": "2024-12-23T00:00:00",
+    "amount": 1268120.04,
+    "receivedAmount": 701236.07,
+    "status": "PartiallyPaid",
+    "customerId": 3
+  },
+  {
+    "id": 7,
+    "invoiceNumber": "INV-2025-007",
+    "clientName": "Lungu Music Group Enterprises",
+    "description": "Brand Deal",
+    "invoiceDate": "2024-12-28T00:00:00",
+    "dueDate": "2025-02-26T00:00:00",
+    "amount": 1164223.7,
+    "receivedAmount": 1164223.7,
+    "status": "Paid",
+    "customerId": 5
+  },
+  {
+    "id": 8,
+    "invoiceNumber": "INV-2025-008",
+    "clientName": "Phiri Music Group Ltd",
+    "description": "Collaboration Fee",
+    "invoiceDate": "2024-11-25T00:00:00",
+    "dueDate": "2024-12-10T00:00:00",
+    "amount": 1580243.22,
+    "receivedAmount": 0.0,
+    "status": "Open",
+    "customerId": 3
+  },
+  {
+    "id": 9,
+    "invoiceNumber": "INV-2025-009",
+    "clientName": "Chileshe Creative Agency Enterprises",
+    "description": "Performance Fee",
+    "invoiceDate": "2024-10-20T00:00:00",
+    "dueDate": "2024-12-04T00:00:00",
+    "amount": 1875829.11,
+    "receivedAmount": 0.0,
+    "status": "Open",
+    "customerId": 8
+  },
+  {
+    "id": 10,
+    "invoiceNumber": "INV-2025-010",
+    "clientName": "Lungu Music Group Enterprises",
+    "description": "Performance Fee",
+    "invoiceDate": "2024-12-11T00:00:00",
+    "dueDate": "2024-12-26T00:00:00",
+    "amount": 3688485.86,
+    "receivedAmount": 2939333.0,
+    "status": "PartiallyPaid",
+    "customerId": 5
+  }
+]

@@ -1,0 +1,242 @@
+[
+  {
+    "id": "budget-001",
+    "budgetName": "Journalism Budget 1",
+    "category": "Marketing",
+    "amount": 46114.75,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-002",
+    "budgetName": "Advertising Budget 2",
+    "category": "Development",
+    "amount": 46058.19,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-003",
+    "budgetName": "Advertising Budget 3",
+    "category": "Operations",
+    "amount": 34464.87,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-004",
+    "budgetName": "Journalism Budget 4",
+    "category": "Marketing",
+    "amount": 51539.44,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-005",
+    "budgetName": "Publishing Budget 5",
+    "category": "Administration",
+    "amount": 41036.9,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-006",
+    "budgetName": "Journalism Budget 6",
+    "category": "Marketing",
+    "amount": 62319.79,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-007",
+    "budgetName": "Advertising Budget 7",
+    "category": "Marketing",
+    "amount": 45273.37,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-008",
+    "budgetName": "Publishing Budget 8",
+    "category": "Marketing",
+    "amount": 63658.47,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-009",
+    "budgetName": "Distribution Budget 9",
+    "category": "Development",
+    "amount": 24162.8,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-010",
+    "budgetName": "Distribution Budget 10",
+    "category": "Operations",
+    "amount": 98103.23,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-011",
+    "budgetName": "Publishing Budget 11",
+    "category": "Marketing",
+    "amount": 17422.34,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-012",
+    "budgetName": "Publishing Budget 12",
+    "category": "Marketing",
+    "amount": 69861.14,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-013",
+    "budgetName": "Journalism Budget 13",
+    "category": "Development",
+    "amount": 48341.13,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-014",
+    "budgetName": "Distribution Budget 14",
+    "category": "Administration",
+    "amount": 72939.93,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-015",
+    "budgetName": "Publishing Budget 15",
+    "category": "Operations",
+    "amount": 32697.52,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-016",
+    "budgetName": "Journalism Budget 16",
+    "category": "Operations",
+    "amount": 79671.05,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-017",
+    "budgetName": "Journalism Budget 17",
+    "category": "Marketing",
+    "amount": 42377.17,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-018",
+    "budgetName": "Publishing Budget 18",
+    "category": "Marketing",
+    "amount": 11928.65,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-019",
+    "budgetName": "Publishing Budget 19",
+    "category": "Development",
+    "amount": 12782.4,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-020",
+    "budgetName": "Publishing Budget 20",
+    "category": "Development",
+    "amount": 73714.35,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-021",
+    "budgetName": "Journalism Budget 21",
+    "category": "Marketing",
+    "amount": 11246.99,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-022",
+    "budgetName": "Publishing Budget 22",
+    "category": "Operations",
+    "amount": 78630.29,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-023",
+    "budgetName": "Distribution Budget 23",
+    "category": "Marketing",
+    "amount": 25513.83,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-024",
+    "budgetName": "Distribution Budget 24",
+    "category": "Development",
+    "amount": 75563.89,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-025",
+    "budgetName": "Advertising Budget 25",
+    "category": "Administration",
+    "amount": 23820.11,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-026",
+    "budgetName": "Distribution Budget 26",
+    "category": "Administration",
+    "amount": 82455.77,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-027",
+    "budgetName": "Publishing Budget 27",
+    "category": "Marketing",
+    "amount": 61135.44,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-028",
+    "budgetName": "Publishing Budget 28",
+    "category": "Marketing",
+    "amount": 97418.05,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-029",
+    "budgetName": "Publishing Budget 29",
+    "category": "Administration",
+    "amount": 61952.71,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-030",
+    "budgetName": "Publishing Budget 30",
+    "category": "Operations",
+    "amount": 21200.4,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  }
+]

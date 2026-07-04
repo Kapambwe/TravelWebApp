@@ -1,0 +1,123 @@
+[
+  {
+    "id": 1,
+    "billNumber": "BILL-2025-001",
+    "vendorName": "Zimba Entertainment Co.",
+    "description": "Social Media Management",
+    "billDate": "2025-01-17T00:00:00",
+    "dueDate": "2025-03-03T00:00:00",
+    "amount": 3176778.27,
+    "paidAmount": 3176778.27,
+    "status": "Paid"
+  },
+  {
+    "id": 2,
+    "billNumber": "BILL-2025-002",
+    "vendorName": "Zimba Entertainment Co.",
+    "description": "PR Campaign",
+    "billDate": "2025-02-12T00:00:00",
+    "dueDate": "2025-02-27T00:00:00",
+    "amount": 1258068.7,
+    "paidAmount": 0.0,
+    "status": "Overdue"
+  },
+  {
+    "id": 3,
+    "billNumber": "BILL-2025-003",
+    "vendorName": "Mumba Entertainment Limited",
+    "description": "Sound & Lighting Hire",
+    "billDate": "2024-10-26T00:00:00",
+    "dueDate": "2024-11-25T00:00:00",
+    "amount": 2901172.09,
+    "paidAmount": 1224148.36,
+    "status": "PartiallyPaid"
+  },
+  {
+    "id": 4,
+    "billNumber": "BILL-2025-004",
+    "vendorName": "Mumba Entertainment Limited",
+    "description": "Management Fee",
+    "billDate": "2025-01-23T00:00:00",
+    "dueDate": "2025-02-22T00:00:00",
+    "amount": 106590.1,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 5,
+    "billNumber": "BILL-2025-005",
+    "vendorName": "Mulenga Productions Holdings",
+    "description": "Music Video Production",
+    "billDate": "2024-12-28T00:00:00",
+    "dueDate": "2025-01-12T00:00:00",
+    "amount": 2162611.1,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 6,
+    "billNumber": "BILL-2025-006",
+    "vendorName": "Lungu Entertainment Holdings",
+    "description": "Music Video Production",
+    "billDate": "2025-01-18T00:00:00",
+    "dueDate": "2025-03-04T00:00:00",
+    "amount": 2470334.36,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 7,
+    "billNumber": "BILL-2025-007",
+    "vendorName": "Mulenga Productions Holdings",
+    "description": "Tour Logistics",
+    "billDate": "2024-12-08T00:00:00",
+    "dueDate": "2025-01-07T00:00:00",
+    "amount": 832158.93,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 8,
+    "billNumber": "BILL-2025-008",
+    "vendorName": "Mwale Productions Holdings",
+    "description": "PR Campaign",
+    "billDate": "2025-02-22T00:00:00",
+    "dueDate": "2025-03-24T00:00:00",
+    "amount": 2416728.56,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 9,
+    "billNumber": "BILL-2025-009",
+    "vendorName": "Lungu Entertainment Holdings",
+    "description": "Studio Recording Session",
+    "billDate": "2024-12-06T00:00:00",
+    "dueDate": "2025-01-20T00:00:00",
+    "amount": 2824463.36,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 10,
+    "billNumber": "BILL-2025-010",
+    "vendorName": "Mulenga Productions Holdings",
+    "description": "Tour Logistics",
+    "billDate": "2024-10-21T00:00:00",
+    "dueDate": "2024-11-20T00:00:00",
+    "amount": 3146183.37,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 11,
+    "billNumber": "BILL-2025-011",
+    "vendorName": "Zimba Entertainment Co.",
+    "description": "PR Campaign",
+    "billDate": "2024-09-27T00:00:00",
+    "dueDate": "2024-10-12T00:00:00",
+    "amount": 336948.92,
+    "paidAmount": 336948.92,
+    "status": "Paid"
+  }
+]

@@ -1,0 +1,272 @@
+[
+  {
+    "id": "contact-001",
+    "firstName": "John",
+    "lastName": "Smith",
+    "email": "contact1@business.zm",
+    "phone": "+260-216-843402",
+    "jobTitle": "Officer",
+    "company": "Manufacturers"
+  },
+  {
+    "id": "contact-002",
+    "firstName": "Mary",
+    "lastName": "Johnson",
+    "email": "contact2@business.zm",
+    "phone": "+260-097-624259",
+    "jobTitle": "Officer",
+    "company": "Retailers"
+  },
+  {
+    "id": "contact-003",
+    "firstName": "Peter",
+    "lastName": "Williams",
+    "email": "contact3@business.zm",
+    "phone": "+260-217-229365",
+    "jobTitle": "Coordinator",
+    "company": "E-commerce Companies"
+  },
+  {
+    "id": "contact-004",
+    "firstName": "Grace",
+    "lastName": "Brown",
+    "email": "contact4@business.zm",
+    "phone": "+260-095-216302",
+    "jobTitle": "Officer",
+    "company": "Exporters"
+  },
+  {
+    "id": "contact-005",
+    "firstName": "David",
+    "lastName": "Jones",
+    "email": "contact5@business.zm",
+    "phone": "+260-217-260381",
+    "jobTitle": "Specialist",
+    "company": "E-commerce Companies"
+  },
+  {
+    "id": "contact-006",
+    "firstName": "John",
+    "lastName": "Smith",
+    "email": "contact6@business.zm",
+    "phone": "+260-216-275809",
+    "jobTitle": "Manager",
+    "company": "Insurance Providers"
+  },
+  {
+    "id": "contact-007",
+    "firstName": "Mary",
+    "lastName": "Johnson",
+    "email": "contact7@business.zm",
+    "phone": "+260-095-390785",
+    "jobTitle": "Specialist",
+    "company": "Exporters"
+  },
+  {
+    "id": "contact-008",
+    "firstName": "Peter",
+    "lastName": "Williams",
+    "email": "contact8@business.zm",
+    "phone": "+260-217-821682",
+    "jobTitle": "Officer",
+    "company": "Retailers"
+  },
+  {
+    "id": "contact-009",
+    "firstName": "Grace",
+    "lastName": "Brown",
+    "email": "contact9@business.zm",
+    "phone": "+260-217-289459",
+    "jobTitle": "Supervisor",
+    "company": "Retailers"
+  },
+  {
+    "id": "contact-010",
+    "firstName": "David",
+    "lastName": "Jones",
+    "email": "contact10@business.zm",
+    "phone": "+260-097-679176",
+    "jobTitle": "Manager",
+    "company": "Exporters"
+  },
+  {
+    "id": "contact-011",
+    "firstName": "John",
+    "lastName": "Smith",
+    "email": "contact11@business.zm",
+    "phone": "+260-095-665636",
+    "jobTitle": "Coordinator",
+    "company": "Vehicle Maintenance"
+  },
+  {
+    "id": "contact-012",
+    "firstName": "Mary",
+    "lastName": "Johnson",
+    "email": "contact12@business.zm",
+    "phone": "+260-096-251159",
+    "jobTitle": "Officer",
+    "company": "Vehicle Maintenance"
+  },
+  {
+    "id": "contact-013",
+    "firstName": "Peter",
+    "lastName": "Williams",
+    "email": "contact13@business.zm",
+    "phone": "+260-096-880941",
+    "jobTitle": "Supervisor",
+    "company": "Retailers"
+  },
+  {
+    "id": "contact-014",
+    "firstName": "Grace",
+    "lastName": "Brown",
+    "email": "contact14@business.zm",
+    "phone": "+260-094-906658",
+    "jobTitle": "Manager",
+    "company": "Manufacturers"
+  },
+  {
+    "id": "contact-015",
+    "firstName": "David",
+    "lastName": "Jones",
+    "email": "contact15@business.zm",
+    "phone": "+260-096-320774",
+    "jobTitle": "Specialist",
+    "company": "Exporters"
+  },
+  {
+    "id": "contact-016",
+    "firstName": "John",
+    "lastName": "Smith",
+    "email": "contact16@business.zm",
+    "phone": "+260-216-176543",
+    "jobTitle": "Officer",
+    "company": "Retailers"
+  },
+  {
+    "id": "contact-017",
+    "firstName": "Mary",
+    "lastName": "Johnson",
+    "email": "contact17@business.zm",
+    "phone": "+260-216-758571",
+    "jobTitle": "Manager",
+    "company": "Vehicle Maintenance"
+  },
+  {
+    "id": "contact-018",
+    "firstName": "Peter",
+    "lastName": "Williams",
+    "email": "contact18@business.zm",
+    "phone": "+260-096-144827",
+    "jobTitle": "Officer",
+    "company": "Retailers"
+  },
+  {
+    "id": "contact-019",
+    "firstName": "Grace",
+    "lastName": "Brown",
+    "email": "contact19@business.zm",
+    "phone": "+260-217-526858",
+    "jobTitle": "Specialist",
+    "company": "Insurance Providers"
+  },
+  {
+    "id": "contact-020",
+    "firstName": "David",
+    "lastName": "Jones",
+    "email": "contact20@business.zm",
+    "phone": "+260-217-259476",
+    "jobTitle": "Manager",
+    "company": "Insurance Providers"
+  },
+  {
+    "id": "contact-021",
+    "firstName": "John",
+    "lastName": "Smith",
+    "email": "contact21@business.zm",
+    "phone": "+260-094-312899",
+    "jobTitle": "Officer",
+    "company": "E-commerce Companies"
+  },
+  {
+    "id": "contact-022",
+    "firstName": "Mary",
+    "lastName": "Johnson",
+    "email": "contact22@business.zm",
+    "phone": "+260-097-648587",
+    "jobTitle": "Manager",
+    "company": "Vehicle Maintenance"
+  },
+  {
+    "id": "contact-023",
+    "firstName": "Peter",
+    "lastName": "Williams",
+    "email": "contact23@business.zm",
+    "phone": "+260-096-328051",
+    "jobTitle": "Specialist",
+    "company": "Vehicle Maintenance"
+  },
+  {
+    "id": "contact-024",
+    "firstName": "Grace",
+    "lastName": "Brown",
+    "email": "contact24@business.zm",
+    "phone": "+260-094-370845",
+    "jobTitle": "Supervisor",
+    "company": "Vehicle Maintenance"
+  },
+  {
+    "id": "contact-025",
+    "firstName": "David",
+    "lastName": "Jones",
+    "email": "contact25@business.zm",
+    "phone": "+260-217-427261",
+    "jobTitle": "Officer",
+    "company": "Vehicle Maintenance"
+  },
+  {
+    "id": "contact-026",
+    "firstName": "John",
+    "lastName": "Smith",
+    "email": "contact26@business.zm",
+    "phone": "+260-097-483153",
+    "jobTitle": "Officer",
+    "company": "Exporters"
+  },
+  {
+    "id": "contact-027",
+    "firstName": "Mary",
+    "lastName": "Johnson",
+    "email": "contact27@business.zm",
+    "phone": "+260-097-555978",
+    "jobTitle": "Officer",
+    "company": "E-commerce Companies"
+  },
+  {
+    "id": "contact-028",
+    "firstName": "Peter",
+    "lastName": "Williams",
+    "email": "contact28@business.zm",
+    "phone": "+260-094-815492",
+    "jobTitle": "Manager",
+    "company": "Fuel Suppliers"
+  },
+  {
+    "id": "contact-029",
+    "firstName": "Grace",
+    "lastName": "Brown",
+    "email": "contact29@business.zm",
+    "phone": "+260-097-704408",
+    "jobTitle": "Officer",
+    "company": "Fuel Suppliers"
+  },
+  {
+    "id": "contact-030",
+    "firstName": "David",
+    "lastName": "Jones",
+    "email": "contact30@business.zm",
+    "phone": "+260-096-937874",
+    "jobTitle": "Manager",
+    "company": "E-commerce Companies"
+  }
+]

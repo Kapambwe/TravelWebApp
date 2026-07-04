@@ -1,0 +1,272 @@
+[
+  {
+    "id": "acct-ym-001",
+    "accountName": "Cash - Operating Account",
+    "accountType": "Asset",
+    "accountNumber": "1000",
+    "balance": 145678.50,
+    "currency": "ZMW",
+    "description": "Main operating cash account"
+  },
+  {
+    "id": "acct-ym-002",
+    "accountName": "Cash - Royalties Account",
+    "accountType": "Asset",
+    "accountNumber": "1010",
+    "balance": 52300.00,
+    "currency": "ZMW",
+    "description": "Streaming and royalty payments account"
+  },
+  {
+    "id": "acct-ym-003",
+    "accountName": "Bank - FNB Current Account",
+    "accountType": "Asset",
+    "accountNumber": "1100",
+    "balance": 280450.75,
+    "currency": "ZMW",
+    "description": "FNB business current account"
+  },
+  {
+    "id": "acct-ym-004",
+    "accountName": "Accounts Receivable - Performance Fees",
+    "accountType": "Asset",
+    "accountNumber": "1200",
+    "balance": 95000.00,
+    "currency": "ZMW",
+    "description": "Outstanding performance booking payments"
+  },
+  {
+    "id": "acct-ym-005",
+    "accountName": "Accounts Receivable - Streaming Royalties",
+    "accountType": "Asset",
+    "accountNumber": "1210",
+    "balance": 27500.00,
+    "currency": "ZMW",
+    "description": "Pending streaming platform payments"
+  },
+  {
+    "id": "acct-ym-006",
+    "accountName": "Accounts Receivable - Brand Endorsements",
+    "accountType": "Asset",
+    "accountNumber": "1220",
+    "balance": 25000.00,
+    "currency": "ZMW",
+    "description": "Outstanding brand partnership payments"
+  },
+  {
+    "id": "acct-ym-007",
+    "accountName": "Inventory - Merchandise",
+    "accountType": "Asset",
+    "accountNumber": "1300",
+    "balance": 35600.00,
+    "currency": "ZMW",
+    "description": "T-shirts, caps, hoodies in stock"
+  },
+  {
+    "id": "acct-ym-008",
+    "accountName": "Inventory - Physical Albums (CDs)",
+    "accountType": "Asset",
+    "accountNumber": "1310",
+    "balance": 12500.00,
+    "currency": "ZMW",
+    "description": "Physical CD inventory"
+  },
+  {
+    "id": "acct-ym-009",
+    "accountName": "Music Equipment",
+    "accountType": "Asset",
+    "accountNumber": "1500",
+    "balance": 185000.00,
+    "currency": "ZMW",
+    "description": "Microphones, mixers, speakers"
+  },
+  {
+    "id": "acct-ym-010",
+    "accountName": "Sound & Recording Equipment",
+    "accountType": "Asset",
+    "accountNumber": "1510",
+    "balance": 220000.00,
+    "currency": "ZMW",
+    "description": "Recording studio equipment"
+  },
+  {
+    "id": "acct-ym-011",
+    "accountName": "Vehicles",
+    "accountType": "Asset",
+    "accountNumber": "1530",
+    "balance": 450000.00,
+    "currency": "ZMW",
+    "description": "Tour and business vehicles"
+  },
+  {
+    "id": "acct-ym-012",
+    "accountName": "Real Estate - Residential Properties",
+    "accountType": "Asset",
+    "accountNumber": "1600",
+    "balance": 1250000.00,
+    "currency": "ZMW",
+    "description": "Rental properties"
+  },
+  {
+    "id": "acct-ym-013",
+    "accountName": "Intangible Assets - Master Recordings",
+    "accountType": "Asset",
+    "accountNumber": "1700",
+    "balance": 350000.00,
+    "currency": "ZMW",
+    "description": "Master recordings and unreleased tracks"
+  },
+  {
+    "id": "acct-ym-014",
+    "accountName": "Intangible Assets - Music Copyrights",
+    "accountType": "Asset",
+    "accountNumber": "1710",
+    "balance": 280000.00,
+    "currency": "ZMW",
+    "description": "Music publishing rights"
+  },
+  {
+    "id": "acct-ym-015",
+    "accountName": "Accounts Payable - Trade",
+    "accountType": "Liability",
+    "accountNumber": "2000",
+    "balance": 45600.00,
+    "currency": "ZMW",
+    "description": "Outstanding vendor payments"
+  },
+  {
+    "id": "acct-ym-016",
+    "accountName": "Accounts Payable - Production Services",
+    "accountType": "Liability",
+    "accountNumber": "2010",
+    "balance": 28000.00,
+    "currency": "ZMW",
+    "description": "Studio and production costs payable"
+  },
+  {
+    "id": "acct-ym-017",
+    "accountName": "Accrued Expenses - Royalties Payable",
+    "accountType": "Liability",
+    "accountNumber": "2100",
+    "balance": 15500.00,
+    "currency": "ZMW",
+    "description": "Producer and songwriter royalties owed"
+  },
+  {
+    "id": "acct-ym-018",
+    "accountName": "Payroll Liabilities - PAYE",
+    "accountType": "Liability",
+    "accountNumber": "2200",
+    "balance": 8200.00,
+    "currency": "ZMW",
+    "description": "PAYE tax payable to ZRA"
+  },
+  {
+    "id": "acct-ym-019",
+    "accountName": "VAT Payable",
+    "accountType": "Liability",
+    "accountNumber": "2300",
+    "balance": 12800.00,
+    "currency": "ZMW",
+    "description": "VAT collected and payable"
+  },
+  {
+    "id": "acct-ym-020",
+    "accountName": "Owner's Capital",
+    "accountType": "Equity",
+    "accountNumber": "3000",
+    "balance": 2500000.00,
+    "currency": "ZMW",
+    "description": "Initial investment and retained profits"
+  },
+  {
+    "id": "acct-ym-021",
+    "accountName": "Revenue - Music Sales (Digital)",
+    "accountType": "Revenue",
+    "accountNumber": "4000",
+    "balance": 85000.00,
+    "currency": "ZMW",
+    "description": "Digital download sales YTD"
+  },
+  {
+    "id": "acct-ym-022",
+    "accountName": "Revenue - Streaming Royalties (Spotify)",
+    "accountType": "Revenue",
+    "accountNumber": "4100",
+    "balance": 102000.00,
+    "currency": "ZMW",
+    "description": "Spotify streaming revenue YTD"
+  },
+  {
+    "id": "acct-ym-023",
+    "accountName": "Revenue - Streaming Royalties (YouTube)",
+    "accountType": "Revenue",
+    "accountNumber": "4120",
+    "balance": 144000.00,
+    "currency": "ZMW",
+    "description": "YouTube ad revenue YTD"
+  },
+  {
+    "id": "acct-ym-024",
+    "accountName": "Revenue - Live Performances",
+    "accountType": "Revenue",
+    "accountNumber": "4300",
+    "balance": 420000.00,
+    "currency": "ZMW",
+    "description": "Concert and event performance fees YTD"
+  },
+  {
+    "id": "acct-ym-025",
+    "accountName": "Revenue - Brand Endorsements",
+    "accountType": "Revenue",
+    "accountNumber": "4400",
+    "balance": 300000.00,
+    "currency": "ZMW",
+    "description": "Brand ambassador and endorsement deals YTD"
+  },
+  {
+    "id": "acct-ym-026",
+    "accountName": "Revenue - Merchandise Sales",
+    "accountType": "Revenue",
+    "accountNumber": "4500",
+    "balance": 68000.00,
+    "currency": "ZMW",
+    "description": "T-shirts, caps, and other merchandise sales YTD"
+  },
+  {
+    "id": "acct-ym-027",
+    "accountName": "Revenue - Property Rental Income",
+    "accountType": "Revenue",
+    "accountNumber": "4700",
+    "balance": 60000.00,
+    "currency": "ZMW",
+    "description": "Residential property rental income YTD"
+  },
+  {
+    "id": "acct-ym-028",
+    "accountName": "Production Costs - Studio Recording",
+    "accountType": "Expense",
+    "accountNumber": "5100",
+    "balance": 125000.00,
+    "currency": "ZMW",
+    "description": "Studio time and recording costs YTD"
+  },
+  {
+    "id": "acct-ym-029",
+    "accountName": "Production Costs - Video Production",
+    "accountType": "Expense",
+    "accountNumber": "5110",
+    "balance": 180000.00,
+    "currency": "ZMW",
+    "description": "Music video production costs YTD"
+  },
+  {
+    "id": "acct-ym-030",
+    "accountName": "Marketing & Promotion",
+    "accountType": "Expense",
+    "accountNumber": "5300",
+    "balance": 95000.00,
+    "currency": "ZMW",
+    "description": "Marketing and promotional expenses YTD"
+  }
+]

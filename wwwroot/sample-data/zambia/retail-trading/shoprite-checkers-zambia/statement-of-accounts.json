@@ -1,0 +1,82 @@
+{
+  "companyName": "Shoprite Checkers Zambia",
+  "companyAddress": "Arcades Shopping Centre, Great East Road, Lusaka, Zambia",
+  "companyTaxId": "TPIN-3456789-SCZ",
+  "generatedDate": "2025-09-30",
+  "currency": "ZMW",
+  "period": {"from": "2025-01-01", "to": "2025-09-30"},
+  "customerStatements": [
+    {
+      "customerId": 1,
+      "customerName": "Zambia Revenue Authority",
+      "customerEmail": "c.mumba@zra.org.zm",
+      "openingBalance": 0.00,
+      "transactions": [
+        {"date":"2025-01-15","reference":"INV-2025-001","description":"Corporate Account - Monthly Groceries","debit":3500000.00,"credit":0.00,"balance":3500000.00},
+        {"date":"2025-02-10","reference":"PAY-2025-001","description":"Payment received - Bank Transfer","debit":0.00,"credit":3500000.00,"balance":0.00}
+      ],
+      "closingBalance": 0.00,
+      "status": "Settled"
+    },
+    {
+      "customerId": 5,
+      "customerName": "ZESCO Corporate Accounts",
+      "customerEmail": "s.mwale@zesco.co.zm",
+      "openingBalance": 0.00,
+      "transactions": [
+        {"date":"2025-02-15","reference":"INV-2025-005","description":"Fresh Produce Bulk Order","debit":1800000.00,"credit":0.00,"balance":1800000.00},
+        {"date":"2025-03-12","reference":"PAY-2025-008","description":"Partial Payment received - Mobile Money","debit":0.00,"credit":900000.00,"balance":900000.00}
+      ],
+      "closingBalance": 900000.00,
+      "status": "Outstanding"
+    },
+    {
+      "customerId": 6,
+      "customerName": "First National Bank Zambia",
+      "customerEmail": "g.chileshe@fnbzambia.co.zm",
+      "openingBalance": 0.00,
+      "transactions": [
+        {"date":"2025-01-05","reference":"INV-2025-006","description":"Beverages & Confectionery Supply","debit":4200000.00,"credit":0.00,"balance":4200000.00},
+        {"date":"2025-02-22","reference":"PAY-2025-009","description":"Partial Payment received - Bank Transfer","debit":0.00,"credit":1500000.00,"balance":2700000.00}
+      ],
+      "closingBalance": 2700000.00,
+      "status": "Overdue"
+    },
+    {
+      "customerId": 10,
+      "customerName": "Konkola Copper Mines Welfare",
+      "customerEmail": "m.nkonde@kcm.co.zm",
+      "openingBalance": 0.00,
+      "transactions": [
+        {"date":"2025-04-01","reference":"INV-2025-010","description":"Institutional Procurement Package","debit":3800000.00,"credit":0.00,"balance":3800000.00}
+      ],
+      "closingBalance": 3800000.00,
+      "status": "Overdue"
+    },
+    {
+      "customerId": 12,
+      "customerName": "Government Medical Stores",
+      "customerEmail": "p.zimba@moh.gov.zm",
+      "openingBalance": 0.00,
+      "transactions": [
+        {"date":"2025-04-05","reference":"INV-2025-012","description":"Staff Welfare Food Hampers","debit":4500000.00,"credit":0.00,"balance":4500000.00},
+        {"date":"2025-05-01","reference":"PAY-2025-010","description":"Partial Payment received - Bank Transfer","debit":0.00,"credit":1000000.00,"balance":3500000.00}
+      ],
+      "closingBalance": 3500000.00,
+      "status": "Overdue"
+    }
+  ],
+  "summary": {
+    "totalInvoiced": 18000000,
+    "totalReceived": 7400000,
+    "totalOutstanding": 10900000,
+    "totalOverdue": 10000000,
+    "agingSummary": {
+      "current": 0,
+      "days1to30": 900000,
+      "days31to60": 0,
+      "days61to90": 0,
+      "over90days": 10000000
+    }
+  }
+}

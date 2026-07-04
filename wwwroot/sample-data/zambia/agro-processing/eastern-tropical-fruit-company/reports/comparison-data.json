@@ -1,0 +1,21 @@
+{
+  "profitAndLoss": [
+    { "label": "Revenue", "currentPeriodValue": 2450000.0, "comparisonPeriodValue": 2100000.0, "category": "Income" },
+    { "label": "Cost of Goods Sold", "currentPeriodValue": 1230000.0, "comparisonPeriodValue": 1050000.0, "category": "Expense" },
+    { "label": "Gross Profit", "currentPeriodValue": 1220000.0, "comparisonPeriodValue": 1050000.0, "category": "Income" },
+    { "label": "Operating Expenses", "currentPeriodValue": 560000.0, "comparisonPeriodValue": 520000.0, "category": "Expense" },
+    { "label": "Net Income", "currentPeriodValue": 660000.0, "comparisonPeriodValue": 530000.0, "category": "Income" }
+  ],
+  "balanceSheet": [
+    { "label": "Current Assets", "currentPeriodValue": 1885000.0, "comparisonPeriodValue": 1710000.0, "category": "Assets" },
+    { "label": "Non-Current Assets", "currentPeriodValue": 3620000.0, "comparisonPeriodValue": 3500000.0, "category": "Assets" },
+    { "label": "Current Liabilities", "currentPeriodValue": 940000.0, "comparisonPeriodValue": 885000.0, "category": "Liabilities" },
+    { "label": "Equity", "currentPeriodValue": 4565000.0, "comparisonPeriodValue": 4325000.0, "category": "Equity" }
+  ],
+  "cashFlow": [
+    { "label": "Operating Activities", "currentPeriodValue": 780000.0, "comparisonPeriodValue": 690000.0, "category": "Cash Flow" },
+    { "label": "Investing Activities", "currentPeriodValue": -220000.0, "comparisonPeriodValue": -180000.0, "category": "Cash Flow" },
+    { "label": "Financing Activities", "currentPeriodValue": -110000.0, "comparisonPeriodValue": -95000.0, "category": "Cash Flow" },
+    { "label": "Net Cash Flow", "currentPeriodValue": 450000.0, "comparisonPeriodValue": 415000.0, "category": "Cash Flow" }
+  ]
+}

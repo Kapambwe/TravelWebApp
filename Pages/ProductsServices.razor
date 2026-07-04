@@ -1,0 +1,69 @@
+@page "/products-services"
+
+<div class="page-section">
+    <RadzenText TextStyle="TextStyle.H3">Products & Services</RadzenText>
+    <RadzenText TextStyle="TextStyle.Body1" Style="margin:16px 0 40px;color:var(--text-secondary);">
+        Explore our full range of tourism offerings across the continent.
+    </RadzenText>
+
+    <RadzenTabs RenderMode="TabRenderMode.Client">
+        <Tabs>
+            <RadzenTabsItem Text="Accommodation">
+                <div class="service-list">
+                    @foreach (var s in _accommodationServices)
+                    {
+                        <ServiceCard Service="s" />
+                    }
+                </div>
+            </RadzenTabsItem>
+            <RadzenTabsItem Text="Activities">
+                <div class="service-list">
+                    @foreach (var s in _activityServices)
+                    {
+                        <ServiceCard Service="s" />
+                    }
+                </div>
+            </RadzenTabsItem>
+            <RadzenTabsItem Text="Transport">
+                <div class="service-list">
+                    @foreach (var s in _transportServices)
+                    {
+                        <ServiceCard Service="s" />
+                    }
+                </div>
+            </RadzenTabsItem>
+        </Tabs>
+    </RadzenTabs>
+</div>
+
+@code {
+    private List<ServiceModel> _accommodationServices = [
+        new() { Title = "Luxury Lodges", Description = "High-end safari accommodation with all-inclusive amenities.", Icon = "🏰" },
+        new() { Name = "Boutique Hotels", Description = "Unique urban stays in the heart of Africa's major cities.", Icon = "🏨" },
+        new() { Name = "Eco-Campsites", Description = "Sustainable camping experiences close to nature.", Icon = "⛺" }
+    ];
+
+    private List<ServiceModel> _activityServices = [
+        new() { Name = "Guided Safaris", Description = "Expert-led wildlife viewing in open 4x4 vehicles.", Icon = "🦒" },
+        new() { Name = "Adventure Sports", Description = "Bungee jumping, white water rafting, and more.", Icon = "🛶" },
+        new() { Name = "Cultural Tours", Description = "Authentic community engagement and traditional experiences.", Icon = "🥁" }
+    ];
+
+    private List<ServiceModel> _transportServices = [
+        new() { Name = "Airport Transfers", Description = "Reliable door-to-door shuttle services.", Icon = "🚐" },
+        new() { Name = "Charter Flights", Description = "Private bush flights to remote landing strips.", Icon = "🛩️" },
+        new() { Name = "Car Hire", Description = "Flexible vehicle rental options for self-drive tours.", Icon = "🚗" }
+    ];
+
+    private class ServiceModel
+    {
+        public string Title { get; set; } = "";
+        public string Name { get; set; } = "";
+        public string Description { get; set; } = "";
+        public string Icon { get; set; } = "";
+    }
+}
+
+<style>
+    .service-list { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 24px; padding-top: 24px; }
+</style>

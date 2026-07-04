@@ -1,0 +1,140 @@
+{
+  "companyName": "Kalemba",
+  "companyAddress": "Livingstone, Zambia",
+  "companyTaxId": "TPIN-1726559-K",
+  "generatedDate": "2025-09-30",
+  "currency": "ZMW",
+  "period": {
+    "from": "2025-01-01",
+    "to": "2025-09-30"
+  },
+  "customerStatements": [
+    {
+      "customerId": 1,
+      "customerName": "Zambezi Industries Ltd",
+      "customerEmail": "admin@zambezi.co.zm",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-01-22",
+          "reference": "INV-Z-2025-012",
+          "description": "News coverage & PR services",
+          "debit": 1910500,
+          "credit": 0.0,
+          "balance": 1910500
+        },
+        {
+          "date": "2025-03-08",
+          "reference": "PMT-Z-2025-019",
+          "description": "Advance payment received",
+          "debit": 0.0,
+          "credit": 1910500,
+          "balance": 0.0
+        }
+      ],
+      "closingBalance": 0.0,
+      "status": "Settled"
+    },
+    {
+      "customerId": 2,
+      "customerName": "Luangwa Holdings PLC",
+      "customerEmail": "contact@luangwa.co.zm",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-06-26",
+          "reference": "INV-Z-2025-029",
+          "description": "Digital content licensing",
+          "debit": 1955000,
+          "credit": 0.0,
+          "balance": 1955000
+        }
+      ],
+      "closingBalance": 1955000,
+      "status": "Overdue"
+    },
+    {
+      "customerId": 3,
+      "customerName": "Copperbelt Enterprises Ltd",
+      "customerEmail": "admin@copperbelt.co.zm",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-01-05",
+          "reference": "INV-Z-2025-034",
+          "description": "Media placement package",
+          "debit": 2275000,
+          "credit": 0.0,
+          "balance": 2275000
+        }
+      ],
+      "closingBalance": 2275000,
+      "status": "Overdue"
+    },
+    {
+      "customerId": 4,
+      "customerName": "Kansanshi Investments Ltd",
+      "customerEmail": "contact@kansanshi.com",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-05-02",
+          "reference": "INV-Z-2025-044",
+          "description": "Sponsored content package",
+          "debit": 2464000,
+          "credit": 0.0,
+          "balance": 2464000
+        },
+        {
+          "date": "2025-07-05",
+          "reference": "PMT-Z-2025-045",
+          "description": "Final payment received",
+          "debit": 0.0,
+          "credit": 2464000,
+          "balance": 0.0
+        }
+      ],
+      "closingBalance": 0.0,
+      "status": "Settled"
+    },
+    {
+      "customerId": 5,
+      "customerName": "Zain Industries Ltd",
+      "customerEmail": "contact@zain.co.zm",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-06-16",
+          "reference": "INV-Z-2025-054",
+          "description": "Media placement package",
+          "debit": 116500,
+          "credit": 0.0,
+          "balance": 116500
+        },
+        {
+          "date": "2025-07-17",
+          "reference": "PMT-Z-2025-055",
+          "description": "Partial advance payment received",
+          "debit": 0.0,
+          "credit": 81000,
+          "balance": 35500
+        }
+      ],
+      "closingBalance": 35500,
+      "status": "Partially Paid"
+    }
+  ],
+  "summary": {
+    "totalInvoiced": 8721000,
+    "totalReceived": 4455500,
+    "totalOutstanding": 4265500,
+    "totalOverdue": 4265500.0,
+    "agingSummary": {
+      "current": 0.0,
+      "days1to30": 0.0,
+      "days31to60": 0.0,
+      "days61to90": 1990500.0,
+      "over90days": 2275000.0
+    }
+  }
+}

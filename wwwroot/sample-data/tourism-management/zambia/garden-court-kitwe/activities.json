@@ -1,0 +1,22 @@
+﻿[
+    {
+        "BasePrice":  1500,
+        "Capacity":  50,
+        "IsActive":  true,
+        "Id":  301,
+        "Name":  "Copperbelt Business Centre Access",
+        "Type":  8,
+        "Description":  "Full day access to high-speed internet, printers and meeting booths.",
+        "Duration":  480
+    },
+    {
+        "BasePrice":  2500,
+        "Capacity":  10,
+        "IsActive":  true,
+        "Id":  302,
+        "Name":  "Kitwe City Heritage Tour",
+        "Type":  12,
+        "Description":  "Guided tour of Kitwe\u0027s history, local markets, and mining landmarks.",
+        "Duration":  180
+    }
+]

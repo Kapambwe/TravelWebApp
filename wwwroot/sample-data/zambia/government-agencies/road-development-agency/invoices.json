@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "invoiceNumber": "INV-2025-001",
+    "clientName": "Chileshe Corporation Solutions",
+    "description": "Technical Consulting",
+    "invoiceDate": "2024-10-26T00:00:00",
+    "dueDate": "2024-11-25T00:00:00",
+    "amount": 4697351.02,
+    "receivedAmount": 4697351.02,
+    "status": "Paid",
+    "customerId": 3
+  },
+  {
+    "id": 2,
+    "invoiceNumber": "INV-2025-002",
+    "clientName": "Sakala Agency Enterprises",
+    "description": "Feasibility Study",
+    "invoiceDate": "2025-01-14T00:00:00",
+    "dueDate": "2025-01-29T00:00:00",
+    "amount": 1714295.2,
+    "receivedAmount": 1714295.2,
+    "status": "Paid",
+    "customerId": 4
+  },
+  {
+    "id": 3,
+    "invoiceNumber": "INV-2025-003",
+    "clientName": "Siame Corporation Co.",
+    "description": "Audit Services",
+    "invoiceDate": "2024-11-18T00:00:00",
+    "dueDate": "2024-12-18T00:00:00",
+    "amount": 3077424.54,
+    "receivedAmount": 3077424.54,
+    "status": "Paid",
+    "customerId": 6
+  },
+  {
+    "id": 4,
+    "invoiceNumber": "INV-2025-004",
+    "clientName": "Bwalya Commission Limited",
+    "description": "Technical Consulting",
+    "invoiceDate": "2025-01-08T00:00:00",
+    "dueDate": "2025-02-07T00:00:00",
+    "amount": 1833198.92,
+    "receivedAmount": 0.0,
+    "status": "Open",
+    "customerId": 2
+  },
+  {
+    "id": 5,
+    "invoiceNumber": "INV-2025-005",
+    "clientName": "Chileshe Corporation Solutions",
+    "description": "Feasibility Study",
+    "invoiceDate": "2024-10-24T00:00:00",
+    "dueDate": "2024-12-08T00:00:00",
+    "amount": 363297.76,
+    "receivedAmount": 0.0,
+    "status": "Open",
+    "customerId": 3
+  },
+  {
+    "id": 6,
+    "invoiceNumber": "INV-2025-006",
+    "clientName": "Zulu Commission Holdings",
+    "description": "Infrastructure Project Fee",
+    "invoiceDate": "2024-09-23T00:00:00",
+    "dueDate": "2024-10-23T00:00:00",
+    "amount": 2975847.09,
+    "receivedAmount": 0.0,
+    "status": "Open",
+    "customerId": 7
+  },
+  {
+    "id": 7,
+    "invoiceNumber": "INV-2025-007",
+    "clientName": "Zulu Commission Holdings",
+    "description": "Infrastructure Project Fee",
+    "invoiceDate": "2024-12-29T00:00:00",
+    "dueDate": "2025-01-28T00:00:00",
+    "amount": 4819126.7,
+    "receivedAmount": 0.0,
+    "status": "Overdue",
+    "customerId": 7
+  },
+  {
+    "id": 8,
+    "invoiceNumber": "INV-2025-008",
+    "clientName": "Bwalya Commission Limited",
+    "description": "Audit Services",
+    "invoiceDate": "2024-12-03T00:00:00",
+    "dueDate": "2024-12-18T00:00:00",
+    "amount": 3336043.54,
+    "receivedAmount": 0.0,
+    "status": "Open",
+    "customerId": 2
+  },
+  {
+    "id": 9,
+    "invoiceNumber": "INV-2025-009",
+    "clientName": "Chileshe Corporation Solutions",
+    "description": "Project Management",
+    "invoiceDate": "2024-12-27T00:00:00",
+    "dueDate": "2025-02-25T00:00:00",
+    "amount": 948537.62,
+    "receivedAmount": 0.0,
+    "status": "Open",
+    "customerId": 3
+  },
+  {
+    "id": 10,
+    "invoiceNumber": "INV-2025-010",
+    "clientName": "Bwalya Commission Limited",
+    "description": "Capacity Building Program",
+    "invoiceDate": "2025-03-12T00:00:00",
+    "dueDate": "2025-04-11T00:00:00",
+    "amount": 3895990.97,
+    "receivedAmount": 3895990.97,
+    "status": "Paid",
+    "customerId": 5
+  }
+]

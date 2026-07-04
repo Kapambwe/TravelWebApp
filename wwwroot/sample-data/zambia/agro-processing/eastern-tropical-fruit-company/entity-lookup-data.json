@@ -1,0 +1,77 @@
+{
+  "countries": [
+    "Zambia",
+    "Zimbabwe",
+    "Botswana",
+    "Namibia",
+    "South Africa",
+    "Kenya",
+    "Tanzania",
+    "Malawi"
+  ],
+  "currencies": [
+    "ZMW",
+    "USD",
+    "EUR",
+    "GBP",
+    "ZAR"
+  ],
+  "chartOfAccountsTemplates": [
+    "Agro Processing Standard",
+    "Manufacturing Standard",
+    "Retail Standard",
+    "Services Standard",
+    "SME Basic"
+  ],
+  "accountingMethods": [
+    "Accrual",
+    "Cash"
+  ],
+  "consolidationMethods": [
+    "FullConsolidation",
+    "Proportional",
+    "Equity"
+  ],
+  "statutoryAuthoritiesByCountry": {
+    "Zambia": [
+      "NAPSA",
+      "NHIMA",
+      "ZRA"
+    ],
+    "Zimbabwe": [
+      "NSSA",
+      "ZIMRA",
+      "NHA"
+    ],
+    "Botswana": [
+      "BURS",
+      "BPOPF",
+      "NHIS"
+    ],
+    "Namibia": [
+      "SSC",
+      "NAMRA",
+      "NHIS"
+    ],
+    "South Africa": [
+      "SARS",
+      "UIF",
+      "COIDA"
+    ],
+    "Kenya": [
+      "KRA",
+      "NSSF",
+      "SHA"
+    ],
+    "Tanzania": [
+      "TRA",
+      "NSSF",
+      "NHIF"
+    ],
+    "Malawi": [
+      "MRA",
+      "NSSF",
+      "NHIS"
+    ]
+  }
+}

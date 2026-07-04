@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1,
+    "poNumber": "PO-2025-001",
+    "vendorName": "Mulenga Traders Limited",
+    "description": "Warehouse Rent",
+    "orderDate": "2025-01-31T00:00:00",
+    "expectedDate": "2025-02-12T00:00:00",
+    "amount": 2827100.67,
+    "receivedAmount": 0.0,
+    "status": "Open",
+    "approvalStatus": "Approved",
+    "approvedBy": "Finance Manager"
+  },
+  {
+    "id": 2,
+    "poNumber": "PO-2025-002",
+    "vendorName": "Mulenga Traders Limited",
+    "description": "Display Fixtures",
+    "orderDate": "2024-12-26T00:00:00",
+    "expectedDate": "2025-01-17T00:00:00",
+    "amount": 789724.55,
+    "receivedAmount": 0.0,
+    "status": "Open",
+    "approvalStatus": "Approved",
+    "approvedBy": "CEO"
+  },
+  {
+    "id": 3,
+    "poNumber": "PO-2025-003",
+    "vendorName": "Zulu Retail Solutions",
+    "description": "Display Fixtures",
+    "orderDate": "2025-01-30T00:00:00",
+    "expectedDate": "2025-02-28T00:00:00",
+    "amount": 194241.99,
+    "receivedAmount": 0.0,
+    "status": "Cancelled",
+    "approvalStatus": "Approved",
+    "approvedBy": "Finance Manager"
+  },
+  {
+    "id": 4,
+    "poNumber": "PO-2025-004",
+    "vendorName": "Zulu Retail Solutions",
+    "description": "Warehouse Rent",
+    "orderDate": "2025-02-15T00:00:00",
+    "expectedDate": "2025-03-10T00:00:00",
+    "amount": 1343422.07,
+    "receivedAmount": 893567.72,
+    "status": "PartiallyReceived",
+    "approvalStatus": "Approved",
+    "approvedBy": "Procurement Officer"
+  },
+  {
+    "id": 5,
+    "poNumber": "PO-2025-005",
+    "vendorName": "Mwamba Merchants Group",
+    "description": "Logistics & Delivery",
+    "orderDate": "2025-03-07T00:00:00",
+    "expectedDate": "2025-03-23T00:00:00",
+    "amount": 1932955.85,
+    "receivedAmount": 1932955.85,
+    "status": "Closed",
+    "approvalStatus": "Approved",
+    "approvedBy": "CEO"
+  },
+  {
+    "id": 6,
+    "poNumber": "PO-2025-006",
+    "vendorName": "Mwamba Merchants Group",
+    "description": "Display Fixtures",
+    "orderDate": "2025-01-03T00:00:00",
+    "expectedDate": "2025-01-14T00:00:00",
+    "amount": 431666.27,
+    "receivedAmount": 0.0,
+    "status": "Cancelled",
+    "approvalStatus": "Pending",
+    "approvedBy": "CFO"
+  }
+]

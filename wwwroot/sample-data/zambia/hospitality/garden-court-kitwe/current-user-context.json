@@ -1,0 +1,21 @@
+{
+    "userId":  "user-Garden Court Kitwe-001",
+    "userName":  "accounts@gardencourtkitwe.co.zm",
+    "fullName":  "Garden Court Kitwe",
+    "roles":  [
+                  "General Manager",
+                  "Lodge Host",
+                  "Head of Finance"
+              ],
+    "companyId":  "gck-001",
+    "companyName":  "Garden Court Kitwe Hotel",
+    "permissions":  [
+                        "ViewReports",
+                        "CreateTransactions",
+                        "ApproveBudgets",
+                        "ManageBookings",
+                        "ManageRooms",
+                        "ViewOccupancy",
+                        "ManageAmenities"
+                    ]
+}

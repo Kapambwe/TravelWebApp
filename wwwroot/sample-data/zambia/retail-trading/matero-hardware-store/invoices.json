@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "invoiceNumber": "INV-2025-001",
+    "clientName": "Bwalya Traders Limited",
+    "description": "Craft & Curio Products",
+    "invoiceDate": "2025-01-29T00:00:00",
+    "dueDate": "2025-02-13T00:00:00",
+    "amount": 1258620.36,
+    "receivedAmount": 0.0,
+    "status": "Open",
+    "customerId": 1
+  },
+  {
+    "id": 2,
+    "invoiceNumber": "INV-2025-002",
+    "clientName": "Siame Trading Solutions",
+    "description": "Craft & Curio Products",
+    "invoiceDate": "2025-01-23T00:00:00",
+    "dueDate": "2025-02-22T00:00:00",
+    "amount": 3419866.42,
+    "receivedAmount": 3419866.42,
+    "status": "Paid",
+    "customerId": 5
+  },
+  {
+    "id": 3,
+    "invoiceNumber": "INV-2025-003",
+    "clientName": "Lungu Merchants Solutions",
+    "description": "Electronics Supply",
+    "invoiceDate": "2024-12-04T00:00:00",
+    "dueDate": "2025-01-03T00:00:00",
+    "amount": 296377.34,
+    "receivedAmount": 197374.2,
+    "status": "PartiallyPaid",
+    "customerId": 8
+  },
+  {
+    "id": 4,
+    "invoiceNumber": "INV-2025-004",
+    "clientName": "Bwalya Traders Limited",
+    "description": "Electronics Supply",
+    "invoiceDate": "2025-03-08T00:00:00",
+    "dueDate": "2025-04-07T00:00:00",
+    "amount": 360416.05,
+    "receivedAmount": 360416.05,
+    "status": "Paid",
+    "customerId": 1
+  },
+  {
+    "id": 5,
+    "invoiceNumber": "INV-2025-005",
+    "clientName": "Lungu Merchants Solutions",
+    "description": "Groceries",
+    "invoiceDate": "2025-02-28T00:00:00",
+    "dueDate": "2025-03-30T00:00:00",
+    "amount": 457592.8,
+    "receivedAmount": 457592.8,
+    "status": "Paid",
+    "customerId": 8
+  },
+  {
+    "id": 6,
+    "invoiceNumber": "INV-2025-006",
+    "clientName": "Banda Traders Co.",
+    "description": "Groceries",
+    "invoiceDate": "2024-09-22T00:00:00",
+    "dueDate": "2024-10-07T00:00:00",
+    "amount": 2174523.45,
+    "receivedAmount": 0.0,
+    "status": "Overdue",
+    "customerId": 11
+  },
+  {
+    "id": 7,
+    "invoiceNumber": "INV-2025-007",
+    "clientName": "Tembo Traders Inc.",
+    "description": "Craft & Curio Products",
+    "invoiceDate": "2025-01-31T00:00:00",
+    "dueDate": "2025-04-01T00:00:00",
+    "amount": 3786255.43,
+    "receivedAmount": 0.0,
+    "status": "Open",
+    "customerId": 12
+  },
+  {
+    "id": 8,
+    "invoiceNumber": "INV-2025-008",
+    "clientName": "Chanda Trading Co.",
+    "description": "Groceries",
+    "invoiceDate": "2025-03-10T00:00:00",
+    "dueDate": "2025-05-09T00:00:00",
+    "amount": 2034086.91,
+    "receivedAmount": 0.0,
+    "status": "Open",
+    "customerId": 7
+  },
+  {
+    "id": 9,
+    "invoiceNumber": "INV-2025-009",
+    "clientName": "Banda Traders Co.",
+    "description": "Hardware Products",
+    "invoiceDate": "2024-09-23T00:00:00",
+    "dueDate": "2024-11-07T00:00:00",
+    "amount": 4885721.85,
+    "receivedAmount": 0.0,
+    "status": "Overdue",
+    "customerId": 11
+  },
+  {
+    "id": 10,
+    "invoiceNumber": "INV-2025-010",
+    "clientName": "Musonda Trading Solutions",
+    "description": "Groceries",
+    "invoiceDate": "2024-10-17T00:00:00",
+    "dueDate": "2024-12-16T00:00:00",
+    "amount": 180292.23,
+    "receivedAmount": 0.0,
+    "status": "Open",
+    "customerId": 10
+  }
+]

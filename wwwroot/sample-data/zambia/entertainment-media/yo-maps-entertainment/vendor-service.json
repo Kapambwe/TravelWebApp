@@ -1,0 +1,302 @@
+[
+  {
+    "id": "vendor-ym-001",
+    "vendorName": "Recording Studios Zambia Ltd",
+    "email": "bookings@recordingstudios.zm",
+    "phone": "+260-211-501234",
+    "address": "Plot 1234, Industrial Road, Lusaka",
+    "taxId": "TPIN-RS-5678901",
+    "paymentTerms": "NET30",
+    "accountBalance": 12500
+  },
+  {
+    "id": "vendor-ym-002",
+    "vendorName": "Sound & Lighting Equipment Hire",
+    "email": "hire@soundlighting.zm",
+    "phone": "+260-211-512345",
+    "address": "Plot 2345, Chilimbulu Road, Lusaka",
+    "taxId": "TPIN-SL-2345678",
+    "paymentTerms": "NET15",
+    "accountBalance": 8700
+  },
+  {
+    "id": "vendor-ym-003",
+    "vendorName": "Video Production House Zambia",
+    "email": "production@videoproduction.zm",
+    "phone": "+260-211-523456",
+    "address": "Plot 3456, Kabulonga Road, Lusaka",
+    "taxId": "TPIN-VP-9012345",
+    "paymentTerms": "NET30",
+    "accountBalance": 22000
+  },
+  {
+    "id": "vendor-ym-004",
+    "vendorName": "Music Instrument Suppliers",
+    "email": "sales@musicinstruments.zm",
+    "phone": "+260-211-534567",
+    "address": "Plot 4567, Cairo Road, Lusaka",
+    "taxId": "TPIN-MI-6789012",
+    "paymentTerms": "NET60",
+    "accountBalance": 15300
+  },
+  {
+    "id": "vendor-ym-005",
+    "vendorName": "CD & DVD Manufacturing Ltd",
+    "email": "orders@cdmanufacturing.zm",
+    "phone": "+260-211-545678",
+    "address": "Plot 5678, Industrial Area, Lusaka",
+    "taxId": "TPIN-CD-3456789",
+    "paymentTerms": "NET45",
+    "accountBalance": 6800
+  },
+  {
+    "id": "vendor-ym-006",
+    "vendorName": "Event Stage Rentals",
+    "email": "bookings@stagerentals.zm",
+    "phone": "+260-96-7890123",
+    "address": "Plot 6789, Makeni, Lusaka",
+    "taxId": "TPIN-ES-0123456",
+    "paymentTerms": "COD",
+    "accountBalance": 5200
+  },
+  {
+    "id": "vendor-ym-007",
+    "vendorName": "Graphic Design Studio",
+    "email": "design@graphicstudio.zm",
+    "phone": "+260-96-8901234",
+    "address": "Plot 7890, Woodlands, Lusaka",
+    "taxId": "TPIN-GD-7890123",
+    "paymentTerms": "NET30",
+    "accountBalance": 4100
+  },
+  {
+    "id": "vendor-ym-008",
+    "vendorName": "Merchandise Manufacturers Ltd",
+    "email": "production@merchandise.zm",
+    "phone": "+260-211-556789",
+    "address": "Plot 8901, Industrial Road, Lusaka",
+    "taxId": "TPIN-MM-4567890",
+    "paymentTerms": "NET45",
+    "accountBalance": 18500
+  },
+  {
+    "id": "vendor-ym-009",
+    "vendorName": "Event Security Services",
+    "email": "contracts@eventsecurity.zm",
+    "phone": "+260-96-9012345",
+    "address": "Plot 9012, Chilimbulu, Lusaka",
+    "taxId": "TPIN-ESS-1234567",
+    "paymentTerms": "NET15",
+    "accountBalance": 7600
+  },
+  {
+    "id": "vendor-ym-010",
+    "vendorName": "Professional Photography Studio",
+    "email": "bookings@photography.zm",
+    "phone": "+260-96-0123456",
+    "address": "Plot 1234, Rhodes Park, Lusaka",
+    "taxId": "TPIN-PP-8901234",
+    "paymentTerms": "NET30",
+    "accountBalance": 3500
+  },
+  {
+    "id": "vendor-ym-011",
+    "vendorName": "Music Distribution Zambia",
+    "email": "distribution@musicdist.zm",
+    "phone": "+260-211-567890",
+    "address": "Plot 2345, Cairo Road, Lusaka",
+    "taxId": "TPIN-MD-5678901",
+    "paymentTerms": "NET60",
+    "accountBalance": 9200
+  },
+  {
+    "id": "vendor-ym-012",
+    "vendorName": "Social Media Management Agency",
+    "email": "services@socialmedia.zm",
+    "phone": "+260-96-1234567",
+    "address": "Plot 3456, Kabulonga, Lusaka",
+    "taxId": "TPIN-SM-2345678",
+    "paymentTerms": "NET30",
+    "accountBalance": 5800
+  },
+  {
+    "id": "vendor-ym-013",
+    "vendorName": "Artist Management Consultants",
+    "email": "consulting@artistmanagement.zm",
+    "phone": "+260-211-578901",
+    "address": "Plot 4567, Leopards Hill Road, Lusaka",
+    "taxId": "TPIN-AM-9012345",
+    "paymentTerms": "NET30",
+    "accountBalance": 12000
+  },
+  {
+    "id": "vendor-ym-014",
+    "vendorName": "Legal Services - Entertainment Law",
+    "email": "legal@entertainmentlaw.zm",
+    "phone": "+260-211-589012",
+    "address": "Plot 5678, Cairo Road, Lusaka",
+    "taxId": "TPIN-LS-6789012",
+    "paymentTerms": "NET45",
+    "accountBalance": 8900
+  },
+  {
+    "id": "vendor-ym-015",
+    "vendorName": "Accounting & Bookkeeping Services",
+    "email": "accounts@accounting.zm",
+    "phone": "+260-211-590123",
+    "address": "Plot 6789, Addis Ababa Drive, Lusaka",
+    "taxId": "TPIN-AB-3456789",
+    "paymentTerms": "NET30",
+    "accountBalance": 4500
+  },
+  {
+    "id": "vendor-ym-016",
+    "vendorName": "Transportation & Logistics",
+    "email": "logistics@transport.zm",
+    "phone": "+260-96-2345678",
+    "address": "Plot 7890, Great East Road, Lusaka",
+    "taxId": "TPIN-TL-0123456",
+    "paymentTerms": "NET15",
+    "accountBalance": 6300
+  },
+  {
+    "id": "vendor-ym-017",
+    "vendorName": "Event Ticketing Platform",
+    "email": "support@ticketing.zm",
+    "phone": "+260-211-601234",
+    "address": "Plot 8901, Haile Selassie Avenue, Lusaka",
+    "taxId": "TPIN-ET-7890123",
+    "paymentTerms": "NET30",
+    "accountBalance": 2100
+  },
+  {
+    "id": "vendor-ym-018",
+    "vendorName": "Advertising Agency Zambia",
+    "email": "campaigns@advertising.zm",
+    "phone": "+260-211-612345",
+    "address": "Plot 9012, Kabulonga Road, Lusaka",
+    "taxId": "TPIN-AA-4567890",
+    "paymentTerms": "NET45",
+    "accountBalance": 14500
+  },
+  {
+    "id": "vendor-ym-019",
+    "vendorName": "Property Management Services",
+    "email": "property@management.zm",
+    "phone": "+260-211-623456",
+    "address": "Plot 1234, Leopards Hill Road, Lusaka",
+    "taxId": "TPIN-PM-1234567",
+    "paymentTerms": "NET30",
+    "accountBalance": 3800
+  },
+  {
+    "id": "vendor-ym-020",
+    "vendorName": "Insurance Brokers Ltd",
+    "email": "policies@insurance.zm",
+    "phone": "+260-211-634567",
+    "address": "Plot 2345, Cairo Road, Lusaka",
+    "taxId": "TPIN-IB-8901234",
+    "paymentTerms": "NET60",
+    "accountBalance": 7200
+  },
+  {
+    "id": "vendor-ym-021",
+    "vendorName": "IT Support Services",
+    "email": "support@itsupport.zm",
+    "phone": "+260-96-3456789",
+    "address": "Plot 3456, Woodlands, Lusaka",
+    "taxId": "TPIN-IT-5678901",
+    "paymentTerms": "NET30",
+    "accountBalance": 2900
+  },
+  {
+    "id": "vendor-ym-022",
+    "vendorName": "Catering Services Zambia",
+    "email": "events@catering.zm",
+    "phone": "+260-96-4567890",
+    "address": "Plot 4567, Rhodes Park, Lusaka",
+    "taxId": "TPIN-CS-2345678",
+    "paymentTerms": "COD",
+    "accountBalance": 5600
+  },
+  {
+    "id": "vendor-ym-023",
+    "vendorName": "Makeup & Styling Studio",
+    "email": "bookings@makeup.zm",
+    "phone": "+260-96-5678901",
+    "address": "Plot 5678, Kabulonga, Lusaka",
+    "taxId": "TPIN-MS-9012345",
+    "paymentTerms": "NET15",
+    "accountBalance": 1800
+  },
+  {
+    "id": "vendor-ym-024",
+    "vendorName": "Music Equipment Maintenance",
+    "email": "service@equipmentmaintenance.zm",
+    "phone": "+260-211-645678",
+    "address": "Plot 6789, Industrial Road, Lusaka",
+    "taxId": "TPIN-EM-6789012",
+    "paymentTerms": "NET30",
+    "accountBalance": 4200
+  },
+  {
+    "id": "vendor-ym-025",
+    "vendorName": "Public Relations Agency",
+    "email": "pr@publicrelations.zm",
+    "phone": "+260-211-656789",
+    "address": "Plot 7890, Addis Ababa Drive, Lusaka",
+    "taxId": "TPIN-PR-3456789",
+    "paymentTerms": "NET30",
+    "accountBalance": 8500
+  },
+  {
+    "id": "vendor-ym-026",
+    "vendorName": "Printing Services Ltd",
+    "email": "print@printing.zm",
+    "phone": "+260-211-667890",
+    "address": "Plot 8901, Cairo Road, Lusaka",
+    "taxId": "TPIN-PS-0123456",
+    "paymentTerms": "NET30",
+    "accountBalance": 3100
+  },
+  {
+    "id": "vendor-ym-027",
+    "vendorName": "Dance Choreography Studio",
+    "email": "booking@dancestudio.zm",
+    "phone": "+260-96-6789012",
+    "address": "Plot 9012, Leopards Hill Road, Lusaka",
+    "taxId": "TPIN-DC-7890123",
+    "paymentTerms": "NET15",
+    "accountBalance": 2400
+  },
+  {
+    "id": "vendor-ym-028",
+    "vendorName": "Utilities - ZESCO",
+    "email": "billing@zesco.zm",
+    "phone": "+260-211-678901",
+    "address": "Plot 1234, Great East Road, Lusaka",
+    "taxId": "TPIN-ZE-4567890",
+    "paymentTerms": "NET15",
+    "accountBalance": 6800
+  },
+  {
+    "id": "vendor-ym-029",
+    "vendorName": "Internet Service Provider",
+    "email": "accounts@isp.zm",
+    "phone": "+260-211-689012",
+    "address": "Plot 2345, Haile Selassie Avenue, Lusaka",
+    "taxId": "TPIN-ISP-1234567",
+    "paymentTerms": "NET30",
+    "accountBalance": 1500
+  },
+  {
+    "id": "vendor-ym-030",
+    "vendorName": "Music Licensing Authority",
+    "email": "licensing@musicauthority.zm",
+    "phone": "+260-211-690123",
+    "address": "Plot 3456, Nationalist Road, Lusaka",
+    "taxId": "TPIN-MLA-8901234",
+    "paymentTerms": "NET60",
+    "accountBalance": 5400
+  }
+]

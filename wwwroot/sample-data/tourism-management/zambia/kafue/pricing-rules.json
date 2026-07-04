@@ -1,0 +1,26 @@
+﻿[
+    {
+        "Id":  1,
+        "Name":  "Peak Season Multiplier",
+        "AdjustmentType":  0,
+        "IsActive":  true,
+        "AdjustmentValue":  20,
+        "Condition":  "Month in (July, August, September, October)"
+    },
+    {
+        "Id":  2,
+        "Name":  "Local Resident Discount",
+        "AdjustmentType":  0,
+        "IsActive":  true,
+        "AdjustmentValue":  -25,
+        "Condition":  "PricingTier == Resident"
+    },
+    {
+        "Id":  3,
+        "Name":  "Last-minute Empty Room Special",
+        "AdjustmentType":  0,
+        "IsActive":  true,
+        "AdjustmentValue":  -15,
+        "Condition":  "Occupancy \u003c 40% And LeadDays \u003c= 2"
+    }
+]

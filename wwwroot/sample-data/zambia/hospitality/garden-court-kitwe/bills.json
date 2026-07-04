@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "billNumber": "BILL-2025-001",
+    "vendorName": "Zimba Guesthouse Enterprises",
+    "description": "Food & Beverage Supply",
+    "billDate": "2024-11-30T00:00:00",
+    "dueDate": "2024-12-30T00:00:00",
+    "amount": 1981170.65,
+    "paidAmount": 0.0,
+    "status": "Overdue"
+  },
+  {
+    "id": 2,
+    "billNumber": "BILL-2025-002",
+    "vendorName": "Chileshe Hotels Limited",
+    "description": "Routine Maintenance",
+    "billDate": "2025-01-19T00:00:00",
+    "dueDate": "2025-02-18T00:00:00",
+    "amount": 2828795.81,
+    "paidAmount": 0.0,
+    "status": "Overdue"
+  },
+  {
+    "id": 3,
+    "billNumber": "BILL-2025-003",
+    "vendorName": "Siame Lodge Group",
+    "description": "Housekeeping Supplies",
+    "billDate": "2024-11-05T00:00:00",
+    "dueDate": "2024-12-05T00:00:00",
+    "amount": 3285185.91,
+    "paidAmount": 0.0,
+    "status": "Overdue"
+  },
+  {
+    "id": 4,
+    "billNumber": "BILL-2025-004",
+    "vendorName": "Musonda Hotels Holdings",
+    "description": "Routine Maintenance",
+    "billDate": "2024-10-20T00:00:00",
+    "dueDate": "2024-12-04T00:00:00",
+    "amount": 2052072.65,
+    "paidAmount": 1386274.36,
+    "status": "PartiallyPaid"
+  },
+  {
+    "id": 5,
+    "billNumber": "BILL-2025-005",
+    "vendorName": "Chanda Hotels Enterprises",
+    "description": "Utility Bills",
+    "billDate": "2024-12-29T00:00:00",
+    "dueDate": "2025-02-12T00:00:00",
+    "amount": 3288953.37,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 6,
+    "billNumber": "BILL-2025-006",
+    "vendorName": "Chileshe Lodge Holdings",
+    "description": "Entertainment",
+    "billDate": "2025-02-12T00:00:00",
+    "dueDate": "2025-03-14T00:00:00",
+    "amount": 1568164.22,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 7,
+    "billNumber": "BILL-2025-007",
+    "vendorName": "Mwale Hotels Limited",
+    "description": "Utility Bills",
+    "billDate": "2025-03-02T00:00:00",
+    "dueDate": "2025-04-01T00:00:00",
+    "amount": 681217.22,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 8,
+    "billNumber": "BILL-2025-008",
+    "vendorName": "Zimba Guesthouse Solutions",
+    "description": "Housekeeping Supplies",
+    "billDate": "2024-10-01T00:00:00",
+    "dueDate": "2024-10-16T00:00:00",
+    "amount": 3214769.28,
+    "paidAmount": 0.0,
+    "status": "Overdue"
+  },
+  {
+    "id": 9,
+    "billNumber": "BILL-2025-009",
+    "vendorName": "Zimba Guesthouse Enterprises",
+    "description": "Housekeeping Supplies",
+    "billDate": "2025-02-05T00:00:00",
+    "dueDate": "2025-03-07T00:00:00",
+    "amount": 807741.36,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 10,
+    "billNumber": "BILL-2025-010",
+    "vendorName": "Mwamba Hospitality Group Enterprises",
+    "description": "Routine Maintenance",
+    "billDate": "2025-01-08T00:00:00",
+    "dueDate": "2025-02-22T00:00:00",
+    "amount": 1298222.54,
+    "paidAmount": 1298222.54,
+    "status": "Paid"
+  }
+]

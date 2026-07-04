@@ -1,0 +1,140 @@
+{
+  "companyName": "Zambia Airways",
+  "companyAddress": "Ndola, Zambia",
+  "companyTaxId": "TPIN-4360206-ZA",
+  "generatedDate": "2025-09-30",
+  "currency": "ZMW",
+  "period": {
+    "from": "2025-01-01",
+    "to": "2025-09-30"
+  },
+  "customerStatements": [
+    {
+      "customerId": 1,
+      "customerName": "Kafue Holdings PLC",
+      "customerEmail": "admin@kafue.co.zm",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-02-05",
+          "reference": "INV-Z-2025-017",
+          "description": "Freight transportation - consignment 2957",
+          "debit": 1385000,
+          "credit": 0.0,
+          "balance": 1385000
+        },
+        {
+          "date": "2025-03-04",
+          "reference": "PMT-Z-2025-011",
+          "description": "Payment on delivery received",
+          "debit": 0.0,
+          "credit": 1385000,
+          "balance": 0.0
+        }
+      ],
+      "closingBalance": 0.0,
+      "status": "Settled"
+    },
+    {
+      "customerId": 2,
+      "customerName": "Mukuba Industries Ltd",
+      "customerEmail": "finance@mukuba.co.zm",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-09-11",
+          "reference": "INV-Z-2025-026",
+          "description": "Express courier contract",
+          "debit": 1534500,
+          "credit": 0.0,
+          "balance": 1534500
+        }
+      ],
+      "closingBalance": 1534500,
+      "status": "Outstanding"
+    },
+    {
+      "customerId": 3,
+      "customerName": "Zambezi Investments Ltd",
+      "customerEmail": "billing@zambezi.com",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-08-28",
+          "reference": "INV-Z-2025-034",
+          "description": "Road haulage agreement",
+          "debit": 2709500,
+          "credit": 0.0,
+          "balance": 2709500
+        }
+      ],
+      "closingBalance": 2709500,
+      "status": "Outstanding"
+    },
+    {
+      "customerId": 4,
+      "customerName": "Zambezi Partners Co.",
+      "customerEmail": "admin@zambezi.co.zm",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-01-12",
+          "reference": "INV-Z-2025-049",
+          "description": "Express courier contract",
+          "debit": 467000,
+          "credit": 0.0,
+          "balance": 467000
+        },
+        {
+          "date": "2025-03-24",
+          "reference": "PMT-Z-2025-048",
+          "description": "Partial payment received - wire transfer",
+          "debit": 0.0,
+          "credit": 285000,
+          "balance": 182000
+        }
+      ],
+      "closingBalance": 182000,
+      "status": "Partially Paid"
+    },
+    {
+      "customerId": 5,
+      "customerName": "Zesco Investments Ltd",
+      "customerEmail": "admin@zesco.com",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-07-28",
+          "reference": "INV-Z-2025-057",
+          "description": "Customs clearance & forwarding",
+          "debit": 2264000,
+          "credit": 0.0,
+          "balance": 2264000
+        },
+        {
+          "date": "2025-08-17",
+          "reference": "PMT-Z-2025-056",
+          "description": "Contract payment received",
+          "debit": 0.0,
+          "credit": 2264000,
+          "balance": 0.0
+        }
+      ],
+      "closingBalance": 0.0,
+      "status": "Settled"
+    }
+  ],
+  "summary": {
+    "totalInvoiced": 8360000,
+    "totalReceived": 3934000,
+    "totalOutstanding": 4426000,
+    "totalOverdue": 2891500.0,
+    "agingSummary": {
+      "current": 1534500.0,
+      "days1to30": 2709500.0,
+      "days31to60": 0.0,
+      "days61to90": 0.0,
+      "over90days": 182000.0
+    }
+  }
+}

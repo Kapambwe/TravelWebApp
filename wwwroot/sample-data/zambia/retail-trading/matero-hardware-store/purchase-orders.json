@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1,
+    "poNumber": "PO-2025-001",
+    "vendorName": "Tembo Commerce Group",
+    "description": "Logistics & Delivery",
+    "orderDate": "2025-02-24T00:00:00",
+    "expectedDate": "2025-03-03T00:00:00",
+    "amount": 2020030.59,
+    "receivedAmount": 0.0,
+    "status": "Cancelled",
+    "approvalStatus": "Approved",
+    "approvedBy": "Procurement Officer"
+  },
+  {
+    "id": 2,
+    "poNumber": "PO-2025-002",
+    "vendorName": "Lungu Traders Holdings",
+    "description": "Warehouse Rent",
+    "orderDate": "2025-01-06T00:00:00",
+    "expectedDate": "2025-01-18T00:00:00",
+    "amount": 92838.39,
+    "receivedAmount": 0.0,
+    "status": "Open",
+    "approvalStatus": "Approved",
+    "approvedBy": "CFO"
+  },
+  {
+    "id": 3,
+    "poNumber": "PO-2025-003",
+    "vendorName": "Zimba Trading Limited",
+    "description": "Logistics & Delivery",
+    "orderDate": "2025-02-11T00:00:00",
+    "expectedDate": "2025-02-18T00:00:00",
+    "amount": 193608.09,
+    "receivedAmount": 0.0,
+    "status": "Open",
+    "approvalStatus": "Approved",
+    "approvedBy": "CFO"
+  },
+  {
+    "id": 4,
+    "poNumber": "PO-2025-004",
+    "vendorName": "Lungu Commerce Enterprises",
+    "description": "Product Purchase",
+    "orderDate": "2025-02-27T00:00:00",
+    "expectedDate": "2025-03-15T00:00:00",
+    "amount": 1865877.65,
+    "receivedAmount": 960281.52,
+    "status": "PartiallyReceived",
+    "approvalStatus": "Pending",
+    "approvedBy": "CFO"
+  },
+  {
+    "id": 5,
+    "poNumber": "PO-2025-005",
+    "vendorName": "Lungu Retail Inc.",
+    "description": "Logistics & Delivery",
+    "orderDate": "2025-02-10T00:00:00",
+    "expectedDate": "2025-02-19T00:00:00",
+    "amount": 1013460.33,
+    "receivedAmount": 556367.73,
+    "status": "PartiallyReceived",
+    "approvalStatus": "Approved",
+    "approvedBy": "Procurement Officer"
+  },
+  {
+    "id": 6,
+    "poNumber": "PO-2025-006",
+    "vendorName": "Lungu Commerce Enterprises",
+    "description": "Product Purchase",
+    "orderDate": "2025-03-12T00:00:00",
+    "expectedDate": "2025-03-25T00:00:00",
+    "amount": 1510324.0,
+    "receivedAmount": 736801.41,
+    "status": "PartiallyReceived",
+    "approvalStatus": "Pending",
+    "approvedBy": "Finance Manager"
+  }
+]

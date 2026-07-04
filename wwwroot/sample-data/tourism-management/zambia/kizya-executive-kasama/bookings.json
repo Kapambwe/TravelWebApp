@@ -1,0 +1,34 @@
+﻿{
+    "Children":  0,
+    "CheckInDate":  "2024-08-10T00:00:00",
+    "Id":  301,
+    "GuestPhone":  "+447700900077",
+    "CreatedAt":  "2024-06-05T10:00:00",
+    "BookingType":  11,
+    "Adults":  2,
+    "Nationality":  "British",
+    "GuestEmail":  "emily@watson.com",
+    "TotalAmount":  48000,
+    "PackageId":  2,
+    "PassportNumber":  "GB112233",
+    "Notes":  "Vegetarian food.",
+    "UpdatedAt":  "2024-06-05T12:00:00",
+    "RoomId":  201,
+    "CheckOutDate":  "2024-08-15T00:00:00",
+    "BalanceAmount":  0,
+    "BookingNumber":  "BK-KEL-2024-001",
+    "Status":  1,
+    "LineItems":  [
+                      {
+                          "Id":  1,
+                          "Description":  "Gold Full-Board Safari (5 Nights)",
+                          "BookingId":  301,
+                          "Date":  "2024-08-10",
+                          "Quantity":  2,
+                          "UnitPrice":  24000,
+                          "TotalPrice":  48000
+                      }
+                  ],
+    "PaidAmount":  48000,
+    "GuestName":  "Emily Watson"
+}

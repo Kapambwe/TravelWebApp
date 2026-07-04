@@ -1,0 +1,215 @@
+[
+  {
+    "id": 1,
+    "estimateNumber": "EST-2025-001",
+    "customerId": 1,
+    "customerName": "Banda Products Ltd",
+    "estimateDateDaysAgo": 43,
+    "expirationDateDaysFromNow": 19,
+    "status": "Draft",
+    "subTotal": 923029.4,
+    "taxRate": 16,
+    "taxAmount": 147684.7,
+    "total": 1070714.1,
+    "terms": "Net 15",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 43,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Building Materials",
+        "quantity": 1,
+        "unitPrice": 923029.4,
+        "amount": 923029.4,
+        "itemType": "Service"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "estimateNumber": "EST-2025-002",
+    "customerId": 11,
+    "customerName": "Chanda Industries Limited",
+    "estimateDateDaysAgo": 47,
+    "expirationDateDaysFromNow": 41,
+    "status": "Sent",
+    "subTotal": 2818570.59,
+    "taxRate": 16,
+    "taxAmount": 450971.29,
+    "total": 3269541.88,
+    "terms": "Net 15",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 47,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Industrial Chemicals",
+        "quantity": 2,
+        "unitPrice": 1409285.29,
+        "amount": 2818570.59,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 46
+  },
+  {
+    "id": 3,
+    "estimateNumber": "EST-2025-003",
+    "customerId": 4,
+    "customerName": "Siame Manufacturing Co.",
+    "estimateDateDaysAgo": 19,
+    "expirationDateDaysFromNow": 23,
+    "status": "Sent",
+    "subTotal": 732861.93,
+    "taxRate": 15,
+    "taxAmount": 109929.29,
+    "total": 842791.22,
+    "terms": "Net 30",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 19,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Milled Flour",
+        "quantity": 2,
+        "unitPrice": 366430.97,
+        "amount": 732861.93,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 18
+  },
+  {
+    "id": 4,
+    "estimateNumber": "EST-2025-004",
+    "customerId": 12,
+    "customerName": "Zimba Products Inc.",
+    "estimateDateDaysAgo": 49,
+    "expirationDateDaysFromNow": 43,
+    "status": "Sent",
+    "subTotal": 842071.15,
+    "taxRate": 0,
+    "taxAmount": 0.0,
+    "total": 842071.15,
+    "terms": "Net 15",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 49,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Cement Bags Supply",
+        "quantity": 5,
+        "unitPrice": 168414.23,
+        "amount": 842071.15,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 48
+  },
+  {
+    "id": 5,
+    "estimateNumber": "EST-2025-005",
+    "customerId": 10,
+    "customerName": "Musonda Industries Enterprises",
+    "estimateDateDaysAgo": 32,
+    "expirationDateDaysFromNow": 38,
+    "status": "Draft",
+    "subTotal": 3307717.94,
+    "taxRate": 15,
+    "taxAmount": 496157.69,
+    "total": 3803875.63,
+    "terms": "Net 45",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 32,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Building Materials",
+        "quantity": 5,
+        "unitPrice": 661543.59,
+        "amount": 3307717.94,
+        "itemType": "Service"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "estimateNumber": "EST-2025-006",
+    "customerId": 3,
+    "customerName": "Chanda Industrial Group",
+    "estimateDateDaysAgo": 37,
+    "expirationDateDaysFromNow": 43,
+    "status": "Declined",
+    "subTotal": 3394321.66,
+    "taxRate": 18,
+    "taxAmount": 610977.9,
+    "total": 4005299.56,
+    "terms": "Net 30",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 37,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Steel Products",
+        "quantity": 2,
+        "unitPrice": 1697160.83,
+        "amount": 3394321.66,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 36
+  },
+  {
+    "id": 7,
+    "estimateNumber": "EST-2025-007",
+    "customerId": 7,
+    "customerName": "Bwalya Industries Limited",
+    "estimateDateDaysAgo": 50,
+    "expirationDateDaysFromNow": 42,
+    "status": "Accepted",
+    "subTotal": 1509936.07,
+    "taxRate": 15,
+    "taxAmount": 226490.41,
+    "total": 1736426.48,
+    "terms": "Net 15",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 50,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Sugar Products",
+        "quantity": 3,
+        "unitPrice": 503312.02,
+        "amount": 1509936.07,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 49
+  },
+  {
+    "id": 8,
+    "estimateNumber": "EST-2025-008",
+    "customerId": 3,
+    "customerName": "Chanda Industrial Group",
+    "estimateDateDaysAgo": 27,
+    "expirationDateDaysFromNow": 27,
+    "status": "Draft",
+    "subTotal": 3094321.41,
+    "taxRate": 0,
+    "taxAmount": 0.0,
+    "total": 3094321.41,
+    "terms": "Net 30",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 27,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Cement Bags Supply",
+        "quantity": 4,
+        "unitPrice": 773580.35,
+        "amount": 3094321.41,
+        "itemType": "Service"
+      }
+    ]
+  }
+]

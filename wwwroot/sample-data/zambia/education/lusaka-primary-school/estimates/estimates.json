@@ -1,0 +1,190 @@
+[
+  {
+    "id": 1,
+    "estimateNumber": "EST-2025-001",
+    "customerId": 5,
+    "customerName": "Lungu Learning Centre Inc.",
+    "estimateDateDaysAgo": 43,
+    "expirationDateDaysFromNow": 20,
+    "status": "Accepted",
+    "subTotal": 2534181.0,
+    "taxRate": 15,
+    "taxAmount": 380127.15,
+    "total": 2914308.15,
+    "terms": "Net 15",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 43,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "School Tuition Fees",
+        "quantity": 4,
+        "unitPrice": 633545.25,
+        "amount": 2534181.0,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 42
+  },
+  {
+    "id": 2,
+    "estimateNumber": "EST-2025-002",
+    "customerId": 4,
+    "customerName": "Tembo Learning Centre Enterprises",
+    "estimateDateDaysAgo": 17,
+    "expirationDateDaysFromNow": 35,
+    "status": "Open",
+    "subTotal": 2183498.09,
+    "taxRate": 18,
+    "taxAmount": 393029.66,
+    "total": 2576527.75,
+    "terms": "Net 15",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 17,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Exam Registration",
+        "quantity": 2,
+        "unitPrice": 1091749.04,
+        "amount": 2183498.09,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 16
+  },
+  {
+    "id": 3,
+    "estimateNumber": "EST-2025-003",
+    "customerId": 3,
+    "customerName": "Mutale Academy Group",
+    "estimateDateDaysAgo": 19,
+    "expirationDateDaysFromNow": 37,
+    "status": "Declined",
+    "subTotal": 2423226.2,
+    "taxRate": 15,
+    "taxAmount": 363483.93,
+    "total": 2786710.13,
+    "terms": "Net 15",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 19,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "School Tuition Fees",
+        "quantity": 3,
+        "unitPrice": 807742.07,
+        "amount": 2423226.2,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 18
+  },
+  {
+    "id": 4,
+    "estimateNumber": "EST-2025-004",
+    "customerId": 8,
+    "customerName": "Mwamba College Co.",
+    "estimateDateDaysAgo": 52,
+    "expirationDateDaysFromNow": 38,
+    "status": "Open",
+    "subTotal": 1074238.39,
+    "taxRate": 0,
+    "taxAmount": 0.0,
+    "total": 1074238.39,
+    "terms": "Net 30",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 52,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Development Levy",
+        "quantity": 2,
+        "unitPrice": 537119.19,
+        "amount": 1074238.39,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 51
+  },
+  {
+    "id": 5,
+    "estimateNumber": "EST-2025-005",
+    "customerId": 7,
+    "customerName": "Mutale Training Centre Limited",
+    "estimateDateDaysAgo": 5,
+    "expirationDateDaysFromNow": 21,
+    "status": "Expired",
+    "subTotal": 951556.09,
+    "taxRate": 18,
+    "taxAmount": 171280.1,
+    "total": 1122836.19,
+    "terms": "Net 45",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 5,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Training Program",
+        "quantity": 5,
+        "unitPrice": 190311.22,
+        "amount": 951556.09,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 4
+  },
+  {
+    "id": 6,
+    "estimateNumber": "EST-2025-006",
+    "customerId": 7,
+    "customerName": "Mutale Training Centre Limited",
+    "estimateDateDaysAgo": 36,
+    "expirationDateDaysFromNow": 45,
+    "status": "Accepted",
+    "subTotal": 1877210.33,
+    "taxRate": 0,
+    "taxAmount": 0.0,
+    "total": 1877210.33,
+    "terms": "Net 30",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 36,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Workshop Fees",
+        "quantity": 5,
+        "unitPrice": 375442.07,
+        "amount": 1877210.33,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 35
+  },
+  {
+    "id": 7,
+    "estimateNumber": "EST-2025-007",
+    "customerId": 4,
+    "customerName": "Tembo Learning Centre Enterprises",
+    "estimateDateDaysAgo": 7,
+    "expirationDateDaysFromNow": 34,
+    "status": "Draft",
+    "subTotal": 2019139.23,
+    "taxRate": 18,
+    "taxAmount": 363445.06,
+    "total": 2382584.29,
+    "terms": "Net 45",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 7,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "School Tuition Fees",
+        "quantity": 5,
+        "unitPrice": 403827.85,
+        "amount": 2019139.23,
+        "itemType": "Service"
+      }
+    ]
+  }
+]

@@ -1,0 +1,22 @@
+﻿[
+    {
+        "BasePrice":  3000,
+        "Capacity":  12,
+        "IsActive":  true,
+        "Id":  407,
+        "Name":  "Dhow Sunset Sailing",
+        "Type":  5,
+        "Description":  "Sail in a traditional wooden dhow at sunset.",
+        "Duration":  120
+    },
+    {
+        "BasePrice":  6000,
+        "Capacity":  8,
+        "IsActive":  true,
+        "Id":  408,
+        "Name":  "Kalambo Falls Day Trek",
+        "Type":  12,
+        "Description":  "Boat transfer and hike to Africa\u0027s second highest waterfall.",
+        "Duration":  480
+    }
+]

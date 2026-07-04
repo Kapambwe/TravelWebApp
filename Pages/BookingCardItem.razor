@@ -1,0 +1,52 @@
+﻿@using TravelWebApp.Models
+
+<div class="booking-item-card">
+    <RadzenCard Style="margin-bottom:12px;border-radius:12px;overflow:hidden;">
+        <div style="display:flex;gap:16px;padding:16px;">
+            <div style="width:120px;height:90px;background:linear-gradient(135deg,#003B95,#002A6E);border-radius:8px;display:flex;align-items:center;justify-content:center;flex-shrink:0;">
+                <span style="font-size:2rem;">ðŸ¨</span>
+            </div>
+            <div style="flex:1;">
+                <div style="display:flex;justify-content:space-between;align-items:flex-start;">
+                    <div>
+                        <RadzenText TextStyle="TextStyle.H6">@Booking.PropertyName</RadzenText>
+                        <RadzenText TextStyle="TextStyle.Caption" Style="color:#5A5A7A;">
+                            @Booking.CheckIn.ToString("dd MMM yyyy") - @Booking.CheckOut.ToString("dd MMM yyyy")
+                        </RadzenText>
+                        <RadzenText TextStyle="TextStyle.Caption" Style="color:#5A5A7A;">
+                            @Booking.Guests guest@(Booking.Guests > 1 ? "s" : "") â€¢ @Booking.Rooms room@(Booking.Rooms > 1 ? "s" : "")
+                        </RadzenText>
+                    </div>
+                    <div style="text-align:right;">
+                        <RadzenBadge Text="@Booking.Status" BadgeStyle="@GetBadgeStyle(Booking.Status)" />
+                        <RadzenText TextStyle="TextStyle.H6" Style="color:#003B95;margin-top:4px;">R@((int)Booking.TotalAmount)</RadzenText>
+                    </div>
+                </div>
+                <div style="display:flex;gap:8px;margin-top:8px;">
+                    <RadzenButton Text="View Details" ButtonStyle="ButtonStyle.Light" Variant="Variant.Outlined" Size="ButtonSize.Medium" />
+                    @if (Booking.Status == "Confirmed")
+                    {
+                        <RadzenButton Text="Cancel" ButtonStyle="ButtonStyle.Danger" Size="ButtonSize.Medium" />
+                    }
+                </div>
+            </div>
+        </div>
+    </RadzenCard>
+</div>
+
+<style>
+    .booking-item-card { cursor: default; }
+</style>
+
+@code {
+    [Parameter] public Booking Booking { get; set; } = new();
+
+    private BadgeStyle GetBadgeStyle(string status) => status switch
+    {
+        "Confirmed" => BadgeStyle.Success,
+        "Completed" => BadgeStyle.Info,
+        "Cancelled" => BadgeStyle.Danger,
+        _ => BadgeStyle.Light
+    };
+}
+

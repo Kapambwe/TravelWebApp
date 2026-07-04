@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "poNumber": "PO-2025-001",
+    "vendorName": "Mwamba Academy Inc.",
+    "description": "Textbooks & Learning Materials",
+    "orderDate": "2025-01-05T00:00:00",
+    "expectedDate": "2025-01-22T00:00:00",
+    "amount": 2722654.54,
+    "receivedAmount": 0.0,
+    "status": "Open",
+    "approvalStatus": "Approved",
+    "approvedBy": "Procurement Officer"
+  },
+  {
+    "id": 2,
+    "poNumber": "PO-2025-002",
+    "vendorName": "Zimba College Group",
+    "description": "Textbooks & Learning Materials",
+    "orderDate": "2024-12-16T00:00:00",
+    "expectedDate": "2025-01-01T00:00:00",
+    "amount": 2645365.17,
+    "receivedAmount": 1802296.65,
+    "status": "PartiallyReceived",
+    "approvalStatus": "Approved",
+    "approvedBy": "CEO"
+  },
+  {
+    "id": 3,
+    "poNumber": "PO-2025-003",
+    "vendorName": "Musonda Learning Centre Group",
+    "description": "School Equipment",
+    "orderDate": "2024-12-31T00:00:00",
+    "expectedDate": "2025-01-30T00:00:00",
+    "amount": 1354550.78,
+    "receivedAmount": 0.0,
+    "status": "Cancelled",
+    "approvalStatus": "Pending",
+    "approvedBy": "Procurement Officer"
+  },
+  {
+    "id": 4,
+    "poNumber": "PO-2025-004",
+    "vendorName": "Mwamba Academy Inc.",
+    "description": "IT Infrastructure",
+    "orderDate": "2025-03-14T00:00:00",
+    "expectedDate": "2025-04-01T00:00:00",
+    "amount": 1898742.02,
+    "receivedAmount": 1898742.02,
+    "status": "Closed",
+    "approvalStatus": "Approved",
+    "approvedBy": "Finance Manager"
+  },
+  {
+    "id": 5,
+    "poNumber": "PO-2025-005",
+    "vendorName": "Mwale College Enterprises",
+    "description": "School Equipment",
+    "orderDate": "2025-01-11T00:00:00",
+    "expectedDate": "2025-02-02T00:00:00",
+    "amount": 2203786.21,
+    "receivedAmount": 0.0,
+    "status": "Open",
+    "approvalStatus": "Approved",
+    "approvedBy": "Finance Manager"
+  }
+]

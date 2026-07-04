@@ -1,0 +1,150 @@
+{
+  "companyName": "Eastern Tropical Fruit Company",
+  "companyAddress": "Mongu, Zambia",
+  "companyTaxId": "TPIN-4455997-ETFC",
+  "generatedDate": "2025-09-30",
+  "currency": "ZMW",
+  "period": {
+    "from": "2025-01-01",
+    "to": "2025-09-30"
+  },
+  "customerStatements": [
+    {
+      "customerId": 1,
+      "customerName": "Zambezi Enterprises Ltd",
+      "customerEmail": "contact@zambezi.com",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-01-19",
+          "reference": "INV-Z-2025-016",
+          "description": "Processing fee - dried mango",
+          "debit": 2458500,
+          "credit": 0.0,
+          "balance": 2458500
+        }
+      ],
+      "closingBalance": 2458500,
+      "status": "Overdue"
+    },
+    {
+      "customerId": 2,
+      "customerName": "Kansanshi Holdings PLC",
+      "customerEmail": "contact@kansanshi.co.zm",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-02-28",
+          "reference": "INV-Z-2025-028",
+          "description": "Quality certification services",
+          "debit": 1503500,
+          "credit": 0.0,
+          "balance": 1503500
+        },
+        {
+          "date": "2025-04-09",
+          "reference": "PMT-Z-2025-022",
+          "description": "Payment received - bank transfer",
+          "debit": 0.0,
+          "credit": 1503500,
+          "balance": 0.0
+        }
+      ],
+      "closingBalance": 0.0,
+      "status": "Settled"
+    },
+    {
+      "customerId": 3,
+      "customerName": "Chambeshi Investments Ltd",
+      "customerEmail": "billing@chambeshi.co.zm",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-08-20",
+          "reference": "INV-Z-2025-032",
+          "description": "Agri-input supply contract",
+          "debit": 299000,
+          "credit": 0.0,
+          "balance": 299000
+        }
+      ],
+      "closingBalance": 299000,
+      "status": "Outstanding"
+    },
+    {
+      "customerId": 4,
+      "customerName": "Zambezi Industries Ltd",
+      "customerEmail": "info@zambezi.com",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-07-23",
+          "reference": "INV-Z-2025-044",
+          "description": "Supply of dried mango - batch 2378",
+          "debit": 1667000,
+          "credit": 0.0,
+          "balance": 1667000
+        }
+      ],
+      "closingBalance": 1667000,
+      "status": "Outstanding"
+    },
+    {
+      "customerId": 5,
+      "customerName": "Copperbelt Solutions Ltd",
+      "customerEmail": "finance@copperbelt.co.zm",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-08-02",
+          "reference": "INV-Z-2025-055",
+          "description": "Agri-input supply contract",
+          "debit": 836500,
+          "credit": 0.0,
+          "balance": 836500
+        }
+      ],
+      "closingBalance": 836500,
+      "status": "Outstanding"
+    },
+    {
+      "customerId": 6,
+      "customerName": "Lusaka Investments Ltd",
+      "customerEmail": "finance@lusaka.com",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-05-23",
+          "reference": "INV-Z-2025-069",
+          "description": "Processing fee - dried mango",
+          "debit": 2227500,
+          "credit": 0.0,
+          "balance": 2227500
+        },
+        {
+          "date": "2025-06-24",
+          "reference": "PMT-Z-2025-063",
+          "description": "Payment received - bank transfer",
+          "debit": 0.0,
+          "credit": 2227500,
+          "balance": 0.0
+        }
+      ],
+      "closingBalance": 0.0,
+      "status": "Settled"
+    }
+  ],
+  "summary": {
+    "totalInvoiced": 8992000,
+    "totalReceived": 3731000,
+    "totalOutstanding": 5261000,
+    "totalOverdue": 5261000.0,
+    "agingSummary": {
+      "current": 0.0,
+      "days1to30": 1135500.0,
+      "days31to60": 1667000.0,
+      "days61to90": 0.0,
+      "over90days": 2458500.0
+    }
+  }
+}

@@ -1,0 +1,190 @@
+[
+  {
+    "id": 1,
+    "estimateNumber": "EST-2025-001",
+    "customerId": 9,
+    "customerName": "Kabwe Retail Limited",
+    "estimateDateDaysAgo": 56,
+    "expirationDateDaysFromNow": 20,
+    "status": "Declined",
+    "subTotal": 2101744.85,
+    "taxRate": 18,
+    "taxAmount": 378314.07,
+    "total": 2480058.92,
+    "terms": "Net 45",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 56,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Craft & Curio Products",
+        "quantity": 2,
+        "unitPrice": 1050872.43,
+        "amount": 2101744.85,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 55
+  },
+  {
+    "id": 2,
+    "estimateNumber": "EST-2025-002",
+    "customerId": 4,
+    "customerName": "Bwalya Trading Holdings",
+    "estimateDateDaysAgo": 17,
+    "expirationDateDaysFromNow": 23,
+    "status": "Draft",
+    "subTotal": 692615.17,
+    "taxRate": 18,
+    "taxAmount": 124670.73,
+    "total": 817285.9,
+    "terms": "Net 15",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 17,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Groceries",
+        "quantity": 3,
+        "unitPrice": 230871.72,
+        "amount": 692615.17,
+        "itemType": "Service"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "estimateNumber": "EST-2025-003",
+    "customerId": 1,
+    "customerName": "Tembo Retail Co.",
+    "estimateDateDaysAgo": 55,
+    "expirationDateDaysFromNow": 30,
+    "status": "Sent",
+    "subTotal": 3670237.61,
+    "taxRate": 0,
+    "taxAmount": 0.0,
+    "total": 3670237.61,
+    "terms": "Net 30",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 55,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Groceries",
+        "quantity": 2,
+        "unitPrice": 1835118.8,
+        "amount": 3670237.61,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 54
+  },
+  {
+    "id": 4,
+    "estimateNumber": "EST-2025-004",
+    "customerId": 5,
+    "customerName": "Sakala Merchants Solutions",
+    "estimateDateDaysAgo": 38,
+    "expirationDateDaysFromNow": 16,
+    "status": "Open",
+    "subTotal": 3326550.62,
+    "taxRate": 16,
+    "taxAmount": 532248.1,
+    "total": 3858798.72,
+    "terms": "Net 45",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 38,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Craft & Curio Products",
+        "quantity": 2,
+        "unitPrice": 1663275.31,
+        "amount": 3326550.62,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 37
+  },
+  {
+    "id": 5,
+    "estimateNumber": "EST-2025-005",
+    "customerId": 12,
+    "customerName": "Chileshe Traders Ltd",
+    "estimateDateDaysAgo": 22,
+    "expirationDateDaysFromNow": 33,
+    "status": "Accepted",
+    "subTotal": 877466.74,
+    "taxRate": 15,
+    "taxAmount": 131620.01,
+    "total": 1009086.75,
+    "terms": "Net 45",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 22,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Electronics Supply",
+        "quantity": 5,
+        "unitPrice": 175493.35,
+        "amount": 877466.74,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 21
+  },
+  {
+    "id": 6,
+    "estimateNumber": "EST-2025-006",
+    "customerId": 10,
+    "customerName": "Kaputo Commerce Group",
+    "estimateDateDaysAgo": 9,
+    "expirationDateDaysFromNow": 29,
+    "status": "Accepted",
+    "subTotal": 602791.19,
+    "taxRate": 15,
+    "taxAmount": 90418.68,
+    "total": 693209.87,
+    "terms": "Net 45",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 9,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Clothing & Textiles",
+        "quantity": 5,
+        "unitPrice": 120558.24,
+        "amount": 602791.19,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 8
+  },
+  {
+    "id": 7,
+    "estimateNumber": "EST-2025-007",
+    "customerId": 6,
+    "customerName": "Mutale Traders Solutions",
+    "estimateDateDaysAgo": 40,
+    "expirationDateDaysFromNow": 43,
+    "status": "Expired",
+    "subTotal": 3042653.31,
+    "taxRate": 16,
+    "taxAmount": 486824.53,
+    "total": 3529477.84,
+    "terms": "Net 45",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 40,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Groceries",
+        "quantity": 3,
+        "unitPrice": 1014217.77,
+        "amount": 3042653.31,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 39
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "id": "tax-001",
+    "taxType": "VAT",
+    "period": "January 2024",
+    "taxableAmount": 100000.0,
+    "taxRate": 16.0,
+    "taxAmount": 16000.0,
+    "filingDate": "2025-05-05",
+    "status": "Approved"
+  },
+  {
+    "id": "tax-002",
+    "taxType": "Corporate Tax",
+    "period": "Q4 2023",
+    "taxableAmount": 500000.0,
+    "taxRate": 35.0,
+    "taxAmount": 175000.0,
+    "filingDate": "2025-04-27",
+    "status": "Completed"
+  },
+  {
+    "id": "tax-003",
+    "taxType": "VAT",
+    "period": "January 2024",
+    "taxableAmount": 100000.0,
+    "taxRate": 16.0,
+    "taxAmount": 16000.0,
+    "filingDate": "2025-04-29",
+    "status": "Active"
+  },
+  {
+    "id": "tax-004",
+    "taxType": "Corporate Tax",
+    "period": "Q4 2023",
+    "taxableAmount": 500000.0,
+    "taxRate": 35.0,
+    "taxAmount": 175000.0,
+    "filingDate": "2025-06-24",
+    "status": "Cancelled"
+  },
+  {
+    "id": "tax-005",
+    "taxType": "VAT",
+    "period": "January 2024",
+    "taxableAmount": 100000.0,
+    "taxRate": 16.0,
+    "taxAmount": 16000.0,
+    "filingDate": "2025-07-16",
+    "status": "Completed"
+  },
+  {
+    "id": "tax-006",
+    "taxType": "Corporate Tax",
+    "period": "Q4 2023",
+    "taxableAmount": 500000.0,
+    "taxRate": 35.0,
+    "taxAmount": 175000.0,
+    "filingDate": "2025-03-16",
+    "status": "Draft"
+  },
+  {
+    "id": "tax-007",
+    "taxType": "VAT",
+    "period": "January 2024",
+    "taxableAmount": 100000.0,
+    "taxRate": 16.0,
+    "taxAmount": 16000.0,
+    "filingDate": "2026-01-17",
+    "status": "Pending"
+  },
+  {
+    "id": "tax-008",
+    "taxType": "Corporate Tax",
+    "period": "Q4 2023",
+    "taxableAmount": 500000.0,
+    "taxRate": 35.0,
+    "taxAmount": 175000.0,
+    "filingDate": "2025-12-20",
+    "status": "Cancelled"
+  },
+  {
+    "id": "tax-009",
+    "taxType": "VAT",
+    "period": "January 2024",
+    "taxableAmount": 100000.0,
+    "taxRate": 16.0,
+    "taxAmount": 16000.0,
+    "filingDate": "2025-03-31",
+    "status": "Completed"
+  },
+  {
+    "id": "tax-010",
+    "taxType": "Corporate Tax",
+    "period": "Q4 2023",
+    "taxableAmount": 500000.0,
+    "taxRate": 35.0,
+    "taxAmount": 175000.0,
+    "filingDate": "2025-05-04",
+    "status": "Pending"
+  },
+  {
+    "id": "tax-011",
+    "taxType": "VAT",
+    "period": "January 2024",
+    "taxableAmount": 100000.0,
+    "taxRate": 16.0,
+    "taxAmount": 16000.0,
+    "filingDate": "2025-12-04",
+    "status": "Rejected"
+  },
+  {
+    "id": "tax-012",
+    "taxType": "Corporate Tax",
+    "period": "Q4 2023",
+    "taxableAmount": 500000.0,
+    "taxRate": 35.0,
+    "taxAmount": 175000.0,
+    "filingDate": "2025-12-03",
+    "status": "Pending"
+  },
+  {
+    "id": "tax-013",
+    "taxType": "VAT",
+    "period": "January 2024",
+    "taxableAmount": 100000.0,
+    "taxRate": 16.0,
+    "taxAmount": 16000.0,
+    "filingDate": "2025-05-10",
+    "status": "Completed"
+  },
+  {
+    "id": "tax-014",
+    "taxType": "Corporate Tax",
+    "period": "Q4 2023",
+    "taxableAmount": 500000.0,
+    "taxRate": 35.0,
+    "taxAmount": 175000.0,
+    "filingDate": "2025-06-13",
+    "status": "Draft"
+  },
+  {
+    "id": "tax-015",
+    "taxType": "VAT",
+    "period": "January 2024",
+    "taxableAmount": 100000.0,
+    "taxRate": 16.0,
+    "taxAmount": 16000.0,
+    "filingDate": "2025-08-06",
+    "status": "Draft"
+  },
+  {
+    "id": "tax-016",
+    "taxType": "Corporate Tax",
+    "period": "Q4 2023",
+    "taxableAmount": 500000.0,
+    "taxRate": 35.0,
+    "taxAmount": 175000.0,
+    "filingDate": "2025-10-18",
+    "status": "On Hold"
+  },
+  {
+    "id": "tax-017",
+    "taxType": "VAT",
+    "period": "January 2024",
+    "taxableAmount": 100000.0,
+    "taxRate": 16.0,
+    "taxAmount": 16000.0,
+    "filingDate": "2025-11-18",
+    "status": "Approved"
+  },
+  {
+    "id": "tax-018",
+    "taxType": "Corporate Tax",
+    "period": "Q4 2023",
+    "taxableAmount": 500000.0,
+    "taxRate": 35.0,
+    "taxAmount": 175000.0,
+    "filingDate": "2026-01-05",
+    "status": "Pending"
+  },
+  {
+    "id": "tax-019",
+    "taxType": "VAT",
+    "period": "January 2024",
+    "taxableAmount": 100000.0,
+    "taxRate": 16.0,
+    "taxAmount": 16000.0,
+    "filingDate": "2025-05-04",
+    "status": "Approved"
+  },
+  {
+    "id": "tax-020",
+    "taxType": "Corporate Tax",
+    "period": "Q4 2023",
+    "taxableAmount": 500000.0,
+    "taxRate": 35.0,
+    "taxAmount": 175000.0,
+    "filingDate": "2025-05-05",
+    "status": "Pending"
+  },
+  {
+    "id": "tax-021",
+    "taxType": "VAT",
+    "period": "January 2024",
+    "taxableAmount": 100000.0,
+    "taxRate": 16.0,
+    "taxAmount": 16000.0,
+    "filingDate": "2025-07-13",
+    "status": "Cancelled"
+  },
+  {
+    "id": "tax-022",
+    "taxType": "Corporate Tax",
+    "period": "Q4 2023",
+    "taxableAmount": 500000.0,
+    "taxRate": 35.0,
+    "taxAmount": 175000.0,
+    "filingDate": "2025-07-07",
+    "status": "Completed"
+  },
+  {
+    "id": "tax-023",
+    "taxType": "VAT",
+    "period": "January 2024",
+    "taxableAmount": 100000.0,
+    "taxRate": 16.0,
+    "taxAmount": 16000.0,
+    "filingDate": "2025-11-23",
+    "status": "Approved"
+  },
+  {
+    "id": "tax-024",
+    "taxType": "Corporate Tax",
+    "period": "Q4 2023",
+    "taxableAmount": 500000.0,
+    "taxRate": 35.0,
+    "taxAmount": 175000.0,
+    "filingDate": "2025-08-03",
+    "status": "On Hold"
+  },
+  {
+    "id": "tax-025",
+    "taxType": "VAT",
+    "period": "January 2024",
+    "taxableAmount": 100000.0,
+    "taxRate": 16.0,
+    "taxAmount": 16000.0,
+    "filingDate": "2025-10-07",
+    "status": "Cancelled"
+  },
+  {
+    "id": "tax-026",
+    "taxType": "Corporate Tax",
+    "period": "Q4 2023",
+    "taxableAmount": 500000.0,
+    "taxRate": 35.0,
+    "taxAmount": 175000.0,
+    "filingDate": "2026-01-01",
+    "status": "Pending"
+  },
+  {
+    "id": "tax-027",
+    "taxType": "VAT",
+    "period": "January 2024",
+    "taxableAmount": 100000.0,
+    "taxRate": 16.0,
+    "taxAmount": 16000.0,
+    "filingDate": "2025-10-08",
+    "status": "Active"
+  },
+  {
+    "id": "tax-028",
+    "taxType": "Corporate Tax",
+    "period": "Q4 2023",
+    "taxableAmount": 500000.0,
+    "taxRate": 35.0,
+    "taxAmount": 175000.0,
+    "filingDate": "2025-05-15",
+    "status": "Approved"
+  },
+  {
+    "id": "tax-029",
+    "taxType": "VAT",
+    "period": "January 2024",
+    "taxableAmount": 100000.0,
+    "taxRate": 16.0,
+    "taxAmount": 16000.0,
+    "filingDate": "2025-12-06",
+    "status": "Pending"
+  },
+  {
+    "id": "tax-030",
+    "taxType": "Corporate Tax",
+    "period": "Q4 2023",
+    "taxableAmount": 500000.0,
+    "taxRate": 35.0,
+    "taxAmount": 175000.0,
+    "filingDate": "2026-01-18",
+    "status": "Cancelled"
+  }
+]

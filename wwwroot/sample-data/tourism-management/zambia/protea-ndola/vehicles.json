@@ -1,0 +1,12 @@
+﻿{
+    "Capacity":  4,
+    "Id":  202,
+    "RegistrationNumber":  "ZM-PHN-20",
+    "VehicleType":  3,
+    "FuelType":  "Petrol",
+    "Name":  "Protea Ndola Cruiser",
+    "NextServiceDue":  "2024-12-10",
+    "Status":  0,
+    "LastServiceDate":  "2024-06-10",
+    "FuelLevel":  0.85
+}

@@ -1,0 +1,272 @@
+[
+  {
+    "id": "budget-001",
+    "month": "February",
+    "year": 2024,
+    "category": "Marketing",
+    "budgetAmount": 29786.27,
+    "actualAmount": 43077.92,
+    "variance": -2451.34
+  },
+  {
+    "id": "budget-002",
+    "month": "March",
+    "year": 2024,
+    "category": "Equipment",
+    "budgetAmount": 43153.91,
+    "actualAmount": 26192.78,
+    "variance": 2789.41
+  },
+  {
+    "id": "budget-003",
+    "month": "April",
+    "year": 2024,
+    "category": "Utilities",
+    "budgetAmount": 8014.74,
+    "actualAmount": 16212.36,
+    "variance": 1491.35
+  },
+  {
+    "id": "budget-004",
+    "month": "May",
+    "year": 2024,
+    "category": "Staff",
+    "budgetAmount": 43415.29,
+    "actualAmount": 21065.4,
+    "variance": 1672.54
+  },
+  {
+    "id": "budget-005",
+    "month": "June",
+    "year": 2024,
+    "category": "Equipment",
+    "budgetAmount": 13464.01,
+    "actualAmount": 18746.38,
+    "variance": -4253.55
+  },
+  {
+    "id": "budget-006",
+    "month": "July",
+    "year": 2024,
+    "category": "Marketing",
+    "budgetAmount": 23247.37,
+    "actualAmount": 29483.22,
+    "variance": -2633.14
+  },
+  {
+    "id": "budget-007",
+    "month": "August",
+    "year": 2024,
+    "category": "Staff",
+    "budgetAmount": 12801.48,
+    "actualAmount": 8326.23,
+    "variance": -1925.6
+  },
+  {
+    "id": "budget-008",
+    "month": "September",
+    "year": 2024,
+    "category": "Operations",
+    "budgetAmount": 10356.01,
+    "actualAmount": 40347.31,
+    "variance": 4247.29
+  },
+  {
+    "id": "budget-009",
+    "month": "October",
+    "year": 2024,
+    "category": "Marketing",
+    "budgetAmount": 25543.45,
+    "actualAmount": 41131.49,
+    "variance": -502.71
+  },
+  {
+    "id": "budget-010",
+    "month": "November",
+    "year": 2024,
+    "category": "Marketing",
+    "budgetAmount": 6164.71,
+    "actualAmount": 24832.4,
+    "variance": -1913.42
+  },
+  {
+    "id": "budget-011",
+    "month": "December",
+    "year": 2024,
+    "category": "Utilities",
+    "budgetAmount": 35847.51,
+    "actualAmount": 42721.7,
+    "variance": 2850.16
+  },
+  {
+    "id": "budget-012",
+    "month": "January",
+    "year": 2024,
+    "category": "Equipment",
+    "budgetAmount": 7495.36,
+    "actualAmount": 9868.78,
+    "variance": 2717.95
+  },
+  {
+    "id": "budget-013",
+    "month": "February",
+    "year": 2024,
+    "category": "Staff",
+    "budgetAmount": 6609.44,
+    "actualAmount": 24299.33,
+    "variance": -3051.77
+  },
+  {
+    "id": "budget-014",
+    "month": "March",
+    "year": 2024,
+    "category": "Staff",
+    "budgetAmount": 16379.18,
+    "actualAmount": 10929.68,
+    "variance": 3642.72
+  },
+  {
+    "id": "budget-015",
+    "month": "April",
+    "year": 2024,
+    "category": "Staff",
+    "budgetAmount": 28386.1,
+    "actualAmount": 40341.07,
+    "variance": -4067.96
+  },
+  {
+    "id": "budget-016",
+    "month": "May",
+    "year": 2024,
+    "category": "Marketing",
+    "budgetAmount": 30778.09,
+    "actualAmount": 6919.81,
+    "variance": -1818.53
+  },
+  {
+    "id": "budget-017",
+    "month": "June",
+    "year": 2024,
+    "category": "Equipment",
+    "budgetAmount": 49115.92,
+    "actualAmount": 4930.59,
+    "variance": 516.25
+  },
+  {
+    "id": "budget-018",
+    "month": "July",
+    "year": 2024,
+    "category": "Utilities",
+    "budgetAmount": 31859.37,
+    "actualAmount": 42558.95,
+    "variance": 1200.48
+  },
+  {
+    "id": "budget-019",
+    "month": "August",
+    "year": 2024,
+    "category": "Marketing",
+    "budgetAmount": 42960.46,
+    "actualAmount": 9249.39,
+    "variance": 3461.72
+  },
+  {
+    "id": "budget-020",
+    "month": "September",
+    "year": 2024,
+    "category": "Operations",
+    "budgetAmount": 48391.06,
+    "actualAmount": 25714.04,
+    "variance": -735.72
+  },
+  {
+    "id": "budget-021",
+    "month": "October",
+    "year": 2024,
+    "category": "Equipment",
+    "budgetAmount": 43928.06,
+    "actualAmount": 29451.45,
+    "variance": -2899.3
+  },
+  {
+    "id": "budget-022",
+    "month": "November",
+    "year": 2024,
+    "category": "Operations",
+    "budgetAmount": 24874.44,
+    "actualAmount": 9438.65,
+    "variance": 2325.21
+  },
+  {
+    "id": "budget-023",
+    "month": "December",
+    "year": 2024,
+    "category": "Marketing",
+    "budgetAmount": 31657.11,
+    "actualAmount": 9280.65,
+    "variance": -3366.2
+  },
+  {
+    "id": "budget-024",
+    "month": "January",
+    "year": 2024,
+    "category": "Utilities",
+    "budgetAmount": 22444.35,
+    "actualAmount": 24663.7,
+    "variance": -4154.54
+  },
+  {
+    "id": "budget-025",
+    "month": "February",
+    "year": 2024,
+    "category": "Staff",
+    "budgetAmount": 26448.34,
+    "actualAmount": 41444.13,
+    "variance": -555.88
+  },
+  {
+    "id": "budget-026",
+    "month": "March",
+    "year": 2024,
+    "category": "Staff",
+    "budgetAmount": 46663.63,
+    "actualAmount": 38625.0,
+    "variance": -498.16
+  },
+  {
+    "id": "budget-027",
+    "month": "April",
+    "year": 2024,
+    "category": "Marketing",
+    "budgetAmount": 48320.23,
+    "actualAmount": 6372.69,
+    "variance": -744.35
+  },
+  {
+    "id": "budget-028",
+    "month": "May",
+    "year": 2024,
+    "category": "Operations",
+    "budgetAmount": 5915.75,
+    "actualAmount": 35984.99,
+    "variance": -1814.58
+  },
+  {
+    "id": "budget-029",
+    "month": "June",
+    "year": 2024,
+    "category": "Utilities",
+    "budgetAmount": 45925.0,
+    "actualAmount": 5981.13,
+    "variance": 776.56
+  },
+  {
+    "id": "budget-030",
+    "month": "July",
+    "year": 2024,
+    "category": "Marketing",
+    "budgetAmount": 36254.67,
+    "actualAmount": 34259.06,
+    "variance": 873.25
+  }
+]

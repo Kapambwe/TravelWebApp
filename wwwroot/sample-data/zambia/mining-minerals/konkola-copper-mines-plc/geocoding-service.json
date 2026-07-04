@@ -1,0 +1,272 @@
+[
+  {
+    "id": "geo-001",
+    "address": "Plot 7832, Independence Avenue, Roma",
+    "latitude": -15.4167,
+    "longitude": 28.2833,
+    "city": "Lusaka",
+    "country": "Zambia",
+    "postalCode": "10101"
+  },
+  {
+    "id": "geo-002",
+    "address": "Plot 5857, Kafue Road, Solwezi",
+    "latitude": -15.4167,
+    "longitude": 28.2833,
+    "city": "Lusaka",
+    "country": "Zambia",
+    "postalCode": "10101"
+  },
+  {
+    "id": "geo-003",
+    "address": "Plot 2819, Kaunda Square, Roma",
+    "latitude": -15.4167,
+    "longitude": 28.2833,
+    "city": "Lusaka",
+    "country": "Zambia",
+    "postalCode": "10101"
+  },
+  {
+    "id": "geo-004",
+    "address": "Plot 6115, Lumumba Road, Kasama",
+    "latitude": -15.4167,
+    "longitude": 28.2833,
+    "city": "Lusaka",
+    "country": "Zambia",
+    "postalCode": "10101"
+  },
+  {
+    "id": "geo-005",
+    "address": "Plot 7883, Freedom Way, Chelston",
+    "latitude": -15.4167,
+    "longitude": 28.2833,
+    "city": "Lusaka",
+    "country": "Zambia",
+    "postalCode": "10101"
+  },
+  {
+    "id": "geo-006",
+    "address": "Plot 2574, Lumumba Road, Chipata",
+    "latitude": -15.4167,
+    "longitude": 28.2833,
+    "city": "Lusaka",
+    "country": "Zambia",
+    "postalCode": "10101"
+  },
+  {
+    "id": "geo-007",
+    "address": "Plot 2432, Great East Road, Kabwe",
+    "latitude": -15.4167,
+    "longitude": 28.2833,
+    "city": "Lusaka",
+    "country": "Zambia",
+    "postalCode": "10101"
+  },
+  {
+    "id": "geo-008",
+    "address": "Plot 7114, Chindo Road, Makeni",
+    "latitude": -15.4167,
+    "longitude": 28.2833,
+    "city": "Lusaka",
+    "country": "Zambia",
+    "postalCode": "10101"
+  },
+  {
+    "id": "geo-009",
+    "address": "Plot 7473, Chachacha Road, Mongu",
+    "latitude": -15.4167,
+    "longitude": 28.2833,
+    "city": "Lusaka",
+    "country": "Zambia",
+    "postalCode": "10101"
+  },
+  {
+    "id": "geo-010",
+    "address": "Plot 8198, Kabwe Road, Chingola",
+    "latitude": -15.4167,
+    "longitude": 28.2833,
+    "city": "Lusaka",
+    "country": "Zambia",
+    "postalCode": "10101"
+  },
+  {
+    "id": "geo-011",
+    "address": "Plot 6986, Great East Road, Northmead",
+    "latitude": -15.4167,
+    "longitude": 28.2833,
+    "city": "Lusaka",
+    "country": "Zambia",
+    "postalCode": "10101"
+  },
+  {
+    "id": "geo-012",
+    "address": "Plot 325, Chilimbulu Road, Kasama",
+    "latitude": -15.4167,
+    "longitude": 28.2833,
+    "city": "Lusaka",
+    "country": "Zambia",
+    "postalCode": "10101"
+  },
+  {
+    "id": "geo-013",
+    "address": "Plot 2373, Makishi Road, Solwezi",
+    "latitude": -15.4167,
+    "longitude": 28.2833,
+    "city": "Lusaka",
+    "country": "Zambia",
+    "postalCode": "10101"
+  },
+  {
+    "id": "geo-014",
+    "address": "Plot 4537, Church Road, Kitwe",
+    "latitude": -15.4167,
+    "longitude": 28.2833,
+    "city": "Lusaka",
+    "country": "Zambia",
+    "postalCode": "10101"
+  },
+  {
+    "id": "geo-015",
+    "address": "Plot 5509, Kabulonga Road, Chelston",
+    "latitude": -15.4167,
+    "longitude": 28.2833,
+    "city": "Lusaka",
+    "country": "Zambia",
+    "postalCode": "10101"
+  },
+  {
+    "id": "geo-016",
+    "address": "Plot 7487, Los Angeles Boulevard, Solwezi",
+    "latitude": -15.4167,
+    "longitude": 28.2833,
+    "city": "Lusaka",
+    "country": "Zambia",
+    "postalCode": "10101"
+  },
+  {
+    "id": "geo-017",
+    "address": "Plot 3810, Cairo Road, Northmead",
+    "latitude": -15.4167,
+    "longitude": 28.2833,
+    "city": "Lusaka",
+    "country": "Zambia",
+    "postalCode": "10101"
+  },
+  {
+    "id": "geo-018",
+    "address": "Plot 4219, Church Road, Chipata",
+    "latitude": -15.4167,
+    "longitude": 28.2833,
+    "city": "Lusaka",
+    "country": "Zambia",
+    "postalCode": "10101"
+  },
+  {
+    "id": "geo-019",
+    "address": "Plot 8588, Independence Avenue, Chaisa",
+    "latitude": -15.4167,
+    "longitude": 28.2833,
+    "city": "Lusaka",
+    "country": "Zambia",
+    "postalCode": "10101"
+  },
+  {
+    "id": "geo-020",
+    "address": "Plot 6995, Libala Road, Mufulira",
+    "latitude": -15.4167,
+    "longitude": 28.2833,
+    "city": "Lusaka",
+    "country": "Zambia",
+    "postalCode": "10101"
+  },
+  {
+    "id": "geo-021",
+    "address": "Plot 1206, Chilimbulu Road, Chipata",
+    "latitude": -15.4167,
+    "longitude": 28.2833,
+    "city": "Lusaka",
+    "country": "Zambia",
+    "postalCode": "10101"
+  },
+  {
+    "id": "geo-022",
+    "address": "Plot 6490, Chachacha Road, Chingola",
+    "latitude": -15.4167,
+    "longitude": 28.2833,
+    "city": "Lusaka",
+    "country": "Zambia",
+    "postalCode": "10101"
+  },
+  {
+    "id": "geo-023",
+    "address": "Plot 5931, Lumumba Road, Makeni",
+    "latitude": -15.4167,
+    "longitude": 28.2833,
+    "city": "Lusaka",
+    "country": "Zambia",
+    "postalCode": "10101"
+  },
+  {
+    "id": "geo-024",
+    "address": "Plot 4464, Kaunda Square, Kabwe",
+    "latitude": -15.4167,
+    "longitude": 28.2833,
+    "city": "Lusaka",
+    "country": "Zambia",
+    "postalCode": "10101"
+  },
+  {
+    "id": "geo-025",
+    "address": "Plot 8609, Kabulonga Road, Chingola",
+    "latitude": -15.4167,
+    "longitude": 28.2833,
+    "city": "Lusaka",
+    "country": "Zambia",
+    "postalCode": "10101"
+  },
+  {
+    "id": "geo-026",
+    "address": "Plot 7707, Kafue Road, Chingola",
+    "latitude": -15.4167,
+    "longitude": 28.2833,
+    "city": "Lusaka",
+    "country": "Zambia",
+    "postalCode": "10101"
+  },
+  {
+    "id": "geo-027",
+    "address": "Plot 9074, Thabo Mbeki Road, Makeni",
+    "latitude": -15.4167,
+    "longitude": 28.2833,
+    "city": "Lusaka",
+    "country": "Zambia",
+    "postalCode": "10101"
+  },
+  {
+    "id": "geo-028",
+    "address": "Plot 2887, Lumumba Road, Chaisa",
+    "latitude": -15.4167,
+    "longitude": 28.2833,
+    "city": "Lusaka",
+    "country": "Zambia",
+    "postalCode": "10101"
+  },
+  {
+    "id": "geo-029",
+    "address": "Plot 9693, Lumumba Road, Luanshya",
+    "latitude": -15.4167,
+    "longitude": 28.2833,
+    "city": "Lusaka",
+    "country": "Zambia",
+    "postalCode": "10101"
+  },
+  {
+    "id": "geo-030",
+    "address": "Plot 8901, Kabwe Road, Woodlands",
+    "latitude": -15.4167,
+    "longitude": 28.2833,
+    "city": "Lusaka",
+    "country": "Zambia",
+    "postalCode": "10101"
+  }
+]

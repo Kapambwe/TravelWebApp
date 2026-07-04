@@ -1,0 +1,101 @@
+[
+  {
+    "id": 1,
+    "billNumber": "BILL-2025-001",
+    "vendorName": "Zulu Media Holdings",
+    "description": "Sound & Lighting Hire",
+    "billDate": "2025-01-20T00:00:00",
+    "dueDate": "2025-02-19T00:00:00",
+    "amount": 794957.38,
+    "paidAmount": 794957.38,
+    "status": "Paid"
+  },
+  {
+    "id": 2,
+    "billNumber": "BILL-2025-002",
+    "vendorName": "Zulu Media Holdings",
+    "description": "Music Video Production",
+    "billDate": "2024-12-12T00:00:00",
+    "dueDate": "2025-01-26T00:00:00",
+    "amount": 3272674.41,
+    "paidAmount": 3272674.41,
+    "status": "Paid"
+  },
+  {
+    "id": 3,
+    "billNumber": "BILL-2025-003",
+    "vendorName": "Tembo Entertainment Ltd",
+    "description": "Sound & Lighting Hire",
+    "billDate": "2024-09-26T00:00:00",
+    "dueDate": "2024-11-10T00:00:00",
+    "amount": 3056624.0,
+    "paidAmount": 2344022.6,
+    "status": "PartiallyPaid"
+  },
+  {
+    "id": 4,
+    "billNumber": "BILL-2025-004",
+    "vendorName": "Tembo Entertainment Ltd",
+    "description": "PR Campaign",
+    "billDate": "2024-12-31T00:00:00",
+    "dueDate": "2025-02-14T00:00:00",
+    "amount": 3420151.77,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 5,
+    "billNumber": "BILL-2025-005",
+    "vendorName": "Tembo Entertainment Ltd",
+    "description": "Sound & Lighting Hire",
+    "billDate": "2024-11-25T00:00:00",
+    "dueDate": "2025-01-09T00:00:00",
+    "amount": 1238573.98,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 6,
+    "billNumber": "BILL-2025-006",
+    "vendorName": "Zulu Music Group Group",
+    "description": "Music Video Production",
+    "billDate": "2024-11-05T00:00:00",
+    "dueDate": "2024-11-20T00:00:00",
+    "amount": 1475616.56,
+    "paidAmount": 1475616.56,
+    "status": "Paid"
+  },
+  {
+    "id": 7,
+    "billNumber": "BILL-2025-007",
+    "vendorName": "Chileshe Creative Agency Enterprises",
+    "description": "Sound & Lighting Hire",
+    "billDate": "2024-10-05T00:00:00",
+    "dueDate": "2024-10-20T00:00:00",
+    "amount": 1361436.38,
+    "paidAmount": 1040941.25,
+    "status": "PartiallyPaid"
+  },
+  {
+    "id": 8,
+    "billNumber": "BILL-2025-008",
+    "vendorName": "Tembo Entertainment Ltd",
+    "description": "Travel & Accommodation",
+    "billDate": "2025-02-27T00:00:00",
+    "dueDate": "2025-03-14T00:00:00",
+    "amount": 2726234.28,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 9,
+    "billNumber": "BILL-2025-009",
+    "vendorName": "Chileshe Creative Agency Enterprises",
+    "description": "Music Video Production",
+    "billDate": "2025-02-26T00:00:00",
+    "dueDate": "2025-04-12T00:00:00",
+    "amount": 1235564.02,
+    "paidAmount": 0.0,
+    "status": "Open"
+  }
+]

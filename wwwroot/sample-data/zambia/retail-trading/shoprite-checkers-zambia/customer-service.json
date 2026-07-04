@@ -1,0 +1,302 @@
+[
+  {
+    "id": "cust-001",
+    "customerName": "Superior Supplies Limited",
+    "email": "chishimba.siame@business.com",
+    "phone": "+260-76-6723089",
+    "address": "Plot 7548, Cairo Road, Luanshya",
+    "taxId": "TPIN-5874877560",
+    "creditLimit": 50000.0,
+    "outstandingBalance": 15000.0
+  },
+  {
+    "id": "cust-002",
+    "customerName": "Muchinga Holdings Ltd",
+    "email": "mwansa.hichilema@business.co.zm",
+    "phone": "+260-215-126011",
+    "address": "Plot 7794, Kabwe Road, Kasama",
+    "taxId": "TPIN-7377401834",
+    "creditLimit": 30000.0,
+    "outstandingBalance": 5000.0
+  },
+  {
+    "id": "cust-003",
+    "customerName": "Superior Supplies PLC",
+    "email": "mulenga.kapembwa@business.co.zm",
+    "phone": "+260-76-3595158",
+    "address": "Plot 3059, Nationalist Road, Makeni",
+    "taxId": "TPIN-6346869297",
+    "creditLimit": 50000.0,
+    "outstandingBalance": 15000.0
+  },
+  {
+    "id": "cust-004",
+    "customerName": "African Business Corporation",
+    "email": "lubinda.sichone@business.co.zm",
+    "phone": "+260-95-3559388",
+    "address": "Plot 1421, Chachacha Road, Woodlands",
+    "taxId": "TPIN-3260858574",
+    "creditLimit": 30000.0,
+    "outstandingBalance": 5000.0
+  },
+  {
+    "id": "cust-005",
+    "customerName": "Northern Enterprises Corporation",
+    "email": "phiri.mulenga@business.zm",
+    "phone": "+260-77-4439588",
+    "address": "Plot 7905, Kafue Road, Roma",
+    "taxId": "TPIN-1060435839",
+    "creditLimit": 50000.0,
+    "outstandingBalance": 15000.0
+  },
+  {
+    "id": "cust-006",
+    "customerName": "Northern Enterprises Enterprises",
+    "email": "mutale.mumba@business.zm",
+    "phone": "+260-96-7506520",
+    "address": "Plot 7202, Kabwe Road, Chipata",
+    "taxId": "TPIN-1596568092",
+    "creditLimit": 30000.0,
+    "outstandingBalance": 5000.0
+  },
+  {
+    "id": "cust-007",
+    "customerName": "Western Suppliers PLC",
+    "email": "chishimba.sakala@business.co.zm",
+    "phone": "+260-95-7026654",
+    "address": "Plot 8365, Independence Avenue, Chaisa",
+    "taxId": "TPIN-9660878071",
+    "creditLimit": 50000.0,
+    "outstandingBalance": 15000.0
+  },
+  {
+    "id": "cust-008",
+    "customerName": "Northern Enterprises Ltd",
+    "email": "muyunda.daka@business.zm",
+    "phone": "+260-213-372212",
+    "address": "Plot 6846, Lumumba Road, Luanshya",
+    "taxId": "TPIN-3618407449",
+    "creditLimit": 30000.0,
+    "outstandingBalance": 5000.0
+  },
+  {
+    "id": "cust-009",
+    "customerName": "Northern Enterprises PLC",
+    "email": "phiri.musonda@business.zm",
+    "phone": "+260-95-7423321",
+    "address": "Plot 9569, Kaunda Square, Solwezi",
+    "taxId": "TPIN-9478395314",
+    "creditLimit": 50000.0,
+    "outstandingBalance": 15000.0
+  },
+  {
+    "id": "cust-010",
+    "customerName": "Northern Enterprises Group",
+    "email": "kambole.simukonda@business.zm",
+    "phone": "+260-215-356420",
+    "address": "Plot 9225, Kabulonga Road, Livingstone",
+    "taxId": "TPIN-8636890568",
+    "creditLimit": 30000.0,
+    "outstandingBalance": 5000.0
+  },
+  {
+    "id": "cust-011",
+    "customerName": "Continental Trading Ltd",
+    "email": "mulenga.lubasi@business.zm",
+    "phone": "+260-77-8573918",
+    "address": "Plot 9106, Independence Avenue, Makeni",
+    "taxId": "TPIN-2928237909",
+    "creditLimit": 50000.0,
+    "outstandingBalance": 15000.0
+  },
+  {
+    "id": "cust-012",
+    "customerName": "Muchinga Holdings Corporation",
+    "email": "kambole.chiluba@business.com",
+    "phone": "+260-215-325434",
+    "address": "Plot 5215, Freedom Way, Chingola",
+    "taxId": "TPIN-1442974792",
+    "creditLimit": 30000.0,
+    "outstandingBalance": 5000.0
+  },
+  {
+    "id": "cust-013",
+    "customerName": "Lusaka Commercial Ltd",
+    "email": "chanda.siame@business.co.zm",
+    "phone": "+260-211-642566",
+    "address": "Plot 6360, Nationalist Road, Kabulonga",
+    "taxId": "TPIN-8082593343",
+    "creditLimit": 50000.0,
+    "outstandingBalance": 15000.0
+  },
+  {
+    "id": "cust-014",
+    "customerName": "Premier Services Ltd",
+    "email": "chilufya.chishimba@business.com",
+    "phone": "+260-212-248907",
+    "address": "Plot 7524, Makishi Road, Makeni",
+    "taxId": "TPIN-3454451298",
+    "creditLimit": 30000.0,
+    "outstandingBalance": 5000.0
+  },
+  {
+    "id": "cust-015",
+    "customerName": "National Trading Corporation",
+    "email": "chishimba.siame@business.com",
+    "phone": "+260-77-3753569",
+    "address": "Plot 7437, Lumumba Road, Chelston",
+    "taxId": "TPIN-8140690840",
+    "creditLimit": 50000.0,
+    "outstandingBalance": 15000.0
+  },
+  {
+    "id": "cust-016",
+    "customerName": "Superior Supplies Services",
+    "email": "lungu.lubinda@business.com",
+    "phone": "+260-96-8729863",
+    "address": "Plot 8018, Kabwe Road, Chipata",
+    "taxId": "TPIN-1953943599",
+    "creditLimit": 30000.0,
+    "outstandingBalance": 5000.0
+  },
+  {
+    "id": "cust-017",
+    "customerName": "Copperbelt Trading Services",
+    "email": "kunda.sakala@business.co.zm",
+    "phone": "+260-213-263524",
+    "address": "Plot 1683, Kabwe Road, Lusaka",
+    "taxId": "TPIN-8149339270",
+    "creditLimit": 50000.0,
+    "outstandingBalance": 15000.0
+  },
+  {
+    "id": "cust-018",
+    "customerName": "Northern Enterprises Corporation",
+    "email": "chilufya.mwape@business.co.zm",
+    "phone": "+260-76-5466326",
+    "address": "Plot 7824, Libala Road, Solwezi",
+    "taxId": "TPIN-6442602829",
+    "creditLimit": 30000.0,
+    "outstandingBalance": 5000.0
+  },
+  {
+    "id": "cust-019",
+    "customerName": "Continental Trading Limited",
+    "email": "sakala.mutale@business.com",
+    "phone": "+260-216-377304",
+    "address": "Plot 4834, Kabulonga Road, Chaisa",
+    "taxId": "TPIN-9030413975",
+    "creditLimit": 50000.0,
+    "outstandingBalance": 15000.0
+  },
+  {
+    "id": "cust-020",
+    "customerName": "Continental Trading Limited",
+    "email": "banda.simukonda@business.com",
+    "phone": "+260-95-4155724",
+    "address": "Plot 2677, Cairo Road, Luanshya",
+    "taxId": "TPIN-7574812886",
+    "creditLimit": 30000.0,
+    "outstandingBalance": 5000.0
+  },
+  {
+    "id": "cust-021",
+    "customerName": "Muchinga Holdings Group",
+    "email": "mwape.mwale@business.com",
+    "phone": "+260-215-714612",
+    "address": "Plot 3346, Chilimbulu Road, Mufulira",
+    "taxId": "TPIN-6535890614",
+    "creditLimit": 50000.0,
+    "outstandingBalance": 15000.0
+  },
+  {
+    "id": "cust-022",
+    "customerName": "Central Wholesale Corporation",
+    "email": "tembo.hichilema@business.zm",
+    "phone": "+260-76-7174178",
+    "address": "Plot 9093, Independence Avenue, Mongu",
+    "taxId": "TPIN-5053424497",
+    "creditLimit": 30000.0,
+    "outstandingBalance": 5000.0
+  },
+  {
+    "id": "cust-023",
+    "customerName": "Southern Province Supplies Group",
+    "email": "sakala.musonda@business.zm",
+    "phone": "+260-211-763468",
+    "address": "Plot 3005, Kaunda Square, Chelston",
+    "taxId": "TPIN-2374826423",
+    "creditLimit": 50000.0,
+    "outstandingBalance": 15000.0
+  },
+  {
+    "id": "cust-024",
+    "customerName": "Muchinga Holdings Ltd",
+    "email": "sichone.mwape@business.co.zm",
+    "phone": "+260-215-268258",
+    "address": "Plot 701, Kabwe Road, Mongu",
+    "taxId": "TPIN-9647553652",
+    "creditLimit": 30000.0,
+    "outstandingBalance": 5000.0
+  },
+  {
+    "id": "cust-025",
+    "customerName": "Western Suppliers Group",
+    "email": "simukonda.musonda@business.co.zm",
+    "phone": "+260-211-105792",
+    "address": "Plot 7785, Chindo Road, Luanshya",
+    "taxId": "TPIN-9070439121",
+    "creditLimit": 50000.0,
+    "outstandingBalance": 15000.0
+  },
+  {
+    "id": "cust-026",
+    "customerName": "Copperbelt Trading Services",
+    "email": "chishimba.ng'andu@business.co.zm",
+    "phone": "+260-96-4627315",
+    "address": "Plot 991, Great East Road, Mansa",
+    "taxId": "TPIN-9693965874",
+    "creditLimit": 30000.0,
+    "outstandingBalance": 5000.0
+  },
+  {
+    "id": "cust-027",
+    "customerName": "Muchinga Holdings Enterprises",
+    "email": "kabwe.kambole@business.zm",
+    "phone": "+260-216-287045",
+    "address": "Plot 4119, Thabo Mbeki Road, Northmead",
+    "taxId": "TPIN-9838130522",
+    "creditLimit": 50000.0,
+    "outstandingBalance": 15000.0
+  },
+  {
+    "id": "cust-028",
+    "customerName": "Copperbelt Trading Enterprises",
+    "email": "zulu.mwape@business.com",
+    "phone": "+260-77-9797412",
+    "address": "Plot 8325, Chilimbulu Road, Kabwe",
+    "taxId": "TPIN-1214643921",
+    "creditLimit": 30000.0,
+    "outstandingBalance": 5000.0
+  },
+  {
+    "id": "cust-029",
+    "customerName": "Muchinga Holdings Group",
+    "email": "ng'andu.sichone@business.zm",
+    "phone": "+260-76-3235974",
+    "address": "Plot 854, Kabulonga Road, Northmead",
+    "taxId": "TPIN-9275175881",
+    "creditLimit": 50000.0,
+    "outstandingBalance": 15000.0
+  },
+  {
+    "id": "cust-030",
+    "customerName": "Continental Trading Enterprises",
+    "email": "kunda.musonda@business.co.zm",
+    "phone": "+260-97-4833159",
+    "address": "Plot 6959, Addis Ababa Drive, Roma",
+    "taxId": "TPIN-6971202470",
+    "creditLimit": 30000.0,
+    "outstandingBalance": 5000.0
+  }
+]

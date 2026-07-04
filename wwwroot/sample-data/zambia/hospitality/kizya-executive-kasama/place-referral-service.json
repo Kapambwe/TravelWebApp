@@ -1,0 +1,332 @@
+[
+  {
+    "id": "pr-001",
+    "placeName": "Manda Hill Shopping Mall 1",
+    "location": {
+      "latitude": -15.3875,
+      "longitude": 28.3228
+    },
+    "referralCode": "MANDA2024",
+    "totalReferrals": 25,
+    "totalCommission": 12500.0
+  },
+  {
+    "id": "pr-002",
+    "placeName": "Manda Hill Shopping Mall 2",
+    "location": {
+      "latitude": -15.3875,
+      "longitude": 28.3228
+    },
+    "referralCode": "MANDA2024",
+    "totalReferrals": 25,
+    "totalCommission": 12500.0
+  },
+  {
+    "id": "pr-003",
+    "placeName": "Manda Hill Shopping Mall 3",
+    "location": {
+      "latitude": -15.3875,
+      "longitude": 28.3228
+    },
+    "referralCode": "MANDA2024",
+    "totalReferrals": 25,
+    "totalCommission": 12500.0
+  },
+  {
+    "id": "pr-004",
+    "placeName": "Manda Hill Shopping Mall 4",
+    "location": {
+      "latitude": -15.3875,
+      "longitude": 28.3228
+    },
+    "referralCode": "MANDA2024",
+    "totalReferrals": 25,
+    "totalCommission": 12500.0
+  },
+  {
+    "id": "pr-005",
+    "placeName": "Manda Hill Shopping Mall 5",
+    "location": {
+      "latitude": -15.3875,
+      "longitude": 28.3228
+    },
+    "referralCode": "MANDA2024",
+    "totalReferrals": 25,
+    "totalCommission": 12500.0
+  },
+  {
+    "id": "pr-006",
+    "placeName": "Manda Hill Shopping Mall 6",
+    "location": {
+      "latitude": -15.3875,
+      "longitude": 28.3228
+    },
+    "referralCode": "MANDA2024",
+    "totalReferrals": 25,
+    "totalCommission": 12500.0
+  },
+  {
+    "id": "pr-007",
+    "placeName": "Manda Hill Shopping Mall 7",
+    "location": {
+      "latitude": -15.3875,
+      "longitude": 28.3228
+    },
+    "referralCode": "MANDA2024",
+    "totalReferrals": 25,
+    "totalCommission": 12500.0
+  },
+  {
+    "id": "pr-008",
+    "placeName": "Manda Hill Shopping Mall 8",
+    "location": {
+      "latitude": -15.3875,
+      "longitude": 28.3228
+    },
+    "referralCode": "MANDA2024",
+    "totalReferrals": 25,
+    "totalCommission": 12500.0
+  },
+  {
+    "id": "pr-009",
+    "placeName": "Manda Hill Shopping Mall 9",
+    "location": {
+      "latitude": -15.3875,
+      "longitude": 28.3228
+    },
+    "referralCode": "MANDA2024",
+    "totalReferrals": 25,
+    "totalCommission": 12500.0
+  },
+  {
+    "id": "pr-010",
+    "placeName": "Manda Hill Shopping Mall 10",
+    "location": {
+      "latitude": -15.3875,
+      "longitude": 28.3228
+    },
+    "referralCode": "MANDA2024",
+    "totalReferrals": 25,
+    "totalCommission": 12500.0
+  },
+  {
+    "id": "pr-011",
+    "placeName": "Manda Hill Shopping Mall 11",
+    "location": {
+      "latitude": -15.3875,
+      "longitude": 28.3228
+    },
+    "referralCode": "MANDA2024",
+    "totalReferrals": 25,
+    "totalCommission": 12500.0
+  },
+  {
+    "id": "pr-012",
+    "placeName": "Manda Hill Shopping Mall 12",
+    "location": {
+      "latitude": -15.3875,
+      "longitude": 28.3228
+    },
+    "referralCode": "MANDA2024",
+    "totalReferrals": 25,
+    "totalCommission": 12500.0
+  },
+  {
+    "id": "pr-013",
+    "placeName": "Manda Hill Shopping Mall 13",
+    "location": {
+      "latitude": -15.3875,
+      "longitude": 28.3228
+    },
+    "referralCode": "MANDA2024",
+    "totalReferrals": 25,
+    "totalCommission": 12500.0
+  },
+  {
+    "id": "pr-014",
+    "placeName": "Manda Hill Shopping Mall 14",
+    "location": {
+      "latitude": -15.3875,
+      "longitude": 28.3228
+    },
+    "referralCode": "MANDA2024",
+    "totalReferrals": 25,
+    "totalCommission": 12500.0
+  },
+  {
+    "id": "pr-015",
+    "placeName": "Manda Hill Shopping Mall 15",
+    "location": {
+      "latitude": -15.3875,
+      "longitude": 28.3228
+    },
+    "referralCode": "MANDA2024",
+    "totalReferrals": 25,
+    "totalCommission": 12500.0
+  },
+  {
+    "id": "pr-016",
+    "placeName": "Manda Hill Shopping Mall 16",
+    "location": {
+      "latitude": -15.3875,
+      "longitude": 28.3228
+    },
+    "referralCode": "MANDA2024",
+    "totalReferrals": 25,
+    "totalCommission": 12500.0
+  },
+  {
+    "id": "pr-017",
+    "placeName": "Manda Hill Shopping Mall 17",
+    "location": {
+      "latitude": -15.3875,
+      "longitude": 28.3228
+    },
+    "referralCode": "MANDA2024",
+    "totalReferrals": 25,
+    "totalCommission": 12500.0
+  },
+  {
+    "id": "pr-018",
+    "placeName": "Manda Hill Shopping Mall 18",
+    "location": {
+      "latitude": -15.3875,
+      "longitude": 28.3228
+    },
+    "referralCode": "MANDA2024",
+    "totalReferrals": 25,
+    "totalCommission": 12500.0
+  },
+  {
+    "id": "pr-019",
+    "placeName": "Manda Hill Shopping Mall 19",
+    "location": {
+      "latitude": -15.3875,
+      "longitude": 28.3228
+    },
+    "referralCode": "MANDA2024",
+    "totalReferrals": 25,
+    "totalCommission": 12500.0
+  },
+  {
+    "id": "pr-020",
+    "placeName": "Manda Hill Shopping Mall 20",
+    "location": {
+      "latitude": -15.3875,
+      "longitude": 28.3228
+    },
+    "referralCode": "MANDA2024",
+    "totalReferrals": 25,
+    "totalCommission": 12500.0
+  },
+  {
+    "id": "pr-021",
+    "placeName": "Manda Hill Shopping Mall 21",
+    "location": {
+      "latitude": -15.3875,
+      "longitude": 28.3228
+    },
+    "referralCode": "MANDA2024",
+    "totalReferrals": 25,
+    "totalCommission": 12500.0
+  },
+  {
+    "id": "pr-022",
+    "placeName": "Manda Hill Shopping Mall 22",
+    "location": {
+      "latitude": -15.3875,
+      "longitude": 28.3228
+    },
+    "referralCode": "MANDA2024",
+    "totalReferrals": 25,
+    "totalCommission": 12500.0
+  },
+  {
+    "id": "pr-023",
+    "placeName": "Manda Hill Shopping Mall 23",
+    "location": {
+      "latitude": -15.3875,
+      "longitude": 28.3228
+    },
+    "referralCode": "MANDA2024",
+    "totalReferrals": 25,
+    "totalCommission": 12500.0
+  },
+  {
+    "id": "pr-024",
+    "placeName": "Manda Hill Shopping Mall 24",
+    "location": {
+      "latitude": -15.3875,
+      "longitude": 28.3228
+    },
+    "referralCode": "MANDA2024",
+    "totalReferrals": 25,
+    "totalCommission": 12500.0
+  },
+  {
+    "id": "pr-025",
+    "placeName": "Manda Hill Shopping Mall 25",
+    "location": {
+      "latitude": -15.3875,
+      "longitude": 28.3228
+    },
+    "referralCode": "MANDA2024",
+    "totalReferrals": 25,
+    "totalCommission": 12500.0
+  },
+  {
+    "id": "pr-026",
+    "placeName": "Manda Hill Shopping Mall 26",
+    "location": {
+      "latitude": -15.3875,
+      "longitude": 28.3228
+    },
+    "referralCode": "MANDA2024",
+    "totalReferrals": 25,
+    "totalCommission": 12500.0
+  },
+  {
+    "id": "pr-027",
+    "placeName": "Manda Hill Shopping Mall 27",
+    "location": {
+      "latitude": -15.3875,
+      "longitude": 28.3228
+    },
+    "referralCode": "MANDA2024",
+    "totalReferrals": 25,
+    "totalCommission": 12500.0
+  },
+  {
+    "id": "pr-028",
+    "placeName": "Manda Hill Shopping Mall 28",
+    "location": {
+      "latitude": -15.3875,
+      "longitude": 28.3228
+    },
+    "referralCode": "MANDA2024",
+    "totalReferrals": 25,
+    "totalCommission": 12500.0
+  },
+  {
+    "id": "pr-029",
+    "placeName": "Manda Hill Shopping Mall 29",
+    "location": {
+      "latitude": -15.3875,
+      "longitude": 28.3228
+    },
+    "referralCode": "MANDA2024",
+    "totalReferrals": 25,
+    "totalCommission": 12500.0
+  },
+  {
+    "id": "pr-030",
+    "placeName": "Manda Hill Shopping Mall 30",
+    "location": {
+      "latitude": -15.3875,
+      "longitude": 28.3228
+    },
+    "referralCode": "MANDA2024",
+    "totalReferrals": 25,
+    "totalCommission": 12500.0
+  }
+]

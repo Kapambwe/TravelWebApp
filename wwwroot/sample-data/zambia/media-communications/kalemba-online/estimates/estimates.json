@@ -1,0 +1,136 @@
+[
+  {
+    "id": 1,
+    "estimateNumber": "EST-2025-001",
+    "customerId": 7,
+    "customerName": "Zimba Digital Media Holdings",
+    "estimateDateDaysAgo": 26,
+    "expirationDateDaysFromNow": 29,
+    "status": "Open",
+    "subTotal": 769370.0,
+    "taxRate": 16,
+    "taxAmount": 123099.2,
+    "total": 892469.2,
+    "terms": "Net 15",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 26,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Radio Airtime",
+        "quantity": 5,
+        "unitPrice": 153874.0,
+        "amount": 769370.0,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 25
+  },
+  {
+    "id": 2,
+    "estimateNumber": "EST-2025-002",
+    "customerId": 6,
+    "customerName": "Musonda Communications Holdings",
+    "estimateDateDaysAgo": 15,
+    "expirationDateDaysFromNow": 45,
+    "status": "Draft",
+    "subTotal": 3917219.3,
+    "taxRate": 16,
+    "taxAmount": 626755.09,
+    "total": 4543974.39,
+    "terms": "Net 30",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 15,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "TV Commercial Slot",
+        "quantity": 5,
+        "unitPrice": 783443.86,
+        "amount": 3917219.3,
+        "itemType": "Service"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "estimateNumber": "EST-2025-003",
+    "customerId": 2,
+    "customerName": "Mwale Publishers Co.",
+    "estimateDateDaysAgo": 19,
+    "expirationDateDaysFromNow": 40,
+    "status": "Sent",
+    "subTotal": 1502924.69,
+    "taxRate": 0,
+    "taxAmount": 0.0,
+    "total": 1502924.69,
+    "terms": "Net 45",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 19,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Print Advertising Space",
+        "quantity": 4,
+        "unitPrice": 375731.17,
+        "amount": 1502924.69,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 18
+  },
+  {
+    "id": 4,
+    "estimateNumber": "EST-2025-004",
+    "customerId": 9,
+    "customerName": "Mwamba Publishers Solutions",
+    "estimateDateDaysAgo": 23,
+    "expirationDateDaysFromNow": 33,
+    "status": "Accepted",
+    "subTotal": 526779.07,
+    "taxRate": 18,
+    "taxAmount": 94820.23,
+    "total": 621599.3,
+    "terms": "Net 15",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 23,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "TV Commercial Slot",
+        "quantity": 1,
+        "unitPrice": 526779.07,
+        "amount": 526779.07,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 22
+  },
+  {
+    "id": 5,
+    "estimateNumber": "EST-2025-005",
+    "customerId": 2,
+    "customerName": "Mwale Publishers Co.",
+    "estimateDateDaysAgo": 9,
+    "expirationDateDaysFromNow": 15,
+    "status": "Declined",
+    "subTotal": 1675518.28,
+    "taxRate": 18,
+    "taxAmount": 301593.29,
+    "total": 1977111.57,
+    "terms": "Net 45",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 9,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "TV Commercial Slot",
+        "quantity": 1,
+        "unitPrice": 1675518.28,
+        "amount": 1675518.28,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 8
+  }
+]

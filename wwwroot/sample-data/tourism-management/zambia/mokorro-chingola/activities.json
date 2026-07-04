@@ -1,0 +1,22 @@
+﻿[
+    {
+        "BasePrice":  5500,
+        "Capacity":  12,
+        "IsActive":  true,
+        "Id":  305,
+        "Name":  "Chimfunshi Chimpanzee Excursion",
+        "Type":  13,
+        "Description":  "Day trip to the world-famous chimpanzee orphanage.",
+        "Duration":  300
+    },
+    {
+        "BasePrice":  2000,
+        "Capacity":  10,
+        "IsActive":  true,
+        "Id":  306,
+        "Name":  "Ranch Game Drive",
+        "Type":  0,
+        "Description":  "Spot impala, zebras, and wildebeest on the private ranch.",
+        "Duration":  120
+    }
+]

@@ -1,0 +1,85 @@
+@page "/holiday-packages"
+@using TravelWebApp.Models
+@using TravelWebApp.Services
+@inject ITravelService TravelService
+@inject ICartService CartService
+@inject NotificationService NotificationService
+
+<div class="page-section">
+    <RadzenText TextStyle="TextStyle.H3">Holiday Packages</RadzenText>
+    <RadzenText TextStyle="TextStyle.Body1" Style="color:var(--text-secondary);margin:8px 0 32px;">
+        All-inclusive getaways curated for the perfect escape.
+    </RadzenText>
+
+    <div class="packages-grid">
+        @foreach (var pkg in _packages)
+        {
+            <RadzenCard Style="padding:0;overflow:hidden;border-radius:16px;">
+                <div style="background-image: url('images/@(pkg.Image).jpg'); background-size:cover; background-position:center; height:240px; position:relative;">
+                    <div style="position:absolute;top:12px;left:12px;background:var(--accent);padding:4px 12px;border-radius:20px;font-weight:700;color:var(--text-primary);font-size:0.75rem;">
+                        @pkg.Season
+                    </div>
+                </div>
+                <div style="padding:24px;">
+                    <div style="display:flex;justify-content:space-between;align-items:flex-start;">
+                        <RadzenText TextStyle="TextStyle.H6">@pkg.Name</RadzenText>
+                        <div style="text-align:right;">
+                            <RadzenText TextStyle="TextStyle.H5" Style="color:var(--primary);font-weight:700;">R@((int)pkg.Price)</RadzenText>
+                            <RadzenText TextStyle="TextStyle.Caption" Style="color:var(--text-secondary);">per person</RadzenText>
+                        </div>
+                    </div>
+                    
+                    <RadzenText TextStyle="TextStyle.Body2" Style="color:var(--text-secondary);margin:12px 0;">@pkg.Description</RadzenText>
+                    
+                    <div style="display:flex;gap:8px;margin-bottom:20px;flex-wrap:wrap;">
+                        @foreach (var inc in pkg.Inclusions)
+                        {
+                            <RadzenBadge Text="@inc" BadgeStyle="BadgeStyle.Light" />
+                        }
+                    </div>
+
+                    <RadzenButton Text="Book Package" ButtonStyle="ButtonStyle.Primary" Style="width:100%;" Click="@(() => AddToCart(pkg))" />
+                </div>
+            </RadzenCard>
+        }
+    </div>
+</div>
+
+<style>
+    .packages-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(360px, 1fr)); gap: 32px; }
+</style>
+
+@code {
+    private List<PackageModel> _packages = [
+        new() { Name = "Kruger Family Safari", Description = "5 Days of adventure for the whole family in the wild.", Price = 12500, Season = "Summer Special", Inclusions = ["5 Nights Lodge", "All Meals", "8 Game Drives", "Airport Transfer"], Image = "kruger" },
+        new() { Name = "Cape Town & Winelands", Description = "7 Days exploring the mother city and scenic vineyards.", Price = 15800, Season = "Year-Round", Inclusions = ["7 Nights Hotel", "Breakfast", "Private Wine Tour", "Table Mountain Pass"], Image = "capetown" },
+        new() { Name = "Vic Falls Adventure", Description = "4 Days of adrenaline and natural wonder.", Price = 8900, Season = "Winter Wildlife", Inclusions = ["4 Nights Hotel", "Bungee Jump", "Helicopter Flight", "Guided Falls Tour"], Image = "vicfalls" },
+        new() { Name = "Zanzibar Romance", Description = "10 Days of island bliss for the perfect honeymoon.", Price = 24500, Season = "Honeymoon Special", Inclusions = ["10 Nights Resort", "All Inclusive", "Sunset Dhow Cruise", "Spa Treatment"], Image = "zanzibar" }
+    ];
+
+    private void AddToCart(PackageModel pkg)
+    {
+        CartService.AddItem(new CartItem
+        {
+            ProductId = 0,
+            Name = pkg.Name,
+            Description = pkg.Season,
+            Price = pkg.Price,
+            Quantity = 2,
+            Type = "Package",
+            Date = DateTime.Today.AddDays(30)
+        });
+        
+        NotificationService.Notify(new NotificationMessage { Severity = NotificationSeverity.Success, Summary = "Package Added", Detail = $"{pkg.Name} added to your plan." });
+    }
+
+    private class PackageModel
+    {
+        public string Name { get; set; } = "";
+        public string Description { get; set; } = "";
+        public decimal Price { get; set; }
+        public string Season { get; set; } = "";
+        public string[] Inclusions { get; set; } = [];
+        public string Image { get; set; } = "";
+    }
+}

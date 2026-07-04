@@ -1,0 +1,114 @@
+[
+  {
+    "id": "55555555-6666-7777-8888-999999999901",
+    "name": "Fruit Export Revenue Plan",
+    "description": "Forecast export sales for mangoes, citrus, and avocados with packhouse and shipping costs.",
+    "industry": "Agro Processing",
+    "icon": "agriculture",
+    "isPublic": true,
+    "createdDate": "2026-05-01T00:00:00",
+    "features": [
+      "Export contract pricing",
+      "Seasonal harvest cycles",
+      "Packing and freight cost planning"
+    ]
+  },
+  {
+    "id": "55555555-6666-7777-8888-999999999904",
+    "name": "Harvest Revenue Ramp",
+    "description": "Revenue model for orchard yield ramp-up, export contracts, and seasonal price changes.",
+    "industry": "Agro Processing",
+    "icon": "trending_up",
+    "isPublic": true,
+    "createdDate": "2026-05-01T00:00:00",
+    "features": [
+      "Yield ramp assumptions",
+      "Seasonal pricing",
+      "Contract shipment timing"
+    ]
+  },
+  {
+    "id": "55555555-6666-7777-8888-999999999905",
+    "name": "Packing House Throughput",
+    "description": "Operational revenue model for packhouse throughput, grading, and export packing fees.",
+    "industry": "Agro Processing",
+    "icon": "warehouse",
+    "isPublic": true,
+    "createdDate": "2026-05-01T00:00:00",
+    "features": [
+      "Throughput utilization",
+      "Grading fee income",
+      "Packing line planning"
+    ]
+  },
+  {
+    "id": "55555555-6666-7777-8888-999999999902",
+    "name": "Cold Chain Cash Flow",
+    "description": "Track cooling, storage, spoilage, and transport cash flow for fresh fruit operations.",
+    "industry": "Agro Processing",
+    "icon": "ac_unit",
+    "isPublic": true,
+    "createdDate": "2026-05-01T00:00:00",
+    "features": [
+      "Cold storage operating costs",
+      "Spoilage sensitivity",
+      "Transport and logistics spend"
+    ]
+  },
+  {
+    "id": "55555555-6666-7777-8888-999999999903",
+    "name": "Orchard Working Capital Model",
+    "description": "Working capital template for farm inputs, labor, irrigation, and receivables.",
+    "industry": "Agro Processing",
+    "icon": "water_drop",
+    "isPublic": true,
+    "createdDate": "2026-05-01T00:00:00",
+    "features": [
+      "Input purchase cycles",
+      "Receivables planning",
+      "Harvest season liquidity"
+    ]
+  },
+  {
+    "id": "55555555-6666-7777-8888-999999999906",
+    "name": "Farm Input Cost Plan",
+    "description": "Cost model for fertilizer, seedling, labor, and irrigation inputs across the season.",
+    "industry": "Agro Processing",
+    "icon": "payments",
+    "isPublic": true,
+    "createdDate": "2026-05-01T00:00:00",
+    "features": [
+      "Input inflation",
+      "Seasonal labor",
+      "Irrigation and utilities"
+    ]
+  },
+  {
+    "id": "55555555-6666-7777-8888-999999999907",
+    "name": "Packhouse Overhead Budget",
+    "description": "Budget for electricity, cold storage, quality control, and admin overheads.",
+    "industry": "Agro Processing",
+    "icon": "factory",
+    "isPublic": true,
+    "createdDate": "2026-05-01T00:00:00",
+    "features": [
+      "Cold room electricity",
+      "Quality control spend",
+      "Admin overhead allocation"
+    ]
+  },
+  {
+    "id": "55555555-6666-7777-8888-999999999908",
+    "name": "Export Logistics Margin",
+    "description": "Measures freight, container, port, and trucking costs against export revenue.",
+    "industry": "Agro Processing",
+    "icon": "local_shipping",
+    "isPublic": true,
+    "createdDate": "2026-05-01T00:00:00",
+    "features": [
+      "Freight cost tracking",
+      "Port charges",
+      "Truck loading efficiency"
+    ]
+  }
+]

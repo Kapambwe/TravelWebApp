@@ -1,0 +1,218 @@
+[
+  {
+    "id": 1,
+    "estimateNumber": "EST-2025-001",
+    "customerId": 5,
+    "customerName": "Mwamba Technical Services Holdings",
+    "estimateDateDaysAgo": 16,
+    "expirationDateDaysFromNow": 42,
+    "status": "Declined",
+    "subTotal": 1696978.99,
+    "taxRate": 16,
+    "taxAmount": 271516.64,
+    "total": 1968495.63,
+    "terms": "Net 30",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 16,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Carpentry Work",
+        "quantity": 2,
+        "unitPrice": 848489.49,
+        "amount": 1696978.99,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 15
+  },
+  {
+    "id": 2,
+    "estimateNumber": "EST-2025-002",
+    "customerId": 9,
+    "customerName": "Tembo Artisans Inc.",
+    "estimateDateDaysAgo": 39,
+    "expirationDateDaysFromNow": 34,
+    "status": "Declined",
+    "subTotal": 2579050.75,
+    "taxRate": 16,
+    "taxAmount": 412648.12,
+    "total": 2991698.87,
+    "terms": "Net 45",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 39,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Repairs & Maintenance",
+        "quantity": 3,
+        "unitPrice": 859683.58,
+        "amount": 2579050.75,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 38
+  },
+  {
+    "id": 3,
+    "estimateNumber": "EST-2025-003",
+    "customerId": 4,
+    "customerName": "Phiri Maintenance Ltd",
+    "estimateDateDaysAgo": 37,
+    "expirationDateDaysFromNow": 32,
+    "status": "Declined",
+    "subTotal": 2199948.88,
+    "taxRate": 0,
+    "taxAmount": 0.0,
+    "total": 2199948.88,
+    "terms": "Net 45",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 37,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Repairs & Maintenance",
+        "quantity": 3,
+        "unitPrice": 733316.29,
+        "amount": 2199948.88,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 36
+  },
+  {
+    "id": 4,
+    "estimateNumber": "EST-2025-004",
+    "customerId": 7,
+    "customerName": "Mumba Artisans Co.",
+    "estimateDateDaysAgo": 51,
+    "expirationDateDaysFromNow": 27,
+    "status": "Open",
+    "subTotal": 3492253.1,
+    "taxRate": 16,
+    "taxAmount": 558760.5,
+    "total": 4051013.6,
+    "terms": "Net 15",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 51,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Consulting Services",
+        "quantity": 4,
+        "unitPrice": 873063.28,
+        "amount": 3492253.1,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 50
+  },
+  {
+    "id": 5,
+    "estimateNumber": "EST-2025-005",
+    "customerId": 3,
+    "customerName": "Chileshe Artisans Enterprises",
+    "estimateDateDaysAgo": 34,
+    "expirationDateDaysFromNow": 28,
+    "status": "Accepted",
+    "subTotal": 431915.12,
+    "taxRate": 18,
+    "taxAmount": 77744.72,
+    "total": 509659.84,
+    "terms": "Net 30",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 34,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Custom Fabrication",
+        "quantity": 4,
+        "unitPrice": 107978.78,
+        "amount": 431915.12,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 33
+  },
+  {
+    "id": 6,
+    "estimateNumber": "EST-2025-006",
+    "customerId": 3,
+    "customerName": "Chileshe Artisans Enterprises",
+    "estimateDateDaysAgo": 51,
+    "expirationDateDaysFromNow": 16,
+    "status": "Accepted",
+    "subTotal": 281104.67,
+    "taxRate": 0,
+    "taxAmount": 0.0,
+    "total": 281104.67,
+    "terms": "Net 15",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 51,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Tailoring & Alterations",
+        "quantity": 5,
+        "unitPrice": 56220.93,
+        "amount": 281104.67,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 50
+  },
+  {
+    "id": 7,
+    "estimateNumber": "EST-2025-007",
+    "customerId": 3,
+    "customerName": "Chileshe Artisans Enterprises",
+    "estimateDateDaysAgo": 18,
+    "expirationDateDaysFromNow": 24,
+    "status": "Sent",
+    "subTotal": 348058.03,
+    "taxRate": 0,
+    "taxAmount": 0.0,
+    "total": 348058.03,
+    "terms": "Net 15",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 18,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Repairs & Maintenance",
+        "quantity": 4,
+        "unitPrice": 87014.51,
+        "amount": 348058.03,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 17
+  },
+  {
+    "id": 8,
+    "estimateNumber": "EST-2025-008",
+    "customerId": 3,
+    "customerName": "Chileshe Artisans Enterprises",
+    "estimateDateDaysAgo": 26,
+    "expirationDateDaysFromNow": 26,
+    "status": "Declined",
+    "subTotal": 1789147.08,
+    "taxRate": 15,
+    "taxAmount": 268372.06,
+    "total": 2057519.14,
+    "terms": "Net 45",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 26,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Consulting Services",
+        "quantity": 1,
+        "unitPrice": 1789147.08,
+        "amount": 1789147.08,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 25
+  }
+]

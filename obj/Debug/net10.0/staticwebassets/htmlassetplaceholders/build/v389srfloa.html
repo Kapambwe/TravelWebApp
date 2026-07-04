@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>TravelSA - Discover Africa</title>
+    <base href="/" />
+    <link href="_framework/dotnet.p7rqvgcs4a.js" rel="preload" as="script" fetchpriority="high" crossorigin="anonymous" integrity="sha256-RYun6FITqFJdRAaqvsbg8Zj86dByfZt3PUTM6ArgN1w=" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="_content/Radzen.Blazor/css/material-base.css" />
+    <link rel="stylesheet" href="css/app.css" />
+    <link rel="icon" type="image/png" href="favicon.png" />
+    <link href="TravelWebApp.styles.css" rel="stylesheet" />
+    
+    <!-- Leaflet.js for Maps -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+    <script src="js/tourism.js"></script>
+    
+    <script type="importmap">{
+  "imports": {
+    "./_content/Radzen.Blazor/Radzen.Blazor.min.js": "./_content/Radzen.Blazor/Radzen.Blazor.min.nn92fo6t4s.js",
+    "./_content/Radzen.Blazor/Radzen.Blazor.js": "./_content/Radzen.Blazor/Radzen.Blazor.zmv8tdiy16.js",
+    "./_framework/Microsoft.DotNet.HotReload.WebAssembly.Browser.lib.module.js": "./_framework/Microsoft.DotNet.HotReload.WebAssembly.Browser.99zm1jdh75.lib.module.js",
+    "./_framework/blazor.webassembly.js": "./_framework/blazor.webassembly.958z1vx7fr.js",
+    "./_framework/dotnet.native.js": "./_framework/dotnet.native.ikrs475e5v.js",
+    "./_framework/dotnet.js": "./_framework/dotnet.p7rqvgcs4a.js",
+    "./_framework/dotnet.runtime.js": "./_framework/dotnet.runtime.a6jcqbs390.js",
+    "./js/tourism.js": "./js/tourism.9brtb75hg3.js",
+    "./lib/bootstrap/dist/js/bootstrap.bundle.min.js": "./lib/bootstrap/dist/js/bootstrap.bundle.min.493y06b0oq.js",
+    "./lib/bootstrap/dist/js/bootstrap.bundle.js": "./lib/bootstrap/dist/js/bootstrap.bundle.sjw6k6alk3.js",
+    "./lib/bootstrap/dist/js/bootstrap.esm.js": "./lib/bootstrap/dist/js/bootstrap.esm.ganz5qb3fy.js",
+    "./lib/bootstrap/dist/js/bootstrap.esm.min.js": "./lib/bootstrap/dist/js/bootstrap.esm.min.jj8uyg4cgr.js",
+    "./lib/bootstrap/dist/js/bootstrap.min.js": "./lib/bootstrap/dist/js/bootstrap.min.63fj8s7r0e.js",
+    "./lib/bootstrap/dist/js/bootstrap.js": "./lib/bootstrap/dist/js/bootstrap.q08ddc593s.js"
+  },
+  "scopes": {},
+  "integrity": {
+    "./_content/Radzen.Blazor/Radzen.Blazor.js": "sha256-K4NEVYoq/y0jJotn4xyUj/oxBUOYe+SMYGT3euChF3M=",
+    "./_content/Radzen.Blazor/Radzen.Blazor.min.js": "sha256-nfOiJeORP6KlwLkw9hxIzaro/OXCWv8aBqsx9Wm3hOY=",
+    "./_content/Radzen.Blazor/Radzen.Blazor.min.nn92fo6t4s.js": "sha256-nfOiJeORP6KlwLkw9hxIzaro/OXCWv8aBqsx9Wm3hOY=",
+    "./_content/Radzen.Blazor/Radzen.Blazor.zmv8tdiy16.js": "sha256-K4NEVYoq/y0jJotn4xyUj/oxBUOYe+SMYGT3euChF3M=",
+    "./_framework/Microsoft.DotNet.HotReload.WebAssembly.Browser.99zm1jdh75.lib.module.js": "sha256-A8e6zZwhOqf7lDQqbbCYcAUv4wGE9aQxOo4WyYxR//0=",
+    "./_framework/Microsoft.DotNet.HotReload.WebAssembly.Browser.lib.module.js": "sha256-A8e6zZwhOqf7lDQqbbCYcAUv4wGE9aQxOo4WyYxR//0=",
+    "./_framework/blazor.webassembly.958z1vx7fr.js": "sha256-A59Tr9HqEhHMu8kU7kruLI9ayw5MRS6Lvc6z7jCbghk=",
+    "./_framework/blazor.webassembly.js": "sha256-A59Tr9HqEhHMu8kU7kruLI9ayw5MRS6Lvc6z7jCbghk=",
+    "./_framework/dotnet.js": "sha256-RYun6FITqFJdRAaqvsbg8Zj86dByfZt3PUTM6ArgN1w=",
+    "./_framework/dotnet.native.ikrs475e5v.js": "sha256-kkp5wX0htwkBcZt5WmEiKmhBqjqdCJtGc+koldfyoDQ=",
+    "./_framework/dotnet.native.js": "sha256-kkp5wX0htwkBcZt5WmEiKmhBqjqdCJtGc+koldfyoDQ=",
+    "./_framework/dotnet.p7rqvgcs4a.js": "sha256-RYun6FITqFJdRAaqvsbg8Zj86dByfZt3PUTM6ArgN1w=",
+    "./_framework/dotnet.runtime.a6jcqbs390.js": "sha256-7i3usfTrnzC/9qWO4si5Bw4w7D9fUSnSBdhQ47blX2M=",
+    "./_framework/dotnet.runtime.js": "sha256-7i3usfTrnzC/9qWO4si5Bw4w7D9fUSnSBdhQ47blX2M=",
+    "./js/tourism.9brtb75hg3.js": "sha256-e9lcNyFnKzKSmWQM1uOZWm8okYa7P10myFKNRfwGJOw=",
+    "./js/tourism.js": "sha256-e9lcNyFnKzKSmWQM1uOZWm8okYa7P10myFKNRfwGJOw=",
+    "./lib/bootstrap/dist/js/bootstrap.bundle.js": "sha256-uMkI/0kD9VWemt2MuXCociqykifdwpaQ4spFQpO873Q=",
+    "./lib/bootstrap/dist/js/bootstrap.bundle.min.493y06b0oq.js": "sha256-CDOy6cOibCWEdsRiZuaHf8dSGGJRYuBGC+mjoJimHGw=",
+    "./lib/bootstrap/dist/js/bootstrap.bundle.min.js": "sha256-CDOy6cOibCWEdsRiZuaHf8dSGGJRYuBGC+mjoJimHGw=",
+    "./lib/bootstrap/dist/js/bootstrap.bundle.sjw6k6alk3.js": "sha256-uMkI/0kD9VWemt2MuXCociqykifdwpaQ4spFQpO873Q=",
+    "./lib/bootstrap/dist/js/bootstrap.esm.ganz5qb3fy.js": "sha256-qJ113/Jv4hQYFv/ji7x7PIbOvL6apkUf7zDMZrHoTg4=",
+    "./lib/bootstrap/dist/js/bootstrap.esm.js": "sha256-qJ113/Jv4hQYFv/ji7x7PIbOvL6apkUf7zDMZrHoTg4=",
+    "./lib/bootstrap/dist/js/bootstrap.esm.min.jj8uyg4cgr.js": "sha256-QZdFT1ZNdly4rmgUBtXmXFS9BU1FTa+sPe6h794sFRQ=",
+    "./lib/bootstrap/dist/js/bootstrap.esm.min.js": "sha256-QZdFT1ZNdly4rmgUBtXmXFS9BU1FTa+sPe6h794sFRQ=",
+    "./lib/bootstrap/dist/js/bootstrap.js": "sha256-2tZUYQmsPZFYnnpqYrsiViFVenatlVAQmIUTNWH5zbk=",
+    "./lib/bootstrap/dist/js/bootstrap.min.63fj8s7r0e.js": "sha256-3gQJhtmj7YnV1fmtbVcnAV6eI4ws0Tr48bVZCThtCGQ=",
+    "./lib/bootstrap/dist/js/bootstrap.min.js": "sha256-3gQJhtmj7YnV1fmtbVcnAV6eI4ws0Tr48bVZCThtCGQ=",
+    "./lib/bootstrap/dist/js/bootstrap.q08ddc593s.js": "sha256-2tZUYQmsPZFYnnpqYrsiViFVenatlVAQmIUTNWH5zbk="
+  }
+}</script>
+</head>
+
+<body>
+    <div id="app">
+        <svg class="loading-progress">
+            <circle r="40%" cx="50%" cy="50%" />
+            <circle r="40%" cx="50%" cy="50%" />
+        </svg>
+        <div class="loading-progress-text"></div>
+    </div>
+
+    <div id="blazor-error-ui">
+        An unhandled error has occurred.
+        <a href="." class="reload">Reload</a>
+        <span class="dismiss">&#x2717;</span>
+    </div>
+
+    <script src="_framework/blazor.webassembly.js"></script>
+    <script src="_content/Radzen.Blazor/Radzen.Blazor.js"></script>
+</body>
+
+</html>

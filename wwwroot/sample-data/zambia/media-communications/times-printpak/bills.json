@@ -1,0 +1,156 @@
+[
+  {
+    "id": 1,
+    "billNumber": "BILL-2025-001",
+    "vendorName": "Mutale Broadcasting Group",
+    "description": "Studio Production Costs",
+    "billDate": "2024-10-22T00:00:00",
+    "dueDate": "2024-11-21T00:00:00",
+    "amount": 2572288.41,
+    "paidAmount": 882958.16,
+    "status": "PartiallyPaid"
+  },
+  {
+    "id": 2,
+    "billNumber": "BILL-2025-002",
+    "vendorName": "Mwale Broadcasting Ltd",
+    "description": "Printing Costs",
+    "billDate": "2024-10-25T00:00:00",
+    "dueDate": "2024-12-09T00:00:00",
+    "amount": 989336.9,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 3,
+    "billNumber": "BILL-2025-003",
+    "vendorName": "Mwamba Digital Media Ltd",
+    "description": "Broadcasting Equipment Hire",
+    "billDate": "2025-01-09T00:00:00",
+    "dueDate": "2025-02-23T00:00:00",
+    "amount": 100208.13,
+    "paidAmount": 100208.13,
+    "status": "Paid"
+  },
+  {
+    "id": 4,
+    "billNumber": "BILL-2025-004",
+    "vendorName": "Mwamba Digital Media Ltd",
+    "description": "Freelancer Fees",
+    "billDate": "2024-11-06T00:00:00",
+    "dueDate": "2024-12-06T00:00:00",
+    "amount": 1459806.01,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 5,
+    "billNumber": "BILL-2025-005",
+    "vendorName": "Bwalya Broadcasting Ltd",
+    "description": "Broadcasting Equipment Hire",
+    "billDate": "2024-10-29T00:00:00",
+    "dueDate": "2024-11-13T00:00:00",
+    "amount": 898612.05,
+    "paidAmount": 507002.67,
+    "status": "PartiallyPaid"
+  },
+  {
+    "id": 6,
+    "billNumber": "BILL-2025-006",
+    "vendorName": "Banda Broadcasting Limited",
+    "description": "Broadcasting Equipment Hire",
+    "billDate": "2024-12-18T00:00:00",
+    "dueDate": "2025-02-01T00:00:00",
+    "amount": 3035714.86,
+    "paidAmount": 3035714.86,
+    "status": "Paid"
+  },
+  {
+    "id": 7,
+    "billNumber": "BILL-2025-007",
+    "vendorName": "Mutale Broadcasting Group",
+    "description": "Content Distribution",
+    "billDate": "2025-03-04T00:00:00",
+    "dueDate": "2025-03-19T00:00:00",
+    "amount": 1920999.24,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 8,
+    "billNumber": "BILL-2025-008",
+    "vendorName": "Mutale Broadcasting Holdings",
+    "description": "Broadcasting Equipment Hire",
+    "billDate": "2025-02-12T00:00:00",
+    "dueDate": "2025-03-14T00:00:00",
+    "amount": 1910449.45,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 9,
+    "billNumber": "BILL-2025-009",
+    "vendorName": "Chileshe Broadcasting Co.",
+    "description": "License Fees",
+    "billDate": "2025-01-01T00:00:00",
+    "dueDate": "2025-01-31T00:00:00",
+    "amount": 732677.25,
+    "paidAmount": 732677.25,
+    "status": "Paid"
+  },
+  {
+    "id": 10,
+    "billNumber": "BILL-2025-010",
+    "vendorName": "Banda Broadcasting Limited",
+    "description": "Broadcasting Equipment Hire",
+    "billDate": "2024-10-25T00:00:00",
+    "dueDate": "2024-11-24T00:00:00",
+    "amount": 1277091.93,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 11,
+    "billNumber": "BILL-2025-011",
+    "vendorName": "Mutale Broadcasting Group",
+    "description": "Broadcasting Equipment Hire",
+    "billDate": "2025-01-06T00:00:00",
+    "dueDate": "2025-02-05T00:00:00",
+    "amount": 862978.82,
+    "paidAmount": 862978.82,
+    "status": "Paid"
+  },
+  {
+    "id": 12,
+    "billNumber": "BILL-2025-012",
+    "vendorName": "Mutale Broadcasting Group",
+    "description": "Broadcasting Equipment Hire",
+    "billDate": "2024-10-04T00:00:00",
+    "dueDate": "2024-11-18T00:00:00",
+    "amount": 2685815.5,
+    "paidAmount": 2685815.5,
+    "status": "Paid"
+  },
+  {
+    "id": 13,
+    "billNumber": "BILL-2025-013",
+    "vendorName": "Banda Broadcasting Limited",
+    "description": "Freelancer Fees",
+    "billDate": "2024-10-31T00:00:00",
+    "dueDate": "2024-11-15T00:00:00",
+    "amount": 263282.17,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 14,
+    "billNumber": "BILL-2025-014",
+    "vendorName": "Bwalya Broadcasting Ltd",
+    "description": "Content Distribution",
+    "billDate": "2024-10-26T00:00:00",
+    "dueDate": "2024-12-10T00:00:00",
+    "amount": 3469989.64,
+    "paidAmount": 3469989.64,
+    "status": "Paid"
+  }
+]

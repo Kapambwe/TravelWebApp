@@ -1,0 +1,302 @@
+[
+  {
+    "id": "cust-001",
+    "customerName": "Food Companies 1",
+    "email": "contact1@customer.zm",
+    "phone": "+260-216-533689",
+    "address": "Plot 4142, Great East Road, Eastern Province",
+    "taxId": "TPIN-7399909957",
+    "creditLimit": 20000,
+    "outstandingBalance": 20792
+  },
+  {
+    "id": "cust-002",
+    "customerName": "Snack Manufacturers 2",
+    "email": "contact2@customer.zm",
+    "phone": "+260-096-782805",
+    "address": "Plot 5507, Freedom Way, Northern Province",
+    "taxId": "TPIN-1409150917",
+    "creditLimit": 75000,
+    "outstandingBalance": 7050
+  },
+  {
+    "id": "cust-003",
+    "customerName": "Food Companies 3",
+    "email": "contact3@customer.zm",
+    "phone": "+260-217-875031",
+    "address": "Plot 5399, Twin Palm Road, Southern Province",
+    "taxId": "TPIN-8281956102",
+    "creditLimit": 75000,
+    "outstandingBalance": 24160
+  },
+  {
+    "id": "cust-004",
+    "customerName": "Snack Manufacturers 4",
+    "email": "contact4@customer.zm",
+    "phone": "+260-217-958771",
+    "address": "Plot 6426, Cairo Road, Central Province",
+    "taxId": "TPIN-1516381309",
+    "creditLimit": 75000,
+    "outstandingBalance": 7537
+  },
+  {
+    "id": "cust-005",
+    "customerName": "International Traders 5",
+    "email": "contact5@customer.zm",
+    "phone": "+260-096-766759",
+    "address": "Plot 5611, Cairo Road, Central Province",
+    "taxId": "TPIN-6146720651",
+    "creditLimit": 50000,
+    "outstandingBalance": 22279
+  },
+  {
+    "id": "cust-006",
+    "customerName": "Exporters 6",
+    "email": "contact6@customer.zm",
+    "phone": "+260-095-510937",
+    "address": "Plot 6887, Independence Avenue, Copperbelt",
+    "taxId": "TPIN-5718511408",
+    "creditLimit": 30000,
+    "outstandingBalance": 18405
+  },
+  {
+    "id": "cust-007",
+    "customerName": "Exporters 7",
+    "email": "contact7@customer.zm",
+    "phone": "+260-095-550071",
+    "address": "Plot 5868, Cairo Road, Northern Province",
+    "taxId": "TPIN-2083982629",
+    "creditLimit": 30000,
+    "outstandingBalance": 15046
+  },
+  {
+    "id": "cust-008",
+    "customerName": "International Traders 8",
+    "email": "contact8@customer.zm",
+    "phone": "+260-097-502446",
+    "address": "Plot 5677, Freedom Way, Northern Province",
+    "taxId": "TPIN-9281505194",
+    "creditLimit": 100000,
+    "outstandingBalance": 23481
+  },
+  {
+    "id": "cust-009",
+    "customerName": "Snack Manufacturers 9",
+    "email": "contact9@customer.zm",
+    "phone": "+260-094-740073",
+    "address": "Plot 3671, Cairo Road, Southern Province",
+    "taxId": "TPIN-9474882275",
+    "creditLimit": 100000,
+    "outstandingBalance": 20649
+  },
+  {
+    "id": "cust-010",
+    "customerName": "International Traders 10",
+    "email": "contact10@customer.zm",
+    "phone": "+260-096-295656",
+    "address": "Plot 3214, Great East Road, Copperbelt",
+    "taxId": "TPIN-7900593951",
+    "creditLimit": 50000,
+    "outstandingBalance": 20110
+  },
+  {
+    "id": "cust-011",
+    "customerName": "International Traders 11",
+    "email": "contact11@customer.zm",
+    "phone": "+260-216-526229",
+    "address": "Plot 5973, Independence Avenue, Eastern Province",
+    "taxId": "TPIN-2399253825",
+    "creditLimit": 50000,
+    "outstandingBalance": 19187
+  },
+  {
+    "id": "cust-012",
+    "customerName": "International Traders 12",
+    "email": "contact12@customer.zm",
+    "phone": "+260-097-552958",
+    "address": "Plot 3373, Great East Road, Lusaka",
+    "taxId": "TPIN-8728953371",
+    "creditLimit": 50000,
+    "outstandingBalance": 24542
+  },
+  {
+    "id": "cust-013",
+    "customerName": "International Traders 13",
+    "email": "contact13@customer.zm",
+    "phone": "+260-216-231681",
+    "address": "Plot 2258, Great East Road, Southern Province",
+    "taxId": "TPIN-2230399629",
+    "creditLimit": 30000,
+    "outstandingBalance": 9639
+  },
+  {
+    "id": "cust-014",
+    "customerName": "Snack Manufacturers 14",
+    "email": "contact14@customer.zm",
+    "phone": "+260-097-204474",
+    "address": "Plot 4452, Freedom Way, Central Province",
+    "taxId": "TPIN-8389399088",
+    "creditLimit": 100000,
+    "outstandingBalance": 16405
+  },
+  {
+    "id": "cust-015",
+    "customerName": "Snack Manufacturers 15",
+    "email": "contact15@customer.zm",
+    "phone": "+260-216-707204",
+    "address": "Plot 3125, Independence Avenue, Copperbelt",
+    "taxId": "TPIN-5942214971",
+    "creditLimit": 75000,
+    "outstandingBalance": 22814
+  },
+  {
+    "id": "cust-016",
+    "customerName": "Exporters 16",
+    "email": "contact16@customer.zm",
+    "phone": "+260-217-455359",
+    "address": "Plot 9253, Independence Avenue, Copperbelt",
+    "taxId": "TPIN-1356201426",
+    "creditLimit": 50000,
+    "outstandingBalance": 1916
+  },
+  {
+    "id": "cust-017",
+    "customerName": "International Traders 17",
+    "email": "contact17@customer.zm",
+    "phone": "+260-216-249434",
+    "address": "Plot 8305, Great East Road, Southern Province",
+    "taxId": "TPIN-1315024717",
+    "creditLimit": 50000,
+    "outstandingBalance": 7749
+  },
+  {
+    "id": "cust-018",
+    "customerName": "International Traders 18",
+    "email": "contact18@customer.zm",
+    "phone": "+260-216-252096",
+    "address": "Plot 5494, Cairo Road, Northern Province",
+    "taxId": "TPIN-3520876379",
+    "creditLimit": 75000,
+    "outstandingBalance": 11330
+  },
+  {
+    "id": "cust-019",
+    "customerName": "International Traders 19",
+    "email": "contact19@customer.zm",
+    "phone": "+260-095-220595",
+    "address": "Plot 3370, Cairo Road, Southern Province",
+    "taxId": "TPIN-5352026254",
+    "creditLimit": 100000,
+    "outstandingBalance": 14973
+  },
+  {
+    "id": "cust-020",
+    "customerName": "Food Companies 20",
+    "email": "contact20@customer.zm",
+    "phone": "+260-216-178735",
+    "address": "Plot 5273, Twin Palm Road, Central Province",
+    "taxId": "TPIN-1897254557",
+    "creditLimit": 100000,
+    "outstandingBalance": 1524
+  },
+  {
+    "id": "cust-021",
+    "customerName": "International Traders 21",
+    "email": "contact21@customer.zm",
+    "phone": "+260-217-842794",
+    "address": "Plot 3151, Independence Avenue, Eastern Province",
+    "taxId": "TPIN-9077309806",
+    "creditLimit": 50000,
+    "outstandingBalance": 4455
+  },
+  {
+    "id": "cust-022",
+    "customerName": "Snack Manufacturers 22",
+    "email": "contact22@customer.zm",
+    "phone": "+260-094-209682",
+    "address": "Plot 8083, Great East Road, Southern Province",
+    "taxId": "TPIN-4707371880",
+    "creditLimit": 50000,
+    "outstandingBalance": 16976
+  },
+  {
+    "id": "cust-023",
+    "customerName": "International Traders 23",
+    "email": "contact23@customer.zm",
+    "phone": "+260-095-362917",
+    "address": "Plot 9423, Freedom Way, Southern Province",
+    "taxId": "TPIN-6851978336",
+    "creditLimit": 75000,
+    "outstandingBalance": 20328
+  },
+  {
+    "id": "cust-024",
+    "customerName": "International Traders 24",
+    "email": "contact24@customer.zm",
+    "phone": "+260-094-483277",
+    "address": "Plot 4932, Independence Avenue, Lusaka",
+    "taxId": "TPIN-8250242466",
+    "creditLimit": 50000,
+    "outstandingBalance": 2157
+  },
+  {
+    "id": "cust-025",
+    "customerName": "Snack Manufacturers 25",
+    "email": "contact25@customer.zm",
+    "phone": "+260-097-970642",
+    "address": "Plot 2827, Twin Palm Road, Southern Province",
+    "taxId": "TPIN-9295845482",
+    "creditLimit": 30000,
+    "outstandingBalance": 19021
+  },
+  {
+    "id": "cust-026",
+    "customerName": "Snack Manufacturers 26",
+    "email": "contact26@customer.zm",
+    "phone": "+260-095-134922",
+    "address": "Plot 7261, Cairo Road, Eastern Province",
+    "taxId": "TPIN-1265963358",
+    "creditLimit": 75000,
+    "outstandingBalance": 23946
+  },
+  {
+    "id": "cust-027",
+    "customerName": "Exporters 27",
+    "email": "contact27@customer.zm",
+    "phone": "+260-096-255028",
+    "address": "Plot 2273, Freedom Way, Southern Province",
+    "taxId": "TPIN-7658124369",
+    "creditLimit": 30000,
+    "outstandingBalance": 19098
+  },
+  {
+    "id": "cust-028",
+    "customerName": "Exporters 28",
+    "email": "contact28@customer.zm",
+    "phone": "+260-217-988923",
+    "address": "Plot 3318, Great East Road, Eastern Province",
+    "taxId": "TPIN-7229288658",
+    "creditLimit": 100000,
+    "outstandingBalance": 19051
+  },
+  {
+    "id": "cust-029",
+    "customerName": "International Traders 29",
+    "email": "contact29@customer.zm",
+    "phone": "+260-095-150077",
+    "address": "Plot 1995, Great East Road, Central Province",
+    "taxId": "TPIN-9398640935",
+    "creditLimit": 100000,
+    "outstandingBalance": 21461
+  },
+  {
+    "id": "cust-030",
+    "customerName": "Exporters 30",
+    "email": "contact30@customer.zm",
+    "phone": "+260-096-128039",
+    "address": "Plot 4678, Independence Avenue, Central Province",
+    "taxId": "TPIN-5000123775",
+    "creditLimit": 30000,
+    "outstandingBalance": 22921
+  }
+]

@@ -1,0 +1,21 @@
+{
+    "userId":  "user-Ndole Bay-001",
+    "userName":  "accounts@ndolebaylodge.com",
+    "fullName":  "Ndole Bay",
+    "roles":  [
+                  "General Manager",
+                  "Lodge Host",
+                  "Head of Finance"
+              ],
+    "companyId":  "nbl-001",
+    "companyName":  "Ndole Bay Lodge Lake Tanganyika",
+    "permissions":  [
+                        "ViewReports",
+                        "CreateTransactions",
+                        "ApproveBudgets",
+                        "ManageBookings",
+                        "ManageRooms",
+                        "ViewOccupancy",
+                        "ManageAmenities"
+                    ]
+}

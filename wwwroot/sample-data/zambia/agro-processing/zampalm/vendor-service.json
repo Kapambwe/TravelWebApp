@@ -1,0 +1,302 @@
+[
+  {
+    "id": "vendor-001",
+    "vendorName": "Equipment Suppliers 1",
+    "email": "vendor1@supplier.zm",
+    "phone": "+260-094-843045",
+    "address": "Plot 5354, Great East Road, Central Province",
+    "taxId": "TPIN-3167223177",
+    "paymentTerms": "COD",
+    "accountBalance": 23945
+  },
+  {
+    "id": "vendor-002",
+    "vendorName": "Energy Providers 2",
+    "email": "vendor2@supplier.zm",
+    "phone": "+260-217-871789",
+    "address": "Plot 9677, Great East Road, Southern Province",
+    "taxId": "TPIN-2484152371",
+    "paymentTerms": "NET30",
+    "accountBalance": 8813
+  },
+  {
+    "id": "vendor-003",
+    "vendorName": "Equipment Suppliers 3",
+    "email": "vendor3@supplier.zm",
+    "phone": "+260-217-156773",
+    "address": "Plot 3150, Twin Palm Road, Northern Province",
+    "taxId": "TPIN-3951530600",
+    "paymentTerms": "NET30",
+    "accountBalance": 48344
+  },
+  {
+    "id": "vendor-004",
+    "vendorName": "Equipment Suppliers 4",
+    "email": "vendor4@supplier.zm",
+    "phone": "+260-095-729043",
+    "address": "Plot 8422, Great East Road, Central Province",
+    "taxId": "TPIN-8323062297",
+    "paymentTerms": "COD",
+    "accountBalance": 43772
+  },
+  {
+    "id": "vendor-005",
+    "vendorName": "Energy Providers 5",
+    "email": "vendor5@supplier.zm",
+    "phone": "+260-097-444942",
+    "address": "Plot 2816, Freedom Way, Copperbelt",
+    "taxId": "TPIN-4342733608",
+    "paymentTerms": "NET30",
+    "accountBalance": 42268
+  },
+  {
+    "id": "vendor-006",
+    "vendorName": "Energy Providers 6",
+    "email": "vendor6@supplier.zm",
+    "phone": "+260-217-584963",
+    "address": "Plot 2609, Freedom Way, Southern Province",
+    "taxId": "TPIN-5662260185",
+    "paymentTerms": "NET30",
+    "accountBalance": 34662
+  },
+  {
+    "id": "vendor-007",
+    "vendorName": "Energy Providers 7",
+    "email": "vendor7@supplier.zm",
+    "phone": "+260-094-718619",
+    "address": "Plot 4093, Cairo Road, Central Province",
+    "taxId": "TPIN-9455137957",
+    "paymentTerms": "COD",
+    "accountBalance": 10279
+  },
+  {
+    "id": "vendor-008",
+    "vendorName": "Equipment Suppliers 8",
+    "email": "vendor8@supplier.zm",
+    "phone": "+260-095-495637",
+    "address": "Plot 8083, Great East Road, Northern Province",
+    "taxId": "TPIN-9468093914",
+    "paymentTerms": "COD",
+    "accountBalance": 20147
+  },
+  {
+    "id": "vendor-009",
+    "vendorName": "Plantation Managers 9",
+    "email": "vendor9@supplier.zm",
+    "phone": "+260-095-727187",
+    "address": "Plot 7733, Freedom Way, Copperbelt",
+    "taxId": "TPIN-2417663201",
+    "paymentTerms": "NET60",
+    "accountBalance": 47616
+  },
+  {
+    "id": "vendor-010",
+    "vendorName": "Plantation Managers 10",
+    "email": "vendor10@supplier.zm",
+    "phone": "+260-094-527679",
+    "address": "Plot 5630, Independence Avenue, Copperbelt",
+    "taxId": "TPIN-9177821610",
+    "paymentTerms": "COD",
+    "accountBalance": 22084
+  },
+  {
+    "id": "vendor-011",
+    "vendorName": "Equipment Suppliers 11",
+    "email": "vendor11@supplier.zm",
+    "phone": "+260-095-507477",
+    "address": "Plot 1842, Cairo Road, Northern Province",
+    "taxId": "TPIN-8645201509",
+    "paymentTerms": "NET30",
+    "accountBalance": 45452
+  },
+  {
+    "id": "vendor-012",
+    "vendorName": "Plantation Managers 12",
+    "email": "vendor12@supplier.zm",
+    "phone": "+260-094-143268",
+    "address": "Plot 4460, Great East Road, Lusaka",
+    "taxId": "TPIN-8045725870",
+    "paymentTerms": "COD",
+    "accountBalance": 5574
+  },
+  {
+    "id": "vendor-013",
+    "vendorName": "Plantation Managers 13",
+    "email": "vendor13@supplier.zm",
+    "phone": "+260-217-986038",
+    "address": "Plot 8199, Cairo Road, Northern Province",
+    "taxId": "TPIN-7812159989",
+    "paymentTerms": "NET60",
+    "accountBalance": 35186
+  },
+  {
+    "id": "vendor-014",
+    "vendorName": "Energy Providers 14",
+    "email": "vendor14@supplier.zm",
+    "phone": "+260-216-674996",
+    "address": "Plot 9430, Freedom Way, Southern Province",
+    "taxId": "TPIN-8010385953",
+    "paymentTerms": "COD",
+    "accountBalance": 42102
+  },
+  {
+    "id": "vendor-015",
+    "vendorName": "Equipment Suppliers 15",
+    "email": "vendor15@supplier.zm",
+    "phone": "+260-096-796391",
+    "address": "Plot 7813, Twin Palm Road, Lusaka",
+    "taxId": "TPIN-3413577083",
+    "paymentTerms": "NET60",
+    "accountBalance": 28317
+  },
+  {
+    "id": "vendor-016",
+    "vendorName": "Plantation Managers 16",
+    "email": "vendor16@supplier.zm",
+    "phone": "+260-095-753187",
+    "address": "Plot 2713, Cairo Road, Southern Province",
+    "taxId": "TPIN-2411430484",
+    "paymentTerms": "NET60",
+    "accountBalance": 27337
+  },
+  {
+    "id": "vendor-017",
+    "vendorName": "Equipment Suppliers 17",
+    "email": "vendor17@supplier.zm",
+    "phone": "+260-096-344984",
+    "address": "Plot 3785, Cairo Road, Central Province",
+    "taxId": "TPIN-1371948729",
+    "paymentTerms": "COD",
+    "accountBalance": 41899
+  },
+  {
+    "id": "vendor-018",
+    "vendorName": "Plantation Managers 18",
+    "email": "vendor18@supplier.zm",
+    "phone": "+260-095-975891",
+    "address": "Plot 6741, Cairo Road, Eastern Province",
+    "taxId": "TPIN-2904505696",
+    "paymentTerms": "NET30",
+    "accountBalance": 16174
+  },
+  {
+    "id": "vendor-019",
+    "vendorName": "Energy Providers 19",
+    "email": "vendor19@supplier.zm",
+    "phone": "+260-097-786137",
+    "address": "Plot 3363, Cairo Road, Northern Province",
+    "taxId": "TPIN-3913334584",
+    "paymentTerms": "NET60",
+    "accountBalance": 7753
+  },
+  {
+    "id": "vendor-020",
+    "vendorName": "Equipment Suppliers 20",
+    "email": "vendor20@supplier.zm",
+    "phone": "+260-217-292819",
+    "address": "Plot 5190, Twin Palm Road, Copperbelt",
+    "taxId": "TPIN-6655083263",
+    "paymentTerms": "NET60",
+    "accountBalance": 3140
+  },
+  {
+    "id": "vendor-021",
+    "vendorName": "Plantation Managers 21",
+    "email": "vendor21@supplier.zm",
+    "phone": "+260-217-279046",
+    "address": "Plot 3754, Freedom Way, Eastern Province",
+    "taxId": "TPIN-1048323663",
+    "paymentTerms": "NET30",
+    "accountBalance": 33009
+  },
+  {
+    "id": "vendor-022",
+    "vendorName": "Energy Providers 22",
+    "email": "vendor22@supplier.zm",
+    "phone": "+260-096-400204",
+    "address": "Plot 6764, Freedom Way, Central Province",
+    "taxId": "TPIN-3579540867",
+    "paymentTerms": "NET30",
+    "accountBalance": 4130
+  },
+  {
+    "id": "vendor-023",
+    "vendorName": "Plantation Managers 23",
+    "email": "vendor23@supplier.zm",
+    "phone": "+260-216-423023",
+    "address": "Plot 2561, Cairo Road, Eastern Province",
+    "taxId": "TPIN-1063584181",
+    "paymentTerms": "COD",
+    "accountBalance": 17537
+  },
+  {
+    "id": "vendor-024",
+    "vendorName": "Plantation Managers 24",
+    "email": "vendor24@supplier.zm",
+    "phone": "+260-097-309443",
+    "address": "Plot 8551, Cairo Road, Southern Province",
+    "taxId": "TPIN-1613462131",
+    "paymentTerms": "NET30",
+    "accountBalance": 47678
+  },
+  {
+    "id": "vendor-025",
+    "vendorName": "Energy Providers 25",
+    "email": "vendor25@supplier.zm",
+    "phone": "+260-095-670815",
+    "address": "Plot 7377, Twin Palm Road, Copperbelt",
+    "taxId": "TPIN-2493556356",
+    "paymentTerms": "NET60",
+    "accountBalance": 30699
+  },
+  {
+    "id": "vendor-026",
+    "vendorName": "Equipment Suppliers 26",
+    "email": "vendor26@supplier.zm",
+    "phone": "+260-094-716722",
+    "address": "Plot 2217, Twin Palm Road, Lusaka",
+    "taxId": "TPIN-9870119666",
+    "paymentTerms": "NET30",
+    "accountBalance": 31351
+  },
+  {
+    "id": "vendor-027",
+    "vendorName": "Energy Providers 27",
+    "email": "vendor27@supplier.zm",
+    "phone": "+260-097-367686",
+    "address": "Plot 3713, Cairo Road, Southern Province",
+    "taxId": "TPIN-1002606045",
+    "paymentTerms": "COD",
+    "accountBalance": 4236
+  },
+  {
+    "id": "vendor-028",
+    "vendorName": "Equipment Suppliers 28",
+    "email": "vendor28@supplier.zm",
+    "phone": "+260-095-347928",
+    "address": "Plot 3098, Freedom Way, Lusaka",
+    "taxId": "TPIN-7231572068",
+    "paymentTerms": "COD",
+    "accountBalance": 36186
+  },
+  {
+    "id": "vendor-029",
+    "vendorName": "Equipment Suppliers 29",
+    "email": "vendor29@supplier.zm",
+    "phone": "+260-095-510865",
+    "address": "Plot 7909, Independence Avenue, Northern Province",
+    "taxId": "TPIN-2724075780",
+    "paymentTerms": "NET60",
+    "accountBalance": 14820
+  },
+  {
+    "id": "vendor-030",
+    "vendorName": "Energy Providers 30",
+    "email": "vendor30@supplier.zm",
+    "phone": "+260-096-186732",
+    "address": "Plot 7030, Freedom Way, Lusaka",
+    "taxId": "TPIN-9915336362",
+    "paymentTerms": "NET60",
+    "accountBalance": 9384
+  }
+]

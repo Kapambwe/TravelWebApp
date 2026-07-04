@@ -1,0 +1,18 @@
+﻿[
+    {
+        "Id":  1,
+        "Name":  "Peak Season Multiplier",
+        "AdjustmentType":  0,
+        "IsActive":  true,
+        "AdjustmentValue":  20,
+        "Condition":  "Month in (July, August, September, October)"
+    },
+    {
+        "Id":  2,
+        "Name":  "Single Occupancy Supplement",
+        "AdjustmentType":  0,
+        "IsActive":  true,
+        "AdjustmentValue":  30,
+        "Condition":  "Adults == 1"
+    }
+]

@@ -1,0 +1,136 @@
+@page "/park-entry"
+@using TravelWebApp.Models
+@using TravelWebApp.Services
+@inject ITravelService TravelService
+@inject ICartService CartService
+@inject NotificationService NotificationService
+
+<div class="page-section">
+    <RadzenText TextStyle="TextStyle.H3">Park Entry Permits</RadzenText>
+    <RadzenText TextStyle="TextStyle.Body1" Style="color:var(--text-secondary);margin:8px 0 32px;">
+        Purchase entry passes for Africa's most iconic national parks and reserves.
+    </RadzenText>
+
+    <RadzenRow>
+        <RadzenColumn Size="8" SizeMD="12">
+            <RadzenCard Style="padding:24px;margin-bottom:24px;">
+                <RadzenText TextStyle="TextStyle.H5" Style="margin-bottom:20px;">Permit Details</RadzenText>
+                
+                <div style="margin-bottom:16px;">
+                    <RadzenText TextStyle="TextStyle.Caption" Style="color:var(--text-secondary);">Select Park</RadzenText>
+                    <RadzenDropDown TValue="Destination" @bind-Value="@_selectedPark" Data="@_parks" TextProperty="Name" Style="width:100%;" Change="@(args => UpdatePricing())" />
+                </div>
+
+                <div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;margin-bottom:16px;">
+                    <div>
+                        <RadzenText TextStyle="TextStyle.Caption" Style="color:var(--text-secondary);">Entry Date</RadzenText>
+                        <RadzenDatePicker @bind-Value="@_entryDate" Style="width:100%;" />
+                    </div>
+                    <div>
+                        <RadzenText TextStyle="TextStyle.Caption" Style="color:var(--text-secondary);">Duration</RadzenText>
+                        <RadzenDropDown TValue="string" @bind-Value="@_duration" Data="@_durationOptions" Style="width:100%;" Change="@(args => UpdatePricing())" />
+                    </div>
+                </div>
+
+                <div style="margin-bottom:20px;">
+                    <RadzenText TextStyle="TextStyle.Caption" Style="color:var(--text-secondary);">Visitor Category</RadzenText>
+                    <RadzenSelectBar @bind-Value="@_category" TValue="string" Change="@(args => UpdatePricing())" Style="width:100%;">
+                        <Items>
+                            <RadzenSelectBarItem Text="International" Value="@("International")" />
+                            <RadzenSelectBarItem Text="SADC Resident" Value="@("Resident")" />
+                            <RadzenSelectBarItem Text="Citizen" Value="@("Citizen")" />
+                        </Items>
+                    </RadzenSelectBar>
+                </div>
+
+                <div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;margin-bottom:20px;">
+                    <RadzenFormField Text="Adults">
+                        <RadzenNumeric TValue="int" @bind-Value="@_adults" Min="1" Max="20" Style="width:100%;" Change="@(args => UpdatePricing())" />
+                    </RadzenFormField>
+                    <RadzenFormField Text="Children (Under 12)">
+                        <RadzenNumeric TValue="int" @bind-Value="@_children" Min="0" Max="20" Style="width:100%;" Change="@(args => UpdatePricing())" />
+                    </RadzenFormField>
+                </div>
+
+                <div style="background:var(--primary-light);padding:16px;border-radius:12px;">
+                    <div style="display:flex;justify-content:space-between;align-items:center;">
+                        <div>
+                            <RadzenText TextStyle="TextStyle.Body2" Style="color:var(--primary);font-weight:600;">Total Permit Fee</RadzenText>
+                            <RadzenText TextStyle="TextStyle.Caption" Style="color:var(--text-secondary);">Includes conservation fees & VAT</RadzenText>
+                        </div>
+                        <RadzenText TextStyle="TextStyle.H4" Style="color:var(--primary);font-weight:700;">R@((int)_totalPrice)</RadzenText>
+                    </div>
+                </div>
+
+                <RadzenButton Text="Add Permit to Plan" Icon="add_shopping_cart" ButtonStyle="ButtonStyle.Primary" Style="width:100%;margin-top:24px;padding:14px;" Click="@AddToPlan" />
+            </RadzenCard>
+        </RadzenColumn>
+        <RadzenColumn Size="4" SizeMD="12">
+            <div id="park-map" style="height:300px;border-radius:12px;margin-bottom:20px;border:1px solid var(--border);"></div>
+            
+            <RadzenCard Style="padding:20px;">
+                <RadzenText TextStyle="TextStyle.H6" Style="margin-bottom:12px;">Important Info</RadzenText>
+                <ul style="padding-left:20px;font-size:0.875rem;color:var(--text-secondary);line-height:1.6;">
+                    <li>Permits are non-transferable.</li>
+                    <li>Printed or digital copy must be presented at the gate.</li>
+                    <li>Daily entry is valid from 06:00 to 18:00.</li>
+                    <li>Vehicle fees are paid separately at the gate.</li>
+                </ul>
+            </RadzenCard>
+        </RadzenColumn>
+    </RadzenRow>
+</div>
+
+<style>
+    #park-map { background: #eee; position: relative; }
+</style>
+
+@code {
+    private List<Destination> _parks = [];
+    private Destination? _selectedPark;
+    private DateTime _entryDate = DateTime.Today.AddDays(7);
+    private string _duration = "Daily";
+    private string _category = "International";
+    private int _adults = 2;
+    private int _children = 0;
+    private decimal _totalPrice;
+
+    private readonly string[] _durationOptions = ["Daily", "Weekly", "Annual"];
+
+    protected override async Task OnInitializedAsync()
+    {
+        var all = await TravelService.GetDestinationsAsync();
+        _parks = all.Where(d => d.Description.ToLower().Contains("park") || d.Name.ToLower().Contains("park") || d.Name == "Okavango Delta").ToList();
+        _selectedPark = _parks.FirstOrDefault();
+        UpdatePricing();
+    }
+
+    private void UpdatePricing()
+    {
+        if (_selectedPark == null) return;
+        
+        decimal baseRate = _selectedPark.StartingPrice / 2; // Simulating permit rate
+        decimal categoryMultiplier = _category switch { "International" => 1.0m, "Resident" => 0.5m, "Citizen" => 0.25m, _ => 1.0m };
+        decimal durationMultiplier = _duration switch { "Daily" => 1.0m, "Weekly" => 5.0m, "Annual" => 15.0m, _ => 1.0m };
+        
+        _totalPrice = (baseRate * _adults + (baseRate * 0.5m * _children)) * categoryMultiplier * durationMultiplier;
+    }
+
+    private void AddToPlan()
+    {
+        if (_selectedPark == null) return;
+        
+        CartService.AddItem(new CartItem
+        {
+            ProductId = _selectedPark.Id,
+            Name = $"{_selectedPark.Name} Entry Permit",
+            Description = $"{_duration} Pass - {_category} ({_adults}A, {_children}C)",
+            Price = _totalPrice,
+            Quantity = 1,
+            Type = "Permit",
+            Date = _entryDate
+        });
+
+        NotificationService.Notify(new NotificationMessage { Severity = NotificationSeverity.Success, Summary = "Permit Added", Detail = $"Permit for {_selectedPark.Name} added to your plan." });
+    }
+}

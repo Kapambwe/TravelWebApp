@@ -1,0 +1,122 @@
+{
+  "vendors": [
+    {
+      "id": 1,
+      "vendorName": "Chisanga Sakala",
+      "companyName": "Tembo Produce Group",
+      "contactPerson": "Chisanga Sakala",
+      "email": "chisangasaka@sakala.co.zm",
+      "phone": "+260 374 564 830",
+      "city": "Mufulira",
+      "country": "Zambia",
+      "defaultPaymentTerms": "Net 15",
+      "taxId": "TAX-808390",
+      "totalAmountOwed": 670554.94
+    },
+    {
+      "id": 2,
+      "vendorName": "Malama Mulenga",
+      "companyName": "Mwamba Farms Limited",
+      "contactPerson": "Malama Mulenga",
+      "email": "malamamuleng@mulenga.co.zm",
+      "phone": "+260 798 867 713",
+      "city": "Lusaka",
+      "country": "Zambia",
+      "defaultPaymentTerms": "Net 30",
+      "taxId": "TAX-385749",
+      "totalAmountOwed": 267925.08
+    },
+    {
+      "id": 3,
+      "vendorName": "Mulenga Chileshe",
+      "companyName": "Phiri Food Industries Solutions",
+      "contactPerson": "Mulenga Chileshe",
+      "email": "mulengachile@chileshe.co.zm",
+      "phone": "+260 580 784 480",
+      "city": "Kitwe",
+      "country": "Zambia",
+      "defaultPaymentTerms": "Net 15",
+      "taxId": "TAX-704079",
+      "totalAmountOwed": 83960.52
+    },
+    {
+      "id": 4,
+      "vendorName": "Siame Tembo",
+      "companyName": "Mwamba Produce Enterprises",
+      "contactPerson": "Siame Tembo",
+      "email": "siametembo@tembo.co.zm",
+      "phone": "+260 098 040 050",
+      "city": "Lusaka",
+      "country": "Zambia",
+      "defaultPaymentTerms": "Net 45",
+      "taxId": "TAX-521286",
+      "totalAmountOwed": 840552.71
+    },
+    {
+      "id": 5,
+      "vendorName": "Musonda Banda",
+      "companyName": "Mulenga Agricultural Solutions",
+      "contactPerson": "Musonda Banda",
+      "email": "musondabanda@banda.co.zm",
+      "phone": "+260 008 908 188",
+      "city": "Chingola",
+      "country": "Zambia",
+      "defaultPaymentTerms": "Net 15",
+      "taxId": "TAX-124582",
+      "totalAmountOwed": 177853.76
+    },
+    {
+      "id": 6,
+      "vendorName": "Kaputo Lungu",
+      "companyName": "Kaputo Agricultural Enterprises",
+      "contactPerson": "Kaputo Lungu",
+      "email": "kaputolungu@lungu.co.zm",
+      "phone": "+260 069 426 497",
+      "city": "Chipata",
+      "country": "Zambia",
+      "defaultPaymentTerms": "Net 45",
+      "taxId": "TAX-696498",
+      "totalAmountOwed": 37251.78
+    },
+    {
+      "id": 7,
+      "vendorName": "Bwalya Mwale",
+      "companyName": "Tembo Agricultural Co.",
+      "contactPerson": "Bwalya Mwale",
+      "email": "bwalyamwale@mwale.co.zm",
+      "phone": "+260 981 071 973",
+      "city": "Mufulira",
+      "country": "Zambia",
+      "defaultPaymentTerms": "Net 30",
+      "taxId": "TAX-231343",
+      "totalAmountOwed": 139235.02
+    },
+    {
+      "id": 8,
+      "vendorName": "Siame Banda",
+      "companyName": "Banda Farms Solutions",
+      "contactPerson": "Siame Banda",
+      "email": "siamebanda@banda.co.zm",
+      "phone": "+260 065 402 158",
+      "city": "Ndola",
+      "country": "Zambia",
+      "defaultPaymentTerms": "Net 15",
+      "taxId": "TAX-295271",
+      "totalAmountOwed": 440778.94
+    },
+    {
+      "id": 9,
+      "vendorName": "Mwale Lungu",
+      "companyName": "Sakala Agricultural Co.",
+      "contactPerson": "Mwale Lungu",
+      "email": "mwalelungu@lungu.co.zm",
+      "phone": "+260 444 807 929",
+      "city": "Mufulira",
+      "country": "Zambia",
+      "defaultPaymentTerms": "Net 30",
+      "taxId": "TAX-944820",
+      "totalAmountOwed": 665431.28
+    }
+  ],
+  "vendorCredits": []
+}

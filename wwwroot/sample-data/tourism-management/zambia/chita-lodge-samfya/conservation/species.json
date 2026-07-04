@@ -1,0 +1,20 @@
+﻿[
+    {
+        "Id":  301,
+        "Name":  "Shoebill Stork",
+        "ScientificName":  "Balaeniceps rex",
+        "Population":  18,
+        "PopulationTrend":  1,
+        "ConservationStatus":  "Vulnerable",
+        "LastCensusDate":  "2024-05-10T00:00:00"
+    },
+    {
+        "Id":  302,
+        "Name":  "Black Lechwe",
+        "ScientificName":  "Kobus leche smithemani",
+        "Population":  12000,
+        "PopulationTrend":  0,
+        "ConservationStatus":  "Vulnerable",
+        "LastCensusDate":  "2024-05-12T00:00:00"
+    }
+]

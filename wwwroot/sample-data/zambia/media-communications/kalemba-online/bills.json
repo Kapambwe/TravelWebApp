@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "billNumber": "BILL-2025-001",
+    "vendorName": "Lungu Media Holdings",
+    "description": "Content Distribution",
+    "billDate": "2024-10-01T00:00:00",
+    "dueDate": "2024-10-31T00:00:00",
+    "amount": 3036143.5,
+    "paidAmount": 3036143.5,
+    "status": "Paid"
+  },
+  {
+    "id": 2,
+    "billNumber": "BILL-2025-002",
+    "vendorName": "Sakala Publishers Co.",
+    "description": "Broadcasting Equipment Hire",
+    "billDate": "2024-12-24T00:00:00",
+    "dueDate": "2025-01-23T00:00:00",
+    "amount": 266468.41,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 3,
+    "billNumber": "BILL-2025-003",
+    "vendorName": "Mulenga Media Group",
+    "description": "Freelancer Fees",
+    "billDate": "2024-12-05T00:00:00",
+    "dueDate": "2025-01-19T00:00:00",
+    "amount": 129890.67,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 4,
+    "billNumber": "BILL-2025-004",
+    "vendorName": "Lungu Media Holdings",
+    "description": "Freelancer Fees",
+    "billDate": "2025-02-04T00:00:00",
+    "dueDate": "2025-03-06T00:00:00",
+    "amount": 1029050.73,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 5,
+    "billNumber": "BILL-2025-005",
+    "vendorName": "Banda Communications Limited",
+    "description": "Freelancer Fees",
+    "billDate": "2024-11-07T00:00:00",
+    "dueDate": "2024-12-22T00:00:00",
+    "amount": 67071.43,
+    "paidAmount": 67071.43,
+    "status": "Paid"
+  },
+  {
+    "id": 6,
+    "billNumber": "BILL-2025-006",
+    "vendorName": "Tembo Broadcasting Inc.",
+    "description": "Content Distribution",
+    "billDate": "2024-11-22T00:00:00",
+    "dueDate": "2024-12-07T00:00:00",
+    "amount": 2808454.48,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 7,
+    "billNumber": "BILL-2025-007",
+    "vendorName": "Musonda Publishers Inc.",
+    "description": "Freelancer Fees",
+    "billDate": "2025-02-17T00:00:00",
+    "dueDate": "2025-04-03T00:00:00",
+    "amount": 1722934.55,
+    "paidAmount": 1722934.55,
+    "status": "Paid"
+  },
+  {
+    "id": 8,
+    "billNumber": "BILL-2025-008",
+    "vendorName": "Kaputo Publishers Solutions",
+    "description": "Studio Production Costs",
+    "billDate": "2025-03-09T00:00:00",
+    "dueDate": "2025-03-24T00:00:00",
+    "amount": 2243391.21,
+    "paidAmount": 1150200.69,
+    "status": "PartiallyPaid"
+  },
+  {
+    "id": 9,
+    "billNumber": "BILL-2025-009",
+    "vendorName": "Tembo Broadcasting Inc.",
+    "description": "Studio Production Costs",
+    "billDate": "2025-01-08T00:00:00",
+    "dueDate": "2025-01-23T00:00:00",
+    "amount": 561847.4,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 10,
+    "billNumber": "BILL-2025-010",
+    "vendorName": "Lungu Media Holdings",
+    "description": "Freelancer Fees",
+    "billDate": "2024-11-12T00:00:00",
+    "dueDate": "2024-11-27T00:00:00",
+    "amount": 2527632.69,
+    "paidAmount": 2527632.69,
+    "status": "Paid"
+  }
+]

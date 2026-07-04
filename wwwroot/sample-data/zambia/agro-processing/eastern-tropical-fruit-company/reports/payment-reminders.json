@@ -1,0 +1,12 @@
+{
+  "matchingCustomers": 5,
+  "matchingInvoices": 12,
+  "totalAmount": 42500,
+  "recipients": [
+    { "customerName": "Mopani Copper Mines", "email": "accounts@mopani.co.zm", "invoiceCount": 3, "totalAmount": 12500, "daysOverdue": 15 },
+    { "customerName": "First Quantum Minerals", "email": "payables@fqm.co.zm", "invoiceCount": 2, "totalAmount": 8200, "daysOverdue": 8 },
+    { "customerName": "Konkola Copper Mines", "email": "finance@kcm.co.zm", "invoiceCount": 4, "totalAmount": 15800, "daysOverdue": 22 },
+    { "customerName": "Zambia Sugar", "email": "accounts@zambiasugar.co.zm", "invoiceCount": 2, "totalAmount": 4500, "daysOverdue": 12 },
+    { "customerName": "Zambeef Products", "email": "finance@zambeef.co.zm", "invoiceCount": 1, "totalAmount": 1500, "daysOverdue": 5 }
+  ]
+}

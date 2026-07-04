@@ -1,0 +1,259 @@
+@page "/detail/{Id:int}"
+@using TravelWebApp.Models
+@using TravelWebApp.Services
+@inject ITravelService TravelService
+@inject NavigationManager Navigation
+@inject IJSRuntime JSRuntime
+
+@if (_property == null)
+{
+    <div style="text-align:center;padding:80px 0;">
+        <RadzenProgressBarCircular />
+    </div>
+}
+else
+{
+    <div class="detail-page">
+        <!-- Breadcrumbs -->
+        <div style="margin-bottom:16px; font-size:0.813rem; color:var(--primary); font-weight:500;">
+            Home > @_property.DestinationName > @_property.Name
+        </div>
+
+        <div style="display:flex;justify-content:space-between;align-items:flex-start;flex-wrap:wrap;gap:16px;margin-bottom:16px;">
+            <div>
+                <div style="display:flex;align-items:center;gap:8px;">
+                    <RadzenBadge Text="@_property.Type" BadgeStyle="BadgeStyle.Light" Style="font-size:0.75rem;padding:4px 8px;border-radius:4px;color:var(--text-secondary);" />
+                    <span style="color:#FEBB02;font-size:0.875rem;">@(new string('\u2605', _property.Stars))</span>
+                </div>
+                <RadzenText TextStyle="TextStyle.H3" Style="font-weight:700;color:var(--text-primary);margin:4px 0;">@_property.Name</RadzenText>
+                <div style="display:flex;align-items:center;gap:4px;color:var(--primary);font-size:0.875rem;cursor:pointer;font-weight:500;">
+                    <span>📍</span> @_property.Location <span style="text-decoration:underline;">- Excellent location - show map</span>
+                </div>
+            </div>
+            
+            <div style="display:flex;gap:12px;align-items:center;">
+                <div style="text-align:right;">
+                    <div style="font-weight:700;font-size:1.125rem;color:var(--text-primary);">@(GetRatingText(_property.Rating))</div>
+                    <div style="font-size:0.813rem;color:var(--text-secondary);">@_property.ReviewCount reviews</div>
+                </div>
+                <div style="background:var(--primary);color:white;padding:8px;border-radius:8px 8px 8px 0;font-weight:700;font-size:1.25rem;min-width:40px;text-align:center;">
+                    @_property.Rating.ToString("F1")
+                </div>
+            </div>
+        </div>
+
+        <!-- Masonry Gallery -->
+        <div class="masonry-gallery">
+            <div class="gallery-main" style="background-image:url('images/@(_property.Image).jpg');">
+                @if (string.IsNullOrEmpty(_property.Image)) { <span style="font-size:6rem;">🏨</span> }
+            </div>
+            <div class="gallery-grid">
+                @for (int i = 0; i < 4; i++)
+                {
+                    <div class="gallery-item" style="background-image:url('images/@(_property.Gallery.ElementAtOrDefault(i) ?? _property.Image).jpg');"></div>
+                }
+            </div>
+        </div>
+
+        <div class="detail-layout" style="margin-top:24px;">
+            <div class="detail-main">
+                
+                @if (_property.Id % 2 != 0)
+                {
+                    <div style="background:#FFF3CD; border:1px solid #FFE69C; padding:12px 16px; border-radius:8px; margin-bottom:24px; display:flex; gap:12px; align-items:center;">
+                        <span style="font-size:1.5rem;color:#856404;">🔥</span>
+                        <div>
+                            <div style="color:#856404;font-weight:700;">In high demand!</div>
+                            <div style="color:#856404;font-size:0.875rem;">Booked 6 times in the last 24 hours.</div>
+                        </div>
+                    </div>
+                }
+
+                <div style="margin-bottom:32px;">
+                    <RadzenText TextStyle="TextStyle.Body1" Style="line-height:1.6;">@_property.Description</RadzenText>
+                </div>
+
+                <div style="margin-bottom:32px;">
+                    <RadzenText TextStyle="TextStyle.H6" Style="margin-bottom:16px;font-weight:700;">Most popular facilities</RadzenText>
+                    <div style="display:flex;flex-wrap:wrap;gap:12px;">
+                        @foreach (var a in _property.Amenities)
+                        {
+                            <div style="display:flex;align-items:center;gap:8px;color:var(--success);font-weight:500;font-size:0.938rem;background:var(--primary-light);padding:8px 16px;border-radius:20px;">
+                                <span>✓</span> @a
+                            </div>
+                        }
+                    </div>
+                </div>
+
+                <div style="margin-bottom:32px; border:1px solid var(--border); border-radius:12px; overflow:hidden;">
+                    <div style="background:#F0F9F0; padding:16px; border-bottom:1px solid var(--border);">
+                        <RadzenText TextStyle="TextStyle.H6" Style="color:var(--success); font-weight:700; margin:0;">Great for your stay</RadzenText>
+                    </div>
+                    <div style="padding:16px; display:flex; flex-direction:column; gap:12px;">
+                        @if (_property.FreeCancellation)
+                        {
+                            <div style="display:flex;gap:12px;">
+                                <span style="color:var(--success);font-size:1.25rem;">✓</span>
+                                <div>
+                                    <div style="font-weight:700;">Free cancellation</div>
+                                    <div style="font-size:0.875rem;color:var(--text-secondary);">Lock in a great price for your upcoming stay</div>
+                                </div>
+                            </div>
+                        }
+                        @if (_property.BreakfastIncluded)
+                        {
+                            <div style="display:flex;gap:12px;">
+                                <span style="color:var(--success);font-size:1.25rem;">☕</span>
+                                <div>
+                                    <div style="font-weight:700;">Fabulous breakfast</div>
+                                    <div style="font-size:0.875rem;color:var(--text-secondary);">Highly rated by recent guests</div>
+                                </div>
+                            </div>
+                        }
+                    </div>
+                </div>
+                
+                <div style="margin-bottom:32px;">
+                    <RadzenText TextStyle="TextStyle.H6" Style="margin-bottom:16px;font-weight:700;">Guest reviews</RadzenText>
+                    
+                    <div style="display:grid;grid-template-columns:1fr 1fr;gap:24px;margin-bottom:24px;">
+                        <div>
+                            <div style="display:flex;justify-content:space-between;margin-bottom:4px;"><span style="font-size:0.875rem;">Cleanliness</span><span style="font-size:0.875rem;font-weight:600;">9.4</span></div>
+                            <RadzenProgressBar Value="94" ShowValue="false" Style="height:6px;margin-bottom:12px;" />
+                            
+                            <div style="display:flex;justify-content:space-between;margin-bottom:4px;"><span style="font-size:0.875rem;">Location</span><span style="font-size:0.875rem;font-weight:600;">9.8</span></div>
+                            <RadzenProgressBar Value="98" ShowValue="false" Style="height:6px;margin-bottom:12px;" />
+                            
+                            <div style="display:flex;justify-content:space-between;margin-bottom:4px;"><span style="font-size:0.875rem;">Value for money</span><span style="font-size:0.875rem;font-weight:600;">8.9</span></div>
+                            <RadzenProgressBar Value="89" ShowValue="false" Style="height:6px;" />
+                        </div>
+                        <div>
+                            <div style="display:flex;justify-content:space-between;margin-bottom:4px;"><span style="font-size:0.875rem;">Staff</span><span style="font-size:0.875rem;font-weight:600;">9.6</span></div>
+                            <RadzenProgressBar Value="96" ShowValue="false" Style="height:6px;margin-bottom:12px;" />
+                            
+                            <div style="display:flex;justify-content:space-between;margin-bottom:4px;"><span style="font-size:0.875rem;">Comfort</span><span style="font-size:0.875rem;font-weight:600;">9.2</span></div>
+                            <RadzenProgressBar Value="92" ShowValue="false" Style="height:6px;margin-bottom:12px;" />
+                            
+                            <div style="display:flex;justify-content:space-between;margin-bottom:4px;"><span style="font-size:0.875rem;">Free WiFi</span><span style="font-size:0.875rem;font-weight:600;">9.5</span></div>
+                            <RadzenProgressBar Value="95" ShowValue="false" Style="height:6px;" />
+                        </div>
+                    </div>
+
+                    <div style="display:flex;flex-direction:column;gap:16px;">
+                        @foreach (var review in _reviews)
+                        {
+                            <div style="padding:16px;border:1px solid var(--border);border-radius:8px;">
+                                <div style="display:flex;align-items:center;gap:12px;margin-bottom:12px;">
+                                    <div style="width:36px;height:36px;background:var(--primary-light);color:var(--primary);border-radius:50%;display:flex;align-items:center;justify-content:center;font-weight:700;">
+                                        @review.Name[0]
+                                    </div>
+                                    <div>
+                                        <RadzenText TextStyle="TextStyle.Body2" Style="font-weight:700;margin:0;">@review.Name</RadzenText>
+                                        <RadzenText TextStyle="TextStyle.Caption" Style="color:var(--text-secondary);">South Africa</RadzenText>
+                                    </div>
+                                    <div style="margin-left:auto;background:var(--primary);color:white;padding:4px 8px;border-radius:6px;font-weight:700;font-size:0.875rem;">
+                                        @(review.Stars * 2).0
+                                    </div>
+                                </div>
+                                <RadzenText TextStyle="TextStyle.Body2" Style="color:var(--text-primary);line-height:1.5;">&ldquo;@review.Comment&rdquo;</RadzenText>
+                            </div>
+                        }
+                    </div>
+                </div>
+                
+                <div style="margin-bottom:32px;">
+                    <RadzenText TextStyle="TextStyle.H6" Style="margin-bottom:16px;font-weight:700;">Location</RadzenText>
+                    <div id="detail-map" style="height: 350px; width: 100%; border-radius: 12px; border: 1px solid var(--border);"></div>
+                </div>
+
+            </div>
+
+            <div class="detail-sidebar">
+                <BookingCard Property="@_property" />
+            </div>
+        </div>
+    </div>
+}
+
+<style>
+    .detail-page { max-width: 1140px; margin: 0 auto; padding: 24px; }
+    
+    .masonry-gallery {
+        display: grid;
+        grid-template-columns: 2fr 1fr;
+        gap: 8px;
+        height: 420px;
+        border-radius: 16px;
+        overflow: hidden;
+    }
+    .gallery-main {
+        background-size: cover; background-position: center;
+        display: flex; align-items: center; justify-content: center;
+        transition: filter 0.3s; cursor: pointer;
+    }
+    .gallery-grid {
+        display: grid; grid-template-columns: 1fr 1fr; grid-template-rows: 1fr 1fr; gap: 8px;
+    }
+    .gallery-item {
+        background-size: cover; background-position: center;
+        transition: filter 0.3s; cursor: pointer;
+    }
+    .gallery-main:hover, .gallery-item:hover { filter: brightness(0.9); }
+
+    .detail-layout { display: flex; gap: 32px; align-items: flex-start; }
+    .detail-main { flex: 1; }
+    .detail-sidebar { width: 380px; flex-shrink: 0; }
+
+    @@media (max-width: 768px) {
+        .detail-layout { flex-direction: column; }
+        .detail-sidebar { width: 100%; }
+        .masonry-gallery { grid-template-columns: 1fr; grid-template-rows: 250px 150px; height: auto; }
+        .gallery-grid { display: none; } /* Hide small grid on mobile to save space */
+    }
+</style>
+
+@code {
+    [Parameter] public int Id { get; set; }
+
+    private Property? _property;
+    private readonly List<Review> _reviews =
+    [
+        new() { Name = "Thandi M.", Stars = 5, Comment = "Absolutely incredible stay! The views were breathtaking and the service was world-class. The breakfast spread was the best I've ever had." },
+        new() { Name = "James K.", Stars = 4, Comment = "Beautiful property in an amazing location. Highly recommend booking a room with a view." },
+        new() { Name = "Priya S.", Stars = 5, Comment = "Exceeded all expectations. The staff went above and beyond to make our anniversary special." },
+    ];
+
+    protected override async Task OnInitializedAsync()
+    {
+        _property = await TravelService.GetPropertyAsync(Id);
+        if (_property != null && _property.Latitude == 0)
+        {
+            _property.Latitude = -33.9249;
+            _property.Longitude = 18.4241;
+        }
+    }
+
+    protected override async Task OnAfterRenderAsync(bool firstRender)
+    {
+        if (_property != null)
+        {
+            var marker = new[] { new { lat = _property.Latitude, lng = _property.Longitude, title = _property.Name, price = _property.PricePerNight } };
+            await JSRuntime.InvokeVoidAsync("tourism.initMap", "detail-map", marker);
+        }
+    }
+
+    private string GetRatingText(double rating)
+    {
+        if (rating >= 4.5) return "Exceptional";
+        if (rating >= 4.0) return "Fabulous";
+        if (rating >= 3.5) return "Very Good";
+        return "Good";
+    }
+
+    private class Review
+    {
+        public string Name { get; set; } = "";
+        public int Stars { get; set; }
+        public string Comment { get; set; } = "";
+    }
+}

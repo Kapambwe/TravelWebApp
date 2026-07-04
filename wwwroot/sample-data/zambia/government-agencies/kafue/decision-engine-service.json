@@ -1,0 +1,422 @@
+[
+  {
+    "id": "de-001",
+    "decisionType": "Credit Approval",
+    "customerId": "cust-001",
+    "requestedAmount": 50000.0,
+    "creditScore": 750,
+    "recommendation": "Approve",
+    "confidence": 85.0,
+    "factors": [
+      "Good payment history",
+      "Stable revenue",
+      "Low debt-to-income ratio"
+    ]
+  },
+  {
+    "id": "de-002",
+    "decisionType": "Credit Approval",
+    "customerId": "cust-001",
+    "requestedAmount": 50000.0,
+    "creditScore": 750,
+    "recommendation": "Approve",
+    "confidence": 85.0,
+    "factors": [
+      "Good payment history",
+      "Stable revenue",
+      "Low debt-to-income ratio"
+    ]
+  },
+  {
+    "id": "de-003",
+    "decisionType": "Credit Approval",
+    "customerId": "cust-001",
+    "requestedAmount": 50000.0,
+    "creditScore": 750,
+    "recommendation": "Approve",
+    "confidence": 85.0,
+    "factors": [
+      "Good payment history",
+      "Stable revenue",
+      "Low debt-to-income ratio"
+    ]
+  },
+  {
+    "id": "de-004",
+    "decisionType": "Credit Approval",
+    "customerId": "cust-001",
+    "requestedAmount": 50000.0,
+    "creditScore": 750,
+    "recommendation": "Approve",
+    "confidence": 85.0,
+    "factors": [
+      "Good payment history",
+      "Stable revenue",
+      "Low debt-to-income ratio"
+    ]
+  },
+  {
+    "id": "de-005",
+    "decisionType": "Credit Approval",
+    "customerId": "cust-001",
+    "requestedAmount": 50000.0,
+    "creditScore": 750,
+    "recommendation": "Approve",
+    "confidence": 85.0,
+    "factors": [
+      "Good payment history",
+      "Stable revenue",
+      "Low debt-to-income ratio"
+    ]
+  },
+  {
+    "id": "de-006",
+    "decisionType": "Credit Approval",
+    "customerId": "cust-001",
+    "requestedAmount": 50000.0,
+    "creditScore": 750,
+    "recommendation": "Approve",
+    "confidence": 85.0,
+    "factors": [
+      "Good payment history",
+      "Stable revenue",
+      "Low debt-to-income ratio"
+    ]
+  },
+  {
+    "id": "de-007",
+    "decisionType": "Credit Approval",
+    "customerId": "cust-001",
+    "requestedAmount": 50000.0,
+    "creditScore": 750,
+    "recommendation": "Approve",
+    "confidence": 85.0,
+    "factors": [
+      "Good payment history",
+      "Stable revenue",
+      "Low debt-to-income ratio"
+    ]
+  },
+  {
+    "id": "de-008",
+    "decisionType": "Credit Approval",
+    "customerId": "cust-001",
+    "requestedAmount": 50000.0,
+    "creditScore": 750,
+    "recommendation": "Approve",
+    "confidence": 85.0,
+    "factors": [
+      "Good payment history",
+      "Stable revenue",
+      "Low debt-to-income ratio"
+    ]
+  },
+  {
+    "id": "de-009",
+    "decisionType": "Credit Approval",
+    "customerId": "cust-001",
+    "requestedAmount": 50000.0,
+    "creditScore": 750,
+    "recommendation": "Approve",
+    "confidence": 85.0,
+    "factors": [
+      "Good payment history",
+      "Stable revenue",
+      "Low debt-to-income ratio"
+    ]
+  },
+  {
+    "id": "de-010",
+    "decisionType": "Credit Approval",
+    "customerId": "cust-001",
+    "requestedAmount": 50000.0,
+    "creditScore": 750,
+    "recommendation": "Approve",
+    "confidence": 85.0,
+    "factors": [
+      "Good payment history",
+      "Stable revenue",
+      "Low debt-to-income ratio"
+    ]
+  },
+  {
+    "id": "de-011",
+    "decisionType": "Credit Approval",
+    "customerId": "cust-001",
+    "requestedAmount": 50000.0,
+    "creditScore": 750,
+    "recommendation": "Approve",
+    "confidence": 85.0,
+    "factors": [
+      "Good payment history",
+      "Stable revenue",
+      "Low debt-to-income ratio"
+    ]
+  },
+  {
+    "id": "de-012",
+    "decisionType": "Credit Approval",
+    "customerId": "cust-001",
+    "requestedAmount": 50000.0,
+    "creditScore": 750,
+    "recommendation": "Approve",
+    "confidence": 85.0,
+    "factors": [
+      "Good payment history",
+      "Stable revenue",
+      "Low debt-to-income ratio"
+    ]
+  },
+  {
+    "id": "de-013",
+    "decisionType": "Credit Approval",
+    "customerId": "cust-001",
+    "requestedAmount": 50000.0,
+    "creditScore": 750,
+    "recommendation": "Approve",
+    "confidence": 85.0,
+    "factors": [
+      "Good payment history",
+      "Stable revenue",
+      "Low debt-to-income ratio"
+    ]
+  },
+  {
+    "id": "de-014",
+    "decisionType": "Credit Approval",
+    "customerId": "cust-001",
+    "requestedAmount": 50000.0,
+    "creditScore": 750,
+    "recommendation": "Approve",
+    "confidence": 85.0,
+    "factors": [
+      "Good payment history",
+      "Stable revenue",
+      "Low debt-to-income ratio"
+    ]
+  },
+  {
+    "id": "de-015",
+    "decisionType": "Credit Approval",
+    "customerId": "cust-001",
+    "requestedAmount": 50000.0,
+    "creditScore": 750,
+    "recommendation": "Approve",
+    "confidence": 85.0,
+    "factors": [
+      "Good payment history",
+      "Stable revenue",
+      "Low debt-to-income ratio"
+    ]
+  },
+  {
+    "id": "de-016",
+    "decisionType": "Credit Approval",
+    "customerId": "cust-001",
+    "requestedAmount": 50000.0,
+    "creditScore": 750,
+    "recommendation": "Approve",
+    "confidence": 85.0,
+    "factors": [
+      "Good payment history",
+      "Stable revenue",
+      "Low debt-to-income ratio"
+    ]
+  },
+  {
+    "id": "de-017",
+    "decisionType": "Credit Approval",
+    "customerId": "cust-001",
+    "requestedAmount": 50000.0,
+    "creditScore": 750,
+    "recommendation": "Approve",
+    "confidence": 85.0,
+    "factors": [
+      "Good payment history",
+      "Stable revenue",
+      "Low debt-to-income ratio"
+    ]
+  },
+  {
+    "id": "de-018",
+    "decisionType": "Credit Approval",
+    "customerId": "cust-001",
+    "requestedAmount": 50000.0,
+    "creditScore": 750,
+    "recommendation": "Approve",
+    "confidence": 85.0,
+    "factors": [
+      "Good payment history",
+      "Stable revenue",
+      "Low debt-to-income ratio"
+    ]
+  },
+  {
+    "id": "de-019",
+    "decisionType": "Credit Approval",
+    "customerId": "cust-001",
+    "requestedAmount": 50000.0,
+    "creditScore": 750,
+    "recommendation": "Approve",
+    "confidence": 85.0,
+    "factors": [
+      "Good payment history",
+      "Stable revenue",
+      "Low debt-to-income ratio"
+    ]
+  },
+  {
+    "id": "de-020",
+    "decisionType": "Credit Approval",
+    "customerId": "cust-001",
+    "requestedAmount": 50000.0,
+    "creditScore": 750,
+    "recommendation": "Approve",
+    "confidence": 85.0,
+    "factors": [
+      "Good payment history",
+      "Stable revenue",
+      "Low debt-to-income ratio"
+    ]
+  },
+  {
+    "id": "de-021",
+    "decisionType": "Credit Approval",
+    "customerId": "cust-001",
+    "requestedAmount": 50000.0,
+    "creditScore": 750,
+    "recommendation": "Approve",
+    "confidence": 85.0,
+    "factors": [
+      "Good payment history",
+      "Stable revenue",
+      "Low debt-to-income ratio"
+    ]
+  },
+  {
+    "id": "de-022",
+    "decisionType": "Credit Approval",
+    "customerId": "cust-001",
+    "requestedAmount": 50000.0,
+    "creditScore": 750,
+    "recommendation": "Approve",
+    "confidence": 85.0,
+    "factors": [
+      "Good payment history",
+      "Stable revenue",
+      "Low debt-to-income ratio"
+    ]
+  },
+  {
+    "id": "de-023",
+    "decisionType": "Credit Approval",
+    "customerId": "cust-001",
+    "requestedAmount": 50000.0,
+    "creditScore": 750,
+    "recommendation": "Approve",
+    "confidence": 85.0,
+    "factors": [
+      "Good payment history",
+      "Stable revenue",
+      "Low debt-to-income ratio"
+    ]
+  },
+  {
+    "id": "de-024",
+    "decisionType": "Credit Approval",
+    "customerId": "cust-001",
+    "requestedAmount": 50000.0,
+    "creditScore": 750,
+    "recommendation": "Approve",
+    "confidence": 85.0,
+    "factors": [
+      "Good payment history",
+      "Stable revenue",
+      "Low debt-to-income ratio"
+    ]
+  },
+  {
+    "id": "de-025",
+    "decisionType": "Credit Approval",
+    "customerId": "cust-001",
+    "requestedAmount": 50000.0,
+    "creditScore": 750,
+    "recommendation": "Approve",
+    "confidence": 85.0,
+    "factors": [
+      "Good payment history",
+      "Stable revenue",
+      "Low debt-to-income ratio"
+    ]
+  },
+  {
+    "id": "de-026",
+    "decisionType": "Credit Approval",
+    "customerId": "cust-001",
+    "requestedAmount": 50000.0,
+    "creditScore": 750,
+    "recommendation": "Approve",
+    "confidence": 85.0,
+    "factors": [
+      "Good payment history",
+      "Stable revenue",
+      "Low debt-to-income ratio"
+    ]
+  },
+  {
+    "id": "de-027",
+    "decisionType": "Credit Approval",
+    "customerId": "cust-001",
+    "requestedAmount": 50000.0,
+    "creditScore": 750,
+    "recommendation": "Approve",
+    "confidence": 85.0,
+    "factors": [
+      "Good payment history",
+      "Stable revenue",
+      "Low debt-to-income ratio"
+    ]
+  },
+  {
+    "id": "de-028",
+    "decisionType": "Credit Approval",
+    "customerId": "cust-001",
+    "requestedAmount": 50000.0,
+    "creditScore": 750,
+    "recommendation": "Approve",
+    "confidence": 85.0,
+    "factors": [
+      "Good payment history",
+      "Stable revenue",
+      "Low debt-to-income ratio"
+    ]
+  },
+  {
+    "id": "de-029",
+    "decisionType": "Credit Approval",
+    "customerId": "cust-001",
+    "requestedAmount": 50000.0,
+    "creditScore": 750,
+    "recommendation": "Approve",
+    "confidence": 85.0,
+    "factors": [
+      "Good payment history",
+      "Stable revenue",
+      "Low debt-to-income ratio"
+    ]
+  },
+  {
+    "id": "de-030",
+    "decisionType": "Credit Approval",
+    "customerId": "cust-001",
+    "requestedAmount": 50000.0,
+    "creditScore": 750,
+    "recommendation": "Approve",
+    "confidence": 85.0,
+    "factors": [
+      "Good payment history",
+      "Stable revenue",
+      "Low debt-to-income ratio"
+    ]
+  }
+]

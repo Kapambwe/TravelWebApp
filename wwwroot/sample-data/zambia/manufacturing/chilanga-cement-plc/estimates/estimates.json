@@ -1,0 +1,164 @@
+[
+  {
+    "id": 1,
+    "estimateNumber": "EST-2025-001",
+    "customerId": 11,
+    "customerName": "Siame Industries Group",
+    "estimateDateDaysAgo": 8,
+    "expirationDateDaysFromNow": 45,
+    "status": "Accepted",
+    "subTotal": 3711580.44,
+    "taxRate": 15,
+    "taxAmount": 556737.07,
+    "total": 4268317.51,
+    "terms": "Net 15",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 8,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Sugar Products",
+        "quantity": 3,
+        "unitPrice": 1237193.48,
+        "amount": 3711580.44,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 7
+  },
+  {
+    "id": 2,
+    "estimateNumber": "EST-2025-002",
+    "customerId": 5,
+    "customerName": "Tembo Industries Co.",
+    "estimateDateDaysAgo": 48,
+    "expirationDateDaysFromNow": 29,
+    "status": "Accepted",
+    "subTotal": 259420.32,
+    "taxRate": 15,
+    "taxAmount": 38913.05,
+    "total": 298333.37,
+    "terms": "Net 15",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 48,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Industrial Chemicals",
+        "quantity": 4,
+        "unitPrice": 64855.08,
+        "amount": 259420.32,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 47
+  },
+  {
+    "id": 3,
+    "estimateNumber": "EST-2025-003",
+    "customerId": 7,
+    "customerName": "Bwalya Products Ltd",
+    "estimateDateDaysAgo": 6,
+    "expirationDateDaysFromNow": 34,
+    "status": "Open",
+    "subTotal": 2889890.87,
+    "taxRate": 16,
+    "taxAmount": 462382.54,
+    "total": 3352273.41,
+    "terms": "Net 15",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 6,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Milled Flour",
+        "quantity": 5,
+        "unitPrice": 577978.17,
+        "amount": 2889890.87,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 5
+  },
+  {
+    "id": 4,
+    "estimateNumber": "EST-2025-004",
+    "customerId": 8,
+    "customerName": "Mutale Industrial Inc.",
+    "estimateDateDaysAgo": 56,
+    "expirationDateDaysFromNow": 23,
+    "status": "Declined",
+    "subTotal": 2540082.28,
+    "taxRate": 18,
+    "taxAmount": 457214.81,
+    "total": 2997297.09,
+    "terms": "Net 30",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 56,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Industrial Chemicals",
+        "quantity": 4,
+        "unitPrice": 635020.57,
+        "amount": 2540082.28,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 55
+  },
+  {
+    "id": 5,
+    "estimateNumber": "EST-2025-005",
+    "customerId": 3,
+    "customerName": "Siame Industrial Co.",
+    "estimateDateDaysAgo": 18,
+    "expirationDateDaysFromNow": 16,
+    "status": "Accepted",
+    "subTotal": 2115302.06,
+    "taxRate": 15,
+    "taxAmount": 317295.31,
+    "total": 2432597.37,
+    "terms": "Net 30",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 18,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Building Materials",
+        "quantity": 1,
+        "unitPrice": 2115302.06,
+        "amount": 2115302.06,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 17
+  },
+  {
+    "id": 6,
+    "estimateNumber": "EST-2025-006",
+    "customerId": 6,
+    "customerName": "Bwalya Industries Enterprises",
+    "estimateDateDaysAgo": 14,
+    "expirationDateDaysFromNow": 44,
+    "status": "Accepted",
+    "subTotal": 1079251.41,
+    "taxRate": 0,
+    "taxAmount": 0.0,
+    "total": 1079251.41,
+    "terms": "Net 15",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 14,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Building Materials",
+        "quantity": 3,
+        "unitPrice": 359750.47,
+        "amount": 1079251.41,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 13
+  }
+]

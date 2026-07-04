@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "invoiceNumber": "INV-2025-001",
+    "clientName": "Siame Food Industries Enterprises",
+    "description": "Mango Juice Concentrate",
+    "invoiceDate": "2024-11-10T00:00:00",
+    "dueDate": "2024-11-25T00:00:00",
+    "amount": 3269233.23,
+    "receivedAmount": 2122264.28,
+    "status": "PartiallyPaid",
+    "customerId": 1
+  },
+  {
+    "id": 2,
+    "invoiceNumber": "INV-2025-002",
+    "clientName": "Mwale Agricultural Co.",
+    "description": "Dried Mango Export",
+    "invoiceDate": "2025-02-26T00:00:00",
+    "dueDate": "2025-03-28T00:00:00",
+    "amount": 1982954.62,
+    "receivedAmount": 1577490.08,
+    "status": "PartiallyPaid",
+    "customerId": 13
+  },
+  {
+    "id": 3,
+    "invoiceNumber": "INV-2025-003",
+    "clientName": "Lungu Farms Solutions",
+    "description": "Processed Fruit Supply",
+    "invoiceDate": "2024-10-03T00:00:00",
+    "dueDate": "2024-11-17T00:00:00",
+    "amount": 452126.6,
+    "receivedAmount": 0.0,
+    "status": "Open",
+    "customerId": 6
+  },
+  {
+    "id": 4,
+    "invoiceNumber": "INV-2025-004",
+    "clientName": "Tembo Farms Limited",
+    "description": "Processed Fruit Supply",
+    "invoiceDate": "2025-02-01T00:00:00",
+    "dueDate": "2025-04-02T00:00:00",
+    "amount": 146558.24,
+    "receivedAmount": 146558.24,
+    "status": "Paid",
+    "customerId": 12
+  },
+  {
+    "id": 5,
+    "invoiceNumber": "INV-2025-005",
+    "clientName": "Chanda Agricultural Solutions",
+    "description": "Dried Mango Export",
+    "invoiceDate": "2024-11-13T00:00:00",
+    "dueDate": "2024-12-13T00:00:00",
+    "amount": 3050453.83,
+    "receivedAmount": 1756594.6,
+    "status": "PartiallyPaid",
+    "customerId": 5
+  },
+  {
+    "id": 6,
+    "invoiceNumber": "INV-2025-006",
+    "clientName": "Chanda Agricultural Solutions",
+    "description": "Dried Mango Export",
+    "invoiceDate": "2024-11-19T00:00:00",
+    "dueDate": "2024-12-04T00:00:00",
+    "amount": 2584889.3,
+    "receivedAmount": 1156391.17,
+    "status": "PartiallyPaid",
+    "customerId": 5
+  },
+  {
+    "id": 7,
+    "invoiceNumber": "INV-2025-007",
+    "clientName": "Lungu Farms Co.",
+    "description": "Mango Juice Concentrate",
+    "invoiceDate": "2024-09-25T00:00:00",
+    "dueDate": "2024-10-10T00:00:00",
+    "amount": 4171155.7,
+    "receivedAmount": 0.0,
+    "status": "Overdue",
+    "customerId": 9
+  },
+  {
+    "id": 8,
+    "invoiceNumber": "INV-2025-008",
+    "clientName": "Phiri Agricultural Ltd",
+    "description": "Dried Mango Export",
+    "invoiceDate": "2025-02-23T00:00:00",
+    "dueDate": "2025-03-10T00:00:00",
+    "amount": 1024987.66,
+    "receivedAmount": 561030.86,
+    "status": "PartiallyPaid",
+    "customerId": 10
+  }
+]

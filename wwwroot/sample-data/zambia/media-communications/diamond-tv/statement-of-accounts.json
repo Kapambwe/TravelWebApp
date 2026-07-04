@@ -1,0 +1,140 @@
+{
+  "companyName": "Diamond Tv",
+  "companyAddress": "Ndola, Zambia",
+  "companyTaxId": "TPIN-1201063-DT",
+  "generatedDate": "2025-09-30",
+  "currency": "ZMW",
+  "period": {
+    "from": "2025-01-01",
+    "to": "2025-09-30"
+  },
+  "customerStatements": [
+    {
+      "customerId": 1,
+      "customerName": "Mukuba Holdings PLC",
+      "customerEmail": "billing@mukuba.co.zm",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-05-11",
+          "reference": "INV-Z-2025-017",
+          "description": "Digital content licensing",
+          "debit": 586500,
+          "credit": 0.0,
+          "balance": 586500
+        },
+        {
+          "date": "2025-06-15",
+          "reference": "PMT-Z-2025-018",
+          "description": "Final payment received",
+          "debit": 0.0,
+          "credit": 586500,
+          "balance": 0.0
+        }
+      ],
+      "closingBalance": 0.0,
+      "status": "Settled"
+    },
+    {
+      "customerId": 2,
+      "customerName": "Zain Partners Co.",
+      "customerEmail": "contact@zain.co.zm",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-07-07",
+          "reference": "INV-Z-2025-024",
+          "description": "Radio advertising spots",
+          "debit": 2551000,
+          "credit": 0.0,
+          "balance": 2551000
+        }
+      ],
+      "closingBalance": 2551000,
+      "status": "Outstanding"
+    },
+    {
+      "customerId": 3,
+      "customerName": "Copperbelt Holdings PLC",
+      "customerEmail": "billing@copperbelt.com",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-04-10",
+          "reference": "INV-Z-2025-037",
+          "description": "Media placement package",
+          "debit": 722000,
+          "credit": 0.0,
+          "balance": 722000
+        },
+        {
+          "date": "2025-06-25",
+          "reference": "PMT-Z-2025-032",
+          "description": "Payment received - bank transfer",
+          "debit": 0.0,
+          "credit": 722000,
+          "balance": 0.0
+        }
+      ],
+      "closingBalance": 0.0,
+      "status": "Settled"
+    },
+    {
+      "customerId": 4,
+      "customerName": "Luangwa Enterprises Ltd",
+      "customerEmail": "contact@luangwa.co.zm",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-05-03",
+          "reference": "INV-Z-2025-048",
+          "description": "Sponsored content package",
+          "debit": 279500,
+          "credit": 0.0,
+          "balance": 279500
+        },
+        {
+          "date": "2025-06-18",
+          "reference": "PMT-Z-2025-045",
+          "description": "Payment received - wire transfer",
+          "debit": 0.0,
+          "credit": 279500,
+          "balance": 0.0
+        }
+      ],
+      "closingBalance": 0.0,
+      "status": "Settled"
+    },
+    {
+      "customerId": 5,
+      "customerName": "Luangwa Solutions Ltd",
+      "customerEmail": "contact@luangwa.com",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-07-26",
+          "reference": "INV-Z-2025-057",
+          "description": "Sponsored content package",
+          "debit": 939000,
+          "credit": 0.0,
+          "balance": 939000
+        }
+      ],
+      "closingBalance": 939000,
+      "status": "Outstanding"
+    }
+  ],
+  "summary": {
+    "totalInvoiced": 5078000,
+    "totalReceived": 1588000,
+    "totalOutstanding": 3490000,
+    "totalOverdue": 3490000.0,
+    "agingSummary": {
+      "current": 0.0,
+      "days1to30": 0.0,
+      "days31to60": 3490000.0,
+      "days61to90": 0.0,
+      "over90days": 0.0
+    }
+  }
+}

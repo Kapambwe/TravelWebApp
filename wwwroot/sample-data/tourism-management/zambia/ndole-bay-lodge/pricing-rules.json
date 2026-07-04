@@ -1,0 +1,8 @@
+﻿{
+    "Id":  1,
+    "Name":  "Peak Season Multiplier",
+    "AdjustmentType":  0,
+    "IsActive":  true,
+    "AdjustmentValue":  20,
+    "Condition":  "Month in (July, August, September, October)"
+}

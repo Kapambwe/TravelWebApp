@@ -1,0 +1,93 @@
+[
+  {
+    "id": 1,
+    "poNumber": "PO-2025-001",
+    "vendorName": "Mutale Broadcasting Holdings",
+    "description": "Broadcasting Equipment Hire",
+    "orderDate": "2024-12-28T00:00:00",
+    "expectedDate": "2025-01-20T00:00:00",
+    "amount": 2273540.54,
+    "receivedAmount": 2273540.54,
+    "status": "Closed",
+    "approvalStatus": "Approved",
+    "approvedBy": "Procurement Officer"
+  },
+  {
+    "id": 2,
+    "poNumber": "PO-2025-002",
+    "vendorName": "Sakala Broadcasting Enterprises",
+    "description": "Freelancer Fees",
+    "orderDate": "2025-02-19T00:00:00",
+    "expectedDate": "2025-03-01T00:00:00",
+    "amount": 648199.87,
+    "receivedAmount": 648199.87,
+    "status": "Closed",
+    "approvalStatus": "Pending",
+    "approvedBy": "Finance Manager"
+  },
+  {
+    "id": 3,
+    "poNumber": "PO-2025-003",
+    "vendorName": "Chileshe Broadcasting Co.",
+    "description": "Studio Production Costs",
+    "orderDate": "2024-12-17T00:00:00",
+    "expectedDate": "2025-01-03T00:00:00",
+    "amount": 1422249.77,
+    "receivedAmount": 625983.41,
+    "status": "PartiallyReceived",
+    "approvalStatus": "Approved",
+    "approvedBy": "Procurement Officer"
+  },
+  {
+    "id": 4,
+    "poNumber": "PO-2025-004",
+    "vendorName": "Mutale Broadcasting Holdings",
+    "description": "Studio Production Costs",
+    "orderDate": "2025-01-30T00:00:00",
+    "expectedDate": "2025-02-22T00:00:00",
+    "amount": 192276.68,
+    "receivedAmount": 0.0,
+    "status": "Cancelled",
+    "approvalStatus": "Pending",
+    "approvedBy": "CEO"
+  },
+  {
+    "id": 5,
+    "poNumber": "PO-2025-005",
+    "vendorName": "Mutale Broadcasting Holdings",
+    "description": "Printing Costs",
+    "orderDate": "2025-02-04T00:00:00",
+    "expectedDate": "2025-03-01T00:00:00",
+    "amount": 1979313.21,
+    "receivedAmount": 1276684.81,
+    "status": "PartiallyReceived",
+    "approvalStatus": "Approved",
+    "approvedBy": "CFO"
+  },
+  {
+    "id": 6,
+    "poNumber": "PO-2025-006",
+    "vendorName": "Bwalya Broadcasting Ltd",
+    "description": "Printing Costs",
+    "orderDate": "2025-02-20T00:00:00",
+    "expectedDate": "2025-03-09T00:00:00",
+    "amount": 2056775.25,
+    "receivedAmount": 0.0,
+    "status": "Open",
+    "approvalStatus": "Pending",
+    "approvedBy": "CFO"
+  },
+  {
+    "id": 7,
+    "poNumber": "PO-2025-007",
+    "vendorName": "Mutale Broadcasting Group",
+    "description": "Broadcasting Equipment Hire",
+    "orderDate": "2025-01-16T00:00:00",
+    "expectedDate": "2025-01-23T00:00:00",
+    "amount": 1693960.1,
+    "receivedAmount": 765473.39,
+    "status": "PartiallyReceived",
+    "approvalStatus": "Approved",
+    "approvedBy": "CFO"
+  }
+]

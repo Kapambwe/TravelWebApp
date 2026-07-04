@@ -1,0 +1,32 @@
+﻿[
+    {
+        "BasePrice":  5500,
+        "Capacity":  8,
+        "IsActive":  true,
+        "Id":  404,
+        "Name":  "Lake Tanganyika Scuba Diving",
+        "Type":  8,
+        "Description":  "Explore the crystal clear waters and endemic fish of Tanganyika.",
+        "Duration":  180
+    },
+    {
+        "BasePrice":  4500,
+        "Capacity":  10,
+        "IsActive":  true,
+        "Id":  405,
+        "Name":  "Nsumbu Park Game Drive",
+        "Type":  0,
+        "Description":  "4x4 game drive into Nsumbu National Park.",
+        "Duration":  240
+    },
+    {
+        "BasePrice":  8500,
+        "Capacity":  4,
+        "IsActive":  true,
+        "Id":  406,
+        "Name":  "Goliath Tigerfish Angling",
+        "Type":  5,
+        "Description":  "Deep-lake sport fishing for the legendary Goliath Tigerfish.",
+        "Duration":  360
+    }
+]

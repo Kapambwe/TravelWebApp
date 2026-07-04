@@ -1,0 +1,127 @@
+@page "/guide"
+@inject ITravelService TravelService
+@inject NavigationManager Navigation
+
+<div class="page-section">
+    <RadzenText TextStyle="TextStyle.H3">Travellers Guide</RadzenText>
+    <RadzenText TextStyle="TextStyle.Body1" Style="color:var(--text-secondary);margin:8px 0 32px;">
+        Everything you need to know before your African adventure
+    </RadzenText>
+
+    <div class="guide-grid">
+        @foreach (var sec in _guideSections)
+        {
+            <div class="guide-card" @onclick="@(() => NavigateToGuide(sec.Route))">
+                <div class="guide-icon">@GetIcon(sec.Icon)</div>
+                <RadzenText TextStyle="TextStyle.H6">@sec.Title</RadzenText>
+                <RadzenText TextStyle="TextStyle.Body2" Style="color:var(--text-secondary);margin-top:4px;">@sec.Description</RadzenText>
+            </div>
+        }
+    </div>
+
+    <div style="margin-top:48px;">
+        <RadzenText TextStyle="TextStyle.H4" Style="margin-bottom:20px;">Visa-Free Travel</RadzenText>
+        <RadzenText TextStyle="TextStyle.Body1" Style="color:var(--text-secondary);margin-bottom:16px;">
+            Search visa requirements for South African passport holders
+        </RadzenText>
+        <RadzenTextBox @bind-Value="@_visaSearch" Placeholder="Search by country..." Style="max-width:400px;margin-bottom:20px;" />
+
+        <RadzenCard Style="overflow:hidden;padding:0;border-radius:12px;">
+            <div style="overflow-x:auto;">
+                <table class="visa-table">
+                    <thead>
+                        <tr>
+                            <th>Nationality</th>
+                            <th>Destination</th>
+                            <th>Status</th>
+                            <th>Max Stay</th>
+                            <th>Notes</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var visa in _filteredVisa)
+                        {
+                            <tr>
+                                <td>@visa.Nationality</td>
+                                <td><strong>@visa.DestinationCountry</strong></td>
+                                <td>
+                                    <RadzenBadge Text="@visa.Status" BadgeStyle="@GetVisaBadge(visa.Status)" />
+                                </td>
+                                <td>@(visa.MaxStayDays > 0 ? $"{visa.MaxStayDays} days" : "N/A")</td>
+                                <td style="font-size:0.875rem;color:var(--text-secondary);">@visa.Notes</td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </RadzenCard>
+
+        @if (_filteredVisa.Count == 0)
+        {
+            <div style="text-align:center;padding:40px;color:var(--text-secondary);">
+                No visa information found for "@_visaSearch"
+            </div>
+        }
+    </div>
+</div>
+
+<style>
+    .guide-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 16px; }
+    .guide-card {
+        background: white; border-radius: 12px; padding: 24px; cursor: pointer;
+        border: 1px solid var(--border); transition: all 0.2s;
+    }
+    .guide-card:hover { transform: translateY(-2px); box-shadow: 0 4px 16px rgba(0,59,149,0.1); border-color: var(--primary); }
+    .guide-icon { font-size: 2rem; margin-bottom: 12px; }
+    .visa-table { width: 100%; border-collapse: collapse; }
+    .visa-table th { text-align: left; padding: 12px 16px; background: var(--background); font-size: 0.813rem; font-weight: 600; color: var(--text-secondary); text-transform: uppercase; letter-spacing: 0.5px; }
+    .visa-table td { padding: 14px 16px; border-bottom: 1px solid var(--border); font-size: 0.938rem; }
+    .visa-table tr:last-child td { border-bottom: none; }
+    .visa-table tr:hover td { background: var(--primary-light); }
+</style>
+
+@code {
+    private List<GuideSection> _guideSections = [];
+    private List<VisaInfo> _allVisa = [];
+    private List<VisaInfo> _filteredVisa = [];
+    private string _visaSearch = "";
+
+    protected override async Task OnInitializedAsync()
+    {
+        _guideSections = await TravelService.GetGuideSectionsAsync();
+        _allVisa = await TravelService.GetVisaInfoAsync("");
+        _filteredVisa = _allVisa;
+        FilterVisa();
+    }
+
+    private void FilterVisa()
+    {
+        if (string.IsNullOrWhiteSpace(_visaSearch))
+            _filteredVisa = _allVisa;
+        else
+            _filteredVisa = _allVisa.Where(v =>
+                v.DestinationCountry.Contains(_visaSearch, StringComparison.OrdinalIgnoreCase) ||
+                v.Status.Contains(_visaSearch, StringComparison.OrdinalIgnoreCase)).ToList();
+    }
+
+    private BadgeStyle GetVisaBadge(string status) => status switch
+    {
+        "Visa Free" => BadgeStyle.Success,
+        "Visa on Arrival" => BadgeStyle.Warning,
+        "Visa Required" => BadgeStyle.Danger,
+        _ => BadgeStyle.Light
+    };
+
+    private void NavigateToGuide(string route) => Navigation.NavigateTo(route);
+
+    private string GetIcon(string icon) => icon switch
+    {
+        "luggage" => "&#127891;",
+        "passport" => "&#128477;",
+        "health" => "&#65039;&#8205;&#9877;&#65039;",
+        "park" => "&#127794;",
+        "currency" => "&#128176;",
+        "insurance" => "&#128737;&#65039;",
+        _ => "&#128209;"
+    };
+}

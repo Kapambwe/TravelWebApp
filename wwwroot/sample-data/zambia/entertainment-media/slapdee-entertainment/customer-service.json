@@ -1,0 +1,32 @@
+[
+  {
+    "id": "cust-slapdee-001",
+    "customerName": "XYZ Entertainment",
+    "email": "bookings@xyzent.co.zm",
+    "phone": "+260-97-7890123",
+    "address": "Northmead, Lusaka",
+    "taxId": "TPIN-5001234567",
+    "creditLimit": 90000.0,
+    "outstandingBalance": 40000.0
+  },
+  {
+    "id": "cust-slapdee-002",
+    "customerName": "Property Developers Zambia",
+    "email": "projects@propertydevelopers.co.zm",
+    "phone": "+260-96-8901234",
+    "address": "Makeni, Lusaka",
+    "taxId": "TPIN-5001234568",
+    "creditLimit": 200000.0,
+    "outstandingBalance": 95000.0
+  },
+  {
+    "id": "cust-slapdee-003",
+    "customerName": "Radio Phoenix",
+    "email": "partnerships@radiophoenix.co.zm",
+    "phone": "+260-211-290000",
+    "address": "Great East Road, Lusaka",
+    "taxId": "TPIN-5001234569",
+    "creditLimit": 35000.0,
+    "outstandingBalance": 12000.0
+  }
+]

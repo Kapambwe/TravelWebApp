@@ -1,0 +1,202 @@
+[
+  {
+    "id": "recurring-ym-001",
+    "description": "Spotify Monthly Streaming Royalties",
+    "amount": 9500.00,
+    "frequency": "Monthly",
+    "startDate": "2025-01-01",
+    "endDate": "2025-12-31",
+    "accountId": "acct-ym-002",
+    "category": "Income"
+  },
+  {
+    "id": "recurring-ym-002",
+    "description": "YouTube Ad Revenue - Monthly",
+    "amount": 14000.00,
+    "frequency": "Monthly",
+    "startDate": "2025-01-01",
+    "endDate": "2025-12-31",
+    "accountId": "acct-ym-023",
+    "category": "Income"
+  },
+  {
+    "id": "recurring-ym-003",
+    "description": "Apple Music Monthly Royalties",
+    "amount": 3200.00,
+    "frequency": "Monthly",
+    "startDate": "2025-01-01",
+    "endDate": "2025-12-31",
+    "accountId": "acct-ym-002",
+    "category": "Income"
+  },
+  {
+    "id": "recurring-ym-004",
+    "description": "Audiomack Monthly Royalties",
+    "amount": 2800.00,
+    "frequency": "Monthly",
+    "startDate": "2025-01-01",
+    "endDate": "2025-12-31",
+    "accountId": "acct-ym-002",
+    "category": "Income"
+  },
+  {
+    "id": "recurring-ym-005",
+    "description": "Ibex Hill Property - Unit 1 Rental Income",
+    "amount": 12000.00,
+    "frequency": "Monthly",
+    "startDate": "2025-01-01",
+    "endDate": "2025-12-31",
+    "accountId": "acct-ym-027",
+    "category": "Income"
+  },
+  {
+    "id": "recurring-ym-006",
+    "description": "Ibex Hill Property - Unit 2 Rental Income",
+    "amount": 9500.00,
+    "frequency": "Monthly",
+    "startDate": "2025-01-01",
+    "endDate": "2025-12-31",
+    "accountId": "acct-ym-027",
+    "category": "Income"
+  },
+  {
+    "id": "recurring-ym-007",
+    "description": "Kabulonga Property Rental Income",
+    "amount": 15000.00,
+    "frequency": "Monthly",
+    "startDate": "2025-06-01",
+    "endDate": "2025-12-31",
+    "accountId": "acct-ym-027",
+    "category": "Income"
+  },
+  {
+    "id": "recurring-ym-008",
+    "description": "MTN Zambia Brand Deal Retainer",
+    "amount": 25000.00,
+    "frequency": "Monthly",
+    "startDate": "2025-01-01",
+    "endDate": "2025-12-31",
+    "accountId": "acct-ym-025",
+    "category": "Income"
+  },
+  {
+    "id": "recurring-ym-009",
+    "description": "Monthly Staff Payroll - Core Team",
+    "amount": 133530.00,
+    "frequency": "Monthly",
+    "startDate": "2025-01-01",
+    "endDate": "2025-12-31",
+    "accountId": "acct-ym-018",
+    "category": "Expense"
+  },
+  {
+    "id": "recurring-ym-010",
+    "description": "NAPSA Employer Contribution",
+    "amount": 6296.60,
+    "frequency": "Monthly",
+    "startDate": "2025-01-01",
+    "endDate": "2025-12-31",
+    "accountId": "acct-ym-018",
+    "category": "Expense"
+  },
+  {
+    "id": "recurring-ym-011",
+    "description": "ZRA PAYE Remittance",
+    "amount": 36842.50,
+    "frequency": "Monthly",
+    "startDate": "2025-01-01",
+    "endDate": "2025-12-31",
+    "accountId": "acct-ym-018",
+    "category": "Expense"
+  },
+  {
+    "id": "recurring-ym-012",
+    "description": "NHIMA Monthly Contribution",
+    "amount": 1335.00,
+    "frequency": "Monthly",
+    "startDate": "2025-01-01",
+    "endDate": "2025-12-31",
+    "accountId": "acct-ym-018",
+    "category": "Expense"
+  },
+  {
+    "id": "recurring-ym-013",
+    "description": "VAT Remittance to ZRA",
+    "amount": 12500.00,
+    "frequency": "Monthly",
+    "startDate": "2025-01-01",
+    "endDate": "2025-12-31",
+    "accountId": "acct-ym-019",
+    "category": "Expense"
+  },
+  {
+    "id": "recurring-ym-014",
+    "description": "Rehearsal Studio Space Rental",
+    "amount": 8500.00,
+    "frequency": "Monthly",
+    "startDate": "2025-01-01",
+    "endDate": "2025-12-31",
+    "accountId": "acct-ym-016",
+    "category": "Expense"
+  },
+  {
+    "id": "recurring-ym-015",
+    "description": "Digital Marketing Agency Retainer",
+    "amount": 6500.00,
+    "frequency": "Monthly",
+    "startDate": "2025-01-01",
+    "endDate": "2025-12-31",
+    "accountId": "acct-ym-030",
+    "category": "Expense"
+  },
+  {
+    "id": "recurring-ym-016",
+    "description": "Accounting Firm Monthly Retainer",
+    "amount": 5500.00,
+    "frequency": "Monthly",
+    "startDate": "2025-01-01",
+    "endDate": "2025-12-31",
+    "accountId": "acct-ym-016",
+    "category": "Expense"
+  },
+  {
+    "id": "recurring-ym-017",
+    "description": "Vehicle Insurance Premiums",
+    "amount": 3200.00,
+    "frequency": "Monthly",
+    "startDate": "2025-01-01",
+    "endDate": "2025-12-31",
+    "accountId": "acct-ym-015",
+    "category": "Expense"
+  },
+  {
+    "id": "recurring-ym-018",
+    "description": "Team Medical Aid - Medical Aid Corp",
+    "amount": 4800.00,
+    "frequency": "Monthly",
+    "startDate": "2025-01-01",
+    "endDate": "2025-12-31",
+    "accountId": "acct-ym-015",
+    "category": "Expense"
+  },
+  {
+    "id": "recurring-ym-019",
+    "description": "Internet & Software Subscriptions",
+    "amount": 1850.00,
+    "frequency": "Monthly",
+    "startDate": "2025-01-01",
+    "endDate": "2025-12-31",
+    "accountId": "acct-ym-015",
+    "category": "Expense"
+  },
+  {
+    "id": "recurring-ym-020",
+    "description": "ZAMCOPS Music Licensing Fees",
+    "amount": 2500.00,
+    "frequency": "Monthly",
+    "startDate": "2025-01-01",
+    "endDate": "2025-12-31",
+    "accountId": "acct-ym-015",
+    "category": "Expense"
+  }
+]

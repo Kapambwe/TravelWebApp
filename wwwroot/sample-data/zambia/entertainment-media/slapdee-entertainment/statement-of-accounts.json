@@ -1,0 +1,174 @@
+{
+  "companyName": "Slapdee Entertainment",
+  "companyAddress": "Kabwe, Zambia",
+  "companyTaxId": "TPIN-5962291-SE",
+  "generatedDate": "2025-09-30",
+  "currency": "ZMW",
+  "period": {
+    "from": "2025-01-01",
+    "to": "2025-09-30"
+  },
+  "customerStatements": [
+    {
+      "customerId": 1,
+      "customerName": "Kansanshi Industries Ltd",
+      "customerEmail": "contact@kansanshi.co.zm",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-06-07",
+          "reference": "INV-Z-2025-018",
+          "description": "Royalty payment - streaming Q2 2025",
+          "debit": 2478000,
+          "credit": 0.0,
+          "balance": 2478000
+        },
+        {
+          "date": "2025-08-27",
+          "reference": "PMT-Z-2025-016",
+          "description": "Partial payment received - bank transfer",
+          "debit": 0.0,
+          "credit": 980500,
+          "balance": 1497500
+        }
+      ],
+      "closingBalance": 1497500,
+      "status": "Partially Paid"
+    },
+    {
+      "customerId": 2,
+      "customerName": "Chambeshi Trading Ltd",
+      "customerEmail": "info@chambeshi.co.zm",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-05-24",
+          "reference": "INV-Z-2025-029",
+          "description": "Royalty payment - streaming Q2 2025",
+          "debit": 1309000,
+          "credit": 0.0,
+          "balance": 1309000
+        },
+        {
+          "date": "2025-07-19",
+          "reference": "PMT-Z-2025-025",
+          "description": "Partial payment received",
+          "debit": 0.0,
+          "credit": 1309000,
+          "balance": 0.0
+        }
+      ],
+      "closingBalance": 0.0,
+      "status": "Settled"
+    },
+    {
+      "customerId": 3,
+      "customerName": "Chambeshi Partners Co.",
+      "customerEmail": "billing@chambeshi.co.zm",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-04-26",
+          "reference": "INV-Z-2025-033",
+          "description": "Merchandise partnership revenue",
+          "debit": 1160000,
+          "credit": 0.0,
+          "balance": 1160000
+        }
+      ],
+      "closingBalance": 1160000,
+      "status": "Overdue"
+    },
+    {
+      "customerId": 4,
+      "customerName": "Zesco Group Ltd",
+      "customerEmail": "finance@zesco.com",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-03-24",
+          "reference": "INV-Z-2025-048",
+          "description": "Royalty payment - streaming Q3 2025",
+          "debit": 1115000,
+          "credit": 0.0,
+          "balance": 1115000
+        },
+        {
+          "date": "2025-05-12",
+          "reference": "PMT-Z-2025-047",
+          "description": "Payment received - mobile money",
+          "debit": 0.0,
+          "credit": 1115000,
+          "balance": 0.0
+        }
+      ],
+      "closingBalance": 0.0,
+      "status": "Settled"
+    },
+    {
+      "customerId": 5,
+      "customerName": "Copperbelt Trading Ltd",
+      "customerEmail": "billing@copperbelt.co.zm",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-03-03",
+          "reference": "INV-Z-2025-053",
+          "description": "Live concert performance fee",
+          "debit": 1301000,
+          "credit": 0.0,
+          "balance": 1301000
+        },
+        {
+          "date": "2025-04-14",
+          "reference": "PMT-Z-2025-052",
+          "description": "Payment received - wire transfer",
+          "debit": 0.0,
+          "credit": 1301000,
+          "balance": 0.0
+        }
+      ],
+      "closingBalance": 0.0,
+      "status": "Settled"
+    },
+    {
+      "customerId": 6,
+      "customerName": "Luangwa Group Ltd",
+      "customerEmail": "billing@luangwa.co.zm",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-03-12",
+          "reference": "INV-Z-2025-062",
+          "description": "Performance fee - Grand Opening Ceremony",
+          "debit": 1219000,
+          "credit": 0.0,
+          "balance": 1219000
+        },
+        {
+          "date": "2025-05-23",
+          "reference": "PMT-Z-2025-061",
+          "description": "Settlement payment received",
+          "debit": 0.0,
+          "credit": 1219000,
+          "balance": 0.0
+        }
+      ],
+      "closingBalance": 0.0,
+      "status": "Settled"
+    }
+  ],
+  "summary": {
+    "totalInvoiced": 8582000,
+    "totalReceived": 5924500,
+    "totalOutstanding": 2657500,
+    "totalOverdue": 2657500.0,
+    "agingSummary": {
+      "current": 0.0,
+      "days1to30": 0.0,
+      "days31to60": 0.0,
+      "days61to90": 1497500.0,
+      "over90days": 1160000.0
+    }
+  }
+}

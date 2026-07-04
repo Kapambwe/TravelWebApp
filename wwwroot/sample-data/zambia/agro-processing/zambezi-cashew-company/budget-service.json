@@ -1,0 +1,242 @@
+[
+  {
+    "id": "budget-001",
+    "budgetName": "Farming Budget 1",
+    "category": "Administration",
+    "amount": 22172.32,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-002",
+    "budgetName": "Processing Budget 2",
+    "category": "Administration",
+    "amount": 68482.3,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-003",
+    "budgetName": "Processing Budget 3",
+    "category": "Development",
+    "amount": 49418.08,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-004",
+    "budgetName": "Quality Control Budget 4",
+    "category": "Marketing",
+    "amount": 81409.55,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-005",
+    "budgetName": "Farming Budget 5",
+    "category": "Development",
+    "amount": 99746.12,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-006",
+    "budgetName": "Processing Budget 6",
+    "category": "Operations",
+    "amount": 58066.01,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-007",
+    "budgetName": "Quality Control Budget 7",
+    "category": "Development",
+    "amount": 30953.68,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-008",
+    "budgetName": "Farming Budget 8",
+    "category": "Administration",
+    "amount": 44116.53,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-009",
+    "budgetName": "Processing Budget 9",
+    "category": "Administration",
+    "amount": 66617.45,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-010",
+    "budgetName": "Quality Control Budget 10",
+    "category": "Operations",
+    "amount": 21666.45,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-011",
+    "budgetName": "Quality Control Budget 11",
+    "category": "Administration",
+    "amount": 67828.69,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-012",
+    "budgetName": "Harvesting Budget 12",
+    "category": "Administration",
+    "amount": 98944.31,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-013",
+    "budgetName": "Harvesting Budget 13",
+    "category": "Marketing",
+    "amount": 59302.04,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-014",
+    "budgetName": "Quality Control Budget 14",
+    "category": "Development",
+    "amount": 56869.29,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-015",
+    "budgetName": "Harvesting Budget 15",
+    "category": "Marketing",
+    "amount": 86972.08,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-016",
+    "budgetName": "Harvesting Budget 16",
+    "category": "Operations",
+    "amount": 55832.76,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-017",
+    "budgetName": "Processing Budget 17",
+    "category": "Development",
+    "amount": 29445.57,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-018",
+    "budgetName": "Farming Budget 18",
+    "category": "Operations",
+    "amount": 18406.9,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-019",
+    "budgetName": "Harvesting Budget 19",
+    "category": "Marketing",
+    "amount": 19728.08,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-020",
+    "budgetName": "Harvesting Budget 20",
+    "category": "Operations",
+    "amount": 85020.46,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-021",
+    "budgetName": "Quality Control Budget 21",
+    "category": "Administration",
+    "amount": 83350.88,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-022",
+    "budgetName": "Harvesting Budget 22",
+    "category": "Administration",
+    "amount": 51252.79,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-023",
+    "budgetName": "Harvesting Budget 23",
+    "category": "Development",
+    "amount": 61339.64,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-024",
+    "budgetName": "Harvesting Budget 24",
+    "category": "Development",
+    "amount": 91889.59,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-025",
+    "budgetName": "Processing Budget 25",
+    "category": "Administration",
+    "amount": 32012.49,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-026",
+    "budgetName": "Farming Budget 26",
+    "category": "Marketing",
+    "amount": 52167.62,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-027",
+    "budgetName": "Quality Control Budget 27",
+    "category": "Marketing",
+    "amount": 54918.67,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-028",
+    "budgetName": "Processing Budget 28",
+    "category": "Development",
+    "amount": 24784.37,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-029",
+    "budgetName": "Harvesting Budget 29",
+    "category": "Development",
+    "amount": 59653.21,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-030",
+    "budgetName": "Harvesting Budget 30",
+    "category": "Operations",
+    "amount": 23047.02,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  }
+]

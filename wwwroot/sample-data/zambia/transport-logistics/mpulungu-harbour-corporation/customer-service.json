@@ -1,0 +1,302 @@
+[
+  {
+    "id": "cust-001",
+    "customerName": "Exporters 1",
+    "email": "contact1@customer.zm",
+    "phone": "+260-095-460529",
+    "address": "Port Authority, Mpulungu, Northern Province",
+    "taxId": "TPIN-9163246274",
+    "creditLimit": 30000,
+    "outstandingBalance": 14706
+  },
+  {
+    "id": "cust-002",
+    "customerName": "Freight Forwarders 2",
+    "email": "contact2@customer.zm",
+    "phone": "+260-094-505560",
+    "address": "Port Authority, Mpulungu, Northern Province",
+    "taxId": "TPIN-5887200178",
+    "creditLimit": 20000,
+    "outstandingBalance": 18317
+  },
+  {
+    "id": "cust-003",
+    "customerName": "Exporters 3",
+    "email": "contact3@customer.zm",
+    "phone": "+260-097-785171",
+    "address": "Port Authority, Mpulungu, Northern Province",
+    "taxId": "TPIN-4607657410",
+    "creditLimit": 75000,
+    "outstandingBalance": 7524
+  },
+  {
+    "id": "cust-004",
+    "customerName": "Freight Forwarders 4",
+    "email": "contact4@customer.zm",
+    "phone": "+260-216-562954",
+    "address": "Port Authority, Mpulungu, Northern Province",
+    "taxId": "TPIN-7412543281",
+    "creditLimit": 75000,
+    "outstandingBalance": 4624
+  },
+  {
+    "id": "cust-005",
+    "customerName": "Exporters 5",
+    "email": "contact5@customer.zm",
+    "phone": "+260-094-839993",
+    "address": "Port Authority, Mpulungu, Northern Province",
+    "taxId": "TPIN-8506020648",
+    "creditLimit": 20000,
+    "outstandingBalance": 4162
+  },
+  {
+    "id": "cust-006",
+    "customerName": "Importers 6",
+    "email": "contact6@customer.zm",
+    "phone": "+260-095-780790",
+    "address": "Port Authority, Mpulungu, Northern Province",
+    "taxId": "TPIN-6253162427",
+    "creditLimit": 75000,
+    "outstandingBalance": 6852
+  },
+  {
+    "id": "cust-007",
+    "customerName": "Freight Forwarders 7",
+    "email": "contact7@customer.zm",
+    "phone": "+260-096-571386",
+    "address": "Port Authority, Mpulungu, Northern Province",
+    "taxId": "TPIN-8337917698",
+    "creditLimit": 100000,
+    "outstandingBalance": 13010
+  },
+  {
+    "id": "cust-008",
+    "customerName": "Freight Forwarders 8",
+    "email": "contact8@customer.zm",
+    "phone": "+260-094-918531",
+    "address": "Port Authority, Mpulungu, Northern Province",
+    "taxId": "TPIN-7197357705",
+    "creditLimit": 20000,
+    "outstandingBalance": 13016
+  },
+  {
+    "id": "cust-009",
+    "customerName": "Freight Forwarders 9",
+    "email": "contact9@customer.zm",
+    "phone": "+260-216-492694",
+    "address": "Port Authority, Mpulungu, Northern Province",
+    "taxId": "TPIN-9075123075",
+    "creditLimit": 20000,
+    "outstandingBalance": 16200
+  },
+  {
+    "id": "cust-010",
+    "customerName": "Shipping Companies 10",
+    "email": "contact10@customer.zm",
+    "phone": "+260-097-221653",
+    "address": "Port Authority, Mpulungu, Northern Province",
+    "taxId": "TPIN-3795523982",
+    "creditLimit": 30000,
+    "outstandingBalance": 18080
+  },
+  {
+    "id": "cust-011",
+    "customerName": "Importers 11",
+    "email": "contact11@customer.zm",
+    "phone": "+260-216-973113",
+    "address": "Port Authority, Mpulungu, Northern Province",
+    "taxId": "TPIN-7472045784",
+    "creditLimit": 75000,
+    "outstandingBalance": 24690
+  },
+  {
+    "id": "cust-012",
+    "customerName": "Exporters 12",
+    "email": "contact12@customer.zm",
+    "phone": "+260-094-440010",
+    "address": "Port Authority, Mpulungu, Northern Province",
+    "taxId": "TPIN-3712419697",
+    "creditLimit": 75000,
+    "outstandingBalance": 12696
+  },
+  {
+    "id": "cust-013",
+    "customerName": "Importers 13",
+    "email": "contact13@customer.zm",
+    "phone": "+260-096-194994",
+    "address": "Port Authority, Mpulungu, Northern Province",
+    "taxId": "TPIN-8899195305",
+    "creditLimit": 100000,
+    "outstandingBalance": 12606
+  },
+  {
+    "id": "cust-014",
+    "customerName": "Importers 14",
+    "email": "contact14@customer.zm",
+    "phone": "+260-096-458047",
+    "address": "Port Authority, Mpulungu, Northern Province",
+    "taxId": "TPIN-8156848054",
+    "creditLimit": 20000,
+    "outstandingBalance": 4905
+  },
+  {
+    "id": "cust-015",
+    "customerName": "Exporters 15",
+    "email": "contact15@customer.zm",
+    "phone": "+260-094-409779",
+    "address": "Port Authority, Mpulungu, Northern Province",
+    "taxId": "TPIN-6642490190",
+    "creditLimit": 100000,
+    "outstandingBalance": 15917
+  },
+  {
+    "id": "cust-016",
+    "customerName": "Shipping Companies 16",
+    "email": "contact16@customer.zm",
+    "phone": "+260-216-772419",
+    "address": "Port Authority, Mpulungu, Northern Province",
+    "taxId": "TPIN-5737112713",
+    "creditLimit": 20000,
+    "outstandingBalance": 2295
+  },
+  {
+    "id": "cust-017",
+    "customerName": "Importers 17",
+    "email": "contact17@customer.zm",
+    "phone": "+260-096-382017",
+    "address": "Port Authority, Mpulungu, Northern Province",
+    "taxId": "TPIN-6206317132",
+    "creditLimit": 20000,
+    "outstandingBalance": 12499
+  },
+  {
+    "id": "cust-018",
+    "customerName": "Exporters 18",
+    "email": "contact18@customer.zm",
+    "phone": "+260-097-890138",
+    "address": "Port Authority, Mpulungu, Northern Province",
+    "taxId": "TPIN-3562626866",
+    "creditLimit": 100000,
+    "outstandingBalance": 6830
+  },
+  {
+    "id": "cust-019",
+    "customerName": "Freight Forwarders 19",
+    "email": "contact19@customer.zm",
+    "phone": "+260-096-498815",
+    "address": "Port Authority, Mpulungu, Northern Province",
+    "taxId": "TPIN-2141350936",
+    "creditLimit": 75000,
+    "outstandingBalance": 24043
+  },
+  {
+    "id": "cust-020",
+    "customerName": "Freight Forwarders 20",
+    "email": "contact20@customer.zm",
+    "phone": "+260-097-922985",
+    "address": "Port Authority, Mpulungu, Northern Province",
+    "taxId": "TPIN-2907576092",
+    "creditLimit": 75000,
+    "outstandingBalance": 16296
+  },
+  {
+    "id": "cust-021",
+    "customerName": "Importers 21",
+    "email": "contact21@customer.zm",
+    "phone": "+260-096-370713",
+    "address": "Port Authority, Mpulungu, Northern Province",
+    "taxId": "TPIN-8018229074",
+    "creditLimit": 30000,
+    "outstandingBalance": 9336
+  },
+  {
+    "id": "cust-022",
+    "customerName": "Exporters 22",
+    "email": "contact22@customer.zm",
+    "phone": "+260-216-870056",
+    "address": "Port Authority, Mpulungu, Northern Province",
+    "taxId": "TPIN-9237513254",
+    "creditLimit": 75000,
+    "outstandingBalance": 14242
+  },
+  {
+    "id": "cust-023",
+    "customerName": "Freight Forwarders 23",
+    "email": "contact23@customer.zm",
+    "phone": "+260-217-491556",
+    "address": "Port Authority, Mpulungu, Northern Province",
+    "taxId": "TPIN-6410848734",
+    "creditLimit": 30000,
+    "outstandingBalance": 21742
+  },
+  {
+    "id": "cust-024",
+    "customerName": "Exporters 24",
+    "email": "contact24@customer.zm",
+    "phone": "+260-097-515404",
+    "address": "Port Authority, Mpulungu, Northern Province",
+    "taxId": "TPIN-8163281207",
+    "creditLimit": 100000,
+    "outstandingBalance": 4831
+  },
+  {
+    "id": "cust-025",
+    "customerName": "Freight Forwarders 25",
+    "email": "contact25@customer.zm",
+    "phone": "+260-094-985348",
+    "address": "Port Authority, Mpulungu, Northern Province",
+    "taxId": "TPIN-6873086311",
+    "creditLimit": 50000,
+    "outstandingBalance": 17403
+  },
+  {
+    "id": "cust-026",
+    "customerName": "Freight Forwarders 26",
+    "email": "contact26@customer.zm",
+    "phone": "+260-216-831124",
+    "address": "Port Authority, Mpulungu, Northern Province",
+    "taxId": "TPIN-9563773180",
+    "creditLimit": 100000,
+    "outstandingBalance": 7624
+  },
+  {
+    "id": "cust-027",
+    "customerName": "Freight Forwarders 27",
+    "email": "contact27@customer.zm",
+    "phone": "+260-216-387976",
+    "address": "Port Authority, Mpulungu, Northern Province",
+    "taxId": "TPIN-2663303879",
+    "creditLimit": 75000,
+    "outstandingBalance": 5873
+  },
+  {
+    "id": "cust-028",
+    "customerName": "Freight Forwarders 28",
+    "email": "contact28@customer.zm",
+    "phone": "+260-217-208396",
+    "address": "Port Authority, Mpulungu, Northern Province",
+    "taxId": "TPIN-6809172031",
+    "creditLimit": 100000,
+    "outstandingBalance": 24720
+  },
+  {
+    "id": "cust-029",
+    "customerName": "Importers 29",
+    "email": "contact29@customer.zm",
+    "phone": "+260-095-423228",
+    "address": "Port Authority, Mpulungu, Northern Province",
+    "taxId": "TPIN-7795817520",
+    "creditLimit": 30000,
+    "outstandingBalance": 14850
+  },
+  {
+    "id": "cust-030",
+    "customerName": "Freight Forwarders 30",
+    "email": "contact30@customer.zm",
+    "phone": "+260-216-293946",
+    "address": "Port Authority, Mpulungu, Northern Province",
+    "taxId": "TPIN-6812661388",
+    "creditLimit": 75000,
+    "outstandingBalance": 18884
+  }
+]

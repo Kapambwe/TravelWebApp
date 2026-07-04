@@ -1,0 +1,33 @@
+﻿{
+    "CreatedAt":  "2024-06-10T09:00:00",
+    "CheckOutDate":  "2024-07-20T00:00:00",
+    "Children":  0,
+    "Id":  201,
+    "RoomId":  101,
+    "LineItems":  [
+                      {
+                          "Id":  1,
+                          "Description":  "Standard Executive Room (5 Nights)",
+                          "BookingId":  201,
+                          "Date":  "2024-07-15",
+                          "Quantity":  5,
+                          "UnitPrice":  9000,
+                          "TotalPrice":  45000
+                      }
+                  ],
+    "PassportNumber":  "ZA543210",
+    "BookingNumber":  "BK-MKC-2024-001",
+    "GuestPhone":  "+27119023412",
+    "CheckInDate":  "2024-07-15T00:00:00",
+    "BookingType":  0,
+    "GuestEmail":  "j.davies@miningcorp.com",
+    "Status":  1,
+    "TotalAmount":  45000,
+    "GuestName":  "Johnathan Davies",
+    "BalanceAmount":  0,
+    "Notes":  "Corporate business trip. Late check-in requested.",
+    "Nationality":  "South African",
+    "PaidAmount":  45000,
+    "Adults":  1,
+    "UpdatedAt":  "2024-06-10T12:00:00"
+}

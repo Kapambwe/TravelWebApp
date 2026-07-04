@@ -1,0 +1,302 @@
+[
+  {
+    "id": "lead-001",
+    "leadName": "Potential Client Ltd 1",
+    "contactPerson": "+260-211-423283",
+    "email": "sichone.siame@business.co.zm",
+    "phone": "+260-217-865056",
+    "source": "Website",
+    "status": "On Hold",
+    "estimatedValue": 100000.0
+  },
+  {
+    "id": "lead-002",
+    "leadName": "Potential Client Ltd 2",
+    "contactPerson": "+260-95-4854573",
+    "email": "mwape.mutale@business.zm",
+    "phone": "+260-214-784048",
+    "source": "Website",
+    "status": "Approved",
+    "estimatedValue": 100000.0
+  },
+  {
+    "id": "lead-003",
+    "leadName": "Potential Client Ltd 3",
+    "contactPerson": "+260-214-266217",
+    "email": "mumba.chiluba@business.com",
+    "phone": "+260-212-832877",
+    "source": "Website",
+    "status": "Cancelled",
+    "estimatedValue": 100000.0
+  },
+  {
+    "id": "lead-004",
+    "leadName": "Potential Client Ltd 4",
+    "contactPerson": "+260-77-3029313",
+    "email": "kambole.musonda@business.zm",
+    "phone": "+260-216-245574",
+    "source": "Website",
+    "status": "Cancelled",
+    "estimatedValue": 100000.0
+  },
+  {
+    "id": "lead-005",
+    "leadName": "Potential Client Ltd 5",
+    "contactPerson": "+260-212-702759",
+    "email": "lubinda.bwalya@business.zm",
+    "phone": "+260-215-142718",
+    "source": "Website",
+    "status": "Rejected",
+    "estimatedValue": 100000.0
+  },
+  {
+    "id": "lead-006",
+    "leadName": "Potential Client Ltd 6",
+    "contactPerson": "+260-217-445322",
+    "email": "chishimba.sakala@business.co.zm",
+    "phone": "+260-95-3614140",
+    "source": "Website",
+    "status": "Active",
+    "estimatedValue": 100000.0
+  },
+  {
+    "id": "lead-007",
+    "leadName": "Potential Client Ltd 7",
+    "contactPerson": "+260-213-826035",
+    "email": "lubinda.phiri@business.com",
+    "phone": "+260-95-4023584",
+    "source": "Website",
+    "status": "Completed",
+    "estimatedValue": 100000.0
+  },
+  {
+    "id": "lead-008",
+    "leadName": "Potential Client Ltd 8",
+    "contactPerson": "+260-217-611050",
+    "email": "kunda.hichilema@business.com",
+    "phone": "+260-212-193756",
+    "source": "Website",
+    "status": "Cancelled",
+    "estimatedValue": 100000.0
+  },
+  {
+    "id": "lead-009",
+    "leadName": "Potential Client Ltd 9",
+    "contactPerson": "+260-97-2393679",
+    "email": "mumba.mwape@business.zm",
+    "phone": "+260-96-7296459",
+    "source": "Website",
+    "status": "On Hold",
+    "estimatedValue": 100000.0
+  },
+  {
+    "id": "lead-010",
+    "leadName": "Potential Client Ltd 10",
+    "contactPerson": "+260-215-704679",
+    "email": "kunda.zulu@business.zm",
+    "phone": "+260-214-587281",
+    "source": "Website",
+    "status": "Rejected",
+    "estimatedValue": 100000.0
+  },
+  {
+    "id": "lead-011",
+    "leadName": "Potential Client Ltd 11",
+    "contactPerson": "+260-77-8896338",
+    "email": "chilufya.mulenga@business.com",
+    "phone": "+260-77-6132176",
+    "source": "Website",
+    "status": "Pending",
+    "estimatedValue": 100000.0
+  },
+  {
+    "id": "lead-012",
+    "leadName": "Potential Client Ltd 12",
+    "contactPerson": "+260-96-1446051",
+    "email": "kapembwa.musonda@business.co.zm",
+    "phone": "+260-95-8300493",
+    "source": "Website",
+    "status": "Pending",
+    "estimatedValue": 100000.0
+  },
+  {
+    "id": "lead-013",
+    "leadName": "Potential Client Ltd 13",
+    "contactPerson": "+260-77-7939529",
+    "email": "kambole.mwape@business.com",
+    "phone": "+260-212-801641",
+    "source": "Website",
+    "status": "Active",
+    "estimatedValue": 100000.0
+  },
+  {
+    "id": "lead-014",
+    "leadName": "Potential Client Ltd 14",
+    "contactPerson": "+260-76-8083443",
+    "email": "mwamba.tembo@business.zm",
+    "phone": "+260-77-1809815",
+    "source": "Website",
+    "status": "Completed",
+    "estimatedValue": 100000.0
+  },
+  {
+    "id": "lead-015",
+    "leadName": "Potential Client Ltd 15",
+    "contactPerson": "+260-95-4467530",
+    "email": "bwalya.kaunda@business.co.zm",
+    "phone": "+260-77-7988586",
+    "source": "Website",
+    "status": "Approved",
+    "estimatedValue": 100000.0
+  },
+  {
+    "id": "lead-016",
+    "leadName": "Potential Client Ltd 16",
+    "contactPerson": "+260-217-249178",
+    "email": "chishimba.hichilema@business.com",
+    "phone": "+260-95-4923248",
+    "source": "Website",
+    "status": "On Hold",
+    "estimatedValue": 100000.0
+  },
+  {
+    "id": "lead-017",
+    "leadName": "Potential Client Ltd 17",
+    "contactPerson": "+260-96-8912105",
+    "email": "mwamba.chola@business.zm",
+    "phone": "+260-216-364932",
+    "source": "Website",
+    "status": "Cancelled",
+    "estimatedValue": 100000.0
+  },
+  {
+    "id": "lead-018",
+    "leadName": "Potential Client Ltd 18",
+    "contactPerson": "+260-95-8355817",
+    "email": "sichone.phiri@business.com",
+    "phone": "+260-76-7183816",
+    "source": "Website",
+    "status": "Cancelled",
+    "estimatedValue": 100000.0
+  },
+  {
+    "id": "lead-019",
+    "leadName": "Potential Client Ltd 19",
+    "contactPerson": "+260-95-9230602",
+    "email": "kunda.kunda@business.co.zm",
+    "phone": "+260-97-6305010",
+    "source": "Website",
+    "status": "Pending",
+    "estimatedValue": 100000.0
+  },
+  {
+    "id": "lead-020",
+    "leadName": "Potential Client Ltd 20",
+    "contactPerson": "+260-96-7844807",
+    "email": "zulu.siame@business.com",
+    "phone": "+260-95-9090976",
+    "source": "Website",
+    "status": "Rejected",
+    "estimatedValue": 100000.0
+  },
+  {
+    "id": "lead-021",
+    "leadName": "Potential Client Ltd 21",
+    "contactPerson": "+260-97-4645607",
+    "email": "sichone.banda@business.com",
+    "phone": "+260-211-117287",
+    "source": "Website",
+    "status": "Rejected",
+    "estimatedValue": 100000.0
+  },
+  {
+    "id": "lead-022",
+    "leadName": "Potential Client Ltd 22",
+    "contactPerson": "+260-76-1872197",
+    "email": "chanda.chola@business.co.zm",
+    "phone": "+260-215-125630",
+    "source": "Website",
+    "status": "Approved",
+    "estimatedValue": 100000.0
+  },
+  {
+    "id": "lead-023",
+    "leadName": "Potential Client Ltd 23",
+    "contactPerson": "+260-216-166385",
+    "email": "kabwe.kapembwa@business.zm",
+    "phone": "+260-96-6457642",
+    "source": "Website",
+    "status": "Rejected",
+    "estimatedValue": 100000.0
+  },
+  {
+    "id": "lead-024",
+    "leadName": "Potential Client Ltd 24",
+    "contactPerson": "+260-96-9620082",
+    "email": "lungu.kunda@business.com",
+    "phone": "+260-213-134088",
+    "source": "Website",
+    "status": "Draft",
+    "estimatedValue": 100000.0
+  },
+  {
+    "id": "lead-025",
+    "leadName": "Potential Client Ltd 25",
+    "contactPerson": "+260-216-908874",
+    "email": "mwamba.mumba@business.zm",
+    "phone": "+260-214-965468",
+    "source": "Website",
+    "status": "Active",
+    "estimatedValue": 100000.0
+  },
+  {
+    "id": "lead-026",
+    "leadName": "Potential Client Ltd 26",
+    "contactPerson": "+260-97-7621838",
+    "email": "muyunda.sakala@business.co.zm",
+    "phone": "+260-214-381225",
+    "source": "Website",
+    "status": "Active",
+    "estimatedValue": 100000.0
+  },
+  {
+    "id": "lead-027",
+    "leadName": "Potential Client Ltd 27",
+    "contactPerson": "+260-77-6883341",
+    "email": "phiri.sakala@business.com",
+    "phone": "+260-77-4068825",
+    "source": "Website",
+    "status": "Rejected",
+    "estimatedValue": 100000.0
+  },
+  {
+    "id": "lead-028",
+    "leadName": "Potential Client Ltd 28",
+    "contactPerson": "+260-76-7765182",
+    "email": "kambole.lubasi@business.zm",
+    "phone": "+260-97-7135182",
+    "source": "Website",
+    "status": "Pending",
+    "estimatedValue": 100000.0
+  },
+  {
+    "id": "lead-029",
+    "leadName": "Potential Client Ltd 29",
+    "contactPerson": "+260-97-6296748",
+    "email": "banda.daka@business.co.zm",
+    "phone": "+260-212-212537",
+    "source": "Website",
+    "status": "Active",
+    "estimatedValue": 100000.0
+  },
+  {
+    "id": "lead-030",
+    "leadName": "Potential Client Ltd 30",
+    "contactPerson": "+260-95-4973978",
+    "email": "mutale.mutale@business.co.zm",
+    "phone": "+260-211-851067",
+    "source": "Website",
+    "status": "Draft",
+    "estimatedValue": 100000.0
+  }
+]

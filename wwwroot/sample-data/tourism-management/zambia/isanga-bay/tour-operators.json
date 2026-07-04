@@ -1,0 +1,11 @@
+﻿{
+    "TotalBookings":  22,
+    "CommissionRate":  15,
+    "Id":  1,
+    "TotalRevenue":  850000,
+    "Name":  "Zambia Safari Safaris",
+    "Phone":  "+260971234567",
+    "IsActive":  true,
+    "ContactPerson":  "Chipo Phiri",
+    "Email":  "chipo@zambiasafari.zm"
+}

@@ -1,0 +1,242 @@
+[
+  {
+    "id": "budget-001",
+    "budgetName": "Refining Budget 1",
+    "category": "Administration",
+    "amount": 17106.48,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-002",
+    "budgetName": "Refining Budget 2",
+    "category": "Marketing",
+    "amount": 21180.5,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-003",
+    "budgetName": "Processing Budget 3",
+    "category": "Administration",
+    "amount": 61228.71,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-004",
+    "budgetName": "Plantation Management Budget 4",
+    "category": "Development",
+    "amount": 87737.27,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-005",
+    "budgetName": "Refining Budget 5",
+    "category": "Operations",
+    "amount": 26673.08,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-006",
+    "budgetName": "Plantation Management Budget 6",
+    "category": "Marketing",
+    "amount": 23926.25,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-007",
+    "budgetName": "Refining Budget 7",
+    "category": "Marketing",
+    "amount": 77820.99,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-008",
+    "budgetName": "Plantation Management Budget 8",
+    "category": "Marketing",
+    "amount": 96017.11,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-009",
+    "budgetName": "Processing Budget 9",
+    "category": "Marketing",
+    "amount": 60638.14,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-010",
+    "budgetName": "Plantation Management Budget 10",
+    "category": "Operations",
+    "amount": 92791.16,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-011",
+    "budgetName": "Export Budget 11",
+    "category": "Marketing",
+    "amount": 27804.08,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-012",
+    "budgetName": "Plantation Management Budget 12",
+    "category": "Administration",
+    "amount": 36825.05,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-013",
+    "budgetName": "Refining Budget 13",
+    "category": "Development",
+    "amount": 67466.51,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-014",
+    "budgetName": "Refining Budget 14",
+    "category": "Development",
+    "amount": 70662.03,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-015",
+    "budgetName": "Refining Budget 15",
+    "category": "Marketing",
+    "amount": 14961.64,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-016",
+    "budgetName": "Processing Budget 16",
+    "category": "Administration",
+    "amount": 36756.91,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-017",
+    "budgetName": "Export Budget 17",
+    "category": "Operations",
+    "amount": 12975.76,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-018",
+    "budgetName": "Plantation Management Budget 18",
+    "category": "Marketing",
+    "amount": 27597.48,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-019",
+    "budgetName": "Processing Budget 19",
+    "category": "Development",
+    "amount": 13704.5,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-020",
+    "budgetName": "Refining Budget 20",
+    "category": "Development",
+    "amount": 88796.22,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-021",
+    "budgetName": "Plantation Management Budget 21",
+    "category": "Development",
+    "amount": 13484.78,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-022",
+    "budgetName": "Export Budget 22",
+    "category": "Operations",
+    "amount": 54135.47,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-023",
+    "budgetName": "Plantation Management Budget 23",
+    "category": "Development",
+    "amount": 86841.8,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-024",
+    "budgetName": "Plantation Management Budget 24",
+    "category": "Administration",
+    "amount": 96603.3,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-025",
+    "budgetName": "Export Budget 25",
+    "category": "Administration",
+    "amount": 95302.02,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-026",
+    "budgetName": "Processing Budget 26",
+    "category": "Administration",
+    "amount": 99968.21,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-027",
+    "budgetName": "Plantation Management Budget 27",
+    "category": "Administration",
+    "amount": 52626.31,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-028",
+    "budgetName": "Refining Budget 28",
+    "category": "Administration",
+    "amount": 54471.05,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-029",
+    "budgetName": "Processing Budget 29",
+    "category": "Development",
+    "amount": 58180.2,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-030",
+    "budgetName": "Refining Budget 30",
+    "category": "Marketing",
+    "amount": 79388.52,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  }
+]

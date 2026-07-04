@@ -1,0 +1,242 @@
+[
+  {
+    "id": "budget-001",
+    "budgetName": "Network Maintenance Budget 1",
+    "category": "Development",
+    "amount": 38226.76,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-002",
+    "budgetName": "Network Maintenance Budget 2",
+    "category": "Development",
+    "amount": 80014.67,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-003",
+    "budgetName": "Network Operations Budget 3",
+    "category": "Administration",
+    "amount": 60343.92,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-004",
+    "budgetName": "Customer Support Budget 4",
+    "category": "Development",
+    "amount": 94651.73,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-005",
+    "budgetName": "Billing Budget 5",
+    "category": "Marketing",
+    "amount": 68413.27,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-006",
+    "budgetName": "Billing Budget 6",
+    "category": "Administration",
+    "amount": 54526.34,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-007",
+    "budgetName": "Network Operations Budget 7",
+    "category": "Development",
+    "amount": 98486.71,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-008",
+    "budgetName": "Billing Budget 8",
+    "category": "Development",
+    "amount": 84910.54,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-009",
+    "budgetName": "Network Maintenance Budget 9",
+    "category": "Operations",
+    "amount": 68443.07,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-010",
+    "budgetName": "Customer Support Budget 10",
+    "category": "Development",
+    "amount": 67473.16,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-011",
+    "budgetName": "Network Maintenance Budget 11",
+    "category": "Development",
+    "amount": 12087.98,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-012",
+    "budgetName": "Customer Support Budget 12",
+    "category": "Development",
+    "amount": 53825.73,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-013",
+    "budgetName": "Network Operations Budget 13",
+    "category": "Administration",
+    "amount": 11808.6,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-014",
+    "budgetName": "Network Maintenance Budget 14",
+    "category": "Operations",
+    "amount": 46126.38,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-015",
+    "budgetName": "Billing Budget 15",
+    "category": "Administration",
+    "amount": 23439.26,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-016",
+    "budgetName": "Network Maintenance Budget 16",
+    "category": "Development",
+    "amount": 70311.79,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-017",
+    "budgetName": "Network Maintenance Budget 17",
+    "category": "Development",
+    "amount": 77665.57,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-018",
+    "budgetName": "Network Maintenance Budget 18",
+    "category": "Operations",
+    "amount": 57209.01,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-019",
+    "budgetName": "Network Maintenance Budget 19",
+    "category": "Administration",
+    "amount": 38165.42,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-020",
+    "budgetName": "Network Maintenance Budget 20",
+    "category": "Marketing",
+    "amount": 20478.83,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-021",
+    "budgetName": "Network Maintenance Budget 21",
+    "category": "Operations",
+    "amount": 50958.44,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-022",
+    "budgetName": "Network Operations Budget 22",
+    "category": "Administration",
+    "amount": 82050.74,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-023",
+    "budgetName": "Customer Support Budget 23",
+    "category": "Marketing",
+    "amount": 43107.3,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-024",
+    "budgetName": "Network Maintenance Budget 24",
+    "category": "Marketing",
+    "amount": 78961.53,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-025",
+    "budgetName": "Network Operations Budget 25",
+    "category": "Operations",
+    "amount": 64829.41,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-026",
+    "budgetName": "Billing Budget 26",
+    "category": "Marketing",
+    "amount": 89843.39,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-027",
+    "budgetName": "Network Maintenance Budget 27",
+    "category": "Administration",
+    "amount": 77197.98,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-028",
+    "budgetName": "Network Maintenance Budget 28",
+    "category": "Development",
+    "amount": 31462.75,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-029",
+    "budgetName": "Network Operations Budget 29",
+    "category": "Marketing",
+    "amount": 70715.88,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-030",
+    "budgetName": "Network Maintenance Budget 30",
+    "category": "Operations",
+    "amount": 87421.51,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  }
+]

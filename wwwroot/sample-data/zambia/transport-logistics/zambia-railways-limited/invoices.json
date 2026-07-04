@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "invoiceNumber": "INV-2025-001",
+    "clientName": "Mwale Freight Co.",
+    "description": "Air Cargo Haulage",
+    "invoiceDate": "2024-12-18T00:00:00",
+    "dueDate": "2025-01-02T00:00:00",
+    "amount": 4450631.03,
+    "receivedAmount": 4450631.03,
+    "status": "Paid",
+    "customerId": 8
+  },
+  {
+    "id": 2,
+    "invoiceNumber": "INV-2025-002",
+    "clientName": "Lungu Cargo Inc.",
+    "description": "Cross-Border Transport",
+    "invoiceDate": "2024-11-01T00:00:00",
+    "dueDate": "2024-12-31T00:00:00",
+    "amount": 2198876.07,
+    "receivedAmount": 0.0,
+    "status": "Open",
+    "customerId": 11
+  },
+  {
+    "id": 3,
+    "invoiceNumber": "INV-2025-003",
+    "clientName": "Lungu Cargo Inc.",
+    "description": "Port Handling Services",
+    "invoiceDate": "2024-10-10T00:00:00",
+    "dueDate": "2024-12-09T00:00:00",
+    "amount": 1475291.02,
+    "receivedAmount": 0.0,
+    "status": "Open",
+    "customerId": 11
+  },
+  {
+    "id": 4,
+    "invoiceNumber": "INV-2025-004",
+    "clientName": "Siame Freight Co.",
+    "description": "Port Handling Services",
+    "invoiceDate": "2024-12-11T00:00:00",
+    "dueDate": "2024-12-26T00:00:00",
+    "amount": 4274709.08,
+    "receivedAmount": 0.0,
+    "status": "Overdue",
+    "customerId": 6
+  },
+  {
+    "id": 5,
+    "invoiceNumber": "INV-2025-005",
+    "clientName": "Mwale Freight Co.",
+    "description": "Road Freight Services",
+    "invoiceDate": "2024-12-27T00:00:00",
+    "dueDate": "2025-02-10T00:00:00",
+    "amount": 3947343.74,
+    "receivedAmount": 0.0,
+    "status": "Open",
+    "customerId": 8
+  },
+  {
+    "id": 6,
+    "invoiceNumber": "INV-2025-006",
+    "clientName": "Zimba Haulage Ltd",
+    "description": "Cross-Border Transport",
+    "invoiceDate": "2024-10-22T00:00:00",
+    "dueDate": "2024-12-21T00:00:00",
+    "amount": 1977134.65,
+    "receivedAmount": 1210034.5,
+    "status": "PartiallyPaid",
+    "customerId": 1
+  },
+  {
+    "id": 7,
+    "invoiceNumber": "INV-2025-007",
+    "clientName": "Mulenga Cargo Inc.",
+    "description": "Port Handling Services",
+    "invoiceDate": "2025-01-28T00:00:00",
+    "dueDate": "2025-02-12T00:00:00",
+    "amount": 3360335.46,
+    "receivedAmount": 2175141.99,
+    "status": "PartiallyPaid",
+    "customerId": 4
+  },
+  {
+    "id": 8,
+    "invoiceNumber": "INV-2025-008",
+    "clientName": "Banda Logistics Enterprises",
+    "description": "Cross-Border Transport",
+    "invoiceDate": "2025-02-19T00:00:00",
+    "dueDate": "2025-04-05T00:00:00",
+    "amount": 3499470.17,
+    "receivedAmount": 2156508.5,
+    "status": "PartiallyPaid",
+    "customerId": 10
+  },
+  {
+    "id": 9,
+    "invoiceNumber": "INV-2025-009",
+    "clientName": "Mwale Freight Co.",
+    "description": "Port Handling Services",
+    "invoiceDate": "2025-02-24T00:00:00",
+    "dueDate": "2025-03-11T00:00:00",
+    "amount": 1970827.91,
+    "receivedAmount": 1970827.91,
+    "status": "Paid",
+    "customerId": 8
+  }
+]

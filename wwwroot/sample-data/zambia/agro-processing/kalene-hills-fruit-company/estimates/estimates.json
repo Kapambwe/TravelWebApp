@@ -1,0 +1,218 @@
+[
+  {
+    "id": 1,
+    "estimateNumber": "EST-2025-001",
+    "customerId": 6,
+    "customerName": "Kabwe Agro Co.",
+    "estimateDateDaysAgo": 49,
+    "expirationDateDaysFromNow": 20,
+    "status": "Sent",
+    "subTotal": 2936578.41,
+    "taxRate": 16,
+    "taxAmount": 469852.55,
+    "total": 3406430.96,
+    "terms": "Net 45",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 49,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Mango Juice Concentrate",
+        "quantity": 2,
+        "unitPrice": 1468289.21,
+        "amount": 2936578.41,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 48
+  },
+  {
+    "id": 2,
+    "estimateNumber": "EST-2025-002",
+    "customerId": 3,
+    "customerName": "Banda Produce Co.",
+    "estimateDateDaysAgo": 14,
+    "expirationDateDaysFromNow": 39,
+    "status": "Declined",
+    "subTotal": 1304634.49,
+    "taxRate": 15,
+    "taxAmount": 195695.17,
+    "total": 1500329.66,
+    "terms": "Net 45",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 14,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Dried Fruit Mix",
+        "quantity": 3,
+        "unitPrice": 434878.16,
+        "amount": 1304634.49,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 13
+  },
+  {
+    "id": 3,
+    "estimateNumber": "EST-2025-003",
+    "customerId": 7,
+    "customerName": "Ngosa Farms Limited",
+    "estimateDateDaysAgo": 5,
+    "expirationDateDaysFromNow": 16,
+    "status": "Expired",
+    "subTotal": 2132010.83,
+    "taxRate": 18,
+    "taxAmount": 383761.95,
+    "total": 2515772.78,
+    "terms": "Net 45",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 5,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Organic Cashew Nuts",
+        "quantity": 2,
+        "unitPrice": 1066005.42,
+        "amount": 2132010.83,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 4
+  },
+  {
+    "id": 4,
+    "estimateNumber": "EST-2025-004",
+    "customerId": 9,
+    "customerName": "Lungu Produce Inc.",
+    "estimateDateDaysAgo": 59,
+    "expirationDateDaysFromNow": 37,
+    "status": "Declined",
+    "subTotal": 3377222.12,
+    "taxRate": 18,
+    "taxAmount": 607899.98,
+    "total": 3985122.1,
+    "terms": "Net 15",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 59,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Mango Juice Concentrate",
+        "quantity": 3,
+        "unitPrice": 1125740.71,
+        "amount": 3377222.12,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 58
+  },
+  {
+    "id": 5,
+    "estimateNumber": "EST-2025-005",
+    "customerId": 11,
+    "customerName": "Chanda Produce Solutions",
+    "estimateDateDaysAgo": 24,
+    "expirationDateDaysFromNow": 24,
+    "status": "Declined",
+    "subTotal": 939585.53,
+    "taxRate": 0,
+    "taxAmount": 0.0,
+    "total": 939585.53,
+    "terms": "Net 15",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 24,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Processed Fruit Supply",
+        "quantity": 3,
+        "unitPrice": 313195.18,
+        "amount": 939585.53,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 23
+  },
+  {
+    "id": 6,
+    "estimateNumber": "EST-2025-006",
+    "customerId": 12,
+    "customerName": "Kaputo Food Industries Solutions",
+    "estimateDateDaysAgo": 31,
+    "expirationDateDaysFromNow": 31,
+    "status": "Accepted",
+    "subTotal": 2214579.25,
+    "taxRate": 0,
+    "taxAmount": 0.0,
+    "total": 2214579.25,
+    "terms": "Net 15",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 31,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Mango Juice Concentrate",
+        "quantity": 1,
+        "unitPrice": 2214579.25,
+        "amount": 2214579.25,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 30
+  },
+  {
+    "id": 7,
+    "estimateNumber": "EST-2025-007",
+    "customerId": 3,
+    "customerName": "Banda Produce Co.",
+    "estimateDateDaysAgo": 44,
+    "expirationDateDaysFromNow": 38,
+    "status": "Expired",
+    "subTotal": 458956.09,
+    "taxRate": 0,
+    "taxAmount": 0.0,
+    "total": 458956.09,
+    "terms": "Net 30",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 44,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Organic Cashew Nuts",
+        "quantity": 1,
+        "unitPrice": 458956.09,
+        "amount": 458956.09,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 43
+  },
+  {
+    "id": 8,
+    "estimateNumber": "EST-2025-008",
+    "customerId": 10,
+    "customerName": "Tembo Farms Enterprises",
+    "estimateDateDaysAgo": 55,
+    "expirationDateDaysFromNow": 38,
+    "status": "Sent",
+    "subTotal": 3691536.4,
+    "taxRate": 18,
+    "taxAmount": 664476.55,
+    "total": 4356012.95,
+    "terms": "Net 30",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 55,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Mango Juice Concentrate",
+        "quantity": 1,
+        "unitPrice": 3691536.4,
+        "amount": 3691536.4,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 54
+  }
+]

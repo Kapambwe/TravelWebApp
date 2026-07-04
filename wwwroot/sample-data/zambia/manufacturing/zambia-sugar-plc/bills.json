@@ -1,0 +1,12 @@
+[
+  {"id":1,"billNumber":"BILL-2025-001","vendorName":"ZESCO Limited","description":"ZESCO Nakambala Power Plant Supply","billDate":"2025-01-10T00:00:00","dueDate":"2025-02-09T00:00:00","amount":4500000.00,"paidAmount":4500000.00,"status":"Paid"},
+  {"id":2,"billNumber":"BILL-2025-002","vendorName":"Illovo Sugar Africa Ltd","description":"Illovo Sugar Input Materials - Process Chemicals","billDate":"2025-01-18T00:00:00","dueDate":"2025-02-17T00:00:00","amount":3200000.00,"paidAmount":3200000.00,"status":"Paid"},
+  {"id":3,"billNumber":"BILL-2025-003","vendorName":"John Deere Zambia","description":"John Deere Harvester Maintenance Contract","billDate":"2025-02-01T00:00:00","dueDate":"2025-03-03T00:00:00","amount":1850000.00,"paidAmount":0.00,"status":"Open"},
+  {"id":4,"billNumber":"BILL-2025-004","vendorName":"NAPSA","description":"NAPSA Employee Contributions - Q1 2025","billDate":"2025-03-01T00:00:00","dueDate":"2025-03-31T00:00:00","amount":980000.00,"paidAmount":980000.00,"status":"Paid"},
+  {"id":5,"billNumber":"BILL-2025-005","vendorName":"Omnia Fertilizers Zambia","description":"Omnia Fertilizers - Cane Growing Season 2025","billDate":"2025-02-10T00:00:00","dueDate":"2025-03-12T00:00:00","amount":2400000.00,"paidAmount":2400000.00,"status":"Paid"},
+  {"id":6,"billNumber":"BILL-2025-006","vendorName":"Nalco Water","description":"Nalco Water Treatment Chemicals - Nakambala","billDate":"2025-02-15T00:00:00","dueDate":"2025-03-17T00:00:00","amount":780000.00,"paidAmount":0.00,"status":"Open"},
+  {"id":7,"billNumber":"BILL-2025-007","vendorName":"ABB Zambia Ltd","description":"ABB Variable Speed Drives Service Contract","billDate":"2025-03-05T00:00:00","dueDate":"2025-04-04T00:00:00","amount":1200000.00,"paidAmount":0.00,"status":"Open"},
+  {"id":8,"billNumber":"BILL-2025-008","vendorName":"Bosch Rexroth Zambia","description":"Bosch Rexroth Hydraulics Repair - Mill Station","billDate":"2025-01-20T00:00:00","dueDate":"2025-02-19T00:00:00","amount":650000.00,"paidAmount":650000.00,"status":"Paid"},
+  {"id":9,"billNumber":"BILL-2025-009","vendorName":"Total Zambia Ltd","description":"Total Zambia Fuel Supply - Field Operations","billDate":"2025-01-25T00:00:00","dueDate":"2025-02-24T00:00:00","amount":1600000.00,"paidAmount":0.00,"status":"Overdue"},
+  {"id":10,"billNumber":"BILL-2025-010","vendorName":"Zambia Revenue Authority","description":"ZRA Withholding Tax Q1 2025","billDate":"2025-03-31T00:00:00","dueDate":"2025-04-30T00:00:00","amount":2800000.00,"paidAmount":2800000.00,"status":"Paid"}
+]

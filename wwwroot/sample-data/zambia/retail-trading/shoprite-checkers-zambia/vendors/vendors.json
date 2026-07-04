@@ -1,0 +1,17 @@
+{
+  "vendors": [
+    {"id":1,"vendorName":"Bwalya Mutale","companyName":"Zambeef Products PLC","contactPerson":"Bwalya Mutale","email":"b.mutale@zambeef.co.zm","phone":"+260 977 000 001","city":"Lusaka","country":"Zambia","defaultPaymentTerms":"Net 30","taxId":"TPIN-ZBF-001","totalAmountOwed":0.00},
+    {"id":2,"vendorName":"Malama Kapata","companyName":"National Milling Corporation","contactPerson":"Malama Kapata","email":"m.kapata@nmc.co.zm","phone":"+260 977 000 002","city":"Kabwe","country":"Zambia","defaultPaymentTerms":"Net 30","taxId":"TPIN-NMC-002","totalAmountOwed":0.00},
+    {"id":3,"vendorName":"Ngosa Phiri","companyName":"Coca-Cola Zambia","contactPerson":"Ngosa Phiri","email":"n.phiri@cocacola.co.zm","phone":"+260 211 000 003","city":"Lusaka","country":"Zambia","defaultPaymentTerms":"Net 30","taxId":"TPIN-CCZ-003","totalAmountOwed":1200000.00},
+    {"id":4,"vendorName":"Sakala Tembo","companyName":"SABMiller Zambia","contactPerson":"Sakala Tembo","email":"s.tembo@sabmiller.co.zm","phone":"+260 211 000 004","city":"Lusaka","country":"Zambia","defaultPaymentTerms":"Net 30","taxId":"TPIN-SAB-004","totalAmountOwed":0.00},
+    {"id":5,"vendorName":"Zimba Banda","companyName":"Unilever Zambia Ltd","contactPerson":"Zimba Banda","email":"z.banda@unilever.co.zm","phone":"+260 211 000 005","city":"Lusaka","country":"Zambia","defaultPaymentTerms":"Net 30","taxId":"TPIN-ULZ-005","totalAmountOwed":0.00},
+    {"id":6,"vendorName":"Chipo Mwale","companyName":"ZESCO Limited","contactPerson":"Chipo Mwale","email":"c.mwale@zesco.co.zm","phone":"+260 211 000 006","city":"Lusaka","country":"Zambia","defaultPaymentTerms":"Net 30","taxId":"TPIN-ZES-006","totalAmountOwed":980000.00},
+    {"id":7,"vendorName":"Chanda Zulu","companyName":"Nestle Zambia Ltd","contactPerson":"Chanda Zulu","email":"c.zulu@nestle.co.zm","phone":"+260 211 000 007","city":"Lusaka","country":"Zambia","defaultPaymentTerms":"Net 30","taxId":"TPIN-NES-007","totalAmountOwed":1500000.00},
+    {"id":8,"vendorName":"Peter Nkonde","companyName":"Parmalat Zambia","contactPerson":"Peter Nkonde","email":"p.nkonde@parmalat.co.zm","phone":"+260 211 000 008","city":"Lusaka","country":"Zambia","defaultPaymentTerms":"Net 30","taxId":"TPIN-PAR-008","totalAmountOwed":0.00},
+    {"id":9,"vendorName":"Agnes Lungu","companyName":"Freshpikt Ltd","contactPerson":"Agnes Lungu","email":"a.lungu@freshpikt.co.zm","phone":"+260 977 000 009","city":"Lusaka","country":"Zambia","defaultPaymentTerms":"Net 30","taxId":"TPIN-FPK-009","totalAmountOwed":620000.00},
+    {"id":10,"vendorName":"Fredrick Mumba","companyName":"Dangote Flour Mills","contactPerson":"Fredrick Mumba","email":"f.mumba@dangote.co.zm","phone":"+260 211 000 010","city":"Ndola","country":"Zambia","defaultPaymentTerms":"Net 30","taxId":"TPIN-DNG-010","totalAmountOwed":0.00},
+    {"id":11,"vendorName":"Grace Chileshe","companyName":"Tiger Brands Zambia","contactPerson":"Grace Chileshe","email":"g.chileshe@tigerbrands.co.zm","phone":"+260 211 000 011","city":"Lusaka","country":"Zambia","defaultPaymentTerms":"Net 30","taxId":"TPIN-TBZ-011","totalAmountOwed":0.00},
+    {"id":12,"vendorName":"Susan Mwansa","companyName":"Cargill Zambia Ltd","contactPerson":"Susan Mwansa","email":"s.mwansa@cargill.co.zm","phone":"+260 977 000 012","city":"Lusaka","country":"Zambia","defaultPaymentTerms":"Net 30","taxId":"TPIN-CGZ-012","totalAmountOwed":0.00}
+  ],
+  "vendorCredits": []
+}

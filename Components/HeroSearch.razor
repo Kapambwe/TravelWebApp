@@ -1,0 +1,240 @@
+@using TravelWebApp.Models
+@using TravelWebApp.Services
+@using Radzen.Blazor
+@inject ITravelService TravelService
+@inject NavigationManager Navigation
+
+<div class="hero-search">
+    <div class="hero-content">
+        <h1 class="hero-title">Where will your next adventure take you?</h1>
+        <p class="hero-subtitle">Discover Africa's most incredible destinations</p>
+
+        <div class="search-container">
+            <div class="search-row">
+                <div class="search-field destination-field">
+                    <RadzenTextBox @bind-Value="@_query" Placeholder="Destination, city or park..." Style="width:100%;padding:14px 18px;font-size:1rem;border:none;background:transparent;" />
+                </div>
+                <div class="search-field date-field">
+                    <div style="display:flex;gap:4px;">
+                        <RadzenDatePicker @bind-Value="@_checkIn" Placeholder="Check-in" Style="width:100%;" />
+                        <RadzenDatePicker @bind-Value="@_checkOut" Placeholder="Check-out" Style="width:100%;" />
+                    </div>
+                </div>
+                <div class="search-field guests-field">
+                    <RadzenDropDown TValue="string" @bind-Value="@_guestSummary" Style="width:100%" Data="@_guestOptions" Change="@OnGuestChanged" />
+                </div>
+                <div class="search-button-field">
+                    <RadzenButton Text="Search" Icon="search" ButtonStyle="ButtonStyle.Primary" Click="@DoSearch" Style="width:100%;height:100%;border-radius:0 12px 12px 0;font-size:1.1rem;padding:14px 32px;" />
+                </div>
+            </div>
+        </div>
+
+        <div class="quick-links">
+            <RadzenButton Text="Last Minute" ButtonStyle="ButtonStyle.Light" Click='@(() => QuickSearch("last-minute"))' />
+            <RadzenButton Text="Weekend Getaways" ButtonStyle="ButtonStyle.Light" Click='@(() => QuickSearch("weekend"))' />
+            <RadzenButton Text="Safari Packages" ButtonStyle="ButtonStyle.Light" Click='@(() => QuickSearch("safari"))' />
+            <RadzenButton Text="Beach Holidays" ButtonStyle="ButtonStyle.Light" Click='@(() => QuickSearch("beach"))' />
+        </div>
+    </div>
+</div>
+
+@if (_destinations.Count > 0)
+{
+    <div class="destinations-section">
+        <div class="section-header">
+            <RadzenText TextStyle="TextStyle.H4">Popular Destinations</RadzenText>
+            <RadzenText TextStyle="TextStyle.Body2" Style="color:#5A5A7A">Start your journey to Africa's most loved places</RadzenText>
+        </div>
+        <div class="destinations-grid">
+            @foreach (var dest in _destinations)
+            {
+                <div class="destination-card" @onclick="@(() => NavigateToSearch(dest.Name))">
+                    <div class="dest-image" style="background-image: url('images/@(dest.Image).jpg'); background-size:cover; background-position:center; height:200px; border-radius:12px 12px 0 0;">
+                        <div class="dest-price-badge">From @dest.Currency@(dest.StartingPrice.ToString("F0")) / night</div>
+                    </div>
+                    <div class="dest-info">
+                        <RadzenText TextStyle="TextStyle.H6">@dest.Name</RadzenText>
+                        <RadzenText TextStyle="TextStyle.Body2" Style="color:#5A5A7A">@dest.Description</RadzenText>
+                        <div class="dest-highlights">
+                            @foreach (var h in dest.Highlights.Take(3))
+                            {
+                                <RadzenBadge Text="@h" BadgeStyle="BadgeStyle.Light" />
+                            }
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+}
+
+@if (_deals.Count > 0)
+{
+    <div class="deals-section">
+        <div class="section-header">
+            <RadzenText TextStyle="TextStyle.H4">Travel Deals</RadzenText>
+            <RadzenText TextStyle="TextStyle.Body2" Style="color:#5A5A7A">Limited-time offers you won't want to miss</RadzenText>
+        </div>
+        <RadzenCarousel AutoPlay="false" Style="overflow:visible;">
+            <Items>
+                @foreach (var deal in _deals)
+                {
+                    <div class="deal-card" style="padding:8px;">
+                        <RadzenCard Style="border-radius:12px;overflow:hidden;">
+                            <div style="background:linear-gradient(135deg,#003B95,#002A6E);padding:24px;color:white;">
+                                <RadzenBadge Text="@deal.Badge" BadgeStyle="BadgeStyle.Warning" Style="margin-bottom:8px;" />
+                                <RadzenText TextStyle="TextStyle.H5" Style="color:white;">@deal.Title</RadzenText>
+                                <RadzenText Style="color:rgba(255,255,255,0.8);margin:8px 0;">@deal.Description</RadzenText>
+                                <div style="display:flex;align-items:center;gap:12px;margin-top:12px;">
+                                    <RadzenText TextStyle="TextStyle.H4" Style="color:#FEBB02;font-weight:700;">@deal.DiscountPercent% OFF</RadzenText>
+                                </div>
+                                <RadzenText Style="color:rgba(255,255,255,0.6);font-size:0.813rem;">
+                                    Valid until @deal.ValidUntil.ToString("dd MMM yyyy")
+                                </RadzenText>
+                            </div>
+                        </RadzenCard>
+                    </div>
+                }
+            </Items>
+        </RadzenCarousel>
+    </div>
+}
+
+<div class="experiences-section">
+    <div class="section-header">
+        <RadzenText TextStyle="TextStyle.H4">Book by Experience</RadzenText>
+        <RadzenText TextStyle="TextStyle.Body2" Style="color:#5A5A7A">What kind of adventure are you looking for?</RadzenText>
+    </div>
+    <div class="experience-icons">
+        @foreach (var exp in _experiences)
+        {
+            <div class="experience-item" @onclick="@(() => QuickSearch(exp.Query))">
+                <div class="exp-icon">@exp.Icon</div>
+                <RadzenText TextStyle="TextStyle.Body1" Style="font-weight:500;">@exp.Name</RadzenText>
+            </div>
+        }
+    </div>
+</div>
+
+<style>
+    .hero-search {
+        background: linear-gradient(135deg, #003B95 0%, #001F4D 50%, #00102B 100%);
+        padding: 80px 24px 60px;
+        text-align: center;
+        position: relative;
+        overflow: hidden;
+    }
+    .hero-search::before {
+        content: '';
+        position: absolute;
+        top: 0; left: 0; right: 0; bottom: 0;
+        background: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320"><path fill="rgba(255,255,255,0.03)" d="M0,160L48,176C96,192,192,224,288,213.3C384,203,480,149,576,138.7C672,128,768,160,864,181.3C960,203,1056,213,1152,197.3C1248,181,1344,139,1392,117.3L1440,96L1440,320L1392,320C1344,320,1248,320,1152,320C1056,320,960,320,864,320C768,320,672,320,576,320C480,320,384,320,288,320C192,320,96,320,48,320L0,320Z"/></svg>') no-repeat bottom;
+        background-size: cover;
+        opacity: 0.5;
+    }
+    .hero-content { position: relative; z-index: 1; max-width: 960px; margin: 0 auto; }
+    .hero-title { font-size: 2.5rem; font-weight: 700; color: white; margin-bottom: 8px; }
+    .hero-subtitle { font-size: 1.125rem; color: rgba(255,255,255,0.8); margin-bottom: 32px; }
+    .search-container {
+        background: white; border-radius: 12px; box-shadow: 0 8px 32px rgba(0,0,0,0.2);
+        overflow: hidden; margin-bottom: 24px;
+    }
+    .search-row { display: flex; align-items: stretch; }
+    .search-field { flex: 1; padding: 0; border-right: 1px solid #E0E4EC; }
+    .search-field:last-child { border-right: none; }
+    .search-button-field { flex: 0 0 auto; min-width: 140px; }
+    .quick-links { display: flex; justify-content: center; gap: 16px; flex-wrap: wrap; }
+    .quick-links ::deep .rz-button { color: rgba(255,255,255,0.8); text-decoration: none; }
+    .quick-links ::deep .rz-button:hover { color: white; }
+
+    .destinations-section, .deals-section, .experiences-section { padding: 48px 24px; max-width: 1200px; margin: 0 auto; }
+    .section-header { margin-bottom: 24px; }
+    .destinations-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 20px; }
+    .destination-card {
+        background: white; border-radius: 12px; overflow: hidden; cursor: pointer;
+        transition: transform 0.2s, box-shadow 0.2s; border: 1px solid #E0E4EC;
+    }
+    .destination-card:hover { transform: translateY(-4px); box-shadow: 0 8px 24px rgba(0,59,149,0.12); }
+    .dest-image { position: relative; }
+    .dest-price-badge {
+        position: absolute; bottom: 12px; left: 12px; background: #FEBB02; color: #1A1A2E;
+        padding: 4px 12px; border-radius: 20px; font-weight: 600; font-size: 0.875rem;
+    }
+    .dest-info { padding: 16px; }
+    .dest-highlights { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 8px; }
+
+    .deal-card { height: 100%; }
+
+    .experience-icons { display: flex; gap: 20px; justify-content: center; flex-wrap: wrap; }
+    .experience-item {
+        display: flex; flex-direction: column; align-items: center; gap: 8px;
+        cursor: pointer; padding: 20px; border-radius: 12px; transition: all 0.2s;
+        background: white; border: 1px solid #E0E4EC; min-width: 120px;
+    }
+    .experience-item:hover { background: #E8F0FE; border-color: #003B95; transform: translateY(-2px); }
+    .exp-icon { font-size: 2rem; }
+
+    @@media (max-width: 768px) {
+        .hero-title { font-size: 1.5rem; }
+        .search-row { flex-direction: column; }
+        .search-field { border-right: none; border-bottom: 1px solid #E0E4EC; }
+        .search-button-field { min-width: 100%; }
+        .search-button-field ::deep .rz-button { border-radius: 0 0 12px 12px !important; }
+        .destinations-grid { grid-template-columns: 1fr; }
+        .experience-icons { gap: 12px; }
+    }
+</style>
+
+@code {
+    private List<Destination> _destinations = [];
+    private List<TravelDeal> _deals = [];
+    private string _query = "";
+    private DateTime? _checkIn = DateTime.Today;
+    private DateTime? _checkOut = DateTime.Today.AddDays(1);
+    private string _guestSummary = "2 Adults, 1 Room";
+    private int _adults = 2;
+    private int _rooms = 1;
+
+    private readonly string[] _guestOptions = ["1 Adult, 1 Room", "2 Adults, 1 Room", "2 Adults, 2 Rooms", "3 Adults, 1 Room", "3 Adults, 2 Rooms", "4 Adults, 2 Rooms"];
+
+    private readonly List<(string Name, string Icon, string Query)> _experiences =
+    [
+        ("Safari", "\U0001F981", "safari"),
+        ("Beach", "\U0001F3D6", "beach"),
+        ("Hiking", "\U0001F97E", "hiking"),
+        ("Wildlife", "\U0001F43E", "wildlife"),
+        ("Cultural", "\U0001F3AD", "cultural"),
+        ("Luxury", "\U0001F48E", "luxury"),
+        ("Family", "\U0001F468\u200D\U0001F469\u200D\U0001F467\u200D\U0001F466", "family"),
+        ("Romance", "\U0001F49C", "honeymoon"),
+    ];
+
+    protected override async Task OnInitializedAsync()
+    {
+        _destinations = await TravelService.GetDestinationsAsync();
+        _deals = await TravelService.GetTravelDealsAsync();
+    }
+
+    private void OnGuestChanged(object value)
+    {
+        var valStr = value?.ToString() ?? "";
+        _guestSummary = valStr;
+        var parts = valStr.Split(',', StringSplitOptions.TrimEntries);
+        if (parts.Length >= 2)
+        {
+            _adults = int.Parse(parts[0].Split(' ')[0]);
+            _rooms = int.Parse(parts[1].Split(' ')[0]);
+        }
+    }
+
+    private void DoSearch()
+    {
+        var q = Uri.EscapeDataString(_query);
+        var ci = _checkIn?.ToString("yyyy-MM-dd") ?? "";
+        var co = _checkOut?.ToString("yyyy-MM-dd") ?? "";
+        Navigation.NavigateTo($"/search?q={q}&checkIn={ci}&checkOut={co}&adults={_adults}&rooms={_rooms}");
+    }
+
+    private void QuickSearch(string type) => Navigation.NavigateTo($"/search?q={type}");
+    private void NavigateToSearch(string dest) => Navigation.NavigateTo($"/search?q={Uri.EscapeDataString(dest)}");
+}

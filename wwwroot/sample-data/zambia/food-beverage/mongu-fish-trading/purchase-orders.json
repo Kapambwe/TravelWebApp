@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1,
+    "poNumber": "PO-2025-001",
+    "vendorName": "Sakala Beverages Ltd",
+    "description": "Packaging Materials",
+    "orderDate": "2025-01-13T00:00:00",
+    "expectedDate": "2025-02-11T00:00:00",
+    "amount": 1243589.12,
+    "receivedAmount": 0.0,
+    "status": "Open",
+    "approvalStatus": "Approved",
+    "approvedBy": "CEO"
+  },
+  {
+    "id": 2,
+    "poNumber": "PO-2025-002",
+    "vendorName": "Mulenga Foods Holdings",
+    "description": "Raw Ingredients Purchase",
+    "orderDate": "2025-01-18T00:00:00",
+    "expectedDate": "2025-02-09T00:00:00",
+    "amount": 2034899.45,
+    "receivedAmount": 1377162.82,
+    "status": "PartiallyReceived",
+    "approvalStatus": "Pending",
+    "approvedBy": "CEO"
+  },
+  {
+    "id": 3,
+    "poNumber": "PO-2025-003",
+    "vendorName": "Lungu Catering Solutions",
+    "description": "Packaging Materials",
+    "orderDate": "2024-12-22T00:00:00",
+    "expectedDate": "2025-01-14T00:00:00",
+    "amount": 2690576.29,
+    "receivedAmount": 0.0,
+    "status": "Open",
+    "approvalStatus": "Pending",
+    "approvedBy": "CFO"
+  },
+  {
+    "id": 4,
+    "poNumber": "PO-2025-004",
+    "vendorName": "Kaputo Foods Co.",
+    "description": "QA Lab Fees",
+    "orderDate": "2025-01-12T00:00:00",
+    "expectedDate": "2025-02-09T00:00:00",
+    "amount": 2959580.33,
+    "receivedAmount": 0.0,
+    "status": "Cancelled",
+    "approvalStatus": "Approved",
+    "approvedBy": "Finance Manager"
+  },
+  {
+    "id": 5,
+    "poNumber": "PO-2025-005",
+    "vendorName": "Chileshe Bakery Enterprises",
+    "description": "Cold Storage Fees",
+    "orderDate": "2025-03-10T00:00:00",
+    "expectedDate": "2025-03-30T00:00:00",
+    "amount": 519818.3,
+    "receivedAmount": 178320.58,
+    "status": "PartiallyReceived",
+    "approvalStatus": "Approved",
+    "approvedBy": "CEO"
+  },
+  {
+    "id": 6,
+    "poNumber": "PO-2025-006",
+    "vendorName": "Chileshe Bakery Enterprises",
+    "description": "QA Lab Fees",
+    "orderDate": "2024-12-22T00:00:00",
+    "expectedDate": "2025-01-21T00:00:00",
+    "amount": 621539.68,
+    "receivedAmount": 0.0,
+    "status": "Cancelled",
+    "approvalStatus": "Approved",
+    "approvedBy": "Procurement Officer"
+  }
+]

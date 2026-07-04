@@ -1,0 +1,16 @@
+﻿[
+    {
+        "Price":  280,
+        "Category":  0,
+        "Name":  "Pan-seared Nile Perch",
+        "Id":  1,
+        "IsAvailable":  true
+    },
+    {
+        "Price":  260,
+        "Category":  0,
+        "Name":  "Lake Tanganyika Tilapia",
+        "Id":  2,
+        "IsAvailable":  true
+    }
+]

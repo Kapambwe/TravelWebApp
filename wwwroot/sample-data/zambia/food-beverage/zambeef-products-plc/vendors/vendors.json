@@ -1,0 +1,17 @@
+{
+  "vendors": [
+    {"id":1,"vendorName":"Chanda Mwale","companyName":"Grain Farmers Cooperative Zambia","contactPerson":"Chanda Mwale","email":"c.mwale@grainfarmers.co.zm","phone":"+260 977 000 001","city":"Lusaka","country":"Zambia","defaultPaymentTerms":"Net 30","taxId":"TPIN-GFC-001","totalAmountOwed":0.00},
+    {"id":2,"vendorName":"Mwansa Tembo","companyName":"Zambia Seed Company","contactPerson":"Mwansa Tembo","email":"m.tembo@zambiaseed.co.zm","phone":"+260 977 000 002","city":"Lusaka","country":"Zambia","defaultPaymentTerms":"Net 30","taxId":"TPIN-ZSC-002","totalAmountOwed":0.00},
+    {"id":3,"vendorName":"Ngosa Kapata","companyName":"Vegpro Zambia","contactPerson":"Ngosa Kapata","email":"n.kapata@vegpro.co.zm","phone":"+260 977 000 003","city":"Lusaka","country":"Zambia","defaultPaymentTerms":"Net 30","taxId":"TPIN-VGP-003","totalAmountOwed":0.00},
+    {"id":4,"vendorName":"Bwalya Phiri","companyName":"ZESCO Limited","contactPerson":"Bwalya Phiri","email":"b.phiri@zesco.co.zm","phone":"+260 211 000 004","city":"Lusaka","country":"Zambia","defaultPaymentTerms":"Net 30","taxId":"TPIN-ZES-004","totalAmountOwed":2400000.00},
+    {"id":5,"vendorName":"Sakala Mulenga","companyName":"Total Zambia Ltd","contactPerson":"Sakala Mulenga","email":"s.mulenga@total.co.zm","phone":"+260 211 000 005","city":"Lusaka","country":"Zambia","defaultPaymentTerms":"Net 30","taxId":"TPIN-TOT-005","totalAmountOwed":0.00},
+    {"id":6,"vendorName":"Malama Zimba","companyName":"Vetmedical Zambia","contactPerson":"Malama Zimba","email":"m.zimba@vetmedical.co.zm","phone":"+260 977 000 006","city":"Lusaka","country":"Zambia","defaultPaymentTerms":"Net 30","taxId":"TPIN-VTM-006","totalAmountOwed":0.00},
+    {"id":7,"vendorName":"Fredrick Banda","companyName":"Cargill Zambia Ltd","contactPerson":"Fredrick Banda","email":"f.banda@cargill.co.zm","phone":"+260 211 000 007","city":"Lusaka","country":"Zambia","defaultPaymentTerms":"Net 30","taxId":"TPIN-CGZ-007","totalAmountOwed":1400000.00},
+    {"id":8,"vendorName":"Lungu Zulu","companyName":"ABB Zambia Ltd","contactPerson":"Lungu Zulu","email":"l.zulu@abb.co.zm","phone":"+260 211 000 008","city":"Lusaka","country":"Zambia","defaultPaymentTerms":"Net 30","taxId":"TPIN-ABB-008","totalAmountOwed":2100000.00},
+    {"id":9,"vendorName":"Peter Nkonde","companyName":"Alfa Laval Zambia","contactPerson":"Peter Nkonde","email":"p.nkonde@alfalaval.co.zm","phone":"+260 977 000 009","city":"Lusaka","country":"Zambia","defaultPaymentTerms":"Net 30","taxId":"TPIN-ALF-009","totalAmountOwed":0.00},
+    {"id":10,"vendorName":"Agnes Chileshe","companyName":"Tetra Pak Southern Africa","contactPerson":"Agnes Chileshe","email":"a.chileshe@tetrapak.co.zm","phone":"+260 211 000 010","city":"Lusaka","country":"Zambia","defaultPaymentTerms":"Net 30","taxId":"TPIN-TTP-010","totalAmountOwed":0.00},
+    {"id":11,"vendorName":"Grace Kaunda","companyName":"John Deere Zambia","contactPerson":"Grace Kaunda","email":"g.kaunda@johndeere.co.zm","phone":"+260 977 000 011","city":"Lusaka","country":"Zambia","defaultPaymentTerms":"Net 30","taxId":"TPIN-JDZ-011","totalAmountOwed":0.00},
+    {"id":12,"vendorName":"Susan Mumba","companyName":"Siemens Zambia","contactPerson":"Susan Mumba","email":"s.mumba@siemens.co.zm","phone":"+260 211 000 012","city":"Lusaka","country":"Zambia","defaultPaymentTerms":"Net 30","taxId":"TPIN-SIE-012","totalAmountOwed":0.00}
+  ],
+  "vendorCredits": []
+}

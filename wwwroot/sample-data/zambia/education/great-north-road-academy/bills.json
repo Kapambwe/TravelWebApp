@@ -1,0 +1,123 @@
+[
+  {
+    "id": 1,
+    "billNumber": "BILL-2025-001",
+    "vendorName": "Mwale College Enterprises",
+    "description": "Building Maintenance",
+    "billDate": "2025-02-16T00:00:00",
+    "dueDate": "2025-03-03T00:00:00",
+    "amount": 1113306.33,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 2,
+    "billNumber": "BILL-2025-002",
+    "vendorName": "Musonda Learning Centre Group",
+    "description": "IT Infrastructure",
+    "billDate": "2025-02-19T00:00:00",
+    "dueDate": "2025-03-21T00:00:00",
+    "amount": 2507694.45,
+    "paidAmount": 2507694.45,
+    "status": "Paid"
+  },
+  {
+    "id": 3,
+    "billNumber": "BILL-2025-003",
+    "vendorName": "Zimba College Group",
+    "description": "Catering Services",
+    "billDate": "2024-10-18T00:00:00",
+    "dueDate": "2024-11-17T00:00:00",
+    "amount": 3443676.97,
+    "paidAmount": 3443676.97,
+    "status": "Paid"
+  },
+  {
+    "id": 4,
+    "billNumber": "BILL-2025-004",
+    "vendorName": "Mwale College Enterprises",
+    "description": "Building Maintenance",
+    "billDate": "2024-12-07T00:00:00",
+    "dueDate": "2025-01-21T00:00:00",
+    "amount": 433797.56,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 5,
+    "billNumber": "BILL-2025-005",
+    "vendorName": "Siame Educational Institute Limited",
+    "description": "Building Maintenance",
+    "billDate": "2024-11-05T00:00:00",
+    "dueDate": "2024-11-20T00:00:00",
+    "amount": 632429.11,
+    "paidAmount": 632429.11,
+    "status": "Paid"
+  },
+  {
+    "id": 6,
+    "billNumber": "BILL-2025-006",
+    "vendorName": "Mwale Learning Centre Holdings",
+    "description": "Transport Services",
+    "billDate": "2024-12-17T00:00:00",
+    "dueDate": "2025-01-31T00:00:00",
+    "amount": 1798383.75,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 7,
+    "billNumber": "BILL-2025-007",
+    "vendorName": "Siame Educational Institute Limited",
+    "description": "Textbooks & Learning Materials",
+    "billDate": "2025-01-04T00:00:00",
+    "dueDate": "2025-02-18T00:00:00",
+    "amount": 1844999.03,
+    "paidAmount": 553659.59,
+    "status": "PartiallyPaid"
+  },
+  {
+    "id": 8,
+    "billNumber": "BILL-2025-008",
+    "vendorName": "Banda College Ltd",
+    "description": "IT Infrastructure",
+    "billDate": "2024-09-17T00:00:00",
+    "dueDate": "2024-11-01T00:00:00",
+    "amount": 3126753.67,
+    "paidAmount": 1966145.25,
+    "status": "PartiallyPaid"
+  },
+  {
+    "id": 9,
+    "billNumber": "BILL-2025-009",
+    "vendorName": "Zimba College Group",
+    "description": "Transport Services",
+    "billDate": "2024-10-21T00:00:00",
+    "dueDate": "2024-11-20T00:00:00",
+    "amount": 749811.12,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 10,
+    "billNumber": "BILL-2025-010",
+    "vendorName": "Banda College Ltd",
+    "description": "Building Maintenance",
+    "billDate": "2025-01-21T00:00:00",
+    "dueDate": "2025-02-05T00:00:00",
+    "amount": 2896013.51,
+    "paidAmount": 2896013.51,
+    "status": "Paid"
+  },
+  {
+    "id": 11,
+    "billNumber": "BILL-2025-011",
+    "vendorName": "Banda College Ltd",
+    "description": "School Equipment",
+    "billDate": "2024-11-11T00:00:00",
+    "dueDate": "2024-12-26T00:00:00",
+    "amount": 1226713.8,
+    "paidAmount": 1226713.8,
+    "status": "Paid"
+  }
+]

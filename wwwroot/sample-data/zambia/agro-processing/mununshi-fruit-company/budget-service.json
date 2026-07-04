@@ -1,0 +1,242 @@
+[
+  {
+    "id": "budget-001",
+    "budgetName": "Packaging Budget 1",
+    "category": "Operations",
+    "amount": 73305.09,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-002",
+    "budgetName": "Processing Budget 2",
+    "category": "Administration",
+    "amount": 84239.81,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-003",
+    "budgetName": "Packaging Budget 3",
+    "category": "Operations",
+    "amount": 49208.79,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-004",
+    "budgetName": "Quality Control Budget 4",
+    "category": "Operations",
+    "amount": 80618.53,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-005",
+    "budgetName": "Quality Control Budget 5",
+    "category": "Marketing",
+    "amount": 72792.75,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-006",
+    "budgetName": "Processing Budget 6",
+    "category": "Marketing",
+    "amount": 21452.72,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-007",
+    "budgetName": "Harvesting Budget 7",
+    "category": "Administration",
+    "amount": 96779.55,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-008",
+    "budgetName": "Packaging Budget 8",
+    "category": "Administration",
+    "amount": 78014.93,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-009",
+    "budgetName": "Quality Control Budget 9",
+    "category": "Operations",
+    "amount": 70019.39,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-010",
+    "budgetName": "Harvesting Budget 10",
+    "category": "Marketing",
+    "amount": 22915.59,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-011",
+    "budgetName": "Quality Control Budget 11",
+    "category": "Administration",
+    "amount": 13694.82,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-012",
+    "budgetName": "Packaging Budget 12",
+    "category": "Operations",
+    "amount": 86068.59,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-013",
+    "budgetName": "Quality Control Budget 13",
+    "category": "Administration",
+    "amount": 59553.76,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-014",
+    "budgetName": "Packaging Budget 14",
+    "category": "Administration",
+    "amount": 96490.15,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-015",
+    "budgetName": "Quality Control Budget 15",
+    "category": "Marketing",
+    "amount": 70513.52,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-016",
+    "budgetName": "Harvesting Budget 16",
+    "category": "Administration",
+    "amount": 99202.42,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-017",
+    "budgetName": "Packaging Budget 17",
+    "category": "Development",
+    "amount": 14592.46,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-018",
+    "budgetName": "Harvesting Budget 18",
+    "category": "Operations",
+    "amount": 65365.43,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-019",
+    "budgetName": "Quality Control Budget 19",
+    "category": "Marketing",
+    "amount": 90261.75,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-020",
+    "budgetName": "Processing Budget 20",
+    "category": "Administration",
+    "amount": 94570.22,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-021",
+    "budgetName": "Processing Budget 21",
+    "category": "Development",
+    "amount": 17742.44,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-022",
+    "budgetName": "Quality Control Budget 22",
+    "category": "Operations",
+    "amount": 24581.54,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-023",
+    "budgetName": "Packaging Budget 23",
+    "category": "Administration",
+    "amount": 90182.31,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-024",
+    "budgetName": "Quality Control Budget 24",
+    "category": "Marketing",
+    "amount": 63328.33,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-025",
+    "budgetName": "Processing Budget 25",
+    "category": "Marketing",
+    "amount": 30372.51,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-026",
+    "budgetName": "Harvesting Budget 26",
+    "category": "Marketing",
+    "amount": 40921.46,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-027",
+    "budgetName": "Processing Budget 27",
+    "category": "Marketing",
+    "amount": 30654.8,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-028",
+    "budgetName": "Packaging Budget 28",
+    "category": "Administration",
+    "amount": 25006.51,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-029",
+    "budgetName": "Processing Budget 29",
+    "category": "Marketing",
+    "amount": 59295.7,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  },
+  {
+    "id": "budget-030",
+    "budgetName": "Processing Budget 30",
+    "category": "Operations",
+    "amount": 29995.13,
+    "period": "Q1 2024",
+    "currency": "ZMW"
+  }
+]

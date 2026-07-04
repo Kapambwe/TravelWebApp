@@ -1,0 +1,572 @@
+[
+  {
+    "id": "je-001",
+    "date": "2025-06-15",
+    "description": "Office supplies purchase",
+    "entries": [
+      {
+        "accountId": "acc-001",
+        "debit": 0,
+        "credit": 500.0
+      },
+      {
+        "accountId": "acc-002",
+        "debit": 500.0,
+        "credit": 0
+      }
+    ],
+    "totalDebit": 500.0,
+    "totalCredit": 500.0
+  },
+  {
+    "id": "je-002",
+    "date": "2025-05-02",
+    "description": "Office supplies purchase",
+    "entries": [
+      {
+        "accountId": "acc-001",
+        "debit": 0,
+        "credit": 500.0
+      },
+      {
+        "accountId": "acc-002",
+        "debit": 500.0,
+        "credit": 0
+      }
+    ],
+    "totalDebit": 500.0,
+    "totalCredit": 500.0
+  },
+  {
+    "id": "je-003",
+    "date": "2025-06-15",
+    "description": "Office supplies purchase",
+    "entries": [
+      {
+        "accountId": "acc-001",
+        "debit": 0,
+        "credit": 500.0
+      },
+      {
+        "accountId": "acc-002",
+        "debit": 500.0,
+        "credit": 0
+      }
+    ],
+    "totalDebit": 500.0,
+    "totalCredit": 500.0
+  },
+  {
+    "id": "je-004",
+    "date": "2025-12-20",
+    "description": "Office supplies purchase",
+    "entries": [
+      {
+        "accountId": "acc-001",
+        "debit": 0,
+        "credit": 500.0
+      },
+      {
+        "accountId": "acc-002",
+        "debit": 500.0,
+        "credit": 0
+      }
+    ],
+    "totalDebit": 500.0,
+    "totalCredit": 500.0
+  },
+  {
+    "id": "je-005",
+    "date": "2025-04-12",
+    "description": "Office supplies purchase",
+    "entries": [
+      {
+        "accountId": "acc-001",
+        "debit": 0,
+        "credit": 500.0
+      },
+      {
+        "accountId": "acc-002",
+        "debit": 500.0,
+        "credit": 0
+      }
+    ],
+    "totalDebit": 500.0,
+    "totalCredit": 500.0
+  },
+  {
+    "id": "je-006",
+    "date": "2025-10-16",
+    "description": "Office supplies purchase",
+    "entries": [
+      {
+        "accountId": "acc-001",
+        "debit": 0,
+        "credit": 500.0
+      },
+      {
+        "accountId": "acc-002",
+        "debit": 500.0,
+        "credit": 0
+      }
+    ],
+    "totalDebit": 500.0,
+    "totalCredit": 500.0
+  },
+  {
+    "id": "je-007",
+    "date": "2025-06-09",
+    "description": "Office supplies purchase",
+    "entries": [
+      {
+        "accountId": "acc-001",
+        "debit": 0,
+        "credit": 500.0
+      },
+      {
+        "accountId": "acc-002",
+        "debit": 500.0,
+        "credit": 0
+      }
+    ],
+    "totalDebit": 500.0,
+    "totalCredit": 500.0
+  },
+  {
+    "id": "je-008",
+    "date": "2025-12-13",
+    "description": "Office supplies purchase",
+    "entries": [
+      {
+        "accountId": "acc-001",
+        "debit": 0,
+        "credit": 500.0
+      },
+      {
+        "accountId": "acc-002",
+        "debit": 500.0,
+        "credit": 0
+      }
+    ],
+    "totalDebit": 500.0,
+    "totalCredit": 500.0
+  },
+  {
+    "id": "je-009",
+    "date": "2025-06-02",
+    "description": "Office supplies purchase",
+    "entries": [
+      {
+        "accountId": "acc-001",
+        "debit": 0,
+        "credit": 500.0
+      },
+      {
+        "accountId": "acc-002",
+        "debit": 500.0,
+        "credit": 0
+      }
+    ],
+    "totalDebit": 500.0,
+    "totalCredit": 500.0
+  },
+  {
+    "id": "je-010",
+    "date": "2025-06-22",
+    "description": "Office supplies purchase",
+    "entries": [
+      {
+        "accountId": "acc-001",
+        "debit": 0,
+        "credit": 500.0
+      },
+      {
+        "accountId": "acc-002",
+        "debit": 500.0,
+        "credit": 0
+      }
+    ],
+    "totalDebit": 500.0,
+    "totalCredit": 500.0
+  },
+  {
+    "id": "je-011",
+    "date": "2025-08-01",
+    "description": "Office supplies purchase",
+    "entries": [
+      {
+        "accountId": "acc-001",
+        "debit": 0,
+        "credit": 500.0
+      },
+      {
+        "accountId": "acc-002",
+        "debit": 500.0,
+        "credit": 0
+      }
+    ],
+    "totalDebit": 500.0,
+    "totalCredit": 500.0
+  },
+  {
+    "id": "je-012",
+    "date": "2025-11-03",
+    "description": "Office supplies purchase",
+    "entries": [
+      {
+        "accountId": "acc-001",
+        "debit": 0,
+        "credit": 500.0
+      },
+      {
+        "accountId": "acc-002",
+        "debit": 500.0,
+        "credit": 0
+      }
+    ],
+    "totalDebit": 500.0,
+    "totalCredit": 500.0
+  },
+  {
+    "id": "je-013",
+    "date": "2025-10-16",
+    "description": "Office supplies purchase",
+    "entries": [
+      {
+        "accountId": "acc-001",
+        "debit": 0,
+        "credit": 500.0
+      },
+      {
+        "accountId": "acc-002",
+        "debit": 500.0,
+        "credit": 0
+      }
+    ],
+    "totalDebit": 500.0,
+    "totalCredit": 500.0
+  },
+  {
+    "id": "je-014",
+    "date": "2025-03-20",
+    "description": "Office supplies purchase",
+    "entries": [
+      {
+        "accountId": "acc-001",
+        "debit": 0,
+        "credit": 500.0
+      },
+      {
+        "accountId": "acc-002",
+        "debit": 500.0,
+        "credit": 0
+      }
+    ],
+    "totalDebit": 500.0,
+    "totalCredit": 500.0
+  },
+  {
+    "id": "je-015",
+    "date": "2025-11-12",
+    "description": "Office supplies purchase",
+    "entries": [
+      {
+        "accountId": "acc-001",
+        "debit": 0,
+        "credit": 500.0
+      },
+      {
+        "accountId": "acc-002",
+        "debit": 500.0,
+        "credit": 0
+      }
+    ],
+    "totalDebit": 500.0,
+    "totalCredit": 500.0
+  },
+  {
+    "id": "je-016",
+    "date": "2025-11-13",
+    "description": "Office supplies purchase",
+    "entries": [
+      {
+        "accountId": "acc-001",
+        "debit": 0,
+        "credit": 500.0
+      },
+      {
+        "accountId": "acc-002",
+        "debit": 500.0,
+        "credit": 0
+      }
+    ],
+    "totalDebit": 500.0,
+    "totalCredit": 500.0
+  },
+  {
+    "id": "je-017",
+    "date": "2025-03-11",
+    "description": "Office supplies purchase",
+    "entries": [
+      {
+        "accountId": "acc-001",
+        "debit": 0,
+        "credit": 500.0
+      },
+      {
+        "accountId": "acc-002",
+        "debit": 500.0,
+        "credit": 0
+      }
+    ],
+    "totalDebit": 500.0,
+    "totalCredit": 500.0
+  },
+  {
+    "id": "je-018",
+    "date": "2025-07-06",
+    "description": "Office supplies purchase",
+    "entries": [
+      {
+        "accountId": "acc-001",
+        "debit": 0,
+        "credit": 500.0
+      },
+      {
+        "accountId": "acc-002",
+        "debit": 500.0,
+        "credit": 0
+      }
+    ],
+    "totalDebit": 500.0,
+    "totalCredit": 500.0
+  },
+  {
+    "id": "je-019",
+    "date": "2025-10-02",
+    "description": "Office supplies purchase",
+    "entries": [
+      {
+        "accountId": "acc-001",
+        "debit": 0,
+        "credit": 500.0
+      },
+      {
+        "accountId": "acc-002",
+        "debit": 500.0,
+        "credit": 0
+      }
+    ],
+    "totalDebit": 500.0,
+    "totalCredit": 500.0
+  },
+  {
+    "id": "je-020",
+    "date": "2025-05-20",
+    "description": "Office supplies purchase",
+    "entries": [
+      {
+        "accountId": "acc-001",
+        "debit": 0,
+        "credit": 500.0
+      },
+      {
+        "accountId": "acc-002",
+        "debit": 500.0,
+        "credit": 0
+      }
+    ],
+    "totalDebit": 500.0,
+    "totalCredit": 500.0
+  },
+  {
+    "id": "je-021",
+    "date": "2025-05-29",
+    "description": "Office supplies purchase",
+    "entries": [
+      {
+        "accountId": "acc-001",
+        "debit": 0,
+        "credit": 500.0
+      },
+      {
+        "accountId": "acc-002",
+        "debit": 500.0,
+        "credit": 0
+      }
+    ],
+    "totalDebit": 500.0,
+    "totalCredit": 500.0
+  },
+  {
+    "id": "je-022",
+    "date": "2026-01-09",
+    "description": "Office supplies purchase",
+    "entries": [
+      {
+        "accountId": "acc-001",
+        "debit": 0,
+        "credit": 500.0
+      },
+      {
+        "accountId": "acc-002",
+        "debit": 500.0,
+        "credit": 0
+      }
+    ],
+    "totalDebit": 500.0,
+    "totalCredit": 500.0
+  },
+  {
+    "id": "je-023",
+    "date": "2025-07-30",
+    "description": "Office supplies purchase",
+    "entries": [
+      {
+        "accountId": "acc-001",
+        "debit": 0,
+        "credit": 500.0
+      },
+      {
+        "accountId": "acc-002",
+        "debit": 500.0,
+        "credit": 0
+      }
+    ],
+    "totalDebit": 500.0,
+    "totalCredit": 500.0
+  },
+  {
+    "id": "je-024",
+    "date": "2025-12-12",
+    "description": "Office supplies purchase",
+    "entries": [
+      {
+        "accountId": "acc-001",
+        "debit": 0,
+        "credit": 500.0
+      },
+      {
+        "accountId": "acc-002",
+        "debit": 500.0,
+        "credit": 0
+      }
+    ],
+    "totalDebit": 500.0,
+    "totalCredit": 500.0
+  },
+  {
+    "id": "je-025",
+    "date": "2025-04-02",
+    "description": "Office supplies purchase",
+    "entries": [
+      {
+        "accountId": "acc-001",
+        "debit": 0,
+        "credit": 500.0
+      },
+      {
+        "accountId": "acc-002",
+        "debit": 500.0,
+        "credit": 0
+      }
+    ],
+    "totalDebit": 500.0,
+    "totalCredit": 500.0
+  },
+  {
+    "id": "je-026",
+    "date": "2025-08-19",
+    "description": "Office supplies purchase",
+    "entries": [
+      {
+        "accountId": "acc-001",
+        "debit": 0,
+        "credit": 500.0
+      },
+      {
+        "accountId": "acc-002",
+        "debit": 500.0,
+        "credit": 0
+      }
+    ],
+    "totalDebit": 500.0,
+    "totalCredit": 500.0
+  },
+  {
+    "id": "je-027",
+    "date": "2025-02-14",
+    "description": "Office supplies purchase",
+    "entries": [
+      {
+        "accountId": "acc-001",
+        "debit": 0,
+        "credit": 500.0
+      },
+      {
+        "accountId": "acc-002",
+        "debit": 500.0,
+        "credit": 0
+      }
+    ],
+    "totalDebit": 500.0,
+    "totalCredit": 500.0
+  },
+  {
+    "id": "je-028",
+    "date": "2026-01-08",
+    "description": "Office supplies purchase",
+    "entries": [
+      {
+        "accountId": "acc-001",
+        "debit": 0,
+        "credit": 500.0
+      },
+      {
+        "accountId": "acc-002",
+        "debit": 500.0,
+        "credit": 0
+      }
+    ],
+    "totalDebit": 500.0,
+    "totalCredit": 500.0
+  },
+  {
+    "id": "je-029",
+    "date": "2025-04-23",
+    "description": "Office supplies purchase",
+    "entries": [
+      {
+        "accountId": "acc-001",
+        "debit": 0,
+        "credit": 500.0
+      },
+      {
+        "accountId": "acc-002",
+        "debit": 500.0,
+        "credit": 0
+      }
+    ],
+    "totalDebit": 500.0,
+    "totalCredit": 500.0
+  },
+  {
+    "id": "je-030",
+    "date": "2025-09-15",
+    "description": "Office supplies purchase",
+    "entries": [
+      {
+        "accountId": "acc-001",
+        "debit": 0,
+        "credit": 500.0
+      },
+      {
+        "accountId": "acc-002",
+        "debit": 500.0,
+        "credit": 0
+      }
+    ],
+    "totalDebit": 500.0,
+    "totalCredit": 500.0
+  }
+]

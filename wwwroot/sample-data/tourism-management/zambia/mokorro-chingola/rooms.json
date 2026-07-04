@@ -1,0 +1,46 @@
+﻿[
+    {
+        "LodgeType":  0,
+        "Id":  101,
+        "Description":  "Standard Executive Room",
+        "RoomType":  0,
+        "RoomNumber":  "MKC-101",
+        "Floor":  1,
+        "Capacity":  2,
+        "Status":  0,
+        "BaseRate":  9000
+    },
+    {
+        "LodgeType":  0,
+        "Id":  102,
+        "Description":  "Deluxe King Room",
+        "RoomType":  1,
+        "RoomNumber":  "MKC-102",
+        "Floor":  1,
+        "Capacity":  2,
+        "Status":  0,
+        "BaseRate":  12500
+    },
+    {
+        "LodgeType":  2,
+        "Id":  201,
+        "Description":  "Executive Business Suite",
+        "RoomType":  2,
+        "RoomNumber":  "MKC-201",
+        "Floor":  2,
+        "Capacity":  4,
+        "Status":  0,
+        "BaseRate":  22000
+    },
+    {
+        "LodgeType":  2,
+        "Id":  301,
+        "Description":  "Presidential Penthouse Suite",
+        "RoomType":  3,
+        "RoomNumber":  "MKC-301",
+        "Floor":  3,
+        "Capacity":  6,
+        "Status":  0,
+        "BaseRate":  38000
+    }
+]

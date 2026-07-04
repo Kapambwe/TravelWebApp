@@ -1,0 +1,272 @@
+[
+  {
+    "id": "je-0001",
+    "entryDate": "2026-01-17",
+    "description": "Transaction 1: Logistics operations",
+    "account": "1000",
+    "debit": 5794.92,
+    "credit": 0,
+    "reference": "REF-0001"
+  },
+  {
+    "id": "je-0002",
+    "entryDate": "2025-10-28",
+    "description": "Transaction 2: Packaging operations",
+    "account": "1001",
+    "debit": 0,
+    "credit": 10226.97,
+    "reference": "REF-0002"
+  },
+  {
+    "id": "je-0003",
+    "entryDate": "2026-01-17",
+    "description": "Transaction 3: Packaging operations",
+    "account": "1002",
+    "debit": 6980.66,
+    "credit": 0,
+    "reference": "REF-0003"
+  },
+  {
+    "id": "je-0004",
+    "entryDate": "2025-09-01",
+    "description": "Transaction 4: Packaging operations",
+    "account": "1003",
+    "debit": 0,
+    "credit": 3384.39,
+    "reference": "REF-0004"
+  },
+  {
+    "id": "je-0005",
+    "entryDate": "2026-01-12",
+    "description": "Transaction 5: Production operations",
+    "account": "1004",
+    "debit": 1396.1,
+    "credit": 0,
+    "reference": "REF-0005"
+  },
+  {
+    "id": "je-0006",
+    "entryDate": "2025-09-24",
+    "description": "Transaction 6: Quality Testing operations",
+    "account": "1005",
+    "debit": 0,
+    "credit": 11428.17,
+    "reference": "REF-0006"
+  },
+  {
+    "id": "je-0007",
+    "entryDate": "2025-08-21",
+    "description": "Transaction 7: Packaging operations",
+    "account": "1006",
+    "debit": 2672.01,
+    "credit": 0,
+    "reference": "REF-0007"
+  },
+  {
+    "id": "je-0008",
+    "entryDate": "2025-08-04",
+    "description": "Transaction 8: Logistics operations",
+    "account": "1007",
+    "debit": 0,
+    "credit": 7519.53,
+    "reference": "REF-0008"
+  },
+  {
+    "id": "je-0009",
+    "entryDate": "2025-11-03",
+    "description": "Transaction 9: Quality Testing operations",
+    "account": "1008",
+    "debit": 8585.74,
+    "credit": 0,
+    "reference": "REF-0009"
+  },
+  {
+    "id": "je-0010",
+    "entryDate": "2025-10-26",
+    "description": "Transaction 10: Quality Testing operations",
+    "account": "1009",
+    "debit": 0,
+    "credit": 21875.67,
+    "reference": "REF-0010"
+  },
+  {
+    "id": "je-0011",
+    "entryDate": "2025-08-22",
+    "description": "Transaction 11: Quality Testing operations",
+    "account": "1010",
+    "debit": 23444.05,
+    "credit": 0,
+    "reference": "REF-0011"
+  },
+  {
+    "id": "je-0012",
+    "entryDate": "2025-08-22",
+    "description": "Transaction 12: Packaging operations",
+    "account": "1011",
+    "debit": 0,
+    "credit": 21959.9,
+    "reference": "REF-0012"
+  },
+  {
+    "id": "je-0013",
+    "entryDate": "2026-01-15",
+    "description": "Transaction 13: Packaging operations",
+    "account": "1012",
+    "debit": 11144.86,
+    "credit": 0,
+    "reference": "REF-0013"
+  },
+  {
+    "id": "je-0014",
+    "entryDate": "2025-08-13",
+    "description": "Transaction 14: Packaging operations",
+    "account": "1013",
+    "debit": 0,
+    "credit": 23493.63,
+    "reference": "REF-0014"
+  },
+  {
+    "id": "je-0015",
+    "entryDate": "2025-09-03",
+    "description": "Transaction 15: Logistics operations",
+    "account": "1014",
+    "debit": 13332.23,
+    "credit": 0,
+    "reference": "REF-0015"
+  },
+  {
+    "id": "je-0016",
+    "entryDate": "2025-12-17",
+    "description": "Transaction 16: Quality Testing operations",
+    "account": "1015",
+    "debit": 0,
+    "credit": 2456.29,
+    "reference": "REF-0016"
+  },
+  {
+    "id": "je-0017",
+    "entryDate": "2025-09-23",
+    "description": "Transaction 17: Logistics operations",
+    "account": "1016",
+    "debit": 12506.15,
+    "credit": 0,
+    "reference": "REF-0017"
+  },
+  {
+    "id": "je-0018",
+    "entryDate": "2025-09-16",
+    "description": "Transaction 18: Packaging operations",
+    "account": "1017",
+    "debit": 0,
+    "credit": 10027.6,
+    "reference": "REF-0018"
+  },
+  {
+    "id": "je-0019",
+    "entryDate": "2026-01-04",
+    "description": "Transaction 19: Production operations",
+    "account": "1018",
+    "debit": 21245.96,
+    "credit": 0,
+    "reference": "REF-0019"
+  },
+  {
+    "id": "je-0020",
+    "entryDate": "2026-01-03",
+    "description": "Transaction 20: Quality Testing operations",
+    "account": "1019",
+    "debit": 0,
+    "credit": 7226.45,
+    "reference": "REF-0020"
+  },
+  {
+    "id": "je-0021",
+    "entryDate": "2025-12-06",
+    "description": "Transaction 21: Quality Testing operations",
+    "account": "1020",
+    "debit": 11821.04,
+    "credit": 0,
+    "reference": "REF-0021"
+  },
+  {
+    "id": "je-0022",
+    "entryDate": "2025-08-29",
+    "description": "Transaction 22: Packaging operations",
+    "account": "1021",
+    "debit": 0,
+    "credit": 10580.92,
+    "reference": "REF-0022"
+  },
+  {
+    "id": "je-0023",
+    "entryDate": "2025-09-22",
+    "description": "Transaction 23: Logistics operations",
+    "account": "1022",
+    "debit": 5515.13,
+    "credit": 0,
+    "reference": "REF-0023"
+  },
+  {
+    "id": "je-0024",
+    "entryDate": "2025-12-11",
+    "description": "Transaction 24: Logistics operations",
+    "account": "1023",
+    "debit": 0,
+    "credit": 8519.19,
+    "reference": "REF-0024"
+  },
+  {
+    "id": "je-0025",
+    "entryDate": "2025-07-30",
+    "description": "Transaction 25: Packaging operations",
+    "account": "1024",
+    "debit": 7502.72,
+    "credit": 0,
+    "reference": "REF-0025"
+  },
+  {
+    "id": "je-0026",
+    "entryDate": "2025-08-10",
+    "description": "Transaction 26: Production operations",
+    "account": "1025",
+    "debit": 0,
+    "credit": 14117.21,
+    "reference": "REF-0026"
+  },
+  {
+    "id": "je-0027",
+    "entryDate": "2025-12-02",
+    "description": "Transaction 27: Production operations",
+    "account": "1026",
+    "debit": 10508.93,
+    "credit": 0,
+    "reference": "REF-0027"
+  },
+  {
+    "id": "je-0028",
+    "entryDate": "2025-09-27",
+    "description": "Transaction 28: Packaging operations",
+    "account": "1027",
+    "debit": 0,
+    "credit": 1191.36,
+    "reference": "REF-0028"
+  },
+  {
+    "id": "je-0029",
+    "entryDate": "2025-08-22",
+    "description": "Transaction 29: Logistics operations",
+    "account": "1028",
+    "debit": 17397.94,
+    "credit": 0,
+    "reference": "REF-0029"
+  },
+  {
+    "id": "je-0030",
+    "entryDate": "2026-01-10",
+    "description": "Transaction 30: Logistics operations",
+    "account": "1029",
+    "debit": 0,
+    "credit": 13583.42,
+    "reference": "REF-0030"
+  }
+]

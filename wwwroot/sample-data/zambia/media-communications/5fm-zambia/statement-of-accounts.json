@@ -1,0 +1,122 @@
+{
+  "companyName": "5fm Zambia",
+  "companyAddress": "Chipata, Zambia",
+  "companyTaxId": "TPIN-5248386-5Z",
+  "generatedDate": "2025-09-30",
+  "currency": "ZMW",
+  "period": {
+    "from": "2025-01-01",
+    "to": "2025-09-30"
+  },
+  "customerStatements": [
+    {
+      "customerId": 1,
+      "customerName": "Kansanshi Trading Ltd",
+      "customerEmail": "info@kansanshi.co.zm",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-02-20",
+          "reference": "INV-Z-2025-019",
+          "description": "Media placement package",
+          "debit": 2417000,
+          "credit": 0.0,
+          "balance": 2417000
+        }
+      ],
+      "closingBalance": 2417000,
+      "status": "Overdue"
+    },
+    {
+      "customerId": 2,
+      "customerName": "Zambezi Partners Co.",
+      "customerEmail": "finance@zambezi.co.zm",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-07-02",
+          "reference": "INV-Z-2025-027",
+          "description": "Television commercial airtime",
+          "debit": 1437500,
+          "credit": 0.0,
+          "balance": 1437500
+        },
+        {
+          "date": "2025-08-28",
+          "reference": "PMT-Z-2025-022",
+          "description": "Payment received - bank transfer",
+          "debit": 0.0,
+          "credit": 1437500,
+          "balance": 0.0
+        }
+      ],
+      "closingBalance": 0.0,
+      "status": "Settled"
+    },
+    {
+      "customerId": 3,
+      "customerName": "Copperbelt Group Ltd",
+      "customerEmail": "contact@copperbelt.co.zm",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-04-14",
+          "reference": "INV-Z-2025-031",
+          "description": "Broadcast airtime contract",
+          "debit": 203000,
+          "credit": 0.0,
+          "balance": 203000
+        },
+        {
+          "date": "2025-06-09",
+          "reference": "PMT-Z-2025-039",
+          "description": "Final payment received",
+          "debit": 0.0,
+          "credit": 203000,
+          "balance": 0.0
+        }
+      ],
+      "closingBalance": 0.0,
+      "status": "Settled"
+    },
+    {
+      "customerId": 4,
+      "customerName": "Zain Holdings PLC",
+      "customerEmail": "admin@zain.co.zm",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-03-28",
+          "reference": "INV-Z-2025-046",
+          "description": "Broadcast airtime contract",
+          "debit": 1640500,
+          "credit": 0.0,
+          "balance": 1640500
+        },
+        {
+          "date": "2025-04-28",
+          "reference": "PMT-Z-2025-041",
+          "description": "Partial advance payment received",
+          "debit": 0.0,
+          "credit": 769000,
+          "balance": 871500
+        }
+      ],
+      "closingBalance": 871500,
+      "status": "Partially Paid"
+    }
+  ],
+  "summary": {
+    "totalInvoiced": 5698000,
+    "totalReceived": 2409500,
+    "totalOutstanding": 3288500,
+    "totalOverdue": 3288500.0,
+    "agingSummary": {
+      "current": 0.0,
+      "days1to30": 0.0,
+      "days31to60": 0.0,
+      "days61to90": 0.0,
+      "over90days": 3288500.0
+    }
+  }
+}

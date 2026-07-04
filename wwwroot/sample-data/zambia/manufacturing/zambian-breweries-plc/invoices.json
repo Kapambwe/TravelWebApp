@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "invoiceNumber": "INV-2025-001",
+    "clientName": "Siame Industrial Solutions",
+    "description": "Cement Bags Supply",
+    "invoiceDate": "2024-11-01T00:00:00",
+    "dueDate": "2024-11-16T00:00:00",
+    "amount": 4260375.61,
+    "receivedAmount": 0.0,
+    "status": "Open",
+    "customerId": 9
+  },
+  {
+    "id": 2,
+    "invoiceNumber": "INV-2025-002",
+    "clientName": "Bwalya Industries Limited",
+    "description": "Industrial Chemicals",
+    "invoiceDate": "2024-12-09T00:00:00",
+    "dueDate": "2025-02-07T00:00:00",
+    "amount": 4345532.79,
+    "receivedAmount": 1420240.0,
+    "status": "PartiallyPaid",
+    "customerId": 7
+  },
+  {
+    "id": 3,
+    "invoiceNumber": "INV-2025-003",
+    "clientName": "Banda Industries Ltd",
+    "description": "Building Materials",
+    "invoiceDate": "2025-02-04T00:00:00",
+    "dueDate": "2025-03-21T00:00:00",
+    "amount": 1883800.41,
+    "receivedAmount": 0.0,
+    "status": "Open",
+    "customerId": 6
+  },
+  {
+    "id": 4,
+    "invoiceNumber": "INV-2025-004",
+    "clientName": "Bwalya Industries Limited",
+    "description": "Sugar Products",
+    "invoiceDate": "2024-10-03T00:00:00",
+    "dueDate": "2024-10-18T00:00:00",
+    "amount": 631304.84,
+    "receivedAmount": 0.0,
+    "status": "Open",
+    "customerId": 7
+  },
+  {
+    "id": 5,
+    "invoiceNumber": "INV-2025-005",
+    "clientName": "Banda Products Ltd",
+    "description": "Building Materials",
+    "invoiceDate": "2024-11-18T00:00:00",
+    "dueDate": "2025-01-02T00:00:00",
+    "amount": 3847522.76,
+    "receivedAmount": 0.0,
+    "status": "Open",
+    "customerId": 1
+  },
+  {
+    "id": 6,
+    "invoiceNumber": "INV-2025-006",
+    "clientName": "Chanda Industries Limited",
+    "description": "Sugar Products",
+    "invoiceDate": "2024-09-28T00:00:00",
+    "dueDate": "2024-10-28T00:00:00",
+    "amount": 3636952.9,
+    "receivedAmount": 3636952.9,
+    "status": "Paid",
+    "customerId": 11
+  },
+  {
+    "id": 7,
+    "invoiceNumber": "INV-2025-007",
+    "clientName": "Chanda Industries Limited",
+    "description": "Sugar Products",
+    "invoiceDate": "2024-09-21T00:00:00",
+    "dueDate": "2024-11-05T00:00:00",
+    "amount": 696737.39,
+    "receivedAmount": 696737.39,
+    "status": "Paid",
+    "customerId": 11
+  },
+  {
+    "id": 8,
+    "invoiceNumber": "INV-2025-008",
+    "clientName": "Chanda Industries Limited",
+    "description": "Cement Bags Supply",
+    "invoiceDate": "2024-11-29T00:00:00",
+    "dueDate": "2025-01-13T00:00:00",
+    "amount": 288273.26,
+    "receivedAmount": 0.0,
+    "status": "Open",
+    "customerId": 11
+  },
+  {
+    "id": 9,
+    "invoiceNumber": "INV-2025-009",
+    "clientName": "Banda Products Ltd",
+    "description": "Industrial Chemicals",
+    "invoiceDate": "2025-02-26T00:00:00",
+    "dueDate": "2025-04-27T00:00:00",
+    "amount": 2828165.59,
+    "receivedAmount": 0.0,
+    "status": "Open",
+    "customerId": 1
+  }
+]

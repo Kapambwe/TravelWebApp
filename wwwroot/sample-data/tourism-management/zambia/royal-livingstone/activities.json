@@ -1,0 +1,32 @@
+﻿[
+    {
+        "BasePrice":  18000,
+        "Capacity":  4,
+        "IsActive":  true,
+        "Id":  201,
+        "Name":  "Victoria Falls Helicopter Tour",
+        "Type":  0,
+        "Description":  "Scenic flight of angels over the falls.",
+        "Duration":  15
+    },
+    {
+        "BasePrice":  6500,
+        "Capacity":  30,
+        "IsActive":  true,
+        "Id":  202,
+        "Name":  "Zambezi Royal Dinner Cruise",
+        "Type":  5,
+        "Description":  "Luxury fine dining cruise at sunset.",
+        "Duration":  180
+    },
+    {
+        "BasePrice":  2500,
+        "Capacity":  20,
+        "IsActive":  true,
+        "Id":  203,
+        "Name":  "High Tea on the Deck",
+        "Type":  8,
+        "Description":  "Traditional British high tea overlooking the river.",
+        "Duration":  90
+    }
+]

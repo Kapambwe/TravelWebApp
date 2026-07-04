@@ -1,0 +1,79 @@
+﻿@page "/activities"
+@using TravelWebApp.Models
+@using TravelWebApp.Services
+@inject ITravelService TravelService
+@inject ICartService CartService
+@inject NotificationService NotificationService
+
+<div class="page-section">
+    <RadzenText TextStyle="TextStyle.H3">Experience Africa</RadzenText>
+    <RadzenText TextStyle="TextStyle.Body1" Style="color:var(--text-secondary);margin:8px 0 32px;">
+        Book unforgettable activities, from wild safaris to cultural tours.
+    </RadzenText>
+
+    <div class="activities-grid">
+        @foreach (var activity in _activities)
+        {
+            <RadzenCard Style="padding:0;overflow:hidden;border-radius:16px;">
+                <div style="background-image: url('images/@(activity.Image).jpg'); background-size:cover; background-position:center; height:200px; position:relative;">
+                    <div style="position:absolute;top:12px;right:12px;background:white;padding:4px 12px;border-radius:20px;font-weight:700;color:var(--primary);">
+                        R@((int)activity.Price)
+                    </div>
+                </div>
+                <div style="padding:20px;">
+                    <RadzenText TextStyle="TextStyle.H6">@activity.Name</RadzenText>
+                    <RadzenText TextStyle="TextStyle.Body2" Style="color:var(--text-secondary);margin:8px 0;">@activity.Description</RadzenText>
+                    
+                    <div style="display:flex;align-items:center;gap:12px;margin-bottom:16px;">
+                        <span style="font-size:0.875rem;color:var(--text-secondary);">â±ï¸ @activity.Duration</span>
+                        <span style="font-size:0.875rem;color:var(--text-secondary);">ðŸ‘¥ Max @activity.MaxPeople</span>
+                    </div>
+
+                    <RadzenButton Text="Add to Plan" Icon="add_shopping_cart" ButtonStyle="ButtonStyle.Primary" Variant="Variant.Outlined" Style="width:100%;" Click="@(() => AddToCart(activity))" />
+                </div>
+            </RadzenCard>
+        }
+    </div>
+</div>
+
+<style>
+    .activities-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 24px; }
+</style>
+
+@code {
+    private List<ActivityModel> _activities = [
+        new() { Name = "Sunrise Game Drive", Description = "Early morning safari through the heart of the park.", Price = 650, Duration = "4 Hours", MaxPeople = 10, Image = "gamedrive" },
+        new() { Name = "Walking Safari", Description = "Experience the bush on foot with an expert ranger.", Price = 850, Duration = "3 Hours", MaxPeople = 6, Image = "walkingsafari" },
+        new() { Name = "Zambezi Sunset Cruise", Description = "Relaxing boat cruise with drinks and snacks.", Price = 450, Duration = "2 Hours", MaxPeople = 20, Image = "sunsetcruise" },
+        new() { Name = "Hot Air Balloon Safari", Description = "Breathtaking views of the plains from above.", Price = 3500, Duration = "4 Hours", MaxPeople = 8, Image = "balloonsafari" },
+        new() { Name = "Village Cultural Tour", Description = "Meet the local community and learn their traditions.", Price = 300, Duration = "3 Hours", MaxPeople = 15, Image = "culturaltour" },
+        new() { Name = "Night Game Drive", Description = "Spot nocturnal wildlife under the stars.", Price = 550, Duration = "3 Hours", MaxPeople = 10, Image = "nightdrive" }
+    ];
+
+    private void AddToCart(ActivityModel activity)
+    {
+        CartService.AddItem(new CartItem
+        {
+            ProductId = 0,
+            Name = activity.Name,
+            Description = activity.Duration,
+            Price = activity.Price,
+            Quantity = 2, // Default to 2 people
+            Type = "Activity",
+            Date = DateTime.Today.AddDays(7)
+        });
+        
+        NotificationService.Notify(new NotificationMessage { Severity = NotificationSeverity.Success, Summary = "Activity Added", Detail = $"{activity.Name} added to your plan." });
+    }
+
+    private class ActivityModel
+    {
+        public string Name { get; set; } = "";
+        public string Description { get; set; } = "";
+        public decimal Price { get; set; }
+        public string Duration { get; set; } = "";
+        public int MaxPeople { get; set; }
+        public string Image { get; set; } = "";
+    }
+}
+

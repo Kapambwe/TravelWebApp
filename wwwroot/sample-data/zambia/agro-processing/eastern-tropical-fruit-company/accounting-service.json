@@ -1,0 +1,110 @@
+[
+  {
+    "id": "accounting-001",
+    "accountName": "Cash at Zanaco",
+    "accountType": "Asset",
+    "accountNumber": "1000",
+    "balance": 1254890.25,
+    "currency": "ZMW",
+    "description": "Operating cash balance for the group holding company"
+  },
+  {
+    "id": "accounting-002",
+    "accountName": "Trade Receivables - Domestic",
+    "accountType": "Asset",
+    "accountNumber": "1100",
+    "balance": 842330.10,
+    "currency": "ZMW",
+    "description": "Outstanding customer invoices from local distributors"
+  },
+  {
+    "id": "accounting-003",
+    "accountName": "Inventory - Fresh Produce",
+    "accountType": "Asset",
+    "accountNumber": "1200",
+    "balance": 2654300.00,
+    "currency": "ZMW",
+    "description": "Processed and packaged fruit inventory"
+  },
+  {
+    "id": "accounting-004",
+    "accountName": "Property, Plant and Equipment",
+    "accountType": "Asset",
+    "accountNumber": "1300",
+    "balance": 18450000.00,
+    "currency": "ZMW",
+    "description": "Production line, cold storage, vehicles and factory equipment"
+  },
+  {
+    "id": "accounting-005",
+    "accountName": "Trade Payables",
+    "accountType": "Liability",
+    "accountNumber": "2000",
+    "balance": 950220.80,
+    "currency": "ZMW",
+    "description": "Outstanding supplier invoices for packaging and logistics"
+  },
+  {
+    "id": "accounting-006",
+    "accountName": "VAT Payable",
+    "accountType": "Liability",
+    "accountNumber": "2100",
+    "balance": 188340.60,
+    "currency": "ZMW",
+    "description": "Output VAT due to ZRA"
+  },
+  {
+    "id": "accounting-007",
+    "accountName": "Short-Term Bank Loan",
+    "accountType": "Liability",
+    "accountNumber": "2200",
+    "balance": 5000000.00,
+    "currency": "ZMW",
+    "description": "Working capital facility used during peak harvest season"
+  },
+  {
+    "id": "accounting-008",
+    "accountName": "Share Capital",
+    "accountType": "Equity",
+    "accountNumber": "3000",
+    "balance": 15000000.00,
+    "currency": "ZMW",
+    "description": "Issued share capital for the parent company"
+  },
+  {
+    "id": "accounting-009",
+    "accountName": "Retained Earnings",
+    "accountType": "Equity",
+    "accountNumber": "3100",
+    "balance": 9824400.75,
+    "currency": "ZMW",
+    "description": "Accumulated retained earnings from prior years"
+  },
+  {
+    "id": "accounting-010",
+    "accountName": "Fruit Sales Revenue",
+    "accountType": "Income",
+    "accountNumber": "4000",
+    "balance": 42890000.00,
+    "currency": "ZMW",
+    "description": "Revenue from juice and fresh fruit sales"
+  },
+  {
+    "id": "accounting-011",
+    "accountName": "Processing Fees Revenue",
+    "accountType": "Income",
+    "accountNumber": "4100",
+    "balance": 3625000.00,
+    "currency": "ZMW",
+    "description": "Revenue from contract processing services"
+  },
+  {
+    "id": "accounting-012",
+    "accountName": "Cost of Sales",
+    "accountType": "Expense",
+    "accountNumber": "5000",
+    "balance": 24943000.00,
+    "currency": "ZMW",
+    "description": "Raw fruit, packaging materials and direct factory labour"
+  }
+]

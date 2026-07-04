@@ -1,0 +1,82 @@
+{
+  "companyName": "Konkola Copper Mines PLC",
+  "companyAddress": "Nchanga Mine Complex, Chingola, Copperbelt Province, Zambia",
+  "companyTaxId": "TPIN-1234567-KCM",
+  "generatedDate": "2025-09-30",
+  "currency": "ZMW",
+  "period": {"from": "2025-01-01", "to": "2025-09-30"},
+  "customerStatements": [
+    {
+      "customerId": 1,
+      "customerName": "Glencore International AG",
+      "customerEmail": "c.mulenga@glencore.co.zm",
+      "openingBalance": 0.00,
+      "transactions": [
+        {"date":"2025-01-15","reference":"INV-2025-001","description":"Copper Concentrate - 850MT","debit":12500000.00,"credit":0.00,"balance":12500000.00},
+        {"date":"2025-02-10","reference":"PAY-2025-001","description":"Payment received - Bank Transfer","debit":0.00,"credit":12500000.00,"balance":0.00}
+      ],
+      "closingBalance": 0.00,
+      "status": "Settled"
+    },
+    {
+      "customerId": 5,
+      "customerName": "ZCCM Investments Holdings PLC",
+      "customerEmail": "b.tembo@zccmih.co.zm",
+      "openingBalance": 0.00,
+      "transactions": [
+        {"date":"2025-02-15","reference":"INV-2025-005","description":"Copper Concentrate - Q1 2025","debit":9800000.00,"credit":0.00,"balance":9800000.00},
+        {"date":"2025-03-10","reference":"PAY-2025-008","description":"Partial Payment received - Bank Transfer","debit":0.00,"credit":3000000.00,"balance":6800000.00},
+        {"date":"2025-04-15","reference":"PAY-2025-009","description":"Partial Payment received - Bank Transfer","debit":0.00,"credit":2800000.00,"balance":4000000.00}
+      ],
+      "closingBalance": 4000000.00,
+      "status": "Outstanding"
+    },
+    {
+      "customerId": 6,
+      "customerName": "African Rainbow Minerals Ltd",
+      "customerEmail": "r.kumar@arm.co.za",
+      "openingBalance": 0.00,
+      "transactions": [
+        {"date":"2025-01-05","reference":"INV-2025-006","description":"Blister Copper Export","debit":11300000.00,"credit":0.00,"balance":11300000.00},
+        {"date":"2025-02-25","reference":"PAY-2025-010","description":"Partial Payment received - Bank Transfer","debit":0.00,"credit":3000000.00,"balance":8300000.00}
+      ],
+      "closingBalance": 8300000.00,
+      "status": "Overdue"
+    },
+    {
+      "customerId": 3,
+      "customerName": "China Copper Holdings",
+      "customerEmail": "zhang.wei@chinacopperhldg.com",
+      "openingBalance": 0.00,
+      "transactions": [
+        {"date":"2025-02-01","reference":"INV-2025-003","description":"Copper Cathode Supply","debit":14200000.00,"credit":0.00,"balance":14200000.00}
+      ],
+      "closingBalance": 14200000.00,
+      "status": "Overdue"
+    },
+    {
+      "customerId": 12,
+      "customerName": "Copper Alloys Europe BV",
+      "customerEmail": "e.vandenberg@copperalloys.eu",
+      "openingBalance": 0.00,
+      "transactions": [
+        {"date":"2025-04-05","reference":"INV-2025-012","description":"Zinc Concentrate Supply","debit":6450000.00,"credit":0.00,"balance":6450000.00}
+      ],
+      "closingBalance": 6450000.00,
+      "status": "Overdue"
+    }
+  ],
+  "summary": {
+    "totalInvoiced": 54250000,
+    "totalReceived": 21300000,
+    "totalOutstanding": 32950000,
+    "totalOverdue": 28950000,
+    "agingSummary": {
+      "current": 0,
+      "days1to30": 0,
+      "days31to60": 4000000,
+      "days61to90": 0,
+      "over90days": 28950000
+    }
+  }
+}

@@ -1,0 +1,218 @@
+[
+  {
+    "id": 1,
+    "estimateNumber": "EST-2025-001",
+    "customerId": 4,
+    "customerName": "Chanda Transport Co.",
+    "estimateDateDaysAgo": 38,
+    "expirationDateDaysFromNow": 18,
+    "status": "Accepted",
+    "subTotal": 634446.36,
+    "taxRate": 0,
+    "taxAmount": 0.0,
+    "total": 634446.36,
+    "terms": "Net 45",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 38,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Air Cargo Haulage",
+        "quantity": 3,
+        "unitPrice": 211482.12,
+        "amount": 634446.36,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 37
+  },
+  {
+    "id": 2,
+    "estimateNumber": "EST-2025-002",
+    "customerId": 3,
+    "customerName": "Sakala Freight Enterprises",
+    "estimateDateDaysAgo": 42,
+    "expirationDateDaysFromNow": 27,
+    "status": "Declined",
+    "subTotal": 3545233.48,
+    "taxRate": 18,
+    "taxAmount": 638142.03,
+    "total": 4183375.51,
+    "terms": "Net 15",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 42,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Air Cargo Haulage",
+        "quantity": 4,
+        "unitPrice": 886308.37,
+        "amount": 3545233.48,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 41
+  },
+  {
+    "id": 3,
+    "estimateNumber": "EST-2025-003",
+    "customerId": 14,
+    "customerName": "Banda Haulage Holdings",
+    "estimateDateDaysAgo": 18,
+    "expirationDateDaysFromNow": 17,
+    "status": "Declined",
+    "subTotal": 3120193.82,
+    "taxRate": 18,
+    "taxAmount": 561634.89,
+    "total": 3681828.71,
+    "terms": "Net 45",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 18,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Warehousing & Storage",
+        "quantity": 4,
+        "unitPrice": 780048.45,
+        "amount": 3120193.82,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 17
+  },
+  {
+    "id": 4,
+    "estimateNumber": "EST-2025-004",
+    "customerId": 10,
+    "customerName": "Mutale Freight Holdings",
+    "estimateDateDaysAgo": 8,
+    "expirationDateDaysFromNow": 20,
+    "status": "Accepted",
+    "subTotal": 360938.55,
+    "taxRate": 18,
+    "taxAmount": 64968.94,
+    "total": 425907.49,
+    "terms": "Net 45",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 8,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Port Handling Services",
+        "quantity": 5,
+        "unitPrice": 72187.71,
+        "amount": 360938.55,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 7
+  },
+  {
+    "id": 5,
+    "estimateNumber": "EST-2025-005",
+    "customerId": 11,
+    "customerName": "Mwamba Freight Limited",
+    "estimateDateDaysAgo": 28,
+    "expirationDateDaysFromNow": 21,
+    "status": "Declined",
+    "subTotal": 2168714.44,
+    "taxRate": 15,
+    "taxAmount": 325307.17,
+    "total": 2494021.61,
+    "terms": "Net 15",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 28,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Warehousing & Storage",
+        "quantity": 1,
+        "unitPrice": 2168714.44,
+        "amount": 2168714.44,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 27
+  },
+  {
+    "id": 6,
+    "estimateNumber": "EST-2025-006",
+    "customerId": 8,
+    "customerName": "Mwale Transport Solutions",
+    "estimateDateDaysAgo": 60,
+    "expirationDateDaysFromNow": 23,
+    "status": "Expired",
+    "subTotal": 446246.3,
+    "taxRate": 0,
+    "taxAmount": 0.0,
+    "total": 446246.3,
+    "terms": "Net 15",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 60,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Port Handling Services",
+        "quantity": 4,
+        "unitPrice": 111561.57,
+        "amount": 446246.3,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 59
+  },
+  {
+    "id": 7,
+    "estimateNumber": "EST-2025-007",
+    "customerId": 8,
+    "customerName": "Mwale Transport Solutions",
+    "estimateDateDaysAgo": 45,
+    "expirationDateDaysFromNow": 37,
+    "status": "Accepted",
+    "subTotal": 2563444.52,
+    "taxRate": 15,
+    "taxAmount": 384516.68,
+    "total": 2947961.2,
+    "terms": "Net 15",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 45,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Cross-Border Transport",
+        "quantity": 3,
+        "unitPrice": 854481.51,
+        "amount": 2563444.52,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 44
+  },
+  {
+    "id": 8,
+    "estimateNumber": "EST-2025-008",
+    "customerId": 8,
+    "customerName": "Mwale Transport Solutions",
+    "estimateDateDaysAgo": 5,
+    "expirationDateDaysFromNow": 34,
+    "status": "Open",
+    "subTotal": 3623195.04,
+    "taxRate": 18,
+    "taxAmount": 652175.11,
+    "total": 4275370.15,
+    "terms": "Net 30",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 5,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Port Handling Services",
+        "quantity": 1,
+        "unitPrice": 3623195.04,
+        "amount": 3623195.04,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 4
+  }
+]

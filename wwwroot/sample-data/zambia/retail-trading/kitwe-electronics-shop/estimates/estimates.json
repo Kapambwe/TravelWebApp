@@ -1,0 +1,163 @@
+[
+  {
+    "id": 1,
+    "estimateNumber": "EST-2025-001",
+    "customerId": 10,
+    "customerName": "Lungu Traders Inc.",
+    "estimateDateDaysAgo": 25,
+    "expirationDateDaysFromNow": 27,
+    "status": "Sent",
+    "subTotal": 2116089.49,
+    "taxRate": 15,
+    "taxAmount": 317413.42,
+    "total": 2433502.91,
+    "terms": "Net 15",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 25,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Clothing & Textiles",
+        "quantity": 3,
+        "unitPrice": 705363.16,
+        "amount": 2116089.49,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 24
+  },
+  {
+    "id": 2,
+    "estimateNumber": "EST-2025-002",
+    "customerId": 7,
+    "customerName": "Bwalya Commerce Holdings",
+    "estimateDateDaysAgo": 57,
+    "expirationDateDaysFromNow": 32,
+    "status": "Accepted",
+    "subTotal": 1432499.77,
+    "taxRate": 16,
+    "taxAmount": 229199.96,
+    "total": 1661699.73,
+    "terms": "Net 15",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 57,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Clothing & Textiles",
+        "quantity": 1,
+        "unitPrice": 1432499.77,
+        "amount": 1432499.77,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 56
+  },
+  {
+    "id": 3,
+    "estimateNumber": "EST-2025-003",
+    "customerId": 7,
+    "customerName": "Bwalya Commerce Holdings",
+    "estimateDateDaysAgo": 52,
+    "expirationDateDaysFromNow": 22,
+    "status": "Declined",
+    "subTotal": 713820.68,
+    "taxRate": 16,
+    "taxAmount": 114211.31,
+    "total": 828031.99,
+    "terms": "Net 30",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 52,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Clothing & Textiles",
+        "quantity": 2,
+        "unitPrice": 356910.34,
+        "amount": 713820.68,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 51
+  },
+  {
+    "id": 4,
+    "estimateNumber": "EST-2025-004",
+    "customerId": 3,
+    "customerName": "Musonda Traders Enterprises",
+    "estimateDateDaysAgo": 53,
+    "expirationDateDaysFromNow": 44,
+    "status": "Declined",
+    "subTotal": 1174914.51,
+    "taxRate": 0,
+    "taxAmount": 0.0,
+    "total": 1174914.51,
+    "terms": "Net 15",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 53,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Auto Parts",
+        "quantity": 3,
+        "unitPrice": 391638.17,
+        "amount": 1174914.51,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 52
+  },
+  {
+    "id": 5,
+    "estimateNumber": "EST-2025-005",
+    "customerId": 1,
+    "customerName": "Musonda Merchants Co.",
+    "estimateDateDaysAgo": 59,
+    "expirationDateDaysFromNow": 31,
+    "status": "Draft",
+    "subTotal": 3638083.34,
+    "taxRate": 0,
+    "taxAmount": 0.0,
+    "total": 3638083.34,
+    "terms": "Net 45",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 59,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Craft & Curio Products",
+        "quantity": 4,
+        "unitPrice": 909520.83,
+        "amount": 3638083.34,
+        "itemType": "Service"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "estimateNumber": "EST-2025-006",
+    "customerId": 6,
+    "customerName": "Banda Retail Holdings",
+    "estimateDateDaysAgo": 34,
+    "expirationDateDaysFromNow": 30,
+    "status": "Declined",
+    "subTotal": 1757275.18,
+    "taxRate": 18,
+    "taxAmount": 316309.53,
+    "total": 2073584.71,
+    "terms": "Net 15",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 34,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Hardware Products",
+        "quantity": 1,
+        "unitPrice": 1757275.18,
+        "amount": 1757275.18,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 33
+  }
+]

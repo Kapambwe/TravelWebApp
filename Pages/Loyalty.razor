@@ -1,0 +1,97 @@
+﻿@page "/loyalty"
+@using TravelWebApp.Models
+@using TravelWebApp.Services
+@inject ITravelService TravelService
+
+<div class="page-section">
+    <RadzenText TextStyle="TextStyle.H3">Loyalty & Rewards</RadzenText>
+    
+    <RadzenRow Style="margin-top:32px;">
+        <RadzenColumn Size="4" SizeMD="12">
+            <RadzenCard Style="background:linear-gradient(135deg,#FEBB02,#C9A84C);color:#1A1A2E;padding:32px;border-radius:20px;text-align:center;">
+                <RadzenText TextStyle="TextStyle.Caption" Style="color:#1A1A2E;opacity:0.8;">CURRENT BALANCE</RadzenText>
+                <div style="font-size:3.5rem;font-weight:800;margin:8px 0;">@_profile?.LoyaltyPoints</div>
+                <RadzenText TextStyle="TextStyle.H6" Style="color:#1A1A2E;">@_profile?.MembershipTier Tier</RadzenText>
+                
+                <div style="margin-top:24px;background:rgba(255,255,255,0.3);padding:12px;border-radius:12px;">
+                    <RadzenText TextStyle="TextStyle.Caption">NEXT TIER: PLATINUM</RadzenText>
+                    <RadzenProgressBar Value="70" ShowValue="false" Style="margin-top:8px;height:8px;" />
+                    <RadzenText TextStyle="TextStyle.Caption" Style="display:block;margin-top:4px;">550 points to go</RadzenText>
+                </div>
+            </RadzenCard>
+        </RadzenColumn>
+        
+        <RadzenColumn Size="8" SizeMD="12">
+            <RadzenCard Style="padding:24px;border-radius:20px;">
+                <RadzenText TextStyle="TextStyle.H5" Style="margin-bottom:20px;">Points History</RadzenText>
+                
+                <RadzenDataGrid Data="@_history" TItem="PointsEntry" AllowPaging="true" PageSize="5">
+                    <Columns>
+                        <RadzenDataGridColumn TItem="PointsEntry" Property="Date" Title="Date" FormatString="{0:dd MMM yyyy}" Width="120px" />
+                        <RadzenDataGridColumn TItem="PointsEntry" Property="Description" Title="Activity" />
+                        <RadzenDataGridColumn TItem="PointsEntry" Property="Points" Title="Points">
+                            <Template Context="entry">
+                                <span style="font-weight:700;color:@(entry.Points > 0 ? "var(--success)" : "var(--danger)")">
+                                    @(entry.Points > 0 ? "+" : "")@entry.Points
+                                </span>
+                            </Template>
+                        </RadzenDataGridColumn>
+                    </Columns>
+                </RadzenDataGrid>
+            </RadzenCard>
+        </RadzenColumn>
+    </RadzenRow>
+    
+    <RadzenText TextStyle="TextStyle.H4" Style="margin:48px 0 24px;">Available Rewards</RadzenText>
+    <RadzenRow>
+        @foreach (var reward in _rewards)
+        {
+            <RadzenColumn Size="4" SizeMD="12">
+                <RadzenCard Style="padding:24px;text-align:center;border-radius:16px;">
+                    <div style="font-size:2.5rem;margin-bottom:12px;">@reward.Icon</div>
+                    <RadzenText TextStyle="TextStyle.H6">@reward.Title</RadzenText>
+                    <RadzenText TextStyle="TextStyle.Body2" Style="color:var(--text-secondary);margin:8px 0 20px;">@reward.Description</RadzenText>
+                    <RadzenButton Text="@($"{reward.Cost} Points")" ButtonStyle="ButtonStyle.Primary" Variant="Variant.Outlined" Style="width:100%;" />
+                </RadzenCard>
+            </RadzenColumn>
+        }
+    </RadzenRow>
+</div>
+
+@code {
+    private UserProfile? _profile;
+    private List<PointsEntry> _history = [
+        new() { Date = DateTime.Today.AddDays(-5), Description = "Booking: The Table Bay Hotel", Points = 250 },
+        new() { Date = DateTime.Today.AddDays(-20), Description = "Booking: Zanzibar White Sands", Points = 1200 },
+        new() { Date = DateTime.Today.AddDays(-45), Description = "Review: Kruger Shalati", Points = 50 },
+        new() { Date = DateTime.Today.AddDays(-60), Description = "Reward Redeemed: Spa Voucher", Points = -500 },
+        new() { Date = DateTime.Today.AddDays(-100), Description = "Welcome Bonus", Points = 1000 }
+    ];
+    
+    private List<RewardModel> _rewards = [
+        new() { Title = "R500 Discount", Description = "Apply to your next booking", Cost = 1000, Icon = "ðŸ’¸" },
+        new() { Title = "Free Game Drive", Description = "Complimentary drive for two", Cost = 2500, Icon = "ðŸ¦" },
+        new() { Title = "Lounge Access", Description = "One-time pass for airport lounge", Cost = 1500, Icon = "ðŸ›‹ï¸" }
+    ];
+
+    protected override async Task OnInitializedAsync()
+    {
+        _profile = await TravelService.GetUserProfileAsync("sarah@example.com");
+    }
+
+    private class PointsEntry
+    {
+        public DateTime Date { get; set; }
+        public string Description { get; set; } = "";
+        public int Points { get; set; }
+    }
+    
+    private class RewardModel
+    {
+        public string Title { get; set; } = "";
+        public string Description { get; set; } = "";
+        public int Cost { get; set; }
+        public string Icon { get; set; } = "";
+    }
+}
+

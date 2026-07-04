@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "billNumber": "BILL-2025-001",
+    "vendorName": "Musonda Trading Solutions",
+    "description": "Warehouse Rent",
+    "billDate": "2025-01-23T00:00:00",
+    "dueDate": "2025-02-22T00:00:00",
+    "amount": 2177050.95,
+    "paidAmount": 1134683.36,
+    "status": "PartiallyPaid"
+  },
+  {
+    "id": 2,
+    "billNumber": "BILL-2025-002",
+    "vendorName": "Mwamba Merchants Co.",
+    "description": "Store Maintenance",
+    "billDate": "2025-02-18T00:00:00",
+    "dueDate": "2025-03-20T00:00:00",
+    "amount": 3109905.26,
+    "paidAmount": 3109905.26,
+    "status": "Paid"
+  },
+  {
+    "id": 3,
+    "billNumber": "BILL-2025-003",
+    "vendorName": "Zulu Retail Solutions",
+    "description": "Warehouse Rent",
+    "billDate": "2024-12-11T00:00:00",
+    "dueDate": "2025-01-10T00:00:00",
+    "amount": 3288698.36,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 4,
+    "billNumber": "BILL-2025-004",
+    "vendorName": "Mulenga Traders Limited",
+    "description": "Warehouse Rent",
+    "billDate": "2025-03-04T00:00:00",
+    "dueDate": "2025-03-19T00:00:00",
+    "amount": 677265.92,
+    "paidAmount": 677265.92,
+    "status": "Paid"
+  },
+  {
+    "id": 5,
+    "billNumber": "BILL-2025-005",
+    "vendorName": "Mwamba Merchants Group",
+    "description": "Display Fixtures",
+    "billDate": "2024-10-05T00:00:00",
+    "dueDate": "2024-11-19T00:00:00",
+    "amount": 620907.24,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 6,
+    "billNumber": "BILL-2025-006",
+    "vendorName": "Zimba Commerce Enterprises",
+    "description": "Import Duties & Levies",
+    "billDate": "2025-01-19T00:00:00",
+    "dueDate": "2025-02-03T00:00:00",
+    "amount": 248947.74,
+    "paidAmount": 131142.13,
+    "status": "PartiallyPaid"
+  },
+  {
+    "id": 7,
+    "billNumber": "BILL-2025-007",
+    "vendorName": "Musonda Trading Solutions",
+    "description": "Display Fixtures",
+    "billDate": "2025-02-10T00:00:00",
+    "dueDate": "2025-02-25T00:00:00",
+    "amount": 2367083.58,
+    "paidAmount": 2367083.58,
+    "status": "Paid"
+  },
+  {
+    "id": 8,
+    "billNumber": "BILL-2025-008",
+    "vendorName": "Zulu Retail Solutions",
+    "description": "Store Maintenance",
+    "billDate": "2024-12-09T00:00:00",
+    "dueDate": "2024-12-24T00:00:00",
+    "amount": 1689920.59,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 9,
+    "billNumber": "BILL-2025-009",
+    "vendorName": "Zulu Commerce Co.",
+    "description": "Display Fixtures",
+    "billDate": "2025-01-18T00:00:00",
+    "dueDate": "2025-03-04T00:00:00",
+    "amount": 401086.66,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 10,
+    "billNumber": "BILL-2025-010",
+    "vendorName": "Zimba Merchants Enterprises",
+    "description": "Store Maintenance",
+    "billDate": "2025-02-12T00:00:00",
+    "dueDate": "2025-03-14T00:00:00",
+    "amount": 3475219.94,
+    "paidAmount": 0.0,
+    "status": "Overdue"
+  },
+  {
+    "id": 11,
+    "billNumber": "BILL-2025-011",
+    "vendorName": "Zulu Retail Solutions",
+    "description": "Product Purchase",
+    "billDate": "2025-01-04T00:00:00",
+    "dueDate": "2025-01-19T00:00:00",
+    "amount": 1964709.57,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 12,
+    "billNumber": "BILL-2025-012",
+    "vendorName": "Mwamba Merchants Co.",
+    "description": "Warehouse Rent",
+    "billDate": "2024-11-29T00:00:00",
+    "dueDate": "2024-12-29T00:00:00",
+    "amount": 441622.35,
+    "paidAmount": 0.0,
+    "status": "Open"
+  }
+]

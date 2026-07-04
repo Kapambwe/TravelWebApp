@@ -1,0 +1,302 @@
+[
+  {
+    "id": "prod-001",
+    "productName": "Warehousing - Variant 1",
+    "description": "Quality Warehousing product",
+    "category": "Operational",
+    "unitPrice": 8636.04,
+    "quantityInStock": 276,
+    "reorderLevel": 16,
+    "supplier": "Shipping Lines"
+  },
+  {
+    "id": "prod-002",
+    "productName": "Port Services - Variant 2",
+    "description": "Quality Cargo Handling product",
+    "category": "Operational",
+    "unitPrice": 1213.64,
+    "quantityInStock": 126,
+    "reorderLevel": 48,
+    "supplier": "Stevedoring Companies"
+  },
+  {
+    "id": "prod-003",
+    "productName": "Cargo Handling - Variant 3",
+    "description": "Quality Warehousing product",
+    "category": "Operational",
+    "unitPrice": 1606.28,
+    "quantityInStock": 264,
+    "reorderLevel": 21,
+    "supplier": "Stevedoring Companies"
+  },
+  {
+    "id": "prod-004",
+    "productName": "Container Management - Variant 4",
+    "description": "Quality Port Services product",
+    "category": "Operational",
+    "unitPrice": 5865.57,
+    "quantityInStock": 491,
+    "reorderLevel": 15,
+    "supplier": "Equipment Leasing"
+  },
+  {
+    "id": "prod-005",
+    "productName": "Warehousing - Variant 5",
+    "description": "Quality Warehousing product",
+    "category": "Operational",
+    "unitPrice": 2542.82,
+    "quantityInStock": 309,
+    "reorderLevel": 32,
+    "supplier": "Stevedoring Companies"
+  },
+  {
+    "id": "prod-006",
+    "productName": "Container Management - Variant 6",
+    "description": "Quality Container Management product",
+    "category": "Operational",
+    "unitPrice": 1907.49,
+    "quantityInStock": 227,
+    "reorderLevel": 16,
+    "supplier": "Shipping Lines"
+  },
+  {
+    "id": "prod-007",
+    "productName": "Warehousing - Variant 7",
+    "description": "Quality Cargo Handling product",
+    "category": "Operational",
+    "unitPrice": 5736.61,
+    "quantityInStock": 39,
+    "reorderLevel": 41,
+    "supplier": "Stevedoring Companies"
+  },
+  {
+    "id": "prod-008",
+    "productName": "Port Services - Variant 8",
+    "description": "Quality Container Management product",
+    "category": "Operational",
+    "unitPrice": 4052.07,
+    "quantityInStock": 32,
+    "reorderLevel": 48,
+    "supplier": "Equipment Leasing"
+  },
+  {
+    "id": "prod-009",
+    "productName": "Port Services - Variant 9",
+    "description": "Quality Warehousing product",
+    "category": "Operational",
+    "unitPrice": 6736.55,
+    "quantityInStock": 69,
+    "reorderLevel": 42,
+    "supplier": "Stevedoring Companies"
+  },
+  {
+    "id": "prod-010",
+    "productName": "Container Management - Variant 10",
+    "description": "Quality Container Management product",
+    "category": "Operational",
+    "unitPrice": 6325.35,
+    "quantityInStock": 433,
+    "reorderLevel": 15,
+    "supplier": "Shipping Lines"
+  },
+  {
+    "id": "prod-011",
+    "productName": "Port Services - Variant 11",
+    "description": "Quality Port Services product",
+    "category": "Operational",
+    "unitPrice": 5387.02,
+    "quantityInStock": 103,
+    "reorderLevel": 22,
+    "supplier": "Equipment Leasing"
+  },
+  {
+    "id": "prod-012",
+    "productName": "Cargo Handling - Variant 12",
+    "description": "Quality Warehousing product",
+    "category": "Operational",
+    "unitPrice": 1600.11,
+    "quantityInStock": 225,
+    "reorderLevel": 14,
+    "supplier": "Shipping Lines"
+  },
+  {
+    "id": "prod-013",
+    "productName": "Port Services - Variant 13",
+    "description": "Quality Cargo Handling product",
+    "category": "Operational",
+    "unitPrice": 9870.25,
+    "quantityInStock": 291,
+    "reorderLevel": 42,
+    "supplier": "Shipping Lines"
+  },
+  {
+    "id": "prod-014",
+    "productName": "Cargo Handling - Variant 14",
+    "description": "Quality Cargo Handling product",
+    "category": "Operational",
+    "unitPrice": 1682.06,
+    "quantityInStock": 72,
+    "reorderLevel": 37,
+    "supplier": "Equipment Leasing"
+  },
+  {
+    "id": "prod-015",
+    "productName": "Container Management - Variant 15",
+    "description": "Quality Container Management product",
+    "category": "Operational",
+    "unitPrice": 7779.84,
+    "quantityInStock": 229,
+    "reorderLevel": 43,
+    "supplier": "Shipping Lines"
+  },
+  {
+    "id": "prod-016",
+    "productName": "Warehousing - Variant 16",
+    "description": "Quality Container Management product",
+    "category": "Operational",
+    "unitPrice": 8381.46,
+    "quantityInStock": 198,
+    "reorderLevel": 39,
+    "supplier": "Equipment Leasing"
+  },
+  {
+    "id": "prod-017",
+    "productName": "Container Management - Variant 17",
+    "description": "Quality Warehousing product",
+    "category": "Operational",
+    "unitPrice": 5194.31,
+    "quantityInStock": 105,
+    "reorderLevel": 10,
+    "supplier": "Equipment Leasing"
+  },
+  {
+    "id": "prod-018",
+    "productName": "Port Services - Variant 18",
+    "description": "Quality Cargo Handling product",
+    "category": "Operational",
+    "unitPrice": 3392.52,
+    "quantityInStock": 433,
+    "reorderLevel": 34,
+    "supplier": "Shipping Lines"
+  },
+  {
+    "id": "prod-019",
+    "productName": "Cargo Handling - Variant 19",
+    "description": "Quality Cargo Handling product",
+    "category": "Operational",
+    "unitPrice": 1727.58,
+    "quantityInStock": 216,
+    "reorderLevel": 45,
+    "supplier": "Stevedoring Companies"
+  },
+  {
+    "id": "prod-020",
+    "productName": "Cargo Handling - Variant 20",
+    "description": "Quality Cargo Handling product",
+    "category": "Operational",
+    "unitPrice": 452.1,
+    "quantityInStock": 276,
+    "reorderLevel": 40,
+    "supplier": "Equipment Leasing"
+  },
+  {
+    "id": "prod-021",
+    "productName": "Port Services - Variant 21",
+    "description": "Quality Cargo Handling product",
+    "category": "Operational",
+    "unitPrice": 6592.73,
+    "quantityInStock": 462,
+    "reorderLevel": 23,
+    "supplier": "Equipment Leasing"
+  },
+  {
+    "id": "prod-022",
+    "productName": "Warehousing - Variant 22",
+    "description": "Quality Cargo Handling product",
+    "category": "Operational",
+    "unitPrice": 8149.2,
+    "quantityInStock": 308,
+    "reorderLevel": 34,
+    "supplier": "Shipping Lines"
+  },
+  {
+    "id": "prod-023",
+    "productName": "Cargo Handling - Variant 23",
+    "description": "Quality Port Services product",
+    "category": "Operational",
+    "unitPrice": 3407.7,
+    "quantityInStock": 118,
+    "reorderLevel": 45,
+    "supplier": "Equipment Leasing"
+  },
+  {
+    "id": "prod-024",
+    "productName": "Cargo Handling - Variant 24",
+    "description": "Quality Port Services product",
+    "category": "Operational",
+    "unitPrice": 2327.54,
+    "quantityInStock": 378,
+    "reorderLevel": 46,
+    "supplier": "Equipment Leasing"
+  },
+  {
+    "id": "prod-025",
+    "productName": "Cargo Handling - Variant 25",
+    "description": "Quality Cargo Handling product",
+    "category": "Operational",
+    "unitPrice": 1507.48,
+    "quantityInStock": 255,
+    "reorderLevel": 40,
+    "supplier": "Shipping Lines"
+  },
+  {
+    "id": "prod-026",
+    "productName": "Cargo Handling - Variant 26",
+    "description": "Quality Container Management product",
+    "category": "Operational",
+    "unitPrice": 3044.71,
+    "quantityInStock": 329,
+    "reorderLevel": 22,
+    "supplier": "Shipping Lines"
+  },
+  {
+    "id": "prod-027",
+    "productName": "Container Management - Variant 27",
+    "description": "Quality Port Services product",
+    "category": "Operational",
+    "unitPrice": 7582.38,
+    "quantityInStock": 483,
+    "reorderLevel": 37,
+    "supplier": "Stevedoring Companies"
+  },
+  {
+    "id": "prod-028",
+    "productName": "Warehousing - Variant 28",
+    "description": "Quality Port Services product",
+    "category": "Operational",
+    "unitPrice": 5701.93,
+    "quantityInStock": 487,
+    "reorderLevel": 20,
+    "supplier": "Equipment Leasing"
+  },
+  {
+    "id": "prod-029",
+    "productName": "Port Services - Variant 29",
+    "description": "Quality Container Management product",
+    "category": "Operational",
+    "unitPrice": 4188.03,
+    "quantityInStock": 438,
+    "reorderLevel": 14,
+    "supplier": "Equipment Leasing"
+  },
+  {
+    "id": "prod-030",
+    "productName": "Container Management - Variant 30",
+    "description": "Quality Port Services product",
+    "category": "Operational",
+    "unitPrice": 1359.38,
+    "quantityInStock": 459,
+    "reorderLevel": 24,
+    "supplier": "Stevedoring Companies"
+  }
+]

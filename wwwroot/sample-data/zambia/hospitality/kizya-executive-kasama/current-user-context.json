@@ -1,0 +1,21 @@
+{
+    "userId":  "user-Kizya Kasama-001",
+    "userName":  "accounts@kizyalodge.co.zm",
+    "fullName":  "Kizya Kasama",
+    "roles":  [
+                  "General Manager",
+                  "Lodge Host",
+                  "Head of Finance"
+              ],
+    "companyId":  "kelk-001",
+    "companyName":  "Kizya Executive Lodge Kasama",
+    "permissions":  [
+                        "ViewReports",
+                        "CreateTransactions",
+                        "ApproveBudgets",
+                        "ManageBookings",
+                        "ManageRooms",
+                        "ViewOccupancy",
+                        "ManageAmenities"
+                    ]
+}

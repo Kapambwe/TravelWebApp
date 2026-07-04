@@ -1,0 +1,302 @@
+[
+  {
+    "id": "vendor-001",
+    "vendorName": "Infrastructure Providers 1",
+    "email": "vendor1@supplier.zm",
+    "phone": "+260-217-199862",
+    "address": "Head Office, Simon Mwale Road, Lusaka",
+    "taxId": "TPIN-9295280005",
+    "paymentTerms": "NET30",
+    "accountBalance": 46589
+  },
+  {
+    "id": "vendor-002",
+    "vendorName": "Satellite Operators 2",
+    "email": "vendor2@supplier.zm",
+    "phone": "+260-094-407740",
+    "address": "Head Office, Simon Mwale Road, Lusaka",
+    "taxId": "TPIN-5684233029",
+    "paymentTerms": "COD",
+    "accountBalance": 33320
+  },
+  {
+    "id": "vendor-003",
+    "vendorName": "Equipment Manufacturers 3",
+    "email": "vendor3@supplier.zm",
+    "phone": "+260-095-394219",
+    "address": "Head Office, Simon Mwale Road, Lusaka",
+    "taxId": "TPIN-2191362492",
+    "paymentTerms": "NET30",
+    "accountBalance": 2217
+  },
+  {
+    "id": "vendor-004",
+    "vendorName": "Equipment Manufacturers 4",
+    "email": "vendor4@supplier.zm",
+    "phone": "+260-096-931241",
+    "address": "Head Office, Simon Mwale Road, Lusaka",
+    "taxId": "TPIN-9172597928",
+    "paymentTerms": "NET60",
+    "accountBalance": 5598
+  },
+  {
+    "id": "vendor-005",
+    "vendorName": "Satellite Operators 5",
+    "email": "vendor5@supplier.zm",
+    "phone": "+260-217-159434",
+    "address": "Head Office, Simon Mwale Road, Lusaka",
+    "taxId": "TPIN-1900749326",
+    "paymentTerms": "COD",
+    "accountBalance": 6872
+  },
+  {
+    "id": "vendor-006",
+    "vendorName": "Infrastructure Providers 6",
+    "email": "vendor6@supplier.zm",
+    "phone": "+260-217-311731",
+    "address": "Head Office, Simon Mwale Road, Lusaka",
+    "taxId": "TPIN-3681271845",
+    "paymentTerms": "NET30",
+    "accountBalance": 26869
+  },
+  {
+    "id": "vendor-007",
+    "vendorName": "Equipment Manufacturers 7",
+    "email": "vendor7@supplier.zm",
+    "phone": "+260-094-124555",
+    "address": "Head Office, Simon Mwale Road, Lusaka",
+    "taxId": "TPIN-7137656371",
+    "paymentTerms": "COD",
+    "accountBalance": 29270
+  },
+  {
+    "id": "vendor-008",
+    "vendorName": "Equipment Manufacturers 8",
+    "email": "vendor8@supplier.zm",
+    "phone": "+260-095-336772",
+    "address": "Head Office, Simon Mwale Road, Lusaka",
+    "taxId": "TPIN-7222845802",
+    "paymentTerms": "NET60",
+    "accountBalance": 37927
+  },
+  {
+    "id": "vendor-009",
+    "vendorName": "Equipment Manufacturers 9",
+    "email": "vendor9@supplier.zm",
+    "phone": "+260-095-820543",
+    "address": "Head Office, Simon Mwale Road, Lusaka",
+    "taxId": "TPIN-4153524538",
+    "paymentTerms": "COD",
+    "accountBalance": 13448
+  },
+  {
+    "id": "vendor-010",
+    "vendorName": "Infrastructure Providers 10",
+    "email": "vendor10@supplier.zm",
+    "phone": "+260-096-743575",
+    "address": "Head Office, Simon Mwale Road, Lusaka",
+    "taxId": "TPIN-8944120729",
+    "paymentTerms": "NET60",
+    "accountBalance": 41446
+  },
+  {
+    "id": "vendor-011",
+    "vendorName": "Satellite Operators 11",
+    "email": "vendor11@supplier.zm",
+    "phone": "+260-095-203352",
+    "address": "Head Office, Simon Mwale Road, Lusaka",
+    "taxId": "TPIN-2454970800",
+    "paymentTerms": "COD",
+    "accountBalance": 18143
+  },
+  {
+    "id": "vendor-012",
+    "vendorName": "Satellite Operators 12",
+    "email": "vendor12@supplier.zm",
+    "phone": "+260-096-616668",
+    "address": "Head Office, Simon Mwale Road, Lusaka",
+    "taxId": "TPIN-8861227518",
+    "paymentTerms": "COD",
+    "accountBalance": 13496
+  },
+  {
+    "id": "vendor-013",
+    "vendorName": "Satellite Operators 13",
+    "email": "vendor13@supplier.zm",
+    "phone": "+260-094-158663",
+    "address": "Head Office, Simon Mwale Road, Lusaka",
+    "taxId": "TPIN-4708915787",
+    "paymentTerms": "NET30",
+    "accountBalance": 32612
+  },
+  {
+    "id": "vendor-014",
+    "vendorName": "Infrastructure Providers 14",
+    "email": "vendor14@supplier.zm",
+    "phone": "+260-097-300053",
+    "address": "Head Office, Simon Mwale Road, Lusaka",
+    "taxId": "TPIN-3753542971",
+    "paymentTerms": "COD",
+    "accountBalance": 26011
+  },
+  {
+    "id": "vendor-015",
+    "vendorName": "Equipment Manufacturers 15",
+    "email": "vendor15@supplier.zm",
+    "phone": "+260-096-951445",
+    "address": "Head Office, Simon Mwale Road, Lusaka",
+    "taxId": "TPIN-4485025294",
+    "paymentTerms": "COD",
+    "accountBalance": 3751
+  },
+  {
+    "id": "vendor-016",
+    "vendorName": "Infrastructure Providers 16",
+    "email": "vendor16@supplier.zm",
+    "phone": "+260-096-993995",
+    "address": "Head Office, Simon Mwale Road, Lusaka",
+    "taxId": "TPIN-8308579691",
+    "paymentTerms": "NET30",
+    "accountBalance": 2881
+  },
+  {
+    "id": "vendor-017",
+    "vendorName": "Satellite Operators 17",
+    "email": "vendor17@supplier.zm",
+    "phone": "+260-094-880092",
+    "address": "Head Office, Simon Mwale Road, Lusaka",
+    "taxId": "TPIN-4651710976",
+    "paymentTerms": "COD",
+    "accountBalance": 6121
+  },
+  {
+    "id": "vendor-018",
+    "vendorName": "Equipment Manufacturers 18",
+    "email": "vendor18@supplier.zm",
+    "phone": "+260-095-926909",
+    "address": "Head Office, Simon Mwale Road, Lusaka",
+    "taxId": "TPIN-1523174706",
+    "paymentTerms": "NET30",
+    "accountBalance": 36404
+  },
+  {
+    "id": "vendor-019",
+    "vendorName": "Equipment Manufacturers 19",
+    "email": "vendor19@supplier.zm",
+    "phone": "+260-097-381236",
+    "address": "Head Office, Simon Mwale Road, Lusaka",
+    "taxId": "TPIN-8773169256",
+    "paymentTerms": "COD",
+    "accountBalance": 12643
+  },
+  {
+    "id": "vendor-020",
+    "vendorName": "Infrastructure Providers 20",
+    "email": "vendor20@supplier.zm",
+    "phone": "+260-094-246084",
+    "address": "Head Office, Simon Mwale Road, Lusaka",
+    "taxId": "TPIN-4914206842",
+    "paymentTerms": "NET30",
+    "accountBalance": 35514
+  },
+  {
+    "id": "vendor-021",
+    "vendorName": "Satellite Operators 21",
+    "email": "vendor21@supplier.zm",
+    "phone": "+260-094-937994",
+    "address": "Head Office, Simon Mwale Road, Lusaka",
+    "taxId": "TPIN-3557294500",
+    "paymentTerms": "COD",
+    "accountBalance": 13213
+  },
+  {
+    "id": "vendor-022",
+    "vendorName": "Equipment Manufacturers 22",
+    "email": "vendor22@supplier.zm",
+    "phone": "+260-097-539350",
+    "address": "Head Office, Simon Mwale Road, Lusaka",
+    "taxId": "TPIN-4066486877",
+    "paymentTerms": "NET60",
+    "accountBalance": 2115
+  },
+  {
+    "id": "vendor-023",
+    "vendorName": "Infrastructure Providers 23",
+    "email": "vendor23@supplier.zm",
+    "phone": "+260-217-825759",
+    "address": "Head Office, Simon Mwale Road, Lusaka",
+    "taxId": "TPIN-6631709663",
+    "paymentTerms": "NET60",
+    "accountBalance": 7086
+  },
+  {
+    "id": "vendor-024",
+    "vendorName": "Satellite Operators 24",
+    "email": "vendor24@supplier.zm",
+    "phone": "+260-094-763562",
+    "address": "Head Office, Simon Mwale Road, Lusaka",
+    "taxId": "TPIN-3508785420",
+    "paymentTerms": "NET60",
+    "accountBalance": 47565
+  },
+  {
+    "id": "vendor-025",
+    "vendorName": "Infrastructure Providers 25",
+    "email": "vendor25@supplier.zm",
+    "phone": "+260-096-798875",
+    "address": "Head Office, Simon Mwale Road, Lusaka",
+    "taxId": "TPIN-1508249157",
+    "paymentTerms": "COD",
+    "accountBalance": 4299
+  },
+  {
+    "id": "vendor-026",
+    "vendorName": "Equipment Manufacturers 26",
+    "email": "vendor26@supplier.zm",
+    "phone": "+260-216-279225",
+    "address": "Head Office, Simon Mwale Road, Lusaka",
+    "taxId": "TPIN-7086897866",
+    "paymentTerms": "NET30",
+    "accountBalance": 39027
+  },
+  {
+    "id": "vendor-027",
+    "vendorName": "Satellite Operators 27",
+    "email": "vendor27@supplier.zm",
+    "phone": "+260-095-588686",
+    "address": "Head Office, Simon Mwale Road, Lusaka",
+    "taxId": "TPIN-4621067120",
+    "paymentTerms": "COD",
+    "accountBalance": 11113
+  },
+  {
+    "id": "vendor-028",
+    "vendorName": "Satellite Operators 28",
+    "email": "vendor28@supplier.zm",
+    "phone": "+260-095-101706",
+    "address": "Head Office, Simon Mwale Road, Lusaka",
+    "taxId": "TPIN-6854414003",
+    "paymentTerms": "NET30",
+    "accountBalance": 8777
+  },
+  {
+    "id": "vendor-029",
+    "vendorName": "Satellite Operators 29",
+    "email": "vendor29@supplier.zm",
+    "phone": "+260-217-584751",
+    "address": "Head Office, Simon Mwale Road, Lusaka",
+    "taxId": "TPIN-2175503272",
+    "paymentTerms": "NET60",
+    "accountBalance": 13592
+  },
+  {
+    "id": "vendor-030",
+    "vendorName": "Satellite Operators 30",
+    "email": "vendor30@supplier.zm",
+    "phone": "+260-096-198520",
+    "address": "Head Office, Simon Mwale Road, Lusaka",
+    "taxId": "TPIN-2802495904",
+    "paymentTerms": "NET30",
+    "accountBalance": 4608
+  }
+]

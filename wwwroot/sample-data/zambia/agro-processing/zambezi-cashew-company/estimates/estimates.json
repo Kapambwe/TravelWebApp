@@ -1,0 +1,216 @@
+[
+  {
+    "id": 1,
+    "estimateNumber": "EST-2025-001",
+    "customerId": 6,
+    "customerName": "Mwamba Farms Solutions",
+    "estimateDateDaysAgo": 12,
+    "expirationDateDaysFromNow": 21,
+    "status": "Accepted",
+    "subTotal": 2917022.91,
+    "taxRate": 16,
+    "taxAmount": 466723.67,
+    "total": 3383746.58,
+    "terms": "Net 15",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 12,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Palm Oil Supply",
+        "quantity": 5,
+        "unitPrice": 583404.58,
+        "amount": 2917022.91,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 11
+  },
+  {
+    "id": 2,
+    "estimateNumber": "EST-2025-002",
+    "customerId": 7,
+    "customerName": "Tembo Farms Co.",
+    "estimateDateDaysAgo": 22,
+    "expirationDateDaysFromNow": 22,
+    "status": "Expired",
+    "subTotal": 2986919.22,
+    "taxRate": 16,
+    "taxAmount": 477907.08,
+    "total": 3464826.3,
+    "terms": "Net 15",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 22,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Palm Oil Supply",
+        "quantity": 2,
+        "unitPrice": 1493459.61,
+        "amount": 2986919.22,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 21
+  },
+  {
+    "id": 3,
+    "estimateNumber": "EST-2025-003",
+    "customerId": 1,
+    "customerName": "Chileshe Agricultural Enterprises",
+    "estimateDateDaysAgo": 36,
+    "expirationDateDaysFromNow": 35,
+    "status": "Accepted",
+    "subTotal": 1797667.36,
+    "taxRate": 18,
+    "taxAmount": 323580.12,
+    "total": 2121247.48,
+    "terms": "Net 45",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 36,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Dried Fruit Mix",
+        "quantity": 3,
+        "unitPrice": 599222.45,
+        "amount": 1797667.36,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 35
+  },
+  {
+    "id": 4,
+    "estimateNumber": "EST-2025-004",
+    "customerId": 5,
+    "customerName": "Sakala Agricultural Ltd",
+    "estimateDateDaysAgo": 34,
+    "expirationDateDaysFromNow": 26,
+    "status": "Draft",
+    "subTotal": 3934417.97,
+    "taxRate": 18,
+    "taxAmount": 708195.23,
+    "total": 4642613.2,
+    "terms": "Net 30",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 34,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Dried Mango Export",
+        "quantity": 1,
+        "unitPrice": 3934417.97,
+        "amount": 3934417.97,
+        "itemType": "Service"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "estimateNumber": "EST-2025-005",
+    "customerId": 2,
+    "customerName": "Phiri Farms Group",
+    "estimateDateDaysAgo": 12,
+    "expirationDateDaysFromNow": 38,
+    "status": "Open",
+    "subTotal": 2307195.24,
+    "taxRate": 18,
+    "taxAmount": 415295.14,
+    "total": 2722490.38,
+    "terms": "Net 45",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 12,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Dried Fruit Mix",
+        "quantity": 5,
+        "unitPrice": 461439.05,
+        "amount": 2307195.24,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 11
+  },
+  {
+    "id": 6,
+    "estimateNumber": "EST-2025-006",
+    "customerId": 1,
+    "customerName": "Chileshe Agricultural Enterprises",
+    "estimateDateDaysAgo": 6,
+    "expirationDateDaysFromNow": 31,
+    "status": "Open",
+    "subTotal": 2219200.15,
+    "taxRate": 0,
+    "taxAmount": 0.0,
+    "total": 2219200.15,
+    "terms": "Net 30",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 6,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Processed Fruit Supply",
+        "quantity": 4,
+        "unitPrice": 554800.04,
+        "amount": 2219200.15,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 5
+  },
+  {
+    "id": 7,
+    "estimateNumber": "EST-2025-007",
+    "customerId": 7,
+    "customerName": "Tembo Farms Co.",
+    "estimateDateDaysAgo": 57,
+    "expirationDateDaysFromNow": 27,
+    "status": "Draft",
+    "subTotal": 1721019.79,
+    "taxRate": 18,
+    "taxAmount": 309783.56,
+    "total": 2030803.35,
+    "terms": "Net 30",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 57,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Mango Juice Concentrate",
+        "quantity": 1,
+        "unitPrice": 1721019.79,
+        "amount": 1721019.79,
+        "itemType": "Service"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "estimateNumber": "EST-2025-008",
+    "customerId": 1,
+    "customerName": "Chileshe Agricultural Enterprises",
+    "estimateDateDaysAgo": 22,
+    "expirationDateDaysFromNow": 32,
+    "status": "Expired",
+    "subTotal": 477885.58,
+    "taxRate": 15,
+    "taxAmount": 71682.84,
+    "total": 549568.42,
+    "terms": "Net 15",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 22,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Mango Juice Concentrate",
+        "quantity": 1,
+        "unitPrice": 477885.58,
+        "amount": 477885.58,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 21
+  }
+]

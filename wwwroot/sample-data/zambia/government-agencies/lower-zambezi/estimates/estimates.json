@@ -1,0 +1,190 @@
+[
+  {
+    "id": 1,
+    "estimateNumber": "EST-2025-001",
+    "customerId": 1,
+    "customerName": "Zulu Hotels Group",
+    "estimateDateDaysAgo": 53,
+    "expirationDateDaysFromNow": 26,
+    "status": "Sent",
+    "subTotal": 2219883.12,
+    "taxRate": 15,
+    "taxAmount": 332982.47,
+    "total": 2552865.59,
+    "terms": "Net 15",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 53,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Accommodation Package",
+        "quantity": 4,
+        "unitPrice": 554970.78,
+        "amount": 2219883.12,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 52
+  },
+  {
+    "id": 2,
+    "estimateNumber": "EST-2025-002",
+    "customerId": 11,
+    "customerName": "Chanda Lodge Co.",
+    "estimateDateDaysAgo": 33,
+    "expirationDateDaysFromNow": 15,
+    "status": "Open",
+    "subTotal": 370590.91,
+    "taxRate": 16,
+    "taxAmount": 59294.55,
+    "total": 429885.46,
+    "terms": "Net 30",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 33,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Accommodation Package",
+        "quantity": 4,
+        "unitPrice": 92647.73,
+        "amount": 370590.91,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 32
+  },
+  {
+    "id": 3,
+    "estimateNumber": "EST-2025-003",
+    "customerId": 10,
+    "customerName": "Siame Lodge Enterprises",
+    "estimateDateDaysAgo": 55,
+    "expirationDateDaysFromNow": 45,
+    "status": "Draft",
+    "subTotal": 525245.21,
+    "taxRate": 0,
+    "taxAmount": 0.0,
+    "total": 525245.21,
+    "terms": "Net 30",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 55,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Accommodation Package",
+        "quantity": 5,
+        "unitPrice": 105049.04,
+        "amount": 525245.21,
+        "itemType": "Service"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "estimateNumber": "EST-2025-004",
+    "customerId": 7,
+    "customerName": "Chileshe Lodge Group",
+    "estimateDateDaysAgo": 19,
+    "expirationDateDaysFromNow": 33,
+    "status": "Declined",
+    "subTotal": 2838449.98,
+    "taxRate": 15,
+    "taxAmount": 425767.5,
+    "total": 3264217.48,
+    "terms": "Net 45",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 19,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Catering Services",
+        "quantity": 4,
+        "unitPrice": 709612.49,
+        "amount": 2838449.98,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 18
+  },
+  {
+    "id": 5,
+    "estimateNumber": "EST-2025-005",
+    "customerId": 3,
+    "customerName": "Kaputo Guesthouse Enterprises",
+    "estimateDateDaysAgo": 53,
+    "expirationDateDaysFromNow": 32,
+    "status": "Expired",
+    "subTotal": 1619874.53,
+    "taxRate": 18,
+    "taxAmount": 291577.42,
+    "total": 1911451.95,
+    "terms": "Net 15",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 53,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Restaurant Revenue",
+        "quantity": 4,
+        "unitPrice": 404968.63,
+        "amount": 1619874.53,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 52
+  },
+  {
+    "id": 6,
+    "estimateNumber": "EST-2025-006",
+    "customerId": 13,
+    "customerName": "Mwale Guesthouse Enterprises",
+    "estimateDateDaysAgo": 15,
+    "expirationDateDaysFromNow": 24,
+    "status": "Sent",
+    "subTotal": 3479365.87,
+    "taxRate": 0,
+    "taxAmount": 0.0,
+    "total": 3479365.87,
+    "terms": "Net 45",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 15,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Event Package",
+        "quantity": 1,
+        "unitPrice": 3479365.87,
+        "amount": 3479365.87,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 14
+  },
+  {
+    "id": 7,
+    "estimateNumber": "EST-2025-007",
+    "customerId": 2,
+    "customerName": "Mwamba Hotels Solutions",
+    "estimateDateDaysAgo": 55,
+    "expirationDateDaysFromNow": 45,
+    "status": "Accepted",
+    "subTotal": 165519.63,
+    "taxRate": 0,
+    "taxAmount": 0.0,
+    "total": 165519.63,
+    "terms": "Net 30",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 55,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Catering Services",
+        "quantity": 5,
+        "unitPrice": 33103.93,
+        "amount": 165519.63,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 54
+  }
+]

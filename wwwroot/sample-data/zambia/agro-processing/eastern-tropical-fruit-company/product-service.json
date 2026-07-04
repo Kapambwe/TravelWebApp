@@ -1,0 +1,302 @@
+[
+  {
+    "id": "prod-001",
+    "productName": "Avocados - Variant 1",
+    "description": "Quality Bananas product",
+    "category": "Operational",
+    "unitPrice": 9537.15,
+    "quantityInStock": 235,
+    "reorderLevel": 41,
+    "supplier": "Farm Cooperatives"
+  },
+  {
+    "id": "prod-002",
+    "productName": "Mangoes - Variant 2",
+    "description": "Quality Bananas product",
+    "category": "Operational",
+    "unitPrice": 4720.01,
+    "quantityInStock": 365,
+    "reorderLevel": 45,
+    "supplier": "Agricultural Dealers"
+  },
+  {
+    "id": "prod-003",
+    "productName": "Mangoes - Variant 3",
+    "description": "Quality Bananas product",
+    "category": "Operational",
+    "unitPrice": 1160.14,
+    "quantityInStock": 428,
+    "reorderLevel": 11,
+    "supplier": "Farm Cooperatives"
+  },
+  {
+    "id": "prod-004",
+    "productName": "Mangoes - Variant 4",
+    "description": "Quality Citrus product",
+    "category": "Operational",
+    "unitPrice": 8688.46,
+    "quantityInStock": 304,
+    "reorderLevel": 8,
+    "supplier": "Local Orchards"
+  },
+  {
+    "id": "prod-005",
+    "productName": "Pineapples - Variant 5",
+    "description": "Quality Guavas product",
+    "category": "Operational",
+    "unitPrice": 443.0,
+    "quantityInStock": 151,
+    "reorderLevel": 5,
+    "supplier": "Farm Cooperatives"
+  },
+  {
+    "id": "prod-006",
+    "productName": "Watermelons - Variant 6",
+    "description": "Quality Bananas product",
+    "category": "Operational",
+    "unitPrice": 3438.07,
+    "quantityInStock": 346,
+    "reorderLevel": 15,
+    "supplier": "Seed Suppliers"
+  },
+  {
+    "id": "prod-007",
+    "productName": "Guavas - Variant 7",
+    "description": "Quality Pineapples product",
+    "category": "Operational",
+    "unitPrice": 8762.07,
+    "quantityInStock": 14,
+    "reorderLevel": 12,
+    "supplier": "Seed Suppliers"
+  },
+  {
+    "id": "prod-008",
+    "productName": "Mangoes - Variant 8",
+    "description": "Quality Guavas product",
+    "category": "Operational",
+    "unitPrice": 1852.24,
+    "quantityInStock": 257,
+    "reorderLevel": 16,
+    "supplier": "Farm Cooperatives"
+  },
+  {
+    "id": "prod-009",
+    "productName": "Watermelons - Variant 9",
+    "description": "Quality Mangoes product",
+    "category": "Operational",
+    "unitPrice": 2808.5,
+    "quantityInStock": 261,
+    "reorderLevel": 49,
+    "supplier": "Agricultural Dealers"
+  },
+  {
+    "id": "prod-010",
+    "productName": "Mangoes - Variant 10",
+    "description": "Quality Avocados product",
+    "category": "Operational",
+    "unitPrice": 534.18,
+    "quantityInStock": 124,
+    "reorderLevel": 15,
+    "supplier": "Agricultural Dealers"
+  },
+  {
+    "id": "prod-011",
+    "productName": "Citrus - Variant 11",
+    "description": "Quality Watermelons product",
+    "category": "Operational",
+    "unitPrice": 2922.34,
+    "quantityInStock": 322,
+    "reorderLevel": 8,
+    "supplier": "Agricultural Dealers"
+  },
+  {
+    "id": "prod-012",
+    "productName": "Mangoes - Variant 12",
+    "description": "Quality Watermelons product",
+    "category": "Operational",
+    "unitPrice": 854.95,
+    "quantityInStock": 490,
+    "reorderLevel": 32,
+    "supplier": "Seed Suppliers"
+  },
+  {
+    "id": "prod-013",
+    "productName": "Avocados - Variant 13",
+    "description": "Quality Guavas product",
+    "category": "Operational",
+    "unitPrice": 1374.9,
+    "quantityInStock": 398,
+    "reorderLevel": 6,
+    "supplier": "Agricultural Dealers"
+  },
+  {
+    "id": "prod-014",
+    "productName": "Pineapples - Variant 14",
+    "description": "Quality Avocados product",
+    "category": "Operational",
+    "unitPrice": 9133.63,
+    "quantityInStock": 489,
+    "reorderLevel": 7,
+    "supplier": "Local Orchards"
+  },
+  {
+    "id": "prod-015",
+    "productName": "Bananas - Variant 15",
+    "description": "Quality Citrus product",
+    "category": "Operational",
+    "unitPrice": 1000.1,
+    "quantityInStock": 379,
+    "reorderLevel": 8,
+    "supplier": "Local Orchards"
+  },
+  {
+    "id": "prod-016",
+    "productName": "Mangoes - Variant 16",
+    "description": "Quality Guavas product",
+    "category": "Operational",
+    "unitPrice": 9670.68,
+    "quantityInStock": 492,
+    "reorderLevel": 20,
+    "supplier": "Local Orchards"
+  },
+  {
+    "id": "prod-017",
+    "productName": "Papayas - Variant 17",
+    "description": "Quality Avocados product",
+    "category": "Operational",
+    "unitPrice": 8306.33,
+    "quantityInStock": 234,
+    "reorderLevel": 22,
+    "supplier": "Farm Cooperatives"
+  },
+  {
+    "id": "prod-018",
+    "productName": "Bananas - Variant 18",
+    "description": "Quality Bananas product",
+    "category": "Operational",
+    "unitPrice": 5797.15,
+    "quantityInStock": 221,
+    "reorderLevel": 32,
+    "supplier": "Farm Cooperatives"
+  },
+  {
+    "id": "prod-019",
+    "productName": "Pineapples - Variant 19",
+    "description": "Quality Citrus product",
+    "category": "Operational",
+    "unitPrice": 3516.88,
+    "quantityInStock": 150,
+    "reorderLevel": 14,
+    "supplier": "Farm Cooperatives"
+  },
+  {
+    "id": "prod-020",
+    "productName": "Citrus - Variant 20",
+    "description": "Quality Guavas product",
+    "category": "Operational",
+    "unitPrice": 5301.14,
+    "quantityInStock": 18,
+    "reorderLevel": 37,
+    "supplier": "Farm Cooperatives"
+  },
+  {
+    "id": "prod-021",
+    "productName": "Mangoes - Variant 21",
+    "description": "Quality Mangoes product",
+    "category": "Operational",
+    "unitPrice": 3133.79,
+    "quantityInStock": 469,
+    "reorderLevel": 36,
+    "supplier": "Farm Cooperatives"
+  },
+  {
+    "id": "prod-022",
+    "productName": "Watermelons - Variant 22",
+    "description": "Quality Mangoes product",
+    "category": "Operational",
+    "unitPrice": 1839.66,
+    "quantityInStock": 307,
+    "reorderLevel": 13,
+    "supplier": "Agricultural Dealers"
+  },
+  {
+    "id": "prod-023",
+    "productName": "Avocados - Variant 23",
+    "description": "Quality Mangoes product",
+    "category": "Operational",
+    "unitPrice": 1824.35,
+    "quantityInStock": 328,
+    "reorderLevel": 47,
+    "supplier": "Seed Suppliers"
+  },
+  {
+    "id": "prod-024",
+    "productName": "Papayas - Variant 24",
+    "description": "Quality Citrus product",
+    "category": "Operational",
+    "unitPrice": 3702.14,
+    "quantityInStock": 179,
+    "reorderLevel": 43,
+    "supplier": "Seed Suppliers"
+  },
+  {
+    "id": "prod-025",
+    "productName": "Avocados - Variant 25",
+    "description": "Quality Mangoes product",
+    "category": "Operational",
+    "unitPrice": 848.6,
+    "quantityInStock": 199,
+    "reorderLevel": 6,
+    "supplier": "Seed Suppliers"
+  },
+  {
+    "id": "prod-026",
+    "productName": "Mangoes - Variant 26",
+    "description": "Quality Papayas product",
+    "category": "Operational",
+    "unitPrice": 2523.2,
+    "quantityInStock": 384,
+    "reorderLevel": 22,
+    "supplier": "Agricultural Dealers"
+  },
+  {
+    "id": "prod-027",
+    "productName": "Papayas - Variant 27",
+    "description": "Quality Avocados product",
+    "category": "Operational",
+    "unitPrice": 8323.41,
+    "quantityInStock": 392,
+    "reorderLevel": 26,
+    "supplier": "Farm Cooperatives"
+  },
+  {
+    "id": "prod-028",
+    "productName": "Guavas - Variant 28",
+    "description": "Quality Guavas product",
+    "category": "Operational",
+    "unitPrice": 2628.97,
+    "quantityInStock": 111,
+    "reorderLevel": 47,
+    "supplier": "Local Orchards"
+  },
+  {
+    "id": "prod-029",
+    "productName": "Bananas - Variant 29",
+    "description": "Quality Mangoes product",
+    "category": "Operational",
+    "unitPrice": 1415.71,
+    "quantityInStock": 466,
+    "reorderLevel": 9,
+    "supplier": "Local Orchards"
+  },
+  {
+    "id": "prod-030",
+    "productName": "Avocados - Variant 30",
+    "description": "Quality Bananas product",
+    "category": "Operational",
+    "unitPrice": 9921.56,
+    "quantityInStock": 221,
+    "reorderLevel": 38,
+    "supplier": "Seed Suppliers"
+  }
+]

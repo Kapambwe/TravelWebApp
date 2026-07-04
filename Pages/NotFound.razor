@@ -1,0 +1,16 @@
+@page "/not-found"
+
+<div style="text-align:center;padding:80px 24px;">
+    <div style="font-size:4rem;margin-bottom:16px;">&#x1F50D;</div>
+    <RadzenText TextStyle="TextStyle.H3">Page Not Found</RadzenText>
+    <RadzenText TextStyle="TextStyle.Body1" Style="color:#5A5A7A;margin:12px 0 24px;">
+        We couldn't find the page you're looking for. It might have been moved or deleted.
+    </RadzenText>
+    <RadzenButton Text="Go Home" ButtonStyle="ButtonStyle.Primary" Click="@GoHome" />
+</div>
+
+@code {
+    [Inject] private NavigationManager Navigation { get; set; } = default!;
+
+    private void GoHome() => Navigation.NavigateTo("/");
+}

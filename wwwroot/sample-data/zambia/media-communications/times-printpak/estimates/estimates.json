@@ -1,0 +1,188 @@
+[
+  {
+    "id": 1,
+    "estimateNumber": "EST-2025-001",
+    "customerId": 3,
+    "customerName": "Phiri Digital Media Limited",
+    "estimateDateDaysAgo": 20,
+    "expirationDateDaysFromNow": 31,
+    "status": "Expired",
+    "subTotal": 102649.67,
+    "taxRate": 15,
+    "taxAmount": 15397.45,
+    "total": 118047.12,
+    "terms": "Net 45",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 20,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Digital Advertising",
+        "quantity": 4,
+        "unitPrice": 25662.42,
+        "amount": 102649.67,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 19
+  },
+  {
+    "id": 2,
+    "estimateNumber": "EST-2025-002",
+    "customerId": 14,
+    "customerName": "Zimba Publishers Holdings",
+    "estimateDateDaysAgo": 5,
+    "expirationDateDaysFromNow": 21,
+    "status": "Open",
+    "subTotal": 2177531.44,
+    "taxRate": 0,
+    "taxAmount": 0.0,
+    "total": 2177531.44,
+    "terms": "Net 30",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 5,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Print Advertising Space",
+        "quantity": 3,
+        "unitPrice": 725843.81,
+        "amount": 2177531.44,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 4
+  },
+  {
+    "id": 3,
+    "estimateNumber": "EST-2025-003",
+    "customerId": 14,
+    "customerName": "Zimba Publishers Holdings",
+    "estimateDateDaysAgo": 48,
+    "expirationDateDaysFromNow": 29,
+    "status": "Draft",
+    "subTotal": 1544055.44,
+    "taxRate": 16,
+    "taxAmount": 247048.87,
+    "total": 1791104.31,
+    "terms": "Net 30",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 48,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Radio Airtime",
+        "quantity": 1,
+        "unitPrice": 1544055.44,
+        "amount": 1544055.44,
+        "itemType": "Service"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "estimateNumber": "EST-2025-004",
+    "customerId": 12,
+    "customerName": "Kabwe Media Inc.",
+    "estimateDateDaysAgo": 41,
+    "expirationDateDaysFromNow": 24,
+    "status": "Sent",
+    "subTotal": 3478943.44,
+    "taxRate": 18,
+    "taxAmount": 626209.82,
+    "total": 4105153.26,
+    "terms": "Net 30",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 41,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Online Content Package",
+        "quantity": 5,
+        "unitPrice": 695788.69,
+        "amount": 3478943.44,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 40
+  },
+  {
+    "id": 5,
+    "estimateNumber": "EST-2025-005",
+    "customerId": 4,
+    "customerName": "Bwalya Digital Media Holdings",
+    "estimateDateDaysAgo": 56,
+    "expirationDateDaysFromNow": 16,
+    "status": "Draft",
+    "subTotal": 2084424.89,
+    "taxRate": 0,
+    "taxAmount": 0.0,
+    "total": 2084424.89,
+    "terms": "Net 30",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 56,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Media Production",
+        "quantity": 3,
+        "unitPrice": 694808.3,
+        "amount": 2084424.89,
+        "itemType": "Service"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "estimateNumber": "EST-2025-006",
+    "customerId": 13,
+    "customerName": "Sakala Digital Media Solutions",
+    "estimateDateDaysAgo": 12,
+    "expirationDateDaysFromNow": 45,
+    "status": "Accepted",
+    "subTotal": 2888205.69,
+    "taxRate": 0,
+    "taxAmount": 0.0,
+    "total": 2888205.69,
+    "terms": "Net 15",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 12,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Digital Advertising",
+        "quantity": 5,
+        "unitPrice": 577641.14,
+        "amount": 2888205.69,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 11
+  },
+  {
+    "id": 7,
+    "estimateNumber": "EST-2025-007",
+    "customerId": 11,
+    "customerName": "Kabwe Media Inc.",
+    "estimateDateDaysAgo": 60,
+    "expirationDateDaysFromNow": 15,
+    "status": "Draft",
+    "subTotal": 2819161.08,
+    "taxRate": 15,
+    "taxAmount": 422874.16,
+    "total": 3242035.24,
+    "terms": "Net 30",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 60,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Digital Advertising",
+        "quantity": 5,
+        "unitPrice": 563832.22,
+        "amount": 2819161.08,
+        "itemType": "Service"
+      }
+    ]
+  }
+]

@@ -1,0 +1,306 @@
+{
+  "templates": [
+    {
+      "id": 101,
+      "name": "Harvest Order Processing",
+      "description": "Validate incoming produce orders, notify logistics, and prepare dispatch documentation.",
+      "category": "Operations",
+      "industry": "Agriculture",
+      "iconName": "local_shipping",
+      "iconColor": "#059669",
+      "isFeatured": true,
+      "isRecommended": true,
+      "usageCount": 128,
+      "rating": 4.8,
+      "tags": ["harvest", "dispatch", "logistics", "orders"],
+      "templateDefinition": {
+        "name": "Harvest Order Processing",
+        "description": "Automate order validation and dispatch prep",
+        "category": "Operations",
+        "trigger": {
+          "triggerType": "Event",
+          "eventType": "SalesOrderCreated"
+        },
+        "steps": [
+          {
+            "stepNumber": 1,
+            "stepType": "Condition",
+            "name": "Check Stock Availability",
+            "conditions": [
+              { "field": "AvailableStock", "operator": "GreaterThan", "value": "0", "valueType": "Number" }
+            ]
+          },
+          {
+            "stepNumber": 2,
+            "stepType": "Action",
+            "name": "Notify Logistics",
+            "action": {
+              "actionType": "SendEmail",
+              "emailTo": "logistics@company.com",
+              "emailSubject": "New Harvest Order Ready",
+              "emailBody": "Please prepare dispatch documents for the new order."
+            }
+          },
+          {
+            "stepNumber": 3,
+            "stepType": "Action",
+            "name": "Create Dispatch Task",
+            "action": {
+              "actionType": "AssignTask",
+              "assignedTo": "{LogisticsCoordinator}",
+              "taskType": "Dispatch Preparation",
+              "dueDaysFromNow": 1
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 102,
+      "name": "Supplier Payment Approval",
+      "description": "Route supplier payments for approval when invoice totals exceed the threshold.",
+      "category": "Accounts Payable",
+      "industry": "Agriculture",
+      "iconName": "request_quote",
+      "iconColor": "#2563eb",
+      "isFeatured": true,
+      "isRecommended": true,
+      "usageCount": 94,
+      "rating": 4.7,
+      "tags": ["suppliers", "approval", "payments", "ap"],
+      "templateDefinition": {
+        "name": "Supplier Payment Approval",
+        "description": "Approve supplier payments above threshold",
+        "category": "Accounting",
+        "trigger": {
+          "triggerType": "Event",
+          "eventType": "BillCreated",
+          "conditions": [
+            { "field": "Amount", "operator": "GreaterThan", "value": "10000", "valueType": "Number" }
+          ]
+        },
+        "steps": [
+          {
+            "stepNumber": 1,
+            "stepType": "Approval",
+            "name": "Finance Manager Approval",
+            "approval": {
+              "approvalType": "Single",
+              "approvers": ["finance.manager@company.com"],
+              "timeoutHours": 24,
+              "timeoutAction": "Escalate",
+              "escalateTo": "cfo@company.com"
+            }
+          },
+          {
+            "stepNumber": 2,
+            "stepType": "Action",
+            "name": "Notify AP Clerk",
+            "action": {
+              "actionType": "SendNotification",
+              "parameters": { "Channel": "Email", "Recipient": "ap@company.com", "Message": "Supplier payment approved." }
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 103,
+      "name": "Quality Inspection Follow-up",
+      "description": "Create follow-up tasks for quality inspection failures and notify supervisors.",
+      "category": "Operations",
+      "industry": "Agriculture",
+      "iconName": "fact_check",
+      "iconColor": "#f59e0b",
+      "isFeatured": false,
+      "isRecommended": true,
+      "usageCount": 63,
+      "rating": 4.5,
+      "tags": ["quality", "inspection", "follow-up", "operations"],
+      "templateDefinition": {
+        "name": "Quality Inspection Follow-up",
+        "description": "Handle quality inspection exceptions",
+        "category": "Operations",
+        "trigger": {
+          "triggerType": "Event",
+          "eventType": "InspectionFailed"
+        },
+        "steps": [
+          {
+            "stepNumber": 1,
+            "stepType": "Action",
+            "name": "Alert Supervisor",
+            "action": {
+              "actionType": "SendEmail",
+              "emailTo": "operations.manager@company.com",
+              "emailSubject": "Inspection Failure Alert",
+              "emailBody": "A quality inspection has failed and requires review."
+            }
+          },
+          {
+            "stepNumber": 2,
+            "stepType": "Action",
+            "name": "Log Issue",
+            "action": {
+              "actionType": "CreateRecord",
+              "entityType": "AuditLog",
+              "fieldMappings": {
+                "Module": "Operations",
+                "Action": "Inspection Follow-up",
+                "Status": "Open"
+              }
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 104,
+      "name": "Cash Collection Reminder",
+      "description": "Send automated reminders to customers with overdue settlement accounts.",
+      "category": "Accounts Receivable",
+      "industry": "Agriculture",
+      "iconName": "notifications_active",
+      "iconColor": "#dc2626",
+      "isFeatured": true,
+      "isRecommended": true,
+      "usageCount": 117,
+      "rating": 4.9,
+      "tags": ["collections", "reminder", "ar", "cash"],
+      "templateDefinition": {
+        "name": "Cash Collection Reminder",
+        "description": "Automated overdue payment reminders",
+        "category": "Accounting",
+        "trigger": {
+          "triggerType": "Schedule",
+          "scheduleType": "Daily",
+          "cronExpression": "0 8 * * *"
+        },
+        "steps": [
+          {
+            "stepNumber": 1,
+            "stepType": "Action",
+            "name": "Run Aged Receivables Report",
+            "action": {
+              "actionType": "RunReport",
+              "parameters": { "ReportType": "AgedReceivables", "DaysPastDue": 7 }
+            }
+          },
+          {
+            "stepNumber": 2,
+            "stepType": "Action",
+            "name": "Send Reminder Email",
+            "action": {
+              "actionType": "SendEmail",
+              "emailTo": "{CustomerEmail}",
+              "emailSubject": "Payment Reminder",
+              "emailBody": "Your account is overdue. Please arrange payment."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 105,
+      "name": "Purchase Order Approval",
+      "description": "Route supplier purchase orders above threshold to finance for approval.",
+      "category": "Procurement",
+      "industry": "Agriculture",
+      "iconName": "shopping_cart",
+      "iconColor": "#7c3aed",
+      "isFeatured": true,
+      "isRecommended": true,
+      "usageCount": 88,
+      "rating": 4.7,
+      "tags": ["procurement", "po", "approval", "suppliers"],
+      "templateDefinition": {
+        "name": "Purchase Order Approval",
+        "description": "Approve purchase orders before release",
+        "category": "Operations",
+        "trigger": {
+          "triggerType": "Event",
+          "eventType": "PurchaseOrderCreated"
+        },
+        "steps": [
+          {
+            "stepNumber": 1,
+            "stepType": "Condition",
+            "name": "Check PO Amount",
+            "conditions": [
+              { "field": "Amount", "operator": "GreaterThan", "value": "15000", "valueType": "Number" }
+            ]
+          },
+          {
+            "stepNumber": 2,
+            "stepType": "Approval",
+            "name": "Procurement Manager Approval",
+            "approval": {
+              "approvalType": "Single",
+              "approvers": ["procurement.manager@company.com"],
+              "timeoutHours": 24
+            }
+          },
+          {
+            "stepNumber": 3,
+            "stepType": "Action",
+            "name": "Send Supplier Notification",
+            "action": {
+              "actionType": "SendEmail",
+              "emailTo": "{SupplierEmail}",
+              "emailSubject": "Purchase Order Approved",
+              "emailBody": "Your purchase order has been approved and is ready for processing."
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": 106,
+      "name": "Packaging Dispatch Scheduling",
+      "description": "Schedule dispatch teams and update packing status for completed orders.",
+      "category": "Operations",
+      "industry": "Agriculture",
+      "iconName": "local_shipping",
+      "iconColor": "#0ea5e9",
+      "isFeatured": false,
+      "isRecommended": true,
+      "usageCount": 52,
+      "rating": 4.4,
+      "tags": ["dispatch", "packing", "warehouse", "scheduling"],
+      "templateDefinition": {
+        "name": "Packaging Dispatch Scheduling",
+        "description": "Coordinate packing and dispatch tasks",
+        "category": "Operations",
+        "trigger": {
+          "triggerType": "Event",
+          "eventType": "SalesOrderApproved"
+        },
+        "steps": [
+          {
+            "stepNumber": 1,
+            "stepType": "Action",
+            "name": "Create Warehouse Task",
+            "action": {
+              "actionType": "AssignTask",
+              "assignedTo": "{WarehouseSupervisor}",
+              "taskType": "Packing and Dispatch",
+              "dueDaysFromNow": 1
+            }
+          },
+          {
+            "stepNumber": 2,
+            "stepType": "Action",
+            "name": "Update Order Status",
+            "action": {
+              "actionType": "UpdateRecord",
+              "entityType": "SalesOrder",
+              "fieldMappings": {
+                "Status": "Ready for Dispatch"
+              }
+            }
+          }
+        ]
+      }
+    }
+  ]
+}

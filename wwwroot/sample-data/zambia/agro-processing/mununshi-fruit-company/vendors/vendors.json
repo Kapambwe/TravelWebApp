@@ -1,0 +1,109 @@
+{
+  "vendors": [
+    {
+      "id": 1,
+      "vendorName": "Kasonde Bwalya",
+      "companyName": "Tembo Agricultural Ltd",
+      "contactPerson": "Kasonde Bwalya",
+      "email": "kasondebwaly@bwalya.co.zm",
+      "phone": "+260 052 625 246",
+      "city": "Ndola",
+      "country": "Zambia",
+      "defaultPaymentTerms": "Net 15",
+      "taxId": "TAX-120880",
+      "totalAmountOwed": 140633.81
+    },
+    {
+      "id": 2,
+      "vendorName": "Musonda Mutale",
+      "companyName": "Musonda Agricultural Ltd",
+      "contactPerson": "Musonda Mutale",
+      "email": "musondamutal@mutale.co.zm",
+      "phone": "+260 761 344 635",
+      "city": "Mufulira",
+      "country": "Zambia",
+      "defaultPaymentTerms": "Net 15",
+      "taxId": "TAX-181322",
+      "totalAmountOwed": 140328.14
+    },
+    {
+      "id": 3,
+      "vendorName": "Kaputo Kabwe",
+      "companyName": "Kabwe Agro Ltd",
+      "contactPerson": "Kaputo Kabwe",
+      "email": "kaputokabwe@kabwe.co.zm",
+      "phone": "+260 368 098 353",
+      "city": "Kitwe",
+      "country": "Zambia",
+      "defaultPaymentTerms": "Net 30",
+      "taxId": "TAX-523837",
+      "totalAmountOwed": 296740.81
+    },
+    {
+      "id": 4,
+      "vendorName": "Kalaba Mwale",
+      "companyName": "Zimba Agro Ltd",
+      "contactPerson": "Kalaba Mwale",
+      "email": "kalabamwale@mwale.co.zm",
+      "phone": "+260 784 440 091",
+      "city": "Kitwe",
+      "country": "Zambia",
+      "defaultPaymentTerms": "Net 45",
+      "taxId": "TAX-754632",
+      "totalAmountOwed": 347962.02
+    },
+    {
+      "id": 5,
+      "vendorName": "Mulenga Zimba",
+      "companyName": "Mutale Farms Enterprises",
+      "contactPerson": "Mulenga Zimba",
+      "email": "mulengazimba@zimba.co.zm",
+      "phone": "+260 483 214 435",
+      "city": "Ndola",
+      "country": "Zambia",
+      "defaultPaymentTerms": "Due on Receipt",
+      "taxId": "TAX-912949",
+      "totalAmountOwed": 12178.48
+    },
+    {
+      "id": 6,
+      "vendorName": "Mwale Kaputo",
+      "companyName": "Zimba Food Industries Holdings",
+      "contactPerson": "Mwale Kaputo",
+      "email": "mwalekaputo@kaputo.co.zm",
+      "phone": "+260 059 050 957",
+      "city": "Kitwe",
+      "country": "Zambia",
+      "defaultPaymentTerms": "Net 15",
+      "taxId": "TAX-502167",
+      "totalAmountOwed": 184639.31
+    },
+    {
+      "id": 7,
+      "vendorName": "Mulenga Sakala",
+      "companyName": "Tembo Agricultural Group",
+      "contactPerson": "Mulenga Sakala",
+      "email": "mulengasakal@sakala.co.zm",
+      "phone": "+260 881 004 131",
+      "city": "Livingstone",
+      "country": "Zambia",
+      "defaultPaymentTerms": "Net 30",
+      "taxId": "TAX-145153",
+      "totalAmountOwed": 221930.99
+    },
+    {
+      "id": 8,
+      "vendorName": "Malama Sakala",
+      "companyName": "Ngosa Agro Solutions",
+      "contactPerson": "Malama Sakala",
+      "email": "malamasakala@sakala.co.zm",
+      "phone": "+260 924 280 680",
+      "city": "Livingstone",
+      "country": "Zambia",
+      "defaultPaymentTerms": "Due on Receipt",
+      "taxId": "TAX-596811",
+      "totalAmountOwed": 31809.56
+    }
+  ],
+  "vendorCredits": []
+}

@@ -1,0 +1,96 @@
+﻿@page "/confirmation/{Reference}"
+@using TravelWebApp.Models
+@using TravelWebApp.Services
+@inject ITravelService TravelService
+@inject NavigationManager Navigation
+
+<div class="confirmation-page">
+    @if (_confirmation == null)
+    {
+        <div style="text-align:center;padding:80px 0;">
+            <RadzenProgressBarCircular />
+        </div>
+    }
+    else
+    {
+        <div style="max-width:600px;margin:0 auto;text-align:center;padding:40px 0;">
+            <div style="font-size:4rem;margin-bottom:16px;">ðŸŽ‰</div>
+            <RadzenText TextStyle="TextStyle.H3" Style="color:#008A0E;">Booking Confirmed!</RadzenText>
+            <RadzenText Style="color:#5A5A7A;margin:8px 0;">Your booking reference is below</RadzenText>
+
+            <RadzenCard Style="padding:32px;margin:24px 0;border-radius:12px;">
+                <div style="background:#E8F0FE;padding:16px;border-radius:8px;margin-bottom:20px;">
+                    <RadzenText TextStyle="TextStyle.Caption" Style="color:#5A5A7A;">Reference Number</RadzenText>
+                    <RadzenText TextStyle="TextStyle.H3" Style="color:#003B95;letter-spacing:2px;font-weight:700;">@_confirmation.Reference</RadzenText>
+                </div>
+
+                <div style="text-align:left;">
+                    <div style="display:flex;justify-content:space-between;padding:8px 0;">
+                        <span style="color:#5A5A7A;">Property</span>
+                        <span style="font-weight:600;">@_confirmation.PropertyName</span>
+                    </div>
+                    <div style="display:flex;justify-content:space-between;padding:8px 0;border-top:1px solid #E0E4EC;">
+                        <span style="color:#5A5A7A;">Check-in</span>
+                        <span style="font-weight:600;">@_confirmation.CheckIn.ToString("dd MMM yyyy")</span>
+                    </div>
+                    <div style="display:flex;justify-content:space-between;padding:8px 0;border-top:1px solid #E0E4EC;">
+                        <span style="color:#5A5A7A;">Check-out</span>
+                        <span style="font-weight:600;">@_confirmation.CheckOut.ToString("dd MMM yyyy")</span>
+                    </div>
+                    <div style="display:flex;justify-content:space-between;padding:8px 0;border-top:1px solid #E0E4EC;">
+                        <span style="color:#5A5A7A;">Nights</span>
+                        <span style="font-weight:600;">@_confirmation.Nights</span>
+                    </div>
+                    <div style="display:flex;justify-content:space-between;padding:8px 0;border-top:1px solid #E0E4EC;">
+                        <span style="color:#5A5A7A;">Guest</span>
+                        <span style="font-weight:600;">@_confirmation.GuestName</span>
+                    </div>
+                    <div style="display:flex;justify-content:space-between;padding:12px 0;border-top:2px solid #1A1A2E;font-size:1.25rem;">
+                        <span style="font-weight:600;">Total Paid</span>
+                        <span style="color:#003B95;font-weight:700;">R@((int)_confirmation.TotalAmount)</span>
+                    </div>
+                </div>
+            </RadzenCard>
+
+            <div style="display:flex;gap:12px;justify-content:center;flex-wrap:wrap;">
+                <RadzenButton Text="View My Bookings" ButtonStyle="ButtonStyle.Primary" Click="@(() => Navigation.NavigateTo("/my-bookings"))" />
+                <RadzenButton Text="Go Home" ButtonStyle="ButtonStyle.Light" Variant="Variant.Outlined" Click="@(() => Navigation.NavigateTo("/"))" />
+            </div>
+
+            <RadzenText TextStyle="TextStyle.Caption" Style="color:#5A5A7A;margin-top:16px;display:block;">
+                A confirmation email has been sent to your registered email address
+            </RadzenText>
+        </div>
+    }
+</div>
+
+<style>
+    .confirmation-page { padding: 24px; }
+</style>
+
+@code {
+    [Parameter] public string Reference { get; set; } = "";
+
+    private BookingConfirmation? _confirmation;
+
+    protected override async Task OnInitializedAsync()
+    {
+        var booking = await TravelService.GetBookingAsync(Reference);
+        if (booking != null)
+        {
+            _confirmation = new BookingConfirmation
+            {
+                Reference = booking.Reference,
+                PropertyName = booking.PropertyName,
+                CheckIn = booking.CheckIn,
+                CheckOut = booking.CheckOut,
+                Nights = (int)(booking.CheckOut - booking.CheckIn).TotalDays,
+                TotalAmount = booking.TotalAmount,
+                Currency = booking.Currency,
+                Status = booking.Status,
+                GuestName = booking.GuestName,
+            };
+        }
+    }
+}
+

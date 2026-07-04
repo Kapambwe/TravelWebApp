@@ -1,0 +1,84 @@
+@page "/corporate-travel"
+@inject NotificationService NotificationService
+
+<div class="page-section">
+    <RadzenRow>
+        <RadzenColumn Size="6" SizeMD="12">
+            <RadzenText TextStyle="TextStyle.H3">Corporate Travel Solutions</RadzenText>
+            <RadzenText TextStyle="TextStyle.Body1" Style="margin:16px 0;line-height:1.6;">
+                Streamline your business travel with TravelSA. We offer negotiated rates, bulk invoicing, and dedicated support for corporate clients across Africa.
+            </RadzenText>
+            
+            <RadzenCard Style="background:var(--primary);color:white;padding:32px;border-radius:16px;">
+                <RadzenText TextStyle="TextStyle.H5" Style="color:white;margin-bottom:16px;">Why Partner With Us?</RadzenText>
+                <ul style="padding-left:20px;line-height:2;">
+                    <li>Negotiated rates at 500+ business hotels</li>
+                    <li>Consolidated monthly invoicing</li>
+                    <li>Flexible cancellation policies</li>
+                    <li>24/7 dedicated corporate account manager</li>
+                    <li>Custom travel reporting and analytics</li>
+                </ul>
+            </RadzenCard>
+        </RadzenColumn>
+        
+        <RadzenColumn Size="6" SizeMD="12">
+            <RadzenCard Style="padding:32px;border-radius:16px;">
+                <RadzenText TextStyle="TextStyle.H5" Style="margin-bottom:24px;">Register for a Corporate Account</RadzenText>
+                
+                <RadzenTemplateForm TItem="CorporateTravel.CorporateModel" Model="@_model" Submit="@HandleSubmit">
+                    <RadzenFormField Text="Company Name" Style="width:100%;margin-bottom:16px;">
+                        <RadzenTextBox @bind-Value="@_model.CompanyName" Style="width:100%;" />
+                    </RadzenFormField>
+                    
+                    <div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;margin-bottom:16px;">
+                        <RadzenFormField Text="Contact Person">
+                            <RadzenTextBox @bind-Value="@_model.ContactPerson" Style="width:100%;" />
+                        </RadzenFormField>
+                        <RadzenFormField Text="Work Email">
+                            <RadzenTextBox @bind-Value="@_model.Email" Style="width:100%;" />
+                        </RadzenFormField>
+                    </div>
+                    
+                    <RadzenFormField Text="Industry" Style="width:100%;margin-bottom:16px;">
+                        <RadzenDropDown @bind-Value="@_model.Industry" Data="@_industries" Style="width:100%;" />
+                    </RadzenFormField>
+                    
+                    <RadzenFormField Text="Monthly Travel Volume (Estimated)" Style="width:100%;margin-bottom:24px;">
+                        <RadzenDropDown @bind-Value="@_model.Volume" Data="@_volumes" Style="width:100%;" />
+                    </RadzenFormField>
+                    
+                    <RadzenButton Text="Request Corporate Access" ButtonStyle="ButtonStyle.Primary" FormSubmit="true" Style="width:100%;padding:14px;" />
+                </RadzenTemplateForm>
+                
+                @if (_submitted)
+                {
+                    <RadzenAlert AlertStyle="AlertStyle.Success" Style="margin-top:20px;">
+                        Thank you for your interest! A corporate account manager will contact you within 24 hours.
+                    </RadzenAlert>
+                }
+            </RadzenCard>
+        </RadzenColumn>
+    </RadzenRow>
+</div>
+
+@code {
+    private CorporateModel _model = new();
+    private bool _submitted;
+    
+    private readonly string[] _industries = ["Technology", "Finance", "Mining", "Consulting", "Government", "Other"];
+    private readonly string[] _volumes = ["R0 - R10,000", "R10,000 - R50,000", "R50,000 - R200,000", "R200,000+"];
+
+    private void HandleSubmit(CorporateModel args)
+    {
+        _submitted = true;
+    }
+
+    private class CorporateModel
+    {
+        public string CompanyName { get; set; } = "";
+        public string ContactPerson { get; set; } = "";
+        public string Email { get; set; } = "";
+        public string Industry { get; set; } = "";
+        public string Volume { get; set; } = "";
+    }
+}

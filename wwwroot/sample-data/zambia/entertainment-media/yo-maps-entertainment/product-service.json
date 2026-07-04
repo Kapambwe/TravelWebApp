@@ -1,0 +1,202 @@
+[
+  {
+    "id": "prod-ym-001",
+    "productName": "Aweah Album - Digital Download",
+    "description": "Hit album featuring top Zambian tracks",
+    "category": "Music",
+    "unitPrice": 50.00,
+    "quantityInStock": 9999,
+    "reorderLevel": 0,
+    "supplier": "Self-Produced"
+  },
+  {
+    "id": "prod-ym-002",
+    "productName": "Aweah Album - Physical CD",
+    "description": "Physical CD album with packaging",
+    "category": "Music",
+    "unitPrice": 100.00,
+    "quantityInStock": 450,
+    "reorderLevel": 50,
+    "supplier": "CD Manufacturing Zambia"
+  },
+  {
+    "id": "prod-ym-003",
+    "productName": "Concert Ticket - VIP",
+    "description": "VIP access to Yo Maps live performance",
+    "category": "Events",
+    "unitPrice": 500.00,
+    "quantityInStock": 100,
+    "reorderLevel": 20,
+    "supplier": "Event Ticketing Ltd"
+  },
+  {
+    "id": "prod-ym-004",
+    "productName": "Concert Ticket - Regular",
+    "description": "General admission to live show",
+    "category": "Events",
+    "unitPrice": 200.00,
+    "quantityInStock": 500,
+    "reorderLevel": 100,
+    "supplier": "Event Ticketing Ltd"
+  },
+  {
+    "id": "prod-ym-005",
+    "productName": "Music Video Production",
+    "description": "Professional music video production services",
+    "category": "Services",
+    "unitPrice": 15000.00,
+    "quantityInStock": 1,
+    "reorderLevel": 0,
+    "supplier": "Self-Service"
+  },
+  {
+    "id": "prod-ym-006",
+    "productName": "Streaming Revenue - Spotify",
+    "description": "Monthly streaming royalties from Spotify",
+    "category": "Royalties",
+    "unitPrice": 8500.00,
+    "quantityInStock": 1,
+    "reorderLevel": 0,
+    "supplier": "Spotify"
+  },
+  {
+    "id": "prod-ym-007",
+    "productName": "Streaming Revenue - Apple Music",
+    "description": "Monthly streaming royalties from Apple Music",
+    "category": "Royalties",
+    "unitPrice": 7200.00,
+    "quantityInStock": 1,
+    "reorderLevel": 0,
+    "supplier": "Apple Music"
+  },
+  {
+    "id": "prod-ym-008",
+    "productName": "Streaming Revenue - YouTube",
+    "description": "Monthly ad revenue from YouTube",
+    "category": "Royalties",
+    "unitPrice": 12000.00,
+    "quantityInStock": 1,
+    "reorderLevel": 0,
+    "supplier": "YouTube"
+  },
+  {
+    "id": "prod-ym-009",
+    "productName": "Private Event Performance",
+    "description": "Private performance at weddings/corporate events",
+    "category": "Services",
+    "unitPrice": 35000.00,
+    "quantityInStock": 1,
+    "reorderLevel": 0,
+    "supplier": "Self-Service"
+  },
+  {
+    "id": "prod-ym-010",
+    "productName": "Radio Airplay Royalties",
+    "description": "Monthly radio play royalties",
+    "category": "Royalties",
+    "unitPrice": 4500.00,
+    "quantityInStock": 1,
+    "reorderLevel": 0,
+    "supplier": "ZAMCOPS"
+  },
+  {
+    "id": "prod-ym-011",
+    "productName": "Brand Endorsement Deal",
+    "description": "Monthly brand ambassadorship",
+    "category": "Endorsements",
+    "unitPrice": 25000.00,
+    "quantityInStock": 1,
+    "reorderLevel": 0,
+    "supplier": "Brand Partnerships"
+  },
+  {
+    "id": "prod-ym-012",
+    "productName": "Yo Maps Merchandise - T-Shirt",
+    "description": "Official Yo Maps branded t-shirt",
+    "category": "Merchandise",
+    "unitPrice": 120.00,
+    "quantityInStock": 350,
+    "reorderLevel": 50,
+    "supplier": "Merchandise Manufacturers Ltd"
+  },
+  {
+    "id": "prod-ym-013",
+    "productName": "Yo Maps Merchandise - Cap",
+    "description": "Official branded baseball cap",
+    "category": "Merchandise",
+    "unitPrice": 80.00,
+    "quantityInStock": 200,
+    "reorderLevel": 30,
+    "supplier": "Merchandise Manufacturers Ltd"
+  },
+  {
+    "id": "prod-ym-014",
+    "productName": "Yo Maps Merchandise - Hoodie",
+    "description": "Premium branded hoodie",
+    "category": "Merchandise",
+    "unitPrice": 250.00,
+    "quantityInStock": 150,
+    "reorderLevel": 25,
+    "supplier": "Merchandise Manufacturers Ltd"
+  },
+  {
+    "id": "prod-ym-015",
+    "productName": "Festival Performance",
+    "description": "Performance at music festival",
+    "category": "Services",
+    "unitPrice": 55000.00,
+    "quantityInStock": 1,
+    "reorderLevel": 0,
+    "supplier": "Self-Service"
+  },
+  {
+    "id": "prod-ym-016",
+    "productName": "Social Media Promotion",
+    "description": "Paid social media brand promotion post",
+    "category": "Services",
+    "unitPrice": 8000.00,
+    "quantityInStock": 1,
+    "reorderLevel": 0,
+    "supplier": "Self-Service"
+  },
+  {
+    "id": "prod-ym-017",
+    "productName": "Collaboration Feature",
+    "description": "Featured artist on another artist's track",
+    "category": "Services",
+    "unitPrice": 18000.00,
+    "quantityInStock": 1,
+    "reorderLevel": 0,
+    "supplier": "Self-Service"
+  },
+  {
+    "id": "prod-ym-018",
+    "productName": "Property Rental - Residential",
+    "description": "Monthly rental from residential property",
+    "category": "Real Estate",
+    "unitPrice": 5000.00,
+    "quantityInStock": 1,
+    "reorderLevel": 0,
+    "supplier": "Property Management"
+  },
+  {
+    "id": "prod-ym-019",
+    "productName": "Music Licensing - Film/TV",
+    "description": "License fee for song usage in media",
+    "category": "Licensing",
+    "unitPrice": 12000.00,
+    "quantityInStock": 1,
+    "reorderLevel": 0,
+    "supplier": "Media Licensing"
+  },
+  {
+    "id": "prod-ym-020",
+    "productName": "Meet & Greet Package",
+    "description": "VIP meet and greet with artist",
+    "category": "Services",
+    "unitPrice": 1500.00,
+    "quantityInStock": 50,
+    "reorderLevel": 10,
+    "supplier": "Self-Service"
+  }
+]

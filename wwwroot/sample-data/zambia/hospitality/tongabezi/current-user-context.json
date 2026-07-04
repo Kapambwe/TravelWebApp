@@ -1,0 +1,21 @@
+{
+    "userId":  "user-Tongabezi-001",
+    "userName":  "accounts@tongabezi.co.zm",
+    "fullName":  "Tongabezi",
+    "roles":  [
+                  "General Manager",
+                  "Lodge Host",
+                  "Head of Finance"
+              ],
+    "companyId":  "tong-001",
+    "companyName":  "Tongabezi Lodge by Green Safaris",
+    "permissions":  [
+                        "ViewReports",
+                        "CreateTransactions",
+                        "ApproveBudgets",
+                        "ManageBookings",
+                        "ManageRooms",
+                        "ViewOccupancy",
+                        "ManageAmenities"
+                    ]
+}

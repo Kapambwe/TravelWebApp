@@ -1,0 +1,46 @@
+﻿[
+    {
+        "LodgeType":  0,
+        "Id":  101,
+        "Description":  "Comfortable Standard Chalet with river views",
+        "RoomType":  0,
+        "RoomNumber":  "SL-101",
+        "Floor":  1,
+        "Capacity":  2,
+        "Status":  0,
+        "BaseRate":  12000
+    },
+    {
+        "LodgeType":  0,
+        "Id":  102,
+        "Description":  "Deluxe Chalet with private deck",
+        "RoomType":  1,
+        "RoomNumber":  "SL-102",
+        "Floor":  1,
+        "Capacity":  2,
+        "Status":  0,
+        "BaseRate":  18000
+    },
+    {
+        "LodgeType":  1,
+        "Id":  201,
+        "Description":  "Executive Luxury Safari Tent",
+        "RoomType":  2,
+        "RoomNumber":  "SL-201",
+        "Floor":  1,
+        "Capacity":  4,
+        "Status":  0,
+        "BaseRate":  25000
+    },
+    {
+        "LodgeType":  2,
+        "Id":  301,
+        "Description":  "Presidential Wildwood Villa with pool",
+        "RoomType":  3,
+        "RoomNumber":  "SL-301",
+        "Floor":  1,
+        "Capacity":  6,
+        "Status":  0,
+        "BaseRate":  45000
+    }
+]

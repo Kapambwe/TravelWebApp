@@ -1,0 +1,24 @@
+[
+  {
+    "linkId": "gnra-link-001",
+    "programId": "gnra-alumni-001",
+    "code": "GNRA-ALUM-2026",
+    "shortLink": "https://school.app/r/gnra-alum-2026",
+    "clicks": 40,
+    "signups": 12,
+    "conversions": 4,
+    "totalRevenue": 20000.00,
+    "createdDate": "2026-01-05T09:00:00Z"
+  },
+  {
+    "linkId": "gnra-link-002",
+    "programId": "gnra-student-001",
+    "code": "GNRA-STUD-2026",
+    "shortLink": "https://school.app/r/gnra-stud-2026",
+    "clicks": 25,
+    "signups": 7,
+    "conversions": 2,
+    "totalRevenue": 9000.00,
+    "createdDate": "2026-01-13T12:00:00Z"
+  }
+]

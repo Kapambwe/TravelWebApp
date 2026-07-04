@@ -1,0 +1,135 @@
+[
+  {
+    "id": 1,
+    "estimateNumber": "EST-2025-001",
+    "customerId": 10,
+    "customerName": "Sakala Merchants Co.",
+    "estimateDateDaysAgo": 46,
+    "expirationDateDaysFromNow": 37,
+    "status": "Draft",
+    "subTotal": 3028563.25,
+    "taxRate": 0,
+    "taxAmount": 0.0,
+    "total": 3028563.25,
+    "terms": "Net 30",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 46,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Hardware Products",
+        "quantity": 3,
+        "unitPrice": 1009521.08,
+        "amount": 3028563.25,
+        "itemType": "Service"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "estimateNumber": "EST-2025-002",
+    "customerId": 10,
+    "customerName": "Sakala Merchants Co.",
+    "estimateDateDaysAgo": 17,
+    "expirationDateDaysFromNow": 29,
+    "status": "Draft",
+    "subTotal": 2892479.68,
+    "taxRate": 15,
+    "taxAmount": 433871.95,
+    "total": 3326351.63,
+    "terms": "Net 45",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 17,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Craft & Curio Products",
+        "quantity": 5,
+        "unitPrice": 578495.94,
+        "amount": 2892479.68,
+        "itemType": "Service"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "estimateNumber": "EST-2025-003",
+    "customerId": 14,
+    "customerName": "Phiri Trading Ltd",
+    "estimateDateDaysAgo": 56,
+    "expirationDateDaysFromNow": 41,
+    "status": "Expired",
+    "subTotal": 2043079.89,
+    "taxRate": 15,
+    "taxAmount": 306461.98,
+    "total": 2349541.87,
+    "terms": "Net 30",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 56,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Clothing & Textiles",
+        "quantity": 2,
+        "unitPrice": 1021539.94,
+        "amount": 2043079.89,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 55
+  },
+  {
+    "id": 4,
+    "estimateNumber": "EST-2025-004",
+    "customerId": 10,
+    "customerName": "Sakala Merchants Co.",
+    "estimateDateDaysAgo": 27,
+    "expirationDateDaysFromNow": 41,
+    "status": "Declined",
+    "subTotal": 1834538.53,
+    "taxRate": 16,
+    "taxAmount": 293526.16,
+    "total": 2128064.69,
+    "terms": "Net 30",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 27,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Clothing & Textiles",
+        "quantity": 4,
+        "unitPrice": 458634.63,
+        "amount": 1834538.53,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 26
+  },
+  {
+    "id": 5,
+    "estimateNumber": "EST-2025-005",
+    "customerId": 5,
+    "customerName": "Mumba Traders Co.",
+    "estimateDateDaysAgo": 33,
+    "expirationDateDaysFromNow": 34,
+    "status": "Accepted",
+    "subTotal": 3966911.29,
+    "taxRate": 18,
+    "taxAmount": 714044.03,
+    "total": 4680955.32,
+    "terms": "Net 45",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 33,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Clothing & Textiles",
+        "quantity": 5,
+        "unitPrice": 793382.26,
+        "amount": 3966911.29,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 32
+  }
+]

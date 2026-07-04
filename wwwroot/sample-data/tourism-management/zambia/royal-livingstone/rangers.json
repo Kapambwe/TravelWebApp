@@ -1,0 +1,9 @@
+﻿{
+    "Id":  101,
+    "Name":  "Scout Benson Tembo",
+    "EmployeeId":  "SCT-012",
+    "CurrentLatitude":  -17.918,
+    "CurrentLongitude":  25.852,
+    "IsActive":  true,
+    "BadgeNumber":  "S-BADGE-105"
+}

@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "invoiceNumber": "INV-2025-001",
+    "clientName": "Mulenga Merchants Ltd",
+    "description": "Craft & Curio Products",
+    "invoiceDate": "2025-01-07T00:00:00",
+    "dueDate": "2025-02-06T00:00:00",
+    "amount": 596552.46,
+    "receivedAmount": 0.0,
+    "status": "Open",
+    "customerId": 5
+  },
+  {
+    "id": 2,
+    "invoiceNumber": "INV-2025-002",
+    "clientName": "Zulu Commerce Limited",
+    "description": "Electronics Supply",
+    "invoiceDate": "2025-02-28T00:00:00",
+    "dueDate": "2025-03-30T00:00:00",
+    "amount": 3808394.73,
+    "receivedAmount": 0.0,
+    "status": "Overdue",
+    "customerId": 4
+  },
+  {
+    "id": 3,
+    "invoiceNumber": "INV-2025-003",
+    "clientName": "Tembo Traders Ltd",
+    "description": "Groceries",
+    "invoiceDate": "2024-12-09T00:00:00",
+    "dueDate": "2024-12-24T00:00:00",
+    "amount": 2117055.25,
+    "receivedAmount": 2117055.25,
+    "status": "Paid",
+    "customerId": 1
+  },
+  {
+    "id": 4,
+    "invoiceNumber": "INV-2025-004",
+    "clientName": "Mulenga Merchants Ltd",
+    "description": "Electronics Supply",
+    "invoiceDate": "2025-01-29T00:00:00",
+    "dueDate": "2025-03-15T00:00:00",
+    "amount": 3916008.47,
+    "receivedAmount": 3916008.47,
+    "status": "Paid",
+    "customerId": 5
+  },
+  {
+    "id": 5,
+    "invoiceNumber": "INV-2025-005",
+    "clientName": "Ngosa Merchants Enterprises",
+    "description": "Clothing & Textiles",
+    "invoiceDate": "2024-11-19T00:00:00",
+    "dueDate": "2025-01-03T00:00:00",
+    "amount": 4561258.05,
+    "receivedAmount": 1560822.19,
+    "status": "PartiallyPaid",
+    "customerId": 2
+  },
+  {
+    "id": 6,
+    "invoiceNumber": "INV-2025-006",
+    "clientName": "Ngosa Merchants Enterprises",
+    "description": "Groceries",
+    "invoiceDate": "2025-03-01T00:00:00",
+    "dueDate": "2025-04-30T00:00:00",
+    "amount": 2210191.96,
+    "receivedAmount": 2210191.96,
+    "status": "Paid",
+    "customerId": 2
+  },
+  {
+    "id": 7,
+    "invoiceNumber": "INV-2025-007",
+    "clientName": "Mwamba Commerce Solutions",
+    "description": "Hardware Products",
+    "invoiceDate": "2025-02-14T00:00:00",
+    "dueDate": "2025-04-15T00:00:00",
+    "amount": 4389346.16,
+    "receivedAmount": 0.0,
+    "status": "Open",
+    "customerId": 7
+  },
+  {
+    "id": 8,
+    "invoiceNumber": "INV-2025-008",
+    "clientName": "Sakala Retail Inc.",
+    "description": "Clothing & Textiles",
+    "invoiceDate": "2024-11-07T00:00:00",
+    "dueDate": "2025-01-06T00:00:00",
+    "amount": 4446254.57,
+    "receivedAmount": 0.0,
+    "status": "Open",
+    "customerId": 11
+  },
+  {
+    "id": 9,
+    "invoiceNumber": "INV-2025-009",
+    "clientName": "Zulu Commerce Limited",
+    "description": "Electronics Supply",
+    "invoiceDate": "2025-02-03T00:00:00",
+    "dueDate": "2025-04-04T00:00:00",
+    "amount": 2610439.67,
+    "receivedAmount": 0.0,
+    "status": "Open",
+    "customerId": 4
+  },
+  {
+    "id": 10,
+    "invoiceNumber": "INV-2025-010",
+    "clientName": "Ngosa Merchants Enterprises",
+    "description": "Clothing & Textiles",
+    "invoiceDate": "2025-01-23T00:00:00",
+    "dueDate": "2025-02-07T00:00:00",
+    "amount": 3668965.61,
+    "receivedAmount": 2417917.61,
+    "status": "PartiallyPaid",
+    "customerId": 2
+  }
+]

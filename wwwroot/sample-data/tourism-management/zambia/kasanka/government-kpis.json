@@ -1,0 +1,29 @@
+﻿[
+    {
+        "Id":  1,
+        "Change":  5.95,
+        "Value":  89000000,
+        "Metric":  "Direct Tourism GDP Contribution (KES)",
+        "PreviousValue":  84000000,
+        "Period":  "Q1 2024",
+        "Category":  "Macroeconomics"
+    },
+    {
+        "Id":  2,
+        "Change":  9.68,
+        "Value":  340,
+        "Metric":  "Local Community Members Employed",
+        "PreviousValue":  310,
+        "Period":  "Q1 2024",
+        "Category":  "Employment"
+    },
+    {
+        "Id":  3,
+        "Change":  2.71,
+        "Value":  94.5,
+        "Metric":  "Tax Compliance Rating",
+        "PreviousValue":  92,
+        "Period":  "Q1 2024",
+        "Category":  "Compliance"
+    }
+]

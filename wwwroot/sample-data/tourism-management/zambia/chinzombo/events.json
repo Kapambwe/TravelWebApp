@@ -1,0 +1,10 @@
+﻿{
+    "Capacity":  50,
+    "HasEquipment":  true,
+    "IsAvailable":  true,
+    "Id":  1,
+    "Location":  "Main Deck",
+    "Name":  "Riverside Dining Deck",
+    "HasCatering":  true,
+    "HourlyRate":  4000
+}

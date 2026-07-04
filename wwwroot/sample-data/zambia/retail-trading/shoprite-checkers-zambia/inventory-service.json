@@ -1,0 +1,302 @@
+[
+  {
+    "id": "inv-001",
+    "itemName": "Office Supplies 1",
+    "sku": "SKU-001",
+    "quantity": 406,
+    "unitCost": 50.0,
+    "totalValue": 5000.0,
+    "reorderLevel": 20,
+    "location": "Warehouse A"
+  },
+  {
+    "id": "inv-002",
+    "itemName": "Computer Equipment 2",
+    "sku": "SKU-002",
+    "quantity": 328,
+    "unitCost": 5000.0,
+    "totalValue": 50000.0,
+    "reorderLevel": 2,
+    "location": "IT Storage"
+  },
+  {
+    "id": "inv-003",
+    "itemName": "Office Supplies 3",
+    "sku": "SKU-001",
+    "quantity": 6,
+    "unitCost": 50.0,
+    "totalValue": 5000.0,
+    "reorderLevel": 20,
+    "location": "Warehouse A"
+  },
+  {
+    "id": "inv-004",
+    "itemName": "Computer Equipment 4",
+    "sku": "SKU-002",
+    "quantity": 658,
+    "unitCost": 5000.0,
+    "totalValue": 50000.0,
+    "reorderLevel": 2,
+    "location": "IT Storage"
+  },
+  {
+    "id": "inv-005",
+    "itemName": "Office Supplies 5",
+    "sku": "SKU-001",
+    "quantity": 694,
+    "unitCost": 50.0,
+    "totalValue": 5000.0,
+    "reorderLevel": 20,
+    "location": "Warehouse A"
+  },
+  {
+    "id": "inv-006",
+    "itemName": "Computer Equipment 6",
+    "sku": "SKU-002",
+    "quantity": 417,
+    "unitCost": 5000.0,
+    "totalValue": 50000.0,
+    "reorderLevel": 2,
+    "location": "IT Storage"
+  },
+  {
+    "id": "inv-007",
+    "itemName": "Office Supplies 7",
+    "sku": "SKU-001",
+    "quantity": 288,
+    "unitCost": 50.0,
+    "totalValue": 5000.0,
+    "reorderLevel": 20,
+    "location": "Warehouse A"
+  },
+  {
+    "id": "inv-008",
+    "itemName": "Computer Equipment 8",
+    "sku": "SKU-002",
+    "quantity": 17,
+    "unitCost": 5000.0,
+    "totalValue": 50000.0,
+    "reorderLevel": 2,
+    "location": "IT Storage"
+  },
+  {
+    "id": "inv-009",
+    "itemName": "Office Supplies 9",
+    "sku": "SKU-001",
+    "quantity": 273,
+    "unitCost": 50.0,
+    "totalValue": 5000.0,
+    "reorderLevel": 20,
+    "location": "Warehouse A"
+  },
+  {
+    "id": "inv-010",
+    "itemName": "Computer Equipment 10",
+    "sku": "SKU-002",
+    "quantity": 203,
+    "unitCost": 5000.0,
+    "totalValue": 50000.0,
+    "reorderLevel": 2,
+    "location": "IT Storage"
+  },
+  {
+    "id": "inv-011",
+    "itemName": "Office Supplies 11",
+    "sku": "SKU-001",
+    "quantity": 85,
+    "unitCost": 50.0,
+    "totalValue": 5000.0,
+    "reorderLevel": 20,
+    "location": "Warehouse A"
+  },
+  {
+    "id": "inv-012",
+    "itemName": "Computer Equipment 12",
+    "sku": "SKU-002",
+    "quantity": 965,
+    "unitCost": 5000.0,
+    "totalValue": 50000.0,
+    "reorderLevel": 2,
+    "location": "IT Storage"
+  },
+  {
+    "id": "inv-013",
+    "itemName": "Office Supplies 13",
+    "sku": "SKU-001",
+    "quantity": 669,
+    "unitCost": 50.0,
+    "totalValue": 5000.0,
+    "reorderLevel": 20,
+    "location": "Warehouse A"
+  },
+  {
+    "id": "inv-014",
+    "itemName": "Computer Equipment 14",
+    "sku": "SKU-002",
+    "quantity": 656,
+    "unitCost": 5000.0,
+    "totalValue": 50000.0,
+    "reorderLevel": 2,
+    "location": "IT Storage"
+  },
+  {
+    "id": "inv-015",
+    "itemName": "Office Supplies 15",
+    "sku": "SKU-001",
+    "quantity": 225,
+    "unitCost": 50.0,
+    "totalValue": 5000.0,
+    "reorderLevel": 20,
+    "location": "Warehouse A"
+  },
+  {
+    "id": "inv-016",
+    "itemName": "Computer Equipment 16",
+    "sku": "SKU-002",
+    "quantity": 200,
+    "unitCost": 5000.0,
+    "totalValue": 50000.0,
+    "reorderLevel": 2,
+    "location": "IT Storage"
+  },
+  {
+    "id": "inv-017",
+    "itemName": "Office Supplies 17",
+    "sku": "SKU-001",
+    "quantity": 217,
+    "unitCost": 50.0,
+    "totalValue": 5000.0,
+    "reorderLevel": 20,
+    "location": "Warehouse A"
+  },
+  {
+    "id": "inv-018",
+    "itemName": "Computer Equipment 18",
+    "sku": "SKU-002",
+    "quantity": 872,
+    "unitCost": 5000.0,
+    "totalValue": 50000.0,
+    "reorderLevel": 2,
+    "location": "IT Storage"
+  },
+  {
+    "id": "inv-019",
+    "itemName": "Office Supplies 19",
+    "sku": "SKU-001",
+    "quantity": 335,
+    "unitCost": 50.0,
+    "totalValue": 5000.0,
+    "reorderLevel": 20,
+    "location": "Warehouse A"
+  },
+  {
+    "id": "inv-020",
+    "itemName": "Computer Equipment 20",
+    "sku": "SKU-002",
+    "quantity": 198,
+    "unitCost": 5000.0,
+    "totalValue": 50000.0,
+    "reorderLevel": 2,
+    "location": "IT Storage"
+  },
+  {
+    "id": "inv-021",
+    "itemName": "Office Supplies 21",
+    "sku": "SKU-001",
+    "quantity": 213,
+    "unitCost": 50.0,
+    "totalValue": 5000.0,
+    "reorderLevel": 20,
+    "location": "Warehouse A"
+  },
+  {
+    "id": "inv-022",
+    "itemName": "Computer Equipment 22",
+    "sku": "SKU-002",
+    "quantity": 664,
+    "unitCost": 5000.0,
+    "totalValue": 50000.0,
+    "reorderLevel": 2,
+    "location": "IT Storage"
+  },
+  {
+    "id": "inv-023",
+    "itemName": "Office Supplies 23",
+    "sku": "SKU-001",
+    "quantity": 597,
+    "unitCost": 50.0,
+    "totalValue": 5000.0,
+    "reorderLevel": 20,
+    "location": "Warehouse A"
+  },
+  {
+    "id": "inv-024",
+    "itemName": "Computer Equipment 24",
+    "sku": "SKU-002",
+    "quantity": 108,
+    "unitCost": 5000.0,
+    "totalValue": 50000.0,
+    "reorderLevel": 2,
+    "location": "IT Storage"
+  },
+  {
+    "id": "inv-025",
+    "itemName": "Office Supplies 25",
+    "sku": "SKU-001",
+    "quantity": 173,
+    "unitCost": 50.0,
+    "totalValue": 5000.0,
+    "reorderLevel": 20,
+    "location": "Warehouse A"
+  },
+  {
+    "id": "inv-026",
+    "itemName": "Computer Equipment 26",
+    "sku": "SKU-002",
+    "quantity": 787,
+    "unitCost": 5000.0,
+    "totalValue": 50000.0,
+    "reorderLevel": 2,
+    "location": "IT Storage"
+  },
+  {
+    "id": "inv-027",
+    "itemName": "Office Supplies 27",
+    "sku": "SKU-001",
+    "quantity": 365,
+    "unitCost": 50.0,
+    "totalValue": 5000.0,
+    "reorderLevel": 20,
+    "location": "Warehouse A"
+  },
+  {
+    "id": "inv-028",
+    "itemName": "Computer Equipment 28",
+    "sku": "SKU-002",
+    "quantity": 139,
+    "unitCost": 5000.0,
+    "totalValue": 50000.0,
+    "reorderLevel": 2,
+    "location": "IT Storage"
+  },
+  {
+    "id": "inv-029",
+    "itemName": "Office Supplies 29",
+    "sku": "SKU-001",
+    "quantity": 979,
+    "unitCost": 50.0,
+    "totalValue": 5000.0,
+    "reorderLevel": 20,
+    "location": "Warehouse A"
+  },
+  {
+    "id": "inv-030",
+    "itemName": "Computer Equipment 30",
+    "sku": "SKU-002",
+    "quantity": 676,
+    "unitCost": 5000.0,
+    "totalValue": 50000.0,
+    "reorderLevel": 2,
+    "location": "IT Storage"
+  }
+]

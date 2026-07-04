@@ -1,0 +1,482 @@
+[
+  {
+    "id": "pr-001",
+    "employeeId": "emp-001",
+    "employeeName": "Siame Bwalya",
+    "period": "January 2024",
+    "basicSalary": 10000.0,
+    "allowances": 2000.0,
+    "grossPay": 12000.0,
+    "deductions": {
+      "napsa": 600.0,
+      "paye": 2000.0,
+      "nhima": 120.0
+    },
+    "netPay": 9280.0,
+    "paymentDate": "2025-09-22"
+  },
+  {
+    "id": "pr-002",
+    "employeeId": "emp-001",
+    "employeeName": "Kambole Kaunda",
+    "period": "January 2024",
+    "basicSalary": 10000.0,
+    "allowances": 2000.0,
+    "grossPay": 12000.0,
+    "deductions": {
+      "napsa": 600.0,
+      "paye": 2000.0,
+      "nhima": 120.0
+    },
+    "netPay": 9280.0,
+    "paymentDate": "2025-12-18"
+  },
+  {
+    "id": "pr-003",
+    "employeeId": "emp-001",
+    "employeeName": "Mulenga Zulu",
+    "period": "January 2024",
+    "basicSalary": 10000.0,
+    "allowances": 2000.0,
+    "grossPay": 12000.0,
+    "deductions": {
+      "napsa": 600.0,
+      "paye": 2000.0,
+      "nhima": 120.0
+    },
+    "netPay": 9280.0,
+    "paymentDate": "2025-03-29"
+  },
+  {
+    "id": "pr-004",
+    "employeeId": "emp-001",
+    "employeeName": "Mutale Lubasi",
+    "period": "January 2024",
+    "basicSalary": 10000.0,
+    "allowances": 2000.0,
+    "grossPay": 12000.0,
+    "deductions": {
+      "napsa": 600.0,
+      "paye": 2000.0,
+      "nhima": 120.0
+    },
+    "netPay": 9280.0,
+    "paymentDate": "2025-08-18"
+  },
+  {
+    "id": "pr-005",
+    "employeeId": "emp-001",
+    "employeeName": "Lubinda Sakala",
+    "period": "January 2024",
+    "basicSalary": 10000.0,
+    "allowances": 2000.0,
+    "grossPay": 12000.0,
+    "deductions": {
+      "napsa": 600.0,
+      "paye": 2000.0,
+      "nhima": 120.0
+    },
+    "netPay": 9280.0,
+    "paymentDate": "2025-12-28"
+  },
+  {
+    "id": "pr-006",
+    "employeeId": "emp-001",
+    "employeeName": "Zulu Lungu",
+    "period": "January 2024",
+    "basicSalary": 10000.0,
+    "allowances": 2000.0,
+    "grossPay": 12000.0,
+    "deductions": {
+      "napsa": 600.0,
+      "paye": 2000.0,
+      "nhima": 120.0
+    },
+    "netPay": 9280.0,
+    "paymentDate": "2025-02-22"
+  },
+  {
+    "id": "pr-007",
+    "employeeId": "emp-001",
+    "employeeName": "Phiri Lubinda",
+    "period": "January 2024",
+    "basicSalary": 10000.0,
+    "allowances": 2000.0,
+    "grossPay": 12000.0,
+    "deductions": {
+      "napsa": 600.0,
+      "paye": 2000.0,
+      "nhima": 120.0
+    },
+    "netPay": 9280.0,
+    "paymentDate": "2025-09-29"
+  },
+  {
+    "id": "pr-008",
+    "employeeId": "emp-001",
+    "employeeName": "Phiri Tembo",
+    "period": "January 2024",
+    "basicSalary": 10000.0,
+    "allowances": 2000.0,
+    "grossPay": 12000.0,
+    "deductions": {
+      "napsa": 600.0,
+      "paye": 2000.0,
+      "nhima": 120.0
+    },
+    "netPay": 9280.0,
+    "paymentDate": "2025-11-18"
+  },
+  {
+    "id": "pr-009",
+    "employeeId": "emp-001",
+    "employeeName": "Sichone Simukonda",
+    "period": "January 2024",
+    "basicSalary": 10000.0,
+    "allowances": 2000.0,
+    "grossPay": 12000.0,
+    "deductions": {
+      "napsa": 600.0,
+      "paye": 2000.0,
+      "nhima": 120.0
+    },
+    "netPay": 9280.0,
+    "paymentDate": "2025-07-11"
+  },
+  {
+    "id": "pr-010",
+    "employeeId": "emp-001",
+    "employeeName": "Tembo Tembo",
+    "period": "January 2024",
+    "basicSalary": 10000.0,
+    "allowances": 2000.0,
+    "grossPay": 12000.0,
+    "deductions": {
+      "napsa": 600.0,
+      "paye": 2000.0,
+      "nhima": 120.0
+    },
+    "netPay": 9280.0,
+    "paymentDate": "2025-05-17"
+  },
+  {
+    "id": "pr-011",
+    "employeeId": "emp-001",
+    "employeeName": "Mwape Mwale",
+    "period": "January 2024",
+    "basicSalary": 10000.0,
+    "allowances": 2000.0,
+    "grossPay": 12000.0,
+    "deductions": {
+      "napsa": 600.0,
+      "paye": 2000.0,
+      "nhima": 120.0
+    },
+    "netPay": 9280.0,
+    "paymentDate": "2025-07-24"
+  },
+  {
+    "id": "pr-012",
+    "employeeId": "emp-001",
+    "employeeName": "Chola Siame",
+    "period": "January 2024",
+    "basicSalary": 10000.0,
+    "allowances": 2000.0,
+    "grossPay": 12000.0,
+    "deductions": {
+      "napsa": 600.0,
+      "paye": 2000.0,
+      "nhima": 120.0
+    },
+    "netPay": 9280.0,
+    "paymentDate": "2025-07-24"
+  },
+  {
+    "id": "pr-013",
+    "employeeId": "emp-001",
+    "employeeName": "Lubinda Chola",
+    "period": "January 2024",
+    "basicSalary": 10000.0,
+    "allowances": 2000.0,
+    "grossPay": 12000.0,
+    "deductions": {
+      "napsa": 600.0,
+      "paye": 2000.0,
+      "nhima": 120.0
+    },
+    "netPay": 9280.0,
+    "paymentDate": "2025-03-15"
+  },
+  {
+    "id": "pr-014",
+    "employeeId": "emp-001",
+    "employeeName": "Mwamba Daka",
+    "period": "January 2024",
+    "basicSalary": 10000.0,
+    "allowances": 2000.0,
+    "grossPay": 12000.0,
+    "deductions": {
+      "napsa": 600.0,
+      "paye": 2000.0,
+      "nhima": 120.0
+    },
+    "netPay": 9280.0,
+    "paymentDate": "2025-06-03"
+  },
+  {
+    "id": "pr-015",
+    "employeeId": "emp-001",
+    "employeeName": "Muyunda Hichilema",
+    "period": "January 2024",
+    "basicSalary": 10000.0,
+    "allowances": 2000.0,
+    "grossPay": 12000.0,
+    "deductions": {
+      "napsa": 600.0,
+      "paye": 2000.0,
+      "nhima": 120.0
+    },
+    "netPay": 9280.0,
+    "paymentDate": "2025-12-15"
+  },
+  {
+    "id": "pr-016",
+    "employeeId": "emp-001",
+    "employeeName": "Chola Mumba",
+    "period": "January 2024",
+    "basicSalary": 10000.0,
+    "allowances": 2000.0,
+    "grossPay": 12000.0,
+    "deductions": {
+      "napsa": 600.0,
+      "paye": 2000.0,
+      "nhima": 120.0
+    },
+    "netPay": 9280.0,
+    "paymentDate": "2025-10-11"
+  },
+  {
+    "id": "pr-017",
+    "employeeId": "emp-001",
+    "employeeName": "Lubasi Chishimba",
+    "period": "January 2024",
+    "basicSalary": 10000.0,
+    "allowances": 2000.0,
+    "grossPay": 12000.0,
+    "deductions": {
+      "napsa": 600.0,
+      "paye": 2000.0,
+      "nhima": 120.0
+    },
+    "netPay": 9280.0,
+    "paymentDate": "2025-01-22"
+  },
+  {
+    "id": "pr-018",
+    "employeeId": "emp-001",
+    "employeeName": "Chanda Zulu",
+    "period": "January 2024",
+    "basicSalary": 10000.0,
+    "allowances": 2000.0,
+    "grossPay": 12000.0,
+    "deductions": {
+      "napsa": 600.0,
+      "paye": 2000.0,
+      "nhima": 120.0
+    },
+    "netPay": 9280.0,
+    "paymentDate": "2025-09-09"
+  },
+  {
+    "id": "pr-019",
+    "employeeId": "emp-001",
+    "employeeName": "Chola Sakala",
+    "period": "January 2024",
+    "basicSalary": 10000.0,
+    "allowances": 2000.0,
+    "grossPay": 12000.0,
+    "deductions": {
+      "napsa": 600.0,
+      "paye": 2000.0,
+      "nhima": 120.0
+    },
+    "netPay": 9280.0,
+    "paymentDate": "2025-11-11"
+  },
+  {
+    "id": "pr-020",
+    "employeeId": "emp-001",
+    "employeeName": "Simukonda Chola",
+    "period": "January 2024",
+    "basicSalary": 10000.0,
+    "allowances": 2000.0,
+    "grossPay": 12000.0,
+    "deductions": {
+      "napsa": 600.0,
+      "paye": 2000.0,
+      "nhima": 120.0
+    },
+    "netPay": 9280.0,
+    "paymentDate": "2025-02-12"
+  },
+  {
+    "id": "pr-021",
+    "employeeId": "emp-001",
+    "employeeName": "Siame Hichilema",
+    "period": "January 2024",
+    "basicSalary": 10000.0,
+    "allowances": 2000.0,
+    "grossPay": 12000.0,
+    "deductions": {
+      "napsa": 600.0,
+      "paye": 2000.0,
+      "nhima": 120.0
+    },
+    "netPay": 9280.0,
+    "paymentDate": "2025-02-17"
+  },
+  {
+    "id": "pr-022",
+    "employeeId": "emp-001",
+    "employeeName": "Chilufya Simukonda",
+    "period": "January 2024",
+    "basicSalary": 10000.0,
+    "allowances": 2000.0,
+    "grossPay": 12000.0,
+    "deductions": {
+      "napsa": 600.0,
+      "paye": 2000.0,
+      "nhima": 120.0
+    },
+    "netPay": 9280.0,
+    "paymentDate": "2025-06-02"
+  },
+  {
+    "id": "pr-023",
+    "employeeId": "emp-001",
+    "employeeName": "Muyunda Hichilema",
+    "period": "January 2024",
+    "basicSalary": 10000.0,
+    "allowances": 2000.0,
+    "grossPay": 12000.0,
+    "deductions": {
+      "napsa": 600.0,
+      "paye": 2000.0,
+      "nhima": 120.0
+    },
+    "netPay": 9280.0,
+    "paymentDate": "2025-09-28"
+  },
+  {
+    "id": "pr-024",
+    "employeeId": "emp-001",
+    "employeeName": "Musonda Kambole",
+    "period": "January 2024",
+    "basicSalary": 10000.0,
+    "allowances": 2000.0,
+    "grossPay": 12000.0,
+    "deductions": {
+      "napsa": 600.0,
+      "paye": 2000.0,
+      "nhima": 120.0
+    },
+    "netPay": 9280.0,
+    "paymentDate": "2025-05-10"
+  },
+  {
+    "id": "pr-025",
+    "employeeId": "emp-001",
+    "employeeName": "Ng'andu Kambole",
+    "period": "January 2024",
+    "basicSalary": 10000.0,
+    "allowances": 2000.0,
+    "grossPay": 12000.0,
+    "deductions": {
+      "napsa": 600.0,
+      "paye": 2000.0,
+      "nhima": 120.0
+    },
+    "netPay": 9280.0,
+    "paymentDate": "2026-01-02"
+  },
+  {
+    "id": "pr-026",
+    "employeeId": "emp-001",
+    "employeeName": "Kambole Zulu",
+    "period": "January 2024",
+    "basicSalary": 10000.0,
+    "allowances": 2000.0,
+    "grossPay": 12000.0,
+    "deductions": {
+      "napsa": 600.0,
+      "paye": 2000.0,
+      "nhima": 120.0
+    },
+    "netPay": 9280.0,
+    "paymentDate": "2025-03-23"
+  },
+  {
+    "id": "pr-027",
+    "employeeId": "emp-001",
+    "employeeName": "Kabwe Chishimba",
+    "period": "January 2024",
+    "basicSalary": 10000.0,
+    "allowances": 2000.0,
+    "grossPay": 12000.0,
+    "deductions": {
+      "napsa": 600.0,
+      "paye": 2000.0,
+      "nhima": 120.0
+    },
+    "netPay": 9280.0,
+    "paymentDate": "2025-12-08"
+  },
+  {
+    "id": "pr-028",
+    "employeeId": "emp-001",
+    "employeeName": "Bwalya Phiri",
+    "period": "January 2024",
+    "basicSalary": 10000.0,
+    "allowances": 2000.0,
+    "grossPay": 12000.0,
+    "deductions": {
+      "napsa": 600.0,
+      "paye": 2000.0,
+      "nhima": 120.0
+    },
+    "netPay": 9280.0,
+    "paymentDate": "2025-06-24"
+  },
+  {
+    "id": "pr-029",
+    "employeeId": "emp-001",
+    "employeeName": "Mwansa Mulenga",
+    "period": "January 2024",
+    "basicSalary": 10000.0,
+    "allowances": 2000.0,
+    "grossPay": 12000.0,
+    "deductions": {
+      "napsa": 600.0,
+      "paye": 2000.0,
+      "nhima": 120.0
+    },
+    "netPay": 9280.0,
+    "paymentDate": "2025-01-26"
+  },
+  {
+    "id": "pr-030",
+    "employeeId": "emp-001",
+    "employeeName": "Chanda Banda",
+    "period": "January 2024",
+    "basicSalary": 10000.0,
+    "allowances": 2000.0,
+    "grossPay": 12000.0,
+    "deductions": {
+      "napsa": 600.0,
+      "paye": 2000.0,
+      "nhima": 120.0
+    },
+    "netPay": 9280.0,
+    "paymentDate": "2025-03-08"
+  }
+]

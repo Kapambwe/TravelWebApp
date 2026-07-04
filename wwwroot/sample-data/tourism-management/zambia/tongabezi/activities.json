@@ -1,0 +1,32 @@
+﻿[
+    {
+        "BasePrice":  9500,
+        "Capacity":  2,
+        "IsActive":  true,
+        "Id":  204,
+        "Name":  "Sampan Private Dining",
+        "Type":  8,
+        "Description":  "Romantic dinner on a floating platform served by canoe.",
+        "Duration":  150
+    },
+    {
+        "BasePrice":  8500,
+        "Capacity":  8,
+        "IsActive":  true,
+        "Id":  205,
+        "Name":  "Livingstone Island Picnic",
+        "Type":  8,
+        "Description":  "Picnic on the edge of Victoria Falls with Devil\u0027s Pool swim.",
+        "Duration":  180
+    },
+    {
+        "BasePrice":  3000,
+        "Capacity":  4,
+        "IsActive":  true,
+        "Id":  206,
+        "Name":  "Zambezi Sunrise Canoeing",
+        "Type":  4,
+        "Description":  "Guided early morning paddle along the river banks.",
+        "Duration":  120
+    }
+]

@@ -1,0 +1,304 @@
+@page "/search"
+@using TravelWebApp.Models
+@using TravelWebApp.Services
+@inject ITravelService TravelService
+@inject NavigationManager Navigation
+@inject IJSRuntime JSRuntime
+
+<div class="search-page">
+    <div class="search-layout">
+        <aside class="search-filters">
+            <div class="map-view-toggle" style="margin-bottom:16px;">
+                <RadzenCard Style="padding:0; overflow:hidden; border-radius:12px; cursor:pointer;" @onclick="ToggleMapView">
+                    <div style="height:120px; background: url('https://a.tile.openstreetmap.org/13/4688/5284.png'); display:flex; align-items:center; justify-content:center; position:relative;">
+                        <div style="background:var(--primary); color:white; padding:8px 16px; border-radius:20px; font-weight:600; display:flex; gap:8px; align-items:center; box-shadow:0 4px 12px rgba(0,0,0,0.2);">
+                            <span>ðŸ“</span> @(_showMap ? "Show List" : "Show on Map")
+                        </div>
+                    </div>
+                </RadzenCard>
+            </div>
+            <FilterSidebar OnApply="@ApplyFilters" />
+        </aside>
+        <main class="search-results">
+            <div class="results-header">
+                <div>
+                    <RadzenText TextStyle="TextStyle.H5" Style="font-weight:700;">
+                        @if (!string.IsNullOrWhiteSpace(_query)) { <text>@_query: </text> }
+                        @_result.TotalCount properties found
+                    </RadzenText>
+                    <RadzenText TextStyle="TextStyle.Caption" Style="color:#008A0E; font-weight:600;">
+                        âœ“ Price includes taxes and fees
+                    </RadzenText>
+                </div>
+                <div style="display:flex;align-items:center;gap:8px;">
+                    <RadzenText TextStyle="TextStyle.Body2" Style="font-weight:600;">Sort by:</RadzenText>
+                    <RadzenDropDown TValue="string" @bind-Value="@_sortBy" Data="@_sortOptions" Change="@(args => OnSortChanged((string)args))" Style="width:200px; border-radius:8px;" />
+                </div>
+            </div>
+
+            @if (_isLoading)
+            {
+                <div style="text-align:center;padding:80px 0;">
+                    <RadzenProgressBarCircular />
+                    <RadzenText Style="color:#5A5A7A;margin-top:16px;font-weight:500;">Searching for the best prices...</RadzenText>
+                </div>
+            }
+            else if (_result.Results.Count == 0)
+            {
+                <div style="text-align:center;padding:80px 0; background:white; border-radius:12px; border:1px solid #E0E4EC;">
+                    <span style="font-size:3rem;">ðŸ”</span>
+                    <RadzenText TextStyle="TextStyle.H5" Style="margin-top:16px;">No properties found</RadzenText>
+                    <RadzenText Style="color:#5A5A7A;margin:8px 0 16px;">Try adjusting your filters or search query to see more results.</RadzenText>
+                    <RadzenButton Text="Clear Filters" ButtonStyle="ButtonStyle.Light" Variant="Variant.Outlined" Click="@(() => Navigation.NavigateTo("/search", true))" />
+                </div>
+            }
+            else
+            {
+                @if (_showMap)
+                {
+                    <div id="search-map" style="height: 650px; width: 100%; border-radius: 12px; border: 1px solid var(--border); box-shadow: 0 4px 16px rgba(0,0,0,0.1); margin-bottom: 24px; position: sticky; top: 90px;"></div>
+                }
+                else
+                {
+                    <div class="results-list">
+                        @foreach (var property in _result.Results)
+                        {
+                            <div class="property-card" @onclick="@(() => Navigation.NavigateTo($"/detail/{property.Id}"))">
+                                <div class="prop-image" style="background-image:url('images/@(property.Image).jpg');background-size:cover;background-position:center;min-width:280px;height:240px;border-radius:12px 0 0 12px;position:relative;">
+                                    @if (property.Id % 3 == 0)
+                                    {
+                                        <div style="position:absolute;top:12px;left:12px;background:var(--danger);color:white;padding:4px 8px;font-size:0.75rem;font-weight:700;border-radius:4px;">
+                                            High Demand
+                                        </div>
+                                    }
+                                </div>
+                                <div class="prop-content">
+                                    <div class="prop-header">
+                                        <div style="flex:1;">
+                                            <div style="display:flex;gap:8px;align-items:center;margin-bottom:4px;">
+                                                <RadzenText TextStyle="TextStyle.H5" Style="color:var(--primary);font-weight:700;margin:0;">@property.Name</RadzenText>
+                                                <span style="color:#FEBB02;font-size:0.875rem;">@(new string('\u2605', property.Stars))</span>
+                                            </div>
+                                            <RadzenText TextStyle="TextStyle.Body2" Style="color:#003B95;text-decoration:underline;cursor:pointer;margin-bottom:8px;font-weight:500;">@property.Location</RadzenText>
+                                            
+                                            @if (property.Id % 2 == 0)
+                                            {
+                                                <div style="background:#FFF3CD;color:#856404;font-size:0.75rem;padding:4px 8px;border-radius:4px;display:inline-block;font-weight:600;margin-bottom:12px;">
+                                                    ðŸ”¥ Booked 4 times in the last 24 hours
+                                                </div>
+                                            }
+                                            
+                                            <div style="display:flex;flex-direction:column;gap:4px;">
+                                                @if (property.FreeCancellation)
+                                                {
+                                                    <div style="color:#008A0E;font-size:0.813rem;font-weight:700;">âœ“ Free cancellation</div>
+                                                    <div style="color:#008A0E;font-size:0.813rem;">You can cancel later, so lock in this great price today.</div>
+                                                }
+                                                @if (property.BreakfastIncluded)
+                                                {
+                                                    <div style="color:#008A0E;font-size:0.813rem;font-weight:700;">âœ“ Breakfast included</div>
+                                                }
+                                            </div>
+                                        </div>
+                                        <div style="display:flex;flex-direction:column;align-items:flex-end;gap:4px;min-width:140px;">
+                                            <div style="display:flex;align-items:center;gap:8px;">
+                                                <div style="text-align:right;">
+                                                    <div style="font-weight:700;font-size:0.938rem;color:#1A1A2E;">@(GetRatingText(property.Rating))</div>
+                                                    <div style="font-size:0.75rem;color:#5A5A7A;">@property.ReviewCount reviews</div>
+                                                </div>
+                                                <div style="background:#003B95;color:white;padding:6px;border-radius:8px 8px 8px 0;font-weight:700;font-size:1.1rem;display:flex;align-items:center;justify-content:center;min-width:32px;height:32px;">
+                                                    @property.Rating.ToString("F1")
+                                                </div>
+                                            </div>
+                                            <div style="margin-top:12px;background:#E8F0FE;color:#003B95;padding:4px 8px;border-radius:4px;font-size:0.75rem;font-weight:600;">
+                                                Great location â€” 9.8
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="prop-footer" style="display:flex;justify-content:space-between;align-items:flex-end;margin-top:16px;">
+                                        <div style="color:var(--danger);font-size:0.813rem;font-weight:700;">
+                                            @if (property.Id % 4 == 0) { <text>Only 2 rooms left on our site!</text> }
+                                        </div>
+                                        <div style="text-align:right;">
+                                            @if (property.OriginalPrice.HasValue)
+                                            {
+                                                <div style="display:flex;align-items:center;justify-content:flex-end;gap:8px;">
+                                                    <RadzenBadge Text="Limited Time" BadgeStyle="BadgeStyle.Danger" Style="font-size:0.65rem;" />
+                                                    <span style="text-decoration:line-through;color:#D32F2F;font-size:0.875rem;font-weight:600;">R@((int)property.OriginalPrice.Value)</span>
+                                                </div>
+                                            }
+                                            <div style="font-size:1.6rem;font-weight:800;color:#1A1A2E;line-height:1;">
+                                                R@((int)property.PricePerNight)
+                                            </div>
+                                            <div style="font-size:0.75rem;color:#5A5A7A;margin-bottom:8px;">Includes taxes and charges</div>
+                                            <RadzenButton Text="See availability >" ButtonStyle="ButtonStyle.Primary" Style="padding:10px 24px;font-weight:700;border-radius:4px;font-size:1rem;" Click="@(() => Navigation.NavigateTo($"/detail/{property.Id}"))" />
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        }
+                    </div>
+
+                    @if (_result.TotalPages > 1)
+                    {
+                        <RadzenPager Page="@_currentPage" TotalItems="@_result.TotalCount" PageSize="@_pageSize" PageChanged="@(args => OnPageChanged((args.Skip / args.Top) + 1))" Style="margin-top:24px;" />
+                    }
+                }
+            }
+        </main>
+    </div>
+</div>
+
+<style>
+    .search-page { max-width: 1280px; margin: 0 auto; padding: 24px; }
+    .search-layout { display: flex; gap: 24px; align-items: flex-start; }
+    .search-filters { width: 280px; flex-shrink: 0; }
+    .search-results { flex: 1; }
+    .results-header { display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 24px; flex-wrap: wrap; gap: 16px; }
+
+    .smart-chip {
+        padding: 8px 16px; border: 1px solid var(--border); border-radius: 20px;
+        background: white; color: var(--text-primary); font-size: 0.875rem;
+        font-weight: 500; cursor: pointer; white-space: nowrap; transition: all 0.2s;
+    }
+    .smart-chip:hover { border-color: var(--primary); background: var(--primary-light); }
+    .smart-chip.active { background: var(--primary); color: white; border-color: var(--primary); }
+
+    .property-card {
+        display: flex; background: white; border-radius: 12px; overflow: hidden;
+        margin-bottom: 20px; cursor: pointer; border: 1px solid #E0E4EC;
+        transition: box-shadow 0.2s, transform 0.2s;
+    }
+    .property-card:hover { box-shadow: 0 8px 32px rgba(0,59,149,0.12); transform: translateY(-2px); border-color: var(--primary); }
+    .prop-content { flex: 1; padding: 16px; display: flex; flex-direction: column; justify-content: space-between; }
+    .prop-header { display: flex; justify-content: space-between; align-items: flex-start; gap: 16px; }
+
+    @@media (max-width: 992px) {
+        .search-filters { width: 240px; }
+    }
+
+    @@media (max-width: 768px) {
+        .search-layout { flex-direction: column; }
+        .search-filters { width: 100%; }
+        .property-card { flex-direction: column; }
+        .prop-image { min-width: 100% !important; height: 200px !important; border-radius: 12px 12px 0 0 !important; }
+    }
+</style>
+
+@code {
+    private SearchResult _result = new();
+    private string _query = "";
+    private DateTime? _checkIn = DateTime.Today;
+    private DateTime? _checkOut = DateTime.Today.AddDays(1);
+    private int _currentPage = 1;
+    private int _pageSize = 10;
+    private string _sortBy = "price_asc";
+    private bool _isLoading = true;
+    private bool _showMap = false;
+
+    private readonly string[] _sortOptions = ["Price: Low to High", "Price: High to Low", "Highest Rated", "Star Rating"];
+
+    protected override async Task OnInitializedAsync()
+    {
+        var uri = Navigation.ToAbsoluteUri(Navigation.Uri);
+        var qs = System.Web.HttpUtility.ParseQueryString(uri.Query);
+        _query = qs["q"] ?? "";
+        var ci = qs["checkIn"];
+        var co = qs["checkOut"];
+        int.TryParse(qs["adults"], out int adults);
+        int.TryParse(qs["rooms"], out int rooms);
+
+        if (DateTime.TryParse(ci, out var start)) _checkIn = start;
+        if (DateTime.TryParse(co, out var end)) _checkOut = end;
+
+        var filters = new SearchFilters
+        {
+            Query = _query,
+            CheckIn = _checkIn,
+            CheckOut = _checkOut,
+            Adults = adults > 0 ? adults : 2,
+            Rooms = rooms > 0 ? rooms : 1,
+            SortBy = _sortBy,
+            Page = _currentPage,
+            PageSize = _pageSize,
+        };
+
+        _result = await TravelService.SearchPropertiesAsync(filters);
+        
+        // Ensure coordinates for map
+        foreach(var p in _result.Results)
+        {
+            if (p.Latitude == 0) { p.Latitude = -33.9249 + (new Random().NextDouble() * 0.05); p.Longitude = 18.4241 + (new Random().NextDouble() * 0.05); }
+        }
+        
+        _isLoading = false;
+    }
+
+    private string GetRatingText(double rating)
+    {
+        if (rating >= 4.5) return "Exceptional";
+        if (rating >= 4.0) return "Fabulous";
+        if (rating >= 3.5) return "Very Good";
+        return "Good";
+    }
+
+    private async Task ToggleMapView()
+    {
+        _showMap = !_showMap;
+        if (_showMap)
+        {
+            StateHasChanged();
+            await Task.Delay(200); // Wait for DOM element
+            await RefreshMap();
+        }
+    }
+
+    private async Task RefreshMap()
+    {
+        var markers = _result.Results.Select(p => new {
+            lat = p.Latitude,
+            lng = p.Longitude,
+            title = p.Name,
+            price = p.PricePerNight
+        }).ToArray();
+        
+        await JSRuntime.InvokeVoidAsync("tourism.initMap", "search-map", markers);
+    }
+
+    private async Task ApplyFilters(SearchFilters f)
+    {
+        _isLoading = true;
+        f.Query = _query;
+        f.SortBy = _sortBy;
+        f.Page = _currentPage;
+        f.PageSize = _pageSize;
+        _result = await TravelService.SearchPropertiesAsync(f);
+        _isLoading = false;
+        
+        if (_showMap)
+        {
+            await Task.Delay(200);
+            await RefreshMap();
+        }
+    }
+
+    private async Task OnSortChanged(string sort)
+    {
+        _sortBy = sort switch
+        {
+            "Price: Low to High" => "price_asc",
+            "Price: High to Low" => "price_desc",
+            "Highest Rated" => "rating",
+            "Star Rating" => "stars",
+            _ => "price_asc"
+        };
+        _currentPage = 1;
+        await ApplyFilters(new SearchFilters());
+    }
+
+    private async Task OnPageChanged(int page)
+    {
+        _currentPage = page;
+        await ApplyFilters(new SearchFilters());
+    }
+}

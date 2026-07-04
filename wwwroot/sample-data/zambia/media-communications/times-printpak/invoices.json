@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "invoiceNumber": "INV-2025-001",
+    "clientName": "Mwale Digital Media Inc.",
+    "description": "Radio Airtime",
+    "invoiceDate": "2024-10-21T00:00:00",
+    "dueDate": "2024-11-20T00:00:00",
+    "amount": 752506.16,
+    "receivedAmount": 481860.55,
+    "status": "PartiallyPaid",
+    "customerId": 9
+  },
+  {
+    "id": 2,
+    "invoiceNumber": "INV-2025-002",
+    "clientName": "Bwalya Digital Media Holdings",
+    "description": "Media Production",
+    "invoiceDate": "2025-01-15T00:00:00",
+    "dueDate": "2025-03-16T00:00:00",
+    "amount": 3908416.92,
+    "receivedAmount": 0.0,
+    "status": "Open",
+    "customerId": 4
+  },
+  {
+    "id": 3,
+    "invoiceNumber": "INV-2025-003",
+    "clientName": "Chileshe Digital Media Enterprises",
+    "description": "TV Commercial Slot",
+    "invoiceDate": "2025-02-07T00:00:00",
+    "dueDate": "2025-03-24T00:00:00",
+    "amount": 2031305.06,
+    "receivedAmount": 0.0,
+    "status": "Open",
+    "customerId": 6
+  },
+  {
+    "id": 4,
+    "invoiceNumber": "INV-2025-004",
+    "clientName": "Mwale Communications Holdings",
+    "description": "Media Production",
+    "invoiceDate": "2025-03-01T00:00:00",
+    "dueDate": "2025-03-31T00:00:00",
+    "amount": 2121969.68,
+    "receivedAmount": 0.0,
+    "status": "Open",
+    "customerId": 7
+  },
+  {
+    "id": 5,
+    "invoiceNumber": "INV-2025-005",
+    "clientName": "Mwale Digital Media Inc.",
+    "description": "Online Content Package",
+    "invoiceDate": "2024-11-18T00:00:00",
+    "dueDate": "2024-12-18T00:00:00",
+    "amount": 1595038.08,
+    "receivedAmount": 1595038.08,
+    "status": "Paid",
+    "customerId": 9
+  },
+  {
+    "id": 6,
+    "invoiceNumber": "INV-2025-006",
+    "clientName": "Mwale Digital Media Inc.",
+    "description": "TV Commercial Slot",
+    "invoiceDate": "2025-02-03T00:00:00",
+    "dueDate": "2025-02-18T00:00:00",
+    "amount": 3637824.76,
+    "receivedAmount": 3637824.76,
+    "status": "Paid",
+    "customerId": 9
+  },
+  {
+    "id": 7,
+    "invoiceNumber": "INV-2025-007",
+    "clientName": "Kabwe Media Inc.",
+    "description": "Digital Advertising",
+    "invoiceDate": "2024-12-01T00:00:00",
+    "dueDate": "2025-01-15T00:00:00",
+    "amount": 1246085.39,
+    "receivedAmount": 0.0,
+    "status": "Open",
+    "customerId": 12
+  },
+  {
+    "id": 8,
+    "invoiceNumber": "INV-2025-008",
+    "clientName": "Bwalya Digital Media Holdings",
+    "description": "Print Advertising Space",
+    "invoiceDate": "2025-01-23T00:00:00",
+    "dueDate": "2025-02-07T00:00:00",
+    "amount": 1628282.35,
+    "receivedAmount": 576830.12,
+    "status": "PartiallyPaid",
+    "customerId": 4
+  }
+]

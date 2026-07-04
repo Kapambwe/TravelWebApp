@@ -1,0 +1,122 @@
+{
+  "companyName": "Chilanga Cement Plc",
+  "companyAddress": "Livingstone, Zambia",
+  "companyTaxId": "TPIN-1184649-CCP",
+  "generatedDate": "2025-09-30",
+  "currency": "ZMW",
+  "period": {
+    "from": "2025-01-01",
+    "to": "2025-09-30"
+  },
+  "customerStatements": [
+    {
+      "customerId": 1,
+      "customerName": "Copperbelt Holdings PLC",
+      "customerEmail": "billing@copperbelt.com",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-07-09",
+          "reference": "INV-Z-2025-018",
+          "description": "OEM production contract Q1 2025",
+          "debit": 217000,
+          "credit": 0.0,
+          "balance": 217000
+        },
+        {
+          "date": "2025-09-05",
+          "reference": "PMT-Z-2025-013",
+          "description": "Partial payment on delivery received",
+          "debit": 0.0,
+          "credit": 105500,
+          "balance": 111500
+        }
+      ],
+      "closingBalance": 111500,
+      "status": "Partially Paid"
+    },
+    {
+      "customerId": 2,
+      "customerName": "Copperbelt Solutions Ltd",
+      "customerEmail": "accounts@copperbelt.co.zm",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-06-11",
+          "reference": "INV-Z-2025-024",
+          "description": "Packaging & distribution services",
+          "debit": 2442500,
+          "credit": 0.0,
+          "balance": 2442500
+        }
+      ],
+      "closingBalance": 2442500,
+      "status": "Outstanding"
+    },
+    {
+      "customerId": 3,
+      "customerName": "Kafue Industries Ltd",
+      "customerEmail": "admin@kafue.com",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-07-22",
+          "reference": "INV-Z-2025-038",
+          "description": "OEM production contract Q3 2025",
+          "debit": 488500,
+          "credit": 0.0,
+          "balance": 488500
+        },
+        {
+          "date": "2025-09-19",
+          "reference": "PMT-Z-2025-031",
+          "description": "Partial final settlement received",
+          "debit": 0.0,
+          "credit": 255000,
+          "balance": 233500
+        }
+      ],
+      "closingBalance": 233500,
+      "status": "Partially Paid"
+    },
+    {
+      "customerId": 4,
+      "customerName": "Copperbelt Trading Ltd",
+      "customerEmail": "admin@copperbelt.co.zm",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-03-12",
+          "reference": "INV-Z-2025-047",
+          "description": "Bulk supply agreement",
+          "debit": 1895000,
+          "credit": 0.0,
+          "balance": 1895000
+        },
+        {
+          "date": "2025-05-04",
+          "reference": "PMT-Z-2025-044",
+          "description": "Payment received - standing order",
+          "debit": 0.0,
+          "credit": 1895000,
+          "balance": 0.0
+        }
+      ],
+      "closingBalance": 0.0,
+      "status": "Settled"
+    }
+  ],
+  "summary": {
+    "totalInvoiced": 5043000,
+    "totalReceived": 2255500,
+    "totalOutstanding": 2787500,
+    "totalOverdue": 2787500.0,
+    "agingSummary": {
+      "current": 0.0,
+      "days1to30": 0.0,
+      "days31to60": 345000.0,
+      "days61to90": 2442500.0,
+      "over90days": 0.0
+    }
+  }
+}

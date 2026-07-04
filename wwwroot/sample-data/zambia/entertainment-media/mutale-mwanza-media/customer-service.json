@@ -1,0 +1,32 @@
+[
+  {
+    "id": "cust-mutale-001",
+    "customerName": "National Broadcasting Corporation",
+    "email": "partnerships@nbc.co.zm",
+    "phone": "+260-211-254600",
+    "address": "Mass Media Complex, Lusaka",
+    "taxId": "TPIN-2001234567",
+    "creditLimit": 100000.0,
+    "outstandingBalance": 45000.0
+  },
+  {
+    "id": "cust-mutale-002",
+    "customerName": "Diamond TV",
+    "email": "production@diamondtv.co.zm",
+    "phone": "+260-211-255000",
+    "address": "Alick Nkhata Road, Lusaka",
+    "taxId": "TPIN-2001234568",
+    "creditLimit": 75000.0,
+    "outstandingBalance": 32000.0
+  },
+  {
+    "id": "cust-mutale-003",
+    "customerName": "Brand Ambassadors Zambia",
+    "email": "info@brandambassadors.co.zm",
+    "phone": "+260-97-8889990",
+    "address": "Longacres, Lusaka",
+    "taxId": "TPIN-2001234569",
+    "creditLimit": 50000.0,
+    "outstandingBalance": 0.0
+  }
+]

@@ -1,0 +1,302 @@
+[
+  {
+    "id": "cust-001",
+    "customerName": "Food Processors 1",
+    "email": "contact1@customer.zm",
+    "phone": "+260-096-507334",
+    "address": "Plot 2671, Great East Road, Copperbelt",
+    "taxId": "TPIN-6737660565",
+    "creditLimit": 100000,
+    "outstandingBalance": 8311
+  },
+  {
+    "id": "cust-002",
+    "customerName": "Cosmetic Companies 2",
+    "email": "contact2@customer.zm",
+    "phone": "+260-097-349929",
+    "address": "Plot 2295, Great East Road, Central Province",
+    "taxId": "TPIN-1546156403",
+    "creditLimit": 75000,
+    "outstandingBalance": 22613
+  },
+  {
+    "id": "cust-003",
+    "customerName": "Exporters 3",
+    "email": "contact3@customer.zm",
+    "phone": "+260-096-674148",
+    "address": "Plot 1952, Cairo Road, Central Province",
+    "taxId": "TPIN-9644782162",
+    "creditLimit": 50000,
+    "outstandingBalance": 22931
+  },
+  {
+    "id": "cust-004",
+    "customerName": "Cosmetic Companies 4",
+    "email": "contact4@customer.zm",
+    "phone": "+260-216-412083",
+    "address": "Plot 9468, Freedom Way, Lusaka",
+    "taxId": "TPIN-2504218419",
+    "creditLimit": 50000,
+    "outstandingBalance": 14214
+  },
+  {
+    "id": "cust-005",
+    "customerName": "Biofuel Producers 5",
+    "email": "contact5@customer.zm",
+    "phone": "+260-216-977305",
+    "address": "Plot 1927, Great East Road, Eastern Province",
+    "taxId": "TPIN-3908249533",
+    "creditLimit": 100000,
+    "outstandingBalance": 20169
+  },
+  {
+    "id": "cust-006",
+    "customerName": "Exporters 6",
+    "email": "contact6@customer.zm",
+    "phone": "+260-216-909693",
+    "address": "Plot 2325, Great East Road, Copperbelt",
+    "taxId": "TPIN-8229592949",
+    "creditLimit": 20000,
+    "outstandingBalance": 19797
+  },
+  {
+    "id": "cust-007",
+    "customerName": "Biofuel Producers 7",
+    "email": "contact7@customer.zm",
+    "phone": "+260-217-891439",
+    "address": "Plot 4198, Cairo Road, Eastern Province",
+    "taxId": "TPIN-5615191337",
+    "creditLimit": 50000,
+    "outstandingBalance": 8883
+  },
+  {
+    "id": "cust-008",
+    "customerName": "Exporters 8",
+    "email": "contact8@customer.zm",
+    "phone": "+260-217-898261",
+    "address": "Plot 5405, Freedom Way, Eastern Province",
+    "taxId": "TPIN-3795051577",
+    "creditLimit": 75000,
+    "outstandingBalance": 1870
+  },
+  {
+    "id": "cust-009",
+    "customerName": "Cosmetic Companies 9",
+    "email": "contact9@customer.zm",
+    "phone": "+260-216-837578",
+    "address": "Plot 4944, Twin Palm Road, Central Province",
+    "taxId": "TPIN-5891924055",
+    "creditLimit": 30000,
+    "outstandingBalance": 10040
+  },
+  {
+    "id": "cust-010",
+    "customerName": "Cosmetic Companies 10",
+    "email": "contact10@customer.zm",
+    "phone": "+260-097-484094",
+    "address": "Plot 7799, Cairo Road, Southern Province",
+    "taxId": "TPIN-9517565677",
+    "creditLimit": 75000,
+    "outstandingBalance": 6742
+  },
+  {
+    "id": "cust-011",
+    "customerName": "Biofuel Producers 11",
+    "email": "contact11@customer.zm",
+    "phone": "+260-097-146870",
+    "address": "Plot 6578, Independence Avenue, Copperbelt",
+    "taxId": "TPIN-1323616558",
+    "creditLimit": 75000,
+    "outstandingBalance": 20812
+  },
+  {
+    "id": "cust-012",
+    "customerName": "Exporters 12",
+    "email": "contact12@customer.zm",
+    "phone": "+260-095-369561",
+    "address": "Plot 1992, Freedom Way, Southern Province",
+    "taxId": "TPIN-3998477835",
+    "creditLimit": 50000,
+    "outstandingBalance": 18362
+  },
+  {
+    "id": "cust-013",
+    "customerName": "Exporters 13",
+    "email": "contact13@customer.zm",
+    "phone": "+260-216-277282",
+    "address": "Plot 7148, Cairo Road, Southern Province",
+    "taxId": "TPIN-1089658000",
+    "creditLimit": 100000,
+    "outstandingBalance": 8864
+  },
+  {
+    "id": "cust-014",
+    "customerName": "Cosmetic Companies 14",
+    "email": "contact14@customer.zm",
+    "phone": "+260-094-359505",
+    "address": "Plot 6631, Great East Road, Southern Province",
+    "taxId": "TPIN-3458619173",
+    "creditLimit": 30000,
+    "outstandingBalance": 8034
+  },
+  {
+    "id": "cust-015",
+    "customerName": "Biofuel Producers 15",
+    "email": "contact15@customer.zm",
+    "phone": "+260-097-645317",
+    "address": "Plot 2688, Great East Road, Eastern Province",
+    "taxId": "TPIN-6433856239",
+    "creditLimit": 50000,
+    "outstandingBalance": 20896
+  },
+  {
+    "id": "cust-016",
+    "customerName": "Food Processors 16",
+    "email": "contact16@customer.zm",
+    "phone": "+260-217-278460",
+    "address": "Plot 9808, Twin Palm Road, Southern Province",
+    "taxId": "TPIN-5948021381",
+    "creditLimit": 75000,
+    "outstandingBalance": 21342
+  },
+  {
+    "id": "cust-017",
+    "customerName": "Cosmetic Companies 17",
+    "email": "contact17@customer.zm",
+    "phone": "+260-216-748563",
+    "address": "Plot 4532, Twin Palm Road, Southern Province",
+    "taxId": "TPIN-1551753740",
+    "creditLimit": 30000,
+    "outstandingBalance": 6437
+  },
+  {
+    "id": "cust-018",
+    "customerName": "Cosmetic Companies 18",
+    "email": "contact18@customer.zm",
+    "phone": "+260-217-208099",
+    "address": "Plot 3647, Cairo Road, Eastern Province",
+    "taxId": "TPIN-7093271852",
+    "creditLimit": 50000,
+    "outstandingBalance": 23876
+  },
+  {
+    "id": "cust-019",
+    "customerName": "Cosmetic Companies 19",
+    "email": "contact19@customer.zm",
+    "phone": "+260-097-683057",
+    "address": "Plot 4700, Twin Palm Road, Copperbelt",
+    "taxId": "TPIN-8441482882",
+    "creditLimit": 75000,
+    "outstandingBalance": 19211
+  },
+  {
+    "id": "cust-020",
+    "customerName": "Cosmetic Companies 20",
+    "email": "contact20@customer.zm",
+    "phone": "+260-097-359361",
+    "address": "Plot 7404, Cairo Road, Southern Province",
+    "taxId": "TPIN-6228640840",
+    "creditLimit": 20000,
+    "outstandingBalance": 16771
+  },
+  {
+    "id": "cust-021",
+    "customerName": "Food Processors 21",
+    "email": "contact21@customer.zm",
+    "phone": "+260-094-849366",
+    "address": "Plot 7551, Freedom Way, Southern Province",
+    "taxId": "TPIN-1569238024",
+    "creditLimit": 50000,
+    "outstandingBalance": 15449
+  },
+  {
+    "id": "cust-022",
+    "customerName": "Cosmetic Companies 22",
+    "email": "contact22@customer.zm",
+    "phone": "+260-097-805209",
+    "address": "Plot 2971, Twin Palm Road, Lusaka",
+    "taxId": "TPIN-4727657274",
+    "creditLimit": 100000,
+    "outstandingBalance": 3355
+  },
+  {
+    "id": "cust-023",
+    "customerName": "Food Processors 23",
+    "email": "contact23@customer.zm",
+    "phone": "+260-094-377066",
+    "address": "Plot 5983, Cairo Road, Southern Province",
+    "taxId": "TPIN-4028797577",
+    "creditLimit": 30000,
+    "outstandingBalance": 24496
+  },
+  {
+    "id": "cust-024",
+    "customerName": "Food Processors 24",
+    "email": "contact24@customer.zm",
+    "phone": "+260-094-543478",
+    "address": "Plot 3606, Great East Road, Northern Province",
+    "taxId": "TPIN-6227494049",
+    "creditLimit": 100000,
+    "outstandingBalance": 9393
+  },
+  {
+    "id": "cust-025",
+    "customerName": "Cosmetic Companies 25",
+    "email": "contact25@customer.zm",
+    "phone": "+260-095-121433",
+    "address": "Plot 4234, Cairo Road, Eastern Province",
+    "taxId": "TPIN-2173059341",
+    "creditLimit": 75000,
+    "outstandingBalance": 8623
+  },
+  {
+    "id": "cust-026",
+    "customerName": "Biofuel Producers 26",
+    "email": "contact26@customer.zm",
+    "phone": "+260-216-787198",
+    "address": "Plot 9190, Great East Road, Northern Province",
+    "taxId": "TPIN-7727993131",
+    "creditLimit": 75000,
+    "outstandingBalance": 24946
+  },
+  {
+    "id": "cust-027",
+    "customerName": "Cosmetic Companies 27",
+    "email": "contact27@customer.zm",
+    "phone": "+260-095-803927",
+    "address": "Plot 2267, Cairo Road, Eastern Province",
+    "taxId": "TPIN-5841605122",
+    "creditLimit": 100000,
+    "outstandingBalance": 2108
+  },
+  {
+    "id": "cust-028",
+    "customerName": "Exporters 28",
+    "email": "contact28@customer.zm",
+    "phone": "+260-095-168049",
+    "address": "Plot 8776, Great East Road, Lusaka",
+    "taxId": "TPIN-4957823060",
+    "creditLimit": 100000,
+    "outstandingBalance": 12154
+  },
+  {
+    "id": "cust-029",
+    "customerName": "Cosmetic Companies 29",
+    "email": "contact29@customer.zm",
+    "phone": "+260-097-776588",
+    "address": "Plot 2271, Independence Avenue, Northern Province",
+    "taxId": "TPIN-7463309130",
+    "creditLimit": 30000,
+    "outstandingBalance": 24829
+  },
+  {
+    "id": "cust-030",
+    "customerName": "Food Processors 30",
+    "email": "contact30@customer.zm",
+    "phone": "+260-217-530149",
+    "address": "Plot 2100, Freedom Way, Copperbelt",
+    "taxId": "TPIN-6435901801",
+    "creditLimit": 30000,
+    "outstandingBalance": 17125
+  }
+]

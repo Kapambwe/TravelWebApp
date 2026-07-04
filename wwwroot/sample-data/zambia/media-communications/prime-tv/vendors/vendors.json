@@ -1,0 +1,122 @@
+{
+  "vendors": [
+    {
+      "id": 1,
+      "vendorName": "Nkole Sakala",
+      "companyName": "Siame Digital Media Inc.",
+      "contactPerson": "Nkole Sakala",
+      "email": "nkolesakala@sakala.co.zm",
+      "phone": "+260 142 427 687",
+      "city": "Kabwe",
+      "country": "Zambia",
+      "defaultPaymentTerms": "Net 30",
+      "taxId": "TAX-413076",
+      "totalAmountOwed": 176767.09
+    },
+    {
+      "id": 2,
+      "vendorName": "Mwamba Sakala",
+      "companyName": "Phiri Digital Media Co.",
+      "contactPerson": "Mwamba Sakala",
+      "email": "mwambasakala@sakala.co.zm",
+      "phone": "+260 791 830 017",
+      "city": "Chingola",
+      "country": "Zambia",
+      "defaultPaymentTerms": "Net 15",
+      "taxId": "TAX-112591",
+      "totalAmountOwed": 133647.28
+    },
+    {
+      "id": 3,
+      "vendorName": "Mwamba Mulenga",
+      "companyName": "Mumba Media Limited",
+      "contactPerson": "Mwamba Mulenga",
+      "email": "mwambamuleng@mulenga.co.zm",
+      "phone": "+260 430 149 362",
+      "city": "Kitwe",
+      "country": "Zambia",
+      "defaultPaymentTerms": "Net 45",
+      "taxId": "TAX-667646",
+      "totalAmountOwed": 24849.45
+    },
+    {
+      "id": 4,
+      "vendorName": "Nkole Musonda",
+      "companyName": "Musonda Media Inc.",
+      "contactPerson": "Nkole Musonda",
+      "email": "nkolemusonda@musonda.co.zm",
+      "phone": "+260 992 538 322",
+      "city": "Kabwe",
+      "country": "Zambia",
+      "defaultPaymentTerms": "Net 45",
+      "taxId": "TAX-347310",
+      "totalAmountOwed": 3759.79
+    },
+    {
+      "id": 5,
+      "vendorName": "Bwalya Siame",
+      "companyName": "Mumba Digital Media Holdings",
+      "contactPerson": "Bwalya Siame",
+      "email": "bwalyasiame@siame.co.zm",
+      "phone": "+260 482 055 838",
+      "city": "Livingstone",
+      "country": "Zambia",
+      "defaultPaymentTerms": "Net 45",
+      "taxId": "TAX-243244",
+      "totalAmountOwed": 392033.54
+    },
+    {
+      "id": 6,
+      "vendorName": "Kasonde Chanda",
+      "companyName": "Lungu Communications Limited",
+      "contactPerson": "Kasonde Chanda",
+      "email": "kasondechand@chanda.co.zm",
+      "phone": "+260 550 103 026",
+      "city": "Livingstone",
+      "country": "Zambia",
+      "defaultPaymentTerms": "Net 15",
+      "taxId": "TAX-238338",
+      "totalAmountOwed": 330873.47
+    },
+    {
+      "id": 7,
+      "vendorName": "Ngosa Sakala",
+      "companyName": "Kaputo Communications Solutions",
+      "contactPerson": "Ngosa Sakala",
+      "email": "ngosasakala@sakala.co.zm",
+      "phone": "+260 105 003 579",
+      "city": "Chingola",
+      "country": "Zambia",
+      "defaultPaymentTerms": "Net 30",
+      "taxId": "TAX-828931",
+      "totalAmountOwed": 133381.63
+    },
+    {
+      "id": 8,
+      "vendorName": "Chisanga Chanda",
+      "companyName": "Siame Broadcasting Group",
+      "contactPerson": "Chisanga Chanda",
+      "email": "chisangachan@chanda.co.zm",
+      "phone": "+260 663 149 324",
+      "city": "Mufulira",
+      "country": "Zambia",
+      "defaultPaymentTerms": "Net 15",
+      "taxId": "TAX-829954",
+      "totalAmountOwed": 14012.32
+    },
+    {
+      "id": 9,
+      "vendorName": "Nkole Sakala",
+      "companyName": "Musonda Digital Media Group",
+      "contactPerson": "Nkole Sakala",
+      "email": "nkolesakala@sakala.co.zm",
+      "phone": "+260 779 533 198",
+      "city": "Kitwe",
+      "country": "Zambia",
+      "defaultPaymentTerms": "Net 45",
+      "taxId": "TAX-409224",
+      "totalAmountOwed": 142703.81
+    }
+  ],
+  "vendorCredits": []
+}

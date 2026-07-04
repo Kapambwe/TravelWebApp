@@ -1,0 +1,21 @@
+{
+  "userId": "user-chef187-001",
+  "userName": "admin@chef187.co.zm",
+  "fullName": "Kondwani Kaira (Chef 187)",
+  "roles": [
+    "CEO",
+    "Artist",
+    "Property Manager"
+  ],
+  "companyId": "chef187-ent-001",
+  "companyName": "Chef 187 Entertainment & Investments",
+  "permissions": [
+    "ViewReports",
+    "CreateTransactions",
+    "ApproveBudgets",
+    "ManageProperties",
+    "ManageMusicSales",
+    "ViewRoyalties",
+    "ManageInvestments"
+  ]
+}

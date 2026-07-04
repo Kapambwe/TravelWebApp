@@ -1,0 +1,145 @@
+[
+  {
+    "id": 1,
+    "paymentNumber": "PAY-2025-001",
+    "invoiceId": 4,
+    "customerId": 8,
+    "clientName": "Chileshe Creative Agency Enterprises",
+    "amount": 359267.89,
+    "paymentDate": "2025-01-12T00:00:00",
+    "paymentMethod": "Bank Transfer",
+    "referenceNumber": "TRF-20250315-001"
+  },
+  {
+    "id": 2,
+    "paymentNumber": "PAY-2025-002",
+    "invoiceId": 6,
+    "customerId": 3,
+    "clientName": "Phiri Music Group Ltd",
+    "amount": 701236.07,
+    "paymentDate": "2025-01-22T00:00:00",
+    "paymentMethod": "Bank Transfer",
+    "referenceNumber": "TRF-20250315-002"
+  },
+  {
+    "id": 3,
+    "paymentNumber": "PAY-2025-003",
+    "invoiceId": 4,
+    "customerId": 8,
+    "clientName": "Chileshe Creative Agency Enterprises",
+    "amount": 359267.89,
+    "paymentDate": "2025-02-01T00:00:00",
+    "paymentMethod": "Bank Transfer",
+    "referenceNumber": "TRF-20250315-003"
+  },
+  {
+    "id": 4,
+    "paymentNumber": "PAY-2025-004",
+    "invoiceId": 5,
+    "customerId": 6,
+    "clientName": "Mutale Media Ltd",
+    "amount": 1288852.86,
+    "paymentDate": "2025-01-15T00:00:00",
+    "paymentMethod": "Bank Transfer",
+    "referenceNumber": "TRF-20250315-004"
+  },
+  {
+    "id": 5,
+    "paymentNumber": "PAY-2025-005",
+    "invoiceId": 7,
+    "customerId": 5,
+    "clientName": "Lungu Music Group Enterprises",
+    "amount": 1164223.7,
+    "paymentDate": "2025-03-09T00:00:00",
+    "paymentMethod": "Mobile Money",
+    "referenceNumber": "MMO-20250315-005"
+  },
+  {
+    "id": 6,
+    "paymentNumber": "PAY-2025-006",
+    "invoiceId": 5,
+    "customerId": 6,
+    "clientName": "Mutale Media Ltd",
+    "amount": 1288852.86,
+    "paymentDate": "2025-01-26T00:00:00",
+    "paymentMethod": "Bank Transfer",
+    "referenceNumber": "TRF-20250315-006"
+  },
+  {
+    "id": 7,
+    "paymentNumber": "PAY-2025-007",
+    "invoiceId": 10,
+    "customerId": 5,
+    "clientName": "Lungu Music Group Enterprises",
+    "amount": 2939333.0,
+    "paymentDate": "2025-02-01T00:00:00",
+    "paymentMethod": "Cheque",
+    "referenceNumber": "CHQ-20250315-007"
+  },
+  {
+    "id": 8,
+    "paymentNumber": "PAY-2025-008",
+    "invoiceId": 10,
+    "customerId": 5,
+    "clientName": "Lungu Music Group Enterprises",
+    "amount": 2939333.0,
+    "paymentDate": "2025-01-20T00:00:00",
+    "paymentMethod": "Mobile Money",
+    "referenceNumber": "MMO-20250315-008"
+  },
+  {
+    "id": 9,
+    "paymentNumber": "PAY-2025-009",
+    "invoiceId": 7,
+    "customerId": 5,
+    "clientName": "Lungu Music Group Enterprises",
+    "amount": 1164223.7,
+    "paymentDate": "2025-03-04T00:00:00",
+    "paymentMethod": "Bank Transfer",
+    "referenceNumber": "TRF-20250315-009"
+  },
+  {
+    "id": 10,
+    "paymentNumber": "PAY-2025-010",
+    "invoiceId": 5,
+    "customerId": 6,
+    "clientName": "Mutale Media Ltd",
+    "amount": 1288852.86,
+    "paymentDate": "2025-01-18T00:00:00",
+    "paymentMethod": "Cheque",
+    "referenceNumber": "CHQ-20250315-010"
+  },
+  {
+    "id": 11,
+    "paymentNumber": "PAY-2025-011",
+    "invoiceId": 4,
+    "customerId": 8,
+    "clientName": "Chileshe Creative Agency Enterprises",
+    "amount": 359267.89,
+    "paymentDate": "2025-02-18T00:00:00",
+    "paymentMethod": "Mobile Money",
+    "referenceNumber": "MMO-20250315-011"
+  },
+  {
+    "id": 12,
+    "paymentNumber": "PAY-2025-012",
+    "invoiceId": 5,
+    "customerId": 6,
+    "clientName": "Mutale Media Ltd",
+    "amount": 1288852.86,
+    "paymentDate": "2025-02-10T00:00:00",
+    "paymentMethod": "Bank Transfer",
+    "referenceNumber": "TRF-20250315-012"
+  },
+  {
+    "id": 13,
+    "paymentNumber": "PAY-2025-013",
+    "invoiceId": 6,
+    "customerId": 3,
+    "clientName": "Phiri Music Group Ltd",
+    "amount": 701236.07,
+    "paymentDate": "2025-01-04T00:00:00",
+    "paymentMethod": "Bank Transfer",
+    "referenceNumber": "TRF-20250315-013"
+  }
+]

@@ -1,0 +1,78 @@
+@page "/register"
+@inject NavigationManager Navigation
+
+<div class="auth-page">
+    <RadzenCard Style="max-width:500px;margin:0 auto;padding:40px;border-radius:16px;">
+        <div style="text-align:center;margin-bottom:32px;">
+            <div class="auth-logo">Travel<span class="auth-accent">SA</span></div>
+            <RadzenText TextStyle="TextStyle.H5" Style="margin-top:16px;">Create your account</RadzenText>
+            <RadzenText TextStyle="TextStyle.Body2" Style="color:var(--text-secondary);">Join TravelSA and unlock exclusive deals</RadzenText>
+        </div>
+
+        <RadzenTemplateForm TItem="Register.RegisterModel" Model="@_registerModel" Submit="@HandleRegister">
+            <div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;margin-bottom:16px;">
+                <RadzenFormField Text="First Name">
+                    <RadzenTextBox @bind-Value="@_registerModel.FirstName" Style="width:100%;" />
+                </RadzenFormField>
+                <RadzenFormField Text="Last Name">
+                    <RadzenTextBox @bind-Value="@_registerModel.LastName" Style="width:100%;" />
+                </RadzenFormField>
+            </div>
+            
+            <RadzenFormField Text="Email Address" Style="width:100%;margin-bottom:16px;">
+                <RadzenTextBox @bind-Value="@_registerModel.Email" Style="width:100%;" />
+                <RadzenRequiredValidator Component="Email" Text="Email is required" />
+                <RadzenEmailValidator Component="Email" Text="Provide a valid email address" />
+            </RadzenFormField>
+
+            <RadzenFormField Text="Password" Style="width:100%;margin-bottom:16px;">
+                <RadzenTextBox @bind-Value="@_registerModel.Password" Password="true" Style="width:100%;" />
+                <RadzenRequiredValidator Component="Password" Text="Password is required" />
+            </RadzenFormField>
+
+            <RadzenFormField Text="Confirm Password" Style="width:100%;margin-bottom:24px;">
+                <RadzenTextBox @bind-Value="@_registerModel.ConfirmPassword" Password="true" Style="width:100%;" />
+                <RadzenCompareValidator Component="ConfirmPassword" Value="@_registerModel.Password" Text="Passwords do not match" />
+            </RadzenFormField>
+
+            <RadzenCheckBox @bind-Value="@_agreeTerms" Style="margin-bottom:24px;">
+                <span style="margin-left:8px;font-size:0.875rem;">I agree to the <a href="#">Terms of Service</a> and <a href="#">Privacy Policy</a></span>
+            </RadzenCheckBox>
+
+            <RadzenButton Text="Create Account" ButtonStyle="ButtonStyle.Primary" FormSubmit="true" Style="width:100%;padding:12px;font-size:1rem;" Disabled="@(!_agreeTerms)" />
+        </RadzenTemplateForm>
+
+        <div style="text-align:center;margin-top:24px;padding-top:24px;border-top:1px solid var(--border);">
+            <RadzenText TextStyle="TextStyle.Body2" Style="color:var(--text-secondary);">
+                Already have an account?
+                <a href="/login" style="font-weight:600;">Sign in</a>
+            </RadzenText>
+        </div>
+    </RadzenCard>
+</div>
+
+<style>
+    .auth-page { display:flex;align-items:center;justify-content:center;min-height:80vh;padding:24px; }
+    .auth-logo { font-size:1.75rem;font-weight:800;color:var(--text-primary); }
+    .auth-accent { color:var(--accent); }
+</style>
+
+@code {
+    private RegisterModel _registerModel = new();
+    private bool _agreeTerms;
+
+    private void HandleRegister(RegisterModel args)
+    {
+        // In a real app, call the API
+        Navigation.NavigateTo("/login");
+    }
+
+    private class RegisterModel
+    {
+        public string FirstName { get; set; } = "";
+        public string LastName { get; set; } = "";
+        public string Email { get; set; } = "";
+        public string Password { get; set; } = "";
+        public string ConfirmPassword { get; set; } = "";
+    }
+}

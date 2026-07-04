@@ -1,0 +1,123 @@
+[
+  {
+    "id": 1,
+    "billNumber": "BILL-2025-001",
+    "vendorName": "Zulu Cargo Holdings",
+    "description": "Fuel Purchase",
+    "billDate": "2025-02-06T00:00:00",
+    "dueDate": "2025-02-21T00:00:00",
+    "amount": 1485532.42,
+    "paidAmount": 1485532.42,
+    "status": "Paid"
+  },
+  {
+    "id": 2,
+    "billNumber": "BILL-2025-002",
+    "vendorName": "Mwamba Transport Ltd",
+    "description": "Port Handling Charges",
+    "billDate": "2024-12-15T00:00:00",
+    "dueDate": "2025-01-29T00:00:00",
+    "amount": 400173.38,
+    "paidAmount": 400173.38,
+    "status": "Paid"
+  },
+  {
+    "id": 3,
+    "billNumber": "BILL-2025-003",
+    "vendorName": "Mulenga Logistics Enterprises",
+    "description": "Vehicle Maintenance",
+    "billDate": "2025-02-03T00:00:00",
+    "dueDate": "2025-02-18T00:00:00",
+    "amount": 853049.14,
+    "paidAmount": 853049.14,
+    "status": "Paid"
+  },
+  {
+    "id": 4,
+    "billNumber": "BILL-2025-004",
+    "vendorName": "Zimba Freight Ltd",
+    "description": "Vehicle Maintenance",
+    "billDate": "2025-03-14T00:00:00",
+    "dueDate": "2025-04-28T00:00:00",
+    "amount": 169109.69,
+    "paidAmount": 65193.6,
+    "status": "PartiallyPaid"
+  },
+  {
+    "id": 5,
+    "billNumber": "BILL-2025-005",
+    "vendorName": "Zimba Freight Ltd",
+    "description": "Fuel Purchase",
+    "billDate": "2024-10-11T00:00:00",
+    "dueDate": "2024-10-26T00:00:00",
+    "amount": 2860905.11,
+    "paidAmount": 2860905.11,
+    "status": "Paid"
+  },
+  {
+    "id": 6,
+    "billNumber": "BILL-2025-006",
+    "vendorName": "Kabwe Logistics Ltd",
+    "description": "Fuel Purchase",
+    "billDate": "2025-02-10T00:00:00",
+    "dueDate": "2025-03-12T00:00:00",
+    "amount": 3049288.66,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 7,
+    "billNumber": "BILL-2025-007",
+    "vendorName": "Zimba Freight Ltd",
+    "description": "Driver Wages",
+    "billDate": "2024-11-02T00:00:00",
+    "dueDate": "2024-12-17T00:00:00",
+    "amount": 523182.9,
+    "paidAmount": 278187.12,
+    "status": "PartiallyPaid"
+  },
+  {
+    "id": 8,
+    "billNumber": "BILL-2025-008",
+    "vendorName": "Mulenga Logistics Enterprises",
+    "description": "Spare Parts & Tyres",
+    "billDate": "2025-02-18T00:00:00",
+    "dueDate": "2025-03-05T00:00:00",
+    "amount": 2024285.89,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 9,
+    "billNumber": "BILL-2025-009",
+    "vendorName": "Ngosa Haulage Solutions",
+    "description": "Vehicle Maintenance",
+    "billDate": "2025-02-10T00:00:00",
+    "dueDate": "2025-03-27T00:00:00",
+    "amount": 1694228.99,
+    "paidAmount": 0.0,
+    "status": "Overdue"
+  },
+  {
+    "id": 10,
+    "billNumber": "BILL-2025-010",
+    "vendorName": "Mutale Cargo Holdings",
+    "description": "Fleet Insurance",
+    "billDate": "2024-11-02T00:00:00",
+    "dueDate": "2024-12-02T00:00:00",
+    "amount": 483913.39,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 11,
+    "billNumber": "BILL-2025-011",
+    "vendorName": "Banda Haulage Limited",
+    "description": "Port Handling Charges",
+    "billDate": "2025-03-02T00:00:00",
+    "dueDate": "2025-03-17T00:00:00",
+    "amount": 1975356.7,
+    "paidAmount": 0.0,
+    "status": "Open"
+  }
+]

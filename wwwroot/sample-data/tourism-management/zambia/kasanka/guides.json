@@ -1,0 +1,18 @@
+﻿[
+    {
+        "Id":  7,
+        "Name":  "Moses Lungu",
+        "EmployeeId":  "EMP-071",
+        "IsAvailable":  true,
+        "Specialization":  "Bat Migration \u0026 Shoebills",
+        "Rating":  4.9
+    },
+    {
+        "Id":  8,
+        "Name":  "Miriam Mwamba",
+        "EmployeeId":  "EMP-072",
+        "IsAvailable":  true,
+        "Specialization":  "Ornithology \u0026 Wetland walks",
+        "Rating":  4.8
+    }
+]

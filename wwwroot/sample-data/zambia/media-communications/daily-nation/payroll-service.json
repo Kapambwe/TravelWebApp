@@ -1,0 +1,482 @@
+[
+  {
+    "id": "payroll-001",
+    "employeeId": "emp-001",
+    "employeeName": "Mulenga Musonda",
+    "period": "January 2024",
+    "basicSalary": 10000.0,
+    "allowances": 2000.0,
+    "grossPay": 12000.0,
+    "deductions": {
+      "napsa": 600.0,
+      "paye": 2000.0,
+      "nhima": 120.0
+    },
+    "netPay": 9280.0,
+    "paymentDate": "2025-01-27"
+  },
+  {
+    "id": "payroll-002",
+    "employeeId": "emp-001",
+    "employeeName": "Mulenga Musonda",
+    "period": "January 2024",
+    "basicSalary": 10000.0,
+    "allowances": 2000.0,
+    "grossPay": 12000.0,
+    "deductions": {
+      "napsa": 600.0,
+      "paye": 2000.0,
+      "nhima": 120.0
+    },
+    "netPay": 9280.0,
+    "paymentDate": "2025-01-27"
+  },
+  {
+    "id": "payroll-003",
+    "employeeId": "emp-001",
+    "employeeName": "Mulenga Musonda",
+    "period": "January 2024",
+    "basicSalary": 10000.0,
+    "allowances": 2000.0,
+    "grossPay": 12000.0,
+    "deductions": {
+      "napsa": 600.0,
+      "paye": 2000.0,
+      "nhima": 120.0
+    },
+    "netPay": 9280.0,
+    "paymentDate": "2025-01-27"
+  },
+  {
+    "id": "payroll-004",
+    "employeeId": "emp-001",
+    "employeeName": "Mulenga Musonda",
+    "period": "January 2024",
+    "basicSalary": 10000.0,
+    "allowances": 2000.0,
+    "grossPay": 12000.0,
+    "deductions": {
+      "napsa": 600.0,
+      "paye": 2000.0,
+      "nhima": 120.0
+    },
+    "netPay": 9280.0,
+    "paymentDate": "2025-01-27"
+  },
+  {
+    "id": "payroll-005",
+    "employeeId": "emp-001",
+    "employeeName": "Mulenga Musonda",
+    "period": "January 2024",
+    "basicSalary": 10000.0,
+    "allowances": 2000.0,
+    "grossPay": 12000.0,
+    "deductions": {
+      "napsa": 600.0,
+      "paye": 2000.0,
+      "nhima": 120.0
+    },
+    "netPay": 9280.0,
+    "paymentDate": "2025-01-27"
+  },
+  {
+    "id": "payroll-006",
+    "employeeId": "emp-001",
+    "employeeName": "Mulenga Musonda",
+    "period": "January 2024",
+    "basicSalary": 10000.0,
+    "allowances": 2000.0,
+    "grossPay": 12000.0,
+    "deductions": {
+      "napsa": 600.0,
+      "paye": 2000.0,
+      "nhima": 120.0
+    },
+    "netPay": 9280.0,
+    "paymentDate": "2025-01-27"
+  },
+  {
+    "id": "payroll-007",
+    "employeeId": "emp-001",
+    "employeeName": "Mulenga Musonda",
+    "period": "January 2024",
+    "basicSalary": 10000.0,
+    "allowances": 2000.0,
+    "grossPay": 12000.0,
+    "deductions": {
+      "napsa": 600.0,
+      "paye": 2000.0,
+      "nhima": 120.0
+    },
+    "netPay": 9280.0,
+    "paymentDate": "2025-01-27"
+  },
+  {
+    "id": "payroll-008",
+    "employeeId": "emp-001",
+    "employeeName": "Mulenga Musonda",
+    "period": "January 2024",
+    "basicSalary": 10000.0,
+    "allowances": 2000.0,
+    "grossPay": 12000.0,
+    "deductions": {
+      "napsa": 600.0,
+      "paye": 2000.0,
+      "nhima": 120.0
+    },
+    "netPay": 9280.0,
+    "paymentDate": "2025-01-27"
+  },
+  {
+    "id": "payroll-009",
+    "employeeId": "emp-001",
+    "employeeName": "Mulenga Musonda",
+    "period": "January 2024",
+    "basicSalary": 10000.0,
+    "allowances": 2000.0,
+    "grossPay": 12000.0,
+    "deductions": {
+      "napsa": 600.0,
+      "paye": 2000.0,
+      "nhima": 120.0
+    },
+    "netPay": 9280.0,
+    "paymentDate": "2025-01-27"
+  },
+  {
+    "id": "payroll-010",
+    "employeeId": "emp-001",
+    "employeeName": "Mulenga Musonda",
+    "period": "January 2024",
+    "basicSalary": 10000.0,
+    "allowances": 2000.0,
+    "grossPay": 12000.0,
+    "deductions": {
+      "napsa": 600.0,
+      "paye": 2000.0,
+      "nhima": 120.0
+    },
+    "netPay": 9280.0,
+    "paymentDate": "2025-01-27"
+  },
+  {
+    "id": "payroll-011",
+    "employeeId": "emp-001",
+    "employeeName": "Mulenga Musonda",
+    "period": "January 2024",
+    "basicSalary": 10000.0,
+    "allowances": 2000.0,
+    "grossPay": 12000.0,
+    "deductions": {
+      "napsa": 600.0,
+      "paye": 2000.0,
+      "nhima": 120.0
+    },
+    "netPay": 9280.0,
+    "paymentDate": "2025-01-27"
+  },
+  {
+    "id": "payroll-012",
+    "employeeId": "emp-001",
+    "employeeName": "Mulenga Musonda",
+    "period": "January 2024",
+    "basicSalary": 10000.0,
+    "allowances": 2000.0,
+    "grossPay": 12000.0,
+    "deductions": {
+      "napsa": 600.0,
+      "paye": 2000.0,
+      "nhima": 120.0
+    },
+    "netPay": 9280.0,
+    "paymentDate": "2025-01-27"
+  },
+  {
+    "id": "payroll-013",
+    "employeeId": "emp-001",
+    "employeeName": "Mulenga Musonda",
+    "period": "January 2024",
+    "basicSalary": 10000.0,
+    "allowances": 2000.0,
+    "grossPay": 12000.0,
+    "deductions": {
+      "napsa": 600.0,
+      "paye": 2000.0,
+      "nhima": 120.0
+    },
+    "netPay": 9280.0,
+    "paymentDate": "2025-01-27"
+  },
+  {
+    "id": "payroll-014",
+    "employeeId": "emp-001",
+    "employeeName": "Mulenga Musonda",
+    "period": "January 2024",
+    "basicSalary": 10000.0,
+    "allowances": 2000.0,
+    "grossPay": 12000.0,
+    "deductions": {
+      "napsa": 600.0,
+      "paye": 2000.0,
+      "nhima": 120.0
+    },
+    "netPay": 9280.0,
+    "paymentDate": "2025-01-27"
+  },
+  {
+    "id": "payroll-015",
+    "employeeId": "emp-001",
+    "employeeName": "Mulenga Musonda",
+    "period": "January 2024",
+    "basicSalary": 10000.0,
+    "allowances": 2000.0,
+    "grossPay": 12000.0,
+    "deductions": {
+      "napsa": 600.0,
+      "paye": 2000.0,
+      "nhima": 120.0
+    },
+    "netPay": 9280.0,
+    "paymentDate": "2025-01-27"
+  },
+  {
+    "id": "payroll-016",
+    "employeeId": "emp-001",
+    "employeeName": "Mulenga Musonda",
+    "period": "January 2024",
+    "basicSalary": 10000.0,
+    "allowances": 2000.0,
+    "grossPay": 12000.0,
+    "deductions": {
+      "napsa": 600.0,
+      "paye": 2000.0,
+      "nhima": 120.0
+    },
+    "netPay": 9280.0,
+    "paymentDate": "2025-01-27"
+  },
+  {
+    "id": "payroll-017",
+    "employeeId": "emp-001",
+    "employeeName": "Mulenga Musonda",
+    "period": "January 2024",
+    "basicSalary": 10000.0,
+    "allowances": 2000.0,
+    "grossPay": 12000.0,
+    "deductions": {
+      "napsa": 600.0,
+      "paye": 2000.0,
+      "nhima": 120.0
+    },
+    "netPay": 9280.0,
+    "paymentDate": "2025-01-27"
+  },
+  {
+    "id": "payroll-018",
+    "employeeId": "emp-001",
+    "employeeName": "Mulenga Musonda",
+    "period": "January 2024",
+    "basicSalary": 10000.0,
+    "allowances": 2000.0,
+    "grossPay": 12000.0,
+    "deductions": {
+      "napsa": 600.0,
+      "paye": 2000.0,
+      "nhima": 120.0
+    },
+    "netPay": 9280.0,
+    "paymentDate": "2025-01-27"
+  },
+  {
+    "id": "payroll-019",
+    "employeeId": "emp-001",
+    "employeeName": "Mulenga Musonda",
+    "period": "January 2024",
+    "basicSalary": 10000.0,
+    "allowances": 2000.0,
+    "grossPay": 12000.0,
+    "deductions": {
+      "napsa": 600.0,
+      "paye": 2000.0,
+      "nhima": 120.0
+    },
+    "netPay": 9280.0,
+    "paymentDate": "2025-01-27"
+  },
+  {
+    "id": "payroll-020",
+    "employeeId": "emp-001",
+    "employeeName": "Mulenga Musonda",
+    "period": "January 2024",
+    "basicSalary": 10000.0,
+    "allowances": 2000.0,
+    "grossPay": 12000.0,
+    "deductions": {
+      "napsa": 600.0,
+      "paye": 2000.0,
+      "nhima": 120.0
+    },
+    "netPay": 9280.0,
+    "paymentDate": "2025-01-27"
+  },
+  {
+    "id": "payroll-021",
+    "employeeId": "emp-001",
+    "employeeName": "Mulenga Musonda",
+    "period": "January 2024",
+    "basicSalary": 10000.0,
+    "allowances": 2000.0,
+    "grossPay": 12000.0,
+    "deductions": {
+      "napsa": 600.0,
+      "paye": 2000.0,
+      "nhima": 120.0
+    },
+    "netPay": 9280.0,
+    "paymentDate": "2025-01-27"
+  },
+  {
+    "id": "payroll-022",
+    "employeeId": "emp-001",
+    "employeeName": "Mulenga Musonda",
+    "period": "January 2024",
+    "basicSalary": 10000.0,
+    "allowances": 2000.0,
+    "grossPay": 12000.0,
+    "deductions": {
+      "napsa": 600.0,
+      "paye": 2000.0,
+      "nhima": 120.0
+    },
+    "netPay": 9280.0,
+    "paymentDate": "2025-01-27"
+  },
+  {
+    "id": "payroll-023",
+    "employeeId": "emp-001",
+    "employeeName": "Mulenga Musonda",
+    "period": "January 2024",
+    "basicSalary": 10000.0,
+    "allowances": 2000.0,
+    "grossPay": 12000.0,
+    "deductions": {
+      "napsa": 600.0,
+      "paye": 2000.0,
+      "nhima": 120.0
+    },
+    "netPay": 9280.0,
+    "paymentDate": "2025-01-27"
+  },
+  {
+    "id": "payroll-024",
+    "employeeId": "emp-001",
+    "employeeName": "Mulenga Musonda",
+    "period": "January 2024",
+    "basicSalary": 10000.0,
+    "allowances": 2000.0,
+    "grossPay": 12000.0,
+    "deductions": {
+      "napsa": 600.0,
+      "paye": 2000.0,
+      "nhima": 120.0
+    },
+    "netPay": 9280.0,
+    "paymentDate": "2025-01-27"
+  },
+  {
+    "id": "payroll-025",
+    "employeeId": "emp-001",
+    "employeeName": "Mulenga Musonda",
+    "period": "January 2024",
+    "basicSalary": 10000.0,
+    "allowances": 2000.0,
+    "grossPay": 12000.0,
+    "deductions": {
+      "napsa": 600.0,
+      "paye": 2000.0,
+      "nhima": 120.0
+    },
+    "netPay": 9280.0,
+    "paymentDate": "2025-01-27"
+  },
+  {
+    "id": "payroll-026",
+    "employeeId": "emp-001",
+    "employeeName": "Mulenga Musonda",
+    "period": "January 2024",
+    "basicSalary": 10000.0,
+    "allowances": 2000.0,
+    "grossPay": 12000.0,
+    "deductions": {
+      "napsa": 600.0,
+      "paye": 2000.0,
+      "nhima": 120.0
+    },
+    "netPay": 9280.0,
+    "paymentDate": "2025-01-27"
+  },
+  {
+    "id": "payroll-027",
+    "employeeId": "emp-001",
+    "employeeName": "Mulenga Musonda",
+    "period": "January 2024",
+    "basicSalary": 10000.0,
+    "allowances": 2000.0,
+    "grossPay": 12000.0,
+    "deductions": {
+      "napsa": 600.0,
+      "paye": 2000.0,
+      "nhima": 120.0
+    },
+    "netPay": 9280.0,
+    "paymentDate": "2025-01-27"
+  },
+  {
+    "id": "payroll-028",
+    "employeeId": "emp-001",
+    "employeeName": "Mulenga Musonda",
+    "period": "January 2024",
+    "basicSalary": 10000.0,
+    "allowances": 2000.0,
+    "grossPay": 12000.0,
+    "deductions": {
+      "napsa": 600.0,
+      "paye": 2000.0,
+      "nhima": 120.0
+    },
+    "netPay": 9280.0,
+    "paymentDate": "2025-01-27"
+  },
+  {
+    "id": "payroll-029",
+    "employeeId": "emp-001",
+    "employeeName": "Mulenga Musonda",
+    "period": "January 2024",
+    "basicSalary": 10000.0,
+    "allowances": 2000.0,
+    "grossPay": 12000.0,
+    "deductions": {
+      "napsa": 600.0,
+      "paye": 2000.0,
+      "nhima": 120.0
+    },
+    "netPay": 9280.0,
+    "paymentDate": "2025-01-27"
+  },
+  {
+    "id": "payroll-030",
+    "employeeId": "emp-001",
+    "employeeName": "Mulenga Musonda",
+    "period": "January 2024",
+    "basicSalary": 10000.0,
+    "allowances": 2000.0,
+    "grossPay": 12000.0,
+    "deductions": {
+      "napsa": 600.0,
+      "paye": 2000.0,
+      "nhima": 120.0
+    },
+    "netPay": 9280.0,
+    "paymentDate": "2025-01-27"
+  }
+]

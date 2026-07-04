@@ -1,0 +1,180 @@
+@page "/ai-agent"
+@inject NavigationManager Navigation
+
+<div class="page-section">
+    <div style="max-width:800px;margin:0 auto;">
+        <div style="text-align:center;margin-bottom:32px;">
+            <div style="font-size:3rem;margin-bottom:8px;">&#129302;</div>
+            <RadzenText TextStyle="TextStyle.H3">Otto — AI Travel Assistant</RadzenText>
+            <RadzenText TextStyle="TextStyle.Body1" Style="color:var(--text-secondary);">
+                Ask me anything about your African adventure
+            </RadzenText>
+        </div>
+
+        <RadzenCard Style="border-radius:16px;overflow:hidden;box-shadow:0 8px 32px rgba(0,0,0,0.08);">
+            <div class="chat-header">
+                <div style="display:flex;align-items:center;gap:12px;">
+                    <span style="font-size:2rem;">&#129302;</span>
+                    <div>
+                        <RadzenText TextStyle="TextStyle.H6" Style="color:white;">Otto</RadzenText>
+                        <RadzenText TextStyle="TextStyle.Caption" Style="color:rgba(255,255,255,0.7);">Always here to help</RadzenText>
+                    </div>
+                </div>
+                <RadzenBadge Text="Online" BadgeStyle="BadgeStyle.Success" />
+            </div>
+
+            <div class="chat-messages" @ref="_messagesContainer">
+                @foreach (var msg in _messages)
+                {
+                    <div class="chat-msg @(msg.Role == "user" ? "user" : "bot")">
+                        @if (msg.Role == "bot")
+                        {
+                            <div class="msg-avatar">&#129302;</div>
+                        }
+                        <div class="msg-bubble">
+                            <div class="msg-text">@msg.Content</div>
+                            <div class="msg-time">@msg.Timestamp.ToString("HH:mm")</div>
+                        </div>
+                    </div>
+                }
+                @if (_isTyping)
+                {
+                    <div class="chat-msg bot">
+                        <div class="msg-avatar">&#129302;</div>
+                        <div class="typing-indicator">
+                            <span></span><span></span><span></span>
+                        </div>
+                    </div>
+                }
+            </div>
+
+            <div class="chat-input-area">
+                <div class="suggestion-strip">
+                    @foreach (var s in _suggestions)
+                    {
+                        <div class="chip" @onclick="@(() => QuickQuery(s))">@s</div>
+                    }
+                </div>
+                <div class="chat-input-row">
+                    <RadzenTextBox @bind-Value="@_input" Placeholder="Ask Otto anything about your trip..." Style="flex:1;border:none;padding:14px 16px;font-size:0.938rem;outline:none;"
+                                   OnKeyPress="@(async (Microsoft.AspNetCore.Components.Web.KeyboardEventArgs args) => { if (args.Key == "Enter") await SendMessage(); })" />
+                    <RadzenButton ButtonStyle="ButtonStyle.Primary" Click="@SendMessage" Style="border-radius:50%;width:48px;height:48px;padding:0;display:flex;align-items:center;justify-content:center;min-width:unset;margin-right:4px;">
+                        <span style="font-size:1.25rem;">&#10148;</span>
+                    </RadzenButton>
+                </div>
+            </div>
+        </RadzenCard>
+
+        <div style="text-align:center;margin-top:24px;">
+            <RadzenText TextStyle="TextStyle.Caption" Style="color:var(--text-secondary);">
+                Otto can make mistakes. Verify important information with our team.
+            </RadzenText>
+        </div>
+    </div>
+</div>
+
+<style>
+    .chat-header {
+        background: linear-gradient(135deg,#003B95,#002A6E); padding: 20px 24px;
+        display: flex; justify-content: space-between; align-items: center;
+    }
+    .chat-messages { height: 420px; overflow-y: auto; padding: 20px; display: flex; flex-direction: column; gap: 12px; background: #FAFBFC; }
+    .chat-msg { display: flex; gap: 10px; max-width: 85%; }
+    .chat-msg.user { align-self: flex-end; flex-direction: row-reverse; }
+    .msg-avatar { width: 32px; height: 32px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 1.25rem; flex-shrink: 0; }
+    .msg-bubble { padding: 12px 16px; border-radius: 16px; }
+    .chat-msg.bot .msg-bubble { background: white; border: 1px solid var(--border); }
+    .chat-msg.user .msg-bubble { background: var(--primary); color: white; }
+    .msg-text { font-size: 0.938rem; line-height: 1.5; }
+    .msg-time { font-size: 0.688rem; color: #999; margin-top: 4px; }
+    .chat-msg.user .msg-time { color: rgba(255,255,255,0.6); }
+
+    .typing-indicator { display: flex; gap: 4px; padding: 12px 16px; background: white; border: 1px solid var(--border); border-radius: 16px; align-items: center; }
+    .typing-indicator span { width: 8px; height: 8px; border-radius: 50%; background: var(--primary); animation: bounce 1.4s infinite; }
+    .typing-indicator span:nth-child(2) { animation-delay: 0.2s; }
+    .typing-indicator span:nth-child(3) { animation-delay: 0.4s; }
+    @@keyframes bounce { 0%, 60%, 100% { transform: translateY(0); } 30% { transform: translateY(-6px); } }
+
+    .chat-input-area { border-top: 1px solid var(--border); }
+    .suggestion-strip { display: flex; gap: 6px; padding: 8px 12px; overflow-x: auto; border-bottom: 1px solid var(--border); }
+    .chip { background: var(--primary-light); color: var(--primary); padding: 6px 14px; border-radius: 20px; font-size: 0.813rem; cursor: pointer; white-space: nowrap; transition: all 0.2s; flex-shrink: 0; }
+    .chip:hover { background: var(--primary); color: white; }
+    .chat-input-row { display: flex; align-items: center; padding: 4px; }
+</style>
+
+@code {
+    private List<TravelWebApp.Models.ChatMessage> _messages = [];
+    private string _input = "";
+    private bool _isTyping;
+    private ElementReference _messagesContainer;
+
+    private readonly string[] _suggestions =
+    [
+        "Find flights to Cape Town",
+        "Best safari packages",
+        "Visa requirements for Zambia",
+        "Beach holidays in Zanzibar",
+        "Last minute deals",
+    ];
+
+    private readonly Dictionary<string, string> _responses = new(StringComparer.OrdinalIgnoreCase)
+    {
+        ["find flights"] = "I can help you find flights! Where are you flying from and where would you like to go? Our cheapest routes are from Johannesburg to Cape Town (from R850) and Johannesburg to Victoria Falls (from R1,200).",
+        ["cape town"] = "Cape Town is incredible! I recommend The Table Bay Hotel (R1,800/night) or Gorgeous George (R1,350/night). Both are in great locations. Would you like to see more options?",
+        ["safari"] = "We have amazing safari options! Kruger Shalati (R4,500/night) is our top pick, or the Four Seasons Serengeti (R6,500/night) for an ultra-luxury experience. Both include game drives!",
+        ["visa"] = "I can help with visa information! South African passport holders enjoy visa-free travel to Botswana (90 days), Zambia (90 days), Namibia (90 days), and Kenya (30 days). For Schengen, UK, or US - visas are required. Check our Travellers Guide for details!",
+        ["zanzibar"] = "Zanzibar is paradise! Zanzibar White Sands Resort (R2,200/night) is our top pick with beach access, spa, and water sports. The best time to visit is June to October.",
+        ["deal"] = "We have some great deals right now! The Safari Special is 40% off luxury lodges, and our Weekend Escape flash sale gives you 25% off. Check the Travel Deals section on our homepage!",
+        ["discount"] = "We have some great deals right now! The Safari Special is 40% off luxury lodges, and our Weekend Escape flash sale gives you 25% off. Check the Travel Deals section on our homepage!",
+        ["special"] = "We have some great deals right now! The Safari Special is 40% off luxury lodges, and our Weekend Escape flash sale gives you 25% off. Check the Travel Deals section on our homepage!",
+        ["last minute"] = "Our best last-minute deal is the Weekend Escape with 25% off! Also check the Safari Special - 40% off luxury lodges, valid for 20 more days.",
+        ["luggage"] = "For an African safari, pack: lightweight neutral clothing, comfortable walking shoes, a warm jacket for early morning drives, sunscreen, hat, insect repellent, binoculars, and a camera! Check our Travellers Guide for the full packing list.",
+        ["pack"] = "For an African safari, pack: lightweight neutral clothing, comfortable walking shoes, a warm jacket for early morning drives, sunscreen, hat, insect repellent, binoculars, and a camera! Check our Travellers Guide for the full packing list.",
+        ["booking"] = "You can view all your bookings in the My Bookings section. Log in to see upcoming, past, and cancelled bookings with full details.",
+        ["my booking"] = "You can view all your bookings in the My Bookings section. Log in to see upcoming, past, and cancelled bookings with full details.",
+        ["help"] = "I'm Otto, your AI travel assistant! I can help you find flights, book hotels, check visa requirements, find deals, and more. Just ask me anything about your trip!",
+    };
+
+    protected override void OnInitialized()
+    {
+        _messages.Add(new TravelWebApp.Models.ChatMessage
+        {
+            Role = "bot",
+            Content = "👋 Hi! I'm Otto, your AI travel assistant. Ask me about flights, hotels, safaris, visa requirements, or anything travel-related!",
+            Timestamp = DateTime.UtcNow
+        });
+    }
+
+    private async Task SendMessage()
+    {
+        if (string.IsNullOrWhiteSpace(_input)) return;
+        var userMsg = _input.Trim();
+        _messages.Add(new TravelWebApp.Models.ChatMessage { Role = "user", Content = userMsg, Timestamp = DateTime.UtcNow });
+        _input = "";
+        _isTyping = true;
+        StateHasChanged();
+        await Task.Delay(800 + new Random().Next(600));
+
+        var response = GetResponse(userMsg);
+        _messages.Add(new TravelWebApp.Models.ChatMessage { Role = "bot", Content = response, Timestamp = DateTime.UtcNow });
+        _isTyping = false;
+        StateHasChanged();
+    }
+
+    private string GetResponse(string input)
+    {
+        var lower = input.ToLower();
+        foreach (var kv in _responses)
+        {
+            if (lower.Contains(kv.Key))
+                return kv.Value;
+        }
+        return "That's a great question! I'm still learning, but I can help with flights, hotels, safaris, visa info, and travel tips. Could you be more specific? Or try one of the suggestions below!";
+    }
+
+    private async Task QuickQuery(string query)
+    {
+        _input = query;
+        await SendMessage();
+    }
+}

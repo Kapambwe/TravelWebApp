@@ -1,0 +1,362 @@
+[
+  {
+    "id": "mr-001",
+    "reportName": "Monthly Financial Summary 1",
+    "period": "January 2024",
+    "generatedDate": "2025-07-06",
+    "metrics": {
+      "revenue": 50000.0,
+      "expenses": 30000.0,
+      "netIncome": 20000.0,
+      "profitMargin": 40.0
+    }
+  },
+  {
+    "id": "mr-002",
+    "reportName": "Monthly Financial Summary 2",
+    "period": "January 2024",
+    "generatedDate": "2025-05-09",
+    "metrics": {
+      "revenue": 50000.0,
+      "expenses": 30000.0,
+      "netIncome": 20000.0,
+      "profitMargin": 40.0
+    }
+  },
+  {
+    "id": "mr-003",
+    "reportName": "Monthly Financial Summary 3",
+    "period": "January 2024",
+    "generatedDate": "2025-07-23",
+    "metrics": {
+      "revenue": 50000.0,
+      "expenses": 30000.0,
+      "netIncome": 20000.0,
+      "profitMargin": 40.0
+    }
+  },
+  {
+    "id": "mr-004",
+    "reportName": "Monthly Financial Summary 4",
+    "period": "January 2024",
+    "generatedDate": "2025-12-11",
+    "metrics": {
+      "revenue": 50000.0,
+      "expenses": 30000.0,
+      "netIncome": 20000.0,
+      "profitMargin": 40.0
+    }
+  },
+  {
+    "id": "mr-005",
+    "reportName": "Monthly Financial Summary 5",
+    "period": "January 2024",
+    "generatedDate": "2025-04-02",
+    "metrics": {
+      "revenue": 50000.0,
+      "expenses": 30000.0,
+      "netIncome": 20000.0,
+      "profitMargin": 40.0
+    }
+  },
+  {
+    "id": "mr-006",
+    "reportName": "Monthly Financial Summary 6",
+    "period": "January 2024",
+    "generatedDate": "2025-11-17",
+    "metrics": {
+      "revenue": 50000.0,
+      "expenses": 30000.0,
+      "netIncome": 20000.0,
+      "profitMargin": 40.0
+    }
+  },
+  {
+    "id": "mr-007",
+    "reportName": "Monthly Financial Summary 7",
+    "period": "January 2024",
+    "generatedDate": "2025-03-20",
+    "metrics": {
+      "revenue": 50000.0,
+      "expenses": 30000.0,
+      "netIncome": 20000.0,
+      "profitMargin": 40.0
+    }
+  },
+  {
+    "id": "mr-008",
+    "reportName": "Monthly Financial Summary 8",
+    "period": "January 2024",
+    "generatedDate": "2025-04-26",
+    "metrics": {
+      "revenue": 50000.0,
+      "expenses": 30000.0,
+      "netIncome": 20000.0,
+      "profitMargin": 40.0
+    }
+  },
+  {
+    "id": "mr-009",
+    "reportName": "Monthly Financial Summary 9",
+    "period": "January 2024",
+    "generatedDate": "2025-04-29",
+    "metrics": {
+      "revenue": 50000.0,
+      "expenses": 30000.0,
+      "netIncome": 20000.0,
+      "profitMargin": 40.0
+    }
+  },
+  {
+    "id": "mr-010",
+    "reportName": "Monthly Financial Summary 10",
+    "period": "January 2024",
+    "generatedDate": "2025-03-26",
+    "metrics": {
+      "revenue": 50000.0,
+      "expenses": 30000.0,
+      "netIncome": 20000.0,
+      "profitMargin": 40.0
+    }
+  },
+  {
+    "id": "mr-011",
+    "reportName": "Monthly Financial Summary 11",
+    "period": "January 2024",
+    "generatedDate": "2025-11-23",
+    "metrics": {
+      "revenue": 50000.0,
+      "expenses": 30000.0,
+      "netIncome": 20000.0,
+      "profitMargin": 40.0
+    }
+  },
+  {
+    "id": "mr-012",
+    "reportName": "Monthly Financial Summary 12",
+    "period": "January 2024",
+    "generatedDate": "2025-12-21",
+    "metrics": {
+      "revenue": 50000.0,
+      "expenses": 30000.0,
+      "netIncome": 20000.0,
+      "profitMargin": 40.0
+    }
+  },
+  {
+    "id": "mr-013",
+    "reportName": "Monthly Financial Summary 13",
+    "period": "January 2024",
+    "generatedDate": "2025-08-07",
+    "metrics": {
+      "revenue": 50000.0,
+      "expenses": 30000.0,
+      "netIncome": 20000.0,
+      "profitMargin": 40.0
+    }
+  },
+  {
+    "id": "mr-014",
+    "reportName": "Monthly Financial Summary 14",
+    "period": "January 2024",
+    "generatedDate": "2025-08-18",
+    "metrics": {
+      "revenue": 50000.0,
+      "expenses": 30000.0,
+      "netIncome": 20000.0,
+      "profitMargin": 40.0
+    }
+  },
+  {
+    "id": "mr-015",
+    "reportName": "Monthly Financial Summary 15",
+    "period": "January 2024",
+    "generatedDate": "2025-03-25",
+    "metrics": {
+      "revenue": 50000.0,
+      "expenses": 30000.0,
+      "netIncome": 20000.0,
+      "profitMargin": 40.0
+    }
+  },
+  {
+    "id": "mr-016",
+    "reportName": "Monthly Financial Summary 16",
+    "period": "January 2024",
+    "generatedDate": "2025-01-25",
+    "metrics": {
+      "revenue": 50000.0,
+      "expenses": 30000.0,
+      "netIncome": 20000.0,
+      "profitMargin": 40.0
+    }
+  },
+  {
+    "id": "mr-017",
+    "reportName": "Monthly Financial Summary 17",
+    "period": "January 2024",
+    "generatedDate": "2025-06-05",
+    "metrics": {
+      "revenue": 50000.0,
+      "expenses": 30000.0,
+      "netIncome": 20000.0,
+      "profitMargin": 40.0
+    }
+  },
+  {
+    "id": "mr-018",
+    "reportName": "Monthly Financial Summary 18",
+    "period": "January 2024",
+    "generatedDate": "2025-04-14",
+    "metrics": {
+      "revenue": 50000.0,
+      "expenses": 30000.0,
+      "netIncome": 20000.0,
+      "profitMargin": 40.0
+    }
+  },
+  {
+    "id": "mr-019",
+    "reportName": "Monthly Financial Summary 19",
+    "period": "January 2024",
+    "generatedDate": "2025-09-09",
+    "metrics": {
+      "revenue": 50000.0,
+      "expenses": 30000.0,
+      "netIncome": 20000.0,
+      "profitMargin": 40.0
+    }
+  },
+  {
+    "id": "mr-020",
+    "reportName": "Monthly Financial Summary 20",
+    "period": "January 2024",
+    "generatedDate": "2025-11-20",
+    "metrics": {
+      "revenue": 50000.0,
+      "expenses": 30000.0,
+      "netIncome": 20000.0,
+      "profitMargin": 40.0
+    }
+  },
+  {
+    "id": "mr-021",
+    "reportName": "Monthly Financial Summary 21",
+    "period": "January 2024",
+    "generatedDate": "2025-03-06",
+    "metrics": {
+      "revenue": 50000.0,
+      "expenses": 30000.0,
+      "netIncome": 20000.0,
+      "profitMargin": 40.0
+    }
+  },
+  {
+    "id": "mr-022",
+    "reportName": "Monthly Financial Summary 22",
+    "period": "January 2024",
+    "generatedDate": "2025-05-30",
+    "metrics": {
+      "revenue": 50000.0,
+      "expenses": 30000.0,
+      "netIncome": 20000.0,
+      "profitMargin": 40.0
+    }
+  },
+  {
+    "id": "mr-023",
+    "reportName": "Monthly Financial Summary 23",
+    "period": "January 2024",
+    "generatedDate": "2025-03-13",
+    "metrics": {
+      "revenue": 50000.0,
+      "expenses": 30000.0,
+      "netIncome": 20000.0,
+      "profitMargin": 40.0
+    }
+  },
+  {
+    "id": "mr-024",
+    "reportName": "Monthly Financial Summary 24",
+    "period": "January 2024",
+    "generatedDate": "2025-02-13",
+    "metrics": {
+      "revenue": 50000.0,
+      "expenses": 30000.0,
+      "netIncome": 20000.0,
+      "profitMargin": 40.0
+    }
+  },
+  {
+    "id": "mr-025",
+    "reportName": "Monthly Financial Summary 25",
+    "period": "January 2024",
+    "generatedDate": "2025-02-23",
+    "metrics": {
+      "revenue": 50000.0,
+      "expenses": 30000.0,
+      "netIncome": 20000.0,
+      "profitMargin": 40.0
+    }
+  },
+  {
+    "id": "mr-026",
+    "reportName": "Monthly Financial Summary 26",
+    "period": "January 2024",
+    "generatedDate": "2026-01-16",
+    "metrics": {
+      "revenue": 50000.0,
+      "expenses": 30000.0,
+      "netIncome": 20000.0,
+      "profitMargin": 40.0
+    }
+  },
+  {
+    "id": "mr-027",
+    "reportName": "Monthly Financial Summary 27",
+    "period": "January 2024",
+    "generatedDate": "2025-09-30",
+    "metrics": {
+      "revenue": 50000.0,
+      "expenses": 30000.0,
+      "netIncome": 20000.0,
+      "profitMargin": 40.0
+    }
+  },
+  {
+    "id": "mr-028",
+    "reportName": "Monthly Financial Summary 28",
+    "period": "January 2024",
+    "generatedDate": "2025-10-18",
+    "metrics": {
+      "revenue": 50000.0,
+      "expenses": 30000.0,
+      "netIncome": 20000.0,
+      "profitMargin": 40.0
+    }
+  },
+  {
+    "id": "mr-029",
+    "reportName": "Monthly Financial Summary 29",
+    "period": "January 2024",
+    "generatedDate": "2025-08-13",
+    "metrics": {
+      "revenue": 50000.0,
+      "expenses": 30000.0,
+      "netIncome": 20000.0,
+      "profitMargin": 40.0
+    }
+  },
+  {
+    "id": "mr-030",
+    "reportName": "Monthly Financial Summary 30",
+    "period": "January 2024",
+    "generatedDate": "2025-08-05",
+    "metrics": {
+      "revenue": 50000.0,
+      "expenses": 30000.0,
+      "netIncome": 20000.0,
+      "profitMargin": 40.0
+    }
+  }
+]

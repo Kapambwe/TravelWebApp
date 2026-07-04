@@ -1,0 +1,1142 @@
+[
+  {
+    "id": "chart-data-001",
+    "chartType": "Revenue by Month",
+    "data": {
+      "labels": [
+        "Jan",
+        "Feb",
+        "Mar",
+        "Apr",
+        "May",
+        "Jun"
+      ],
+      "datasets": [
+        {
+          "label": "2024",
+          "data": [
+            50000,
+            55000,
+            60000,
+            58000,
+            62000,
+            65000
+          ]
+        },
+        {
+          "label": "2023",
+          "data": [
+            45000,
+            48000,
+            52000,
+            50000,
+            54000,
+            56000
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "chart-data-002",
+    "chartType": "Revenue by Month",
+    "data": {
+      "labels": [
+        "Jan",
+        "Feb",
+        "Mar",
+        "Apr",
+        "May",
+        "Jun"
+      ],
+      "datasets": [
+        {
+          "label": "2024",
+          "data": [
+            50000,
+            55000,
+            60000,
+            58000,
+            62000,
+            65000
+          ]
+        },
+        {
+          "label": "2023",
+          "data": [
+            45000,
+            48000,
+            52000,
+            50000,
+            54000,
+            56000
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "chart-data-003",
+    "chartType": "Revenue by Month",
+    "data": {
+      "labels": [
+        "Jan",
+        "Feb",
+        "Mar",
+        "Apr",
+        "May",
+        "Jun"
+      ],
+      "datasets": [
+        {
+          "label": "2024",
+          "data": [
+            50000,
+            55000,
+            60000,
+            58000,
+            62000,
+            65000
+          ]
+        },
+        {
+          "label": "2023",
+          "data": [
+            45000,
+            48000,
+            52000,
+            50000,
+            54000,
+            56000
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "chart-data-004",
+    "chartType": "Revenue by Month",
+    "data": {
+      "labels": [
+        "Jan",
+        "Feb",
+        "Mar",
+        "Apr",
+        "May",
+        "Jun"
+      ],
+      "datasets": [
+        {
+          "label": "2024",
+          "data": [
+            50000,
+            55000,
+            60000,
+            58000,
+            62000,
+            65000
+          ]
+        },
+        {
+          "label": "2023",
+          "data": [
+            45000,
+            48000,
+            52000,
+            50000,
+            54000,
+            56000
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "chart-data-005",
+    "chartType": "Revenue by Month",
+    "data": {
+      "labels": [
+        "Jan",
+        "Feb",
+        "Mar",
+        "Apr",
+        "May",
+        "Jun"
+      ],
+      "datasets": [
+        {
+          "label": "2024",
+          "data": [
+            50000,
+            55000,
+            60000,
+            58000,
+            62000,
+            65000
+          ]
+        },
+        {
+          "label": "2023",
+          "data": [
+            45000,
+            48000,
+            52000,
+            50000,
+            54000,
+            56000
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "chart-data-006",
+    "chartType": "Revenue by Month",
+    "data": {
+      "labels": [
+        "Jan",
+        "Feb",
+        "Mar",
+        "Apr",
+        "May",
+        "Jun"
+      ],
+      "datasets": [
+        {
+          "label": "2024",
+          "data": [
+            50000,
+            55000,
+            60000,
+            58000,
+            62000,
+            65000
+          ]
+        },
+        {
+          "label": "2023",
+          "data": [
+            45000,
+            48000,
+            52000,
+            50000,
+            54000,
+            56000
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "chart-data-007",
+    "chartType": "Revenue by Month",
+    "data": {
+      "labels": [
+        "Jan",
+        "Feb",
+        "Mar",
+        "Apr",
+        "May",
+        "Jun"
+      ],
+      "datasets": [
+        {
+          "label": "2024",
+          "data": [
+            50000,
+            55000,
+            60000,
+            58000,
+            62000,
+            65000
+          ]
+        },
+        {
+          "label": "2023",
+          "data": [
+            45000,
+            48000,
+            52000,
+            50000,
+            54000,
+            56000
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "chart-data-008",
+    "chartType": "Revenue by Month",
+    "data": {
+      "labels": [
+        "Jan",
+        "Feb",
+        "Mar",
+        "Apr",
+        "May",
+        "Jun"
+      ],
+      "datasets": [
+        {
+          "label": "2024",
+          "data": [
+            50000,
+            55000,
+            60000,
+            58000,
+            62000,
+            65000
+          ]
+        },
+        {
+          "label": "2023",
+          "data": [
+            45000,
+            48000,
+            52000,
+            50000,
+            54000,
+            56000
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "chart-data-009",
+    "chartType": "Revenue by Month",
+    "data": {
+      "labels": [
+        "Jan",
+        "Feb",
+        "Mar",
+        "Apr",
+        "May",
+        "Jun"
+      ],
+      "datasets": [
+        {
+          "label": "2024",
+          "data": [
+            50000,
+            55000,
+            60000,
+            58000,
+            62000,
+            65000
+          ]
+        },
+        {
+          "label": "2023",
+          "data": [
+            45000,
+            48000,
+            52000,
+            50000,
+            54000,
+            56000
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "chart-data-010",
+    "chartType": "Revenue by Month",
+    "data": {
+      "labels": [
+        "Jan",
+        "Feb",
+        "Mar",
+        "Apr",
+        "May",
+        "Jun"
+      ],
+      "datasets": [
+        {
+          "label": "2024",
+          "data": [
+            50000,
+            55000,
+            60000,
+            58000,
+            62000,
+            65000
+          ]
+        },
+        {
+          "label": "2023",
+          "data": [
+            45000,
+            48000,
+            52000,
+            50000,
+            54000,
+            56000
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "chart-data-011",
+    "chartType": "Revenue by Month",
+    "data": {
+      "labels": [
+        "Jan",
+        "Feb",
+        "Mar",
+        "Apr",
+        "May",
+        "Jun"
+      ],
+      "datasets": [
+        {
+          "label": "2024",
+          "data": [
+            50000,
+            55000,
+            60000,
+            58000,
+            62000,
+            65000
+          ]
+        },
+        {
+          "label": "2023",
+          "data": [
+            45000,
+            48000,
+            52000,
+            50000,
+            54000,
+            56000
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "chart-data-012",
+    "chartType": "Revenue by Month",
+    "data": {
+      "labels": [
+        "Jan",
+        "Feb",
+        "Mar",
+        "Apr",
+        "May",
+        "Jun"
+      ],
+      "datasets": [
+        {
+          "label": "2024",
+          "data": [
+            50000,
+            55000,
+            60000,
+            58000,
+            62000,
+            65000
+          ]
+        },
+        {
+          "label": "2023",
+          "data": [
+            45000,
+            48000,
+            52000,
+            50000,
+            54000,
+            56000
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "chart-data-013",
+    "chartType": "Revenue by Month",
+    "data": {
+      "labels": [
+        "Jan",
+        "Feb",
+        "Mar",
+        "Apr",
+        "May",
+        "Jun"
+      ],
+      "datasets": [
+        {
+          "label": "2024",
+          "data": [
+            50000,
+            55000,
+            60000,
+            58000,
+            62000,
+            65000
+          ]
+        },
+        {
+          "label": "2023",
+          "data": [
+            45000,
+            48000,
+            52000,
+            50000,
+            54000,
+            56000
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "chart-data-014",
+    "chartType": "Revenue by Month",
+    "data": {
+      "labels": [
+        "Jan",
+        "Feb",
+        "Mar",
+        "Apr",
+        "May",
+        "Jun"
+      ],
+      "datasets": [
+        {
+          "label": "2024",
+          "data": [
+            50000,
+            55000,
+            60000,
+            58000,
+            62000,
+            65000
+          ]
+        },
+        {
+          "label": "2023",
+          "data": [
+            45000,
+            48000,
+            52000,
+            50000,
+            54000,
+            56000
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "chart-data-015",
+    "chartType": "Revenue by Month",
+    "data": {
+      "labels": [
+        "Jan",
+        "Feb",
+        "Mar",
+        "Apr",
+        "May",
+        "Jun"
+      ],
+      "datasets": [
+        {
+          "label": "2024",
+          "data": [
+            50000,
+            55000,
+            60000,
+            58000,
+            62000,
+            65000
+          ]
+        },
+        {
+          "label": "2023",
+          "data": [
+            45000,
+            48000,
+            52000,
+            50000,
+            54000,
+            56000
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "chart-data-016",
+    "chartType": "Revenue by Month",
+    "data": {
+      "labels": [
+        "Jan",
+        "Feb",
+        "Mar",
+        "Apr",
+        "May",
+        "Jun"
+      ],
+      "datasets": [
+        {
+          "label": "2024",
+          "data": [
+            50000,
+            55000,
+            60000,
+            58000,
+            62000,
+            65000
+          ]
+        },
+        {
+          "label": "2023",
+          "data": [
+            45000,
+            48000,
+            52000,
+            50000,
+            54000,
+            56000
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "chart-data-017",
+    "chartType": "Revenue by Month",
+    "data": {
+      "labels": [
+        "Jan",
+        "Feb",
+        "Mar",
+        "Apr",
+        "May",
+        "Jun"
+      ],
+      "datasets": [
+        {
+          "label": "2024",
+          "data": [
+            50000,
+            55000,
+            60000,
+            58000,
+            62000,
+            65000
+          ]
+        },
+        {
+          "label": "2023",
+          "data": [
+            45000,
+            48000,
+            52000,
+            50000,
+            54000,
+            56000
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "chart-data-018",
+    "chartType": "Revenue by Month",
+    "data": {
+      "labels": [
+        "Jan",
+        "Feb",
+        "Mar",
+        "Apr",
+        "May",
+        "Jun"
+      ],
+      "datasets": [
+        {
+          "label": "2024",
+          "data": [
+            50000,
+            55000,
+            60000,
+            58000,
+            62000,
+            65000
+          ]
+        },
+        {
+          "label": "2023",
+          "data": [
+            45000,
+            48000,
+            52000,
+            50000,
+            54000,
+            56000
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "chart-data-019",
+    "chartType": "Revenue by Month",
+    "data": {
+      "labels": [
+        "Jan",
+        "Feb",
+        "Mar",
+        "Apr",
+        "May",
+        "Jun"
+      ],
+      "datasets": [
+        {
+          "label": "2024",
+          "data": [
+            50000,
+            55000,
+            60000,
+            58000,
+            62000,
+            65000
+          ]
+        },
+        {
+          "label": "2023",
+          "data": [
+            45000,
+            48000,
+            52000,
+            50000,
+            54000,
+            56000
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "chart-data-020",
+    "chartType": "Revenue by Month",
+    "data": {
+      "labels": [
+        "Jan",
+        "Feb",
+        "Mar",
+        "Apr",
+        "May",
+        "Jun"
+      ],
+      "datasets": [
+        {
+          "label": "2024",
+          "data": [
+            50000,
+            55000,
+            60000,
+            58000,
+            62000,
+            65000
+          ]
+        },
+        {
+          "label": "2023",
+          "data": [
+            45000,
+            48000,
+            52000,
+            50000,
+            54000,
+            56000
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "chart-data-021",
+    "chartType": "Revenue by Month",
+    "data": {
+      "labels": [
+        "Jan",
+        "Feb",
+        "Mar",
+        "Apr",
+        "May",
+        "Jun"
+      ],
+      "datasets": [
+        {
+          "label": "2024",
+          "data": [
+            50000,
+            55000,
+            60000,
+            58000,
+            62000,
+            65000
+          ]
+        },
+        {
+          "label": "2023",
+          "data": [
+            45000,
+            48000,
+            52000,
+            50000,
+            54000,
+            56000
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "chart-data-022",
+    "chartType": "Revenue by Month",
+    "data": {
+      "labels": [
+        "Jan",
+        "Feb",
+        "Mar",
+        "Apr",
+        "May",
+        "Jun"
+      ],
+      "datasets": [
+        {
+          "label": "2024",
+          "data": [
+            50000,
+            55000,
+            60000,
+            58000,
+            62000,
+            65000
+          ]
+        },
+        {
+          "label": "2023",
+          "data": [
+            45000,
+            48000,
+            52000,
+            50000,
+            54000,
+            56000
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "chart-data-023",
+    "chartType": "Revenue by Month",
+    "data": {
+      "labels": [
+        "Jan",
+        "Feb",
+        "Mar",
+        "Apr",
+        "May",
+        "Jun"
+      ],
+      "datasets": [
+        {
+          "label": "2024",
+          "data": [
+            50000,
+            55000,
+            60000,
+            58000,
+            62000,
+            65000
+          ]
+        },
+        {
+          "label": "2023",
+          "data": [
+            45000,
+            48000,
+            52000,
+            50000,
+            54000,
+            56000
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "chart-data-024",
+    "chartType": "Revenue by Month",
+    "data": {
+      "labels": [
+        "Jan",
+        "Feb",
+        "Mar",
+        "Apr",
+        "May",
+        "Jun"
+      ],
+      "datasets": [
+        {
+          "label": "2024",
+          "data": [
+            50000,
+            55000,
+            60000,
+            58000,
+            62000,
+            65000
+          ]
+        },
+        {
+          "label": "2023",
+          "data": [
+            45000,
+            48000,
+            52000,
+            50000,
+            54000,
+            56000
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "chart-data-025",
+    "chartType": "Revenue by Month",
+    "data": {
+      "labels": [
+        "Jan",
+        "Feb",
+        "Mar",
+        "Apr",
+        "May",
+        "Jun"
+      ],
+      "datasets": [
+        {
+          "label": "2024",
+          "data": [
+            50000,
+            55000,
+            60000,
+            58000,
+            62000,
+            65000
+          ]
+        },
+        {
+          "label": "2023",
+          "data": [
+            45000,
+            48000,
+            52000,
+            50000,
+            54000,
+            56000
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "chart-data-026",
+    "chartType": "Revenue by Month",
+    "data": {
+      "labels": [
+        "Jan",
+        "Feb",
+        "Mar",
+        "Apr",
+        "May",
+        "Jun"
+      ],
+      "datasets": [
+        {
+          "label": "2024",
+          "data": [
+            50000,
+            55000,
+            60000,
+            58000,
+            62000,
+            65000
+          ]
+        },
+        {
+          "label": "2023",
+          "data": [
+            45000,
+            48000,
+            52000,
+            50000,
+            54000,
+            56000
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "chart-data-027",
+    "chartType": "Revenue by Month",
+    "data": {
+      "labels": [
+        "Jan",
+        "Feb",
+        "Mar",
+        "Apr",
+        "May",
+        "Jun"
+      ],
+      "datasets": [
+        {
+          "label": "2024",
+          "data": [
+            50000,
+            55000,
+            60000,
+            58000,
+            62000,
+            65000
+          ]
+        },
+        {
+          "label": "2023",
+          "data": [
+            45000,
+            48000,
+            52000,
+            50000,
+            54000,
+            56000
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "chart-data-028",
+    "chartType": "Revenue by Month",
+    "data": {
+      "labels": [
+        "Jan",
+        "Feb",
+        "Mar",
+        "Apr",
+        "May",
+        "Jun"
+      ],
+      "datasets": [
+        {
+          "label": "2024",
+          "data": [
+            50000,
+            55000,
+            60000,
+            58000,
+            62000,
+            65000
+          ]
+        },
+        {
+          "label": "2023",
+          "data": [
+            45000,
+            48000,
+            52000,
+            50000,
+            54000,
+            56000
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "chart-data-029",
+    "chartType": "Revenue by Month",
+    "data": {
+      "labels": [
+        "Jan",
+        "Feb",
+        "Mar",
+        "Apr",
+        "May",
+        "Jun"
+      ],
+      "datasets": [
+        {
+          "label": "2024",
+          "data": [
+            50000,
+            55000,
+            60000,
+            58000,
+            62000,
+            65000
+          ]
+        },
+        {
+          "label": "2023",
+          "data": [
+            45000,
+            48000,
+            52000,
+            50000,
+            54000,
+            56000
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "chart-data-030",
+    "chartType": "Revenue by Month",
+    "data": {
+      "labels": [
+        "Jan",
+        "Feb",
+        "Mar",
+        "Apr",
+        "May",
+        "Jun"
+      ],
+      "datasets": [
+        {
+          "label": "2024",
+          "data": [
+            50000,
+            55000,
+            60000,
+            58000,
+            62000,
+            65000
+          ]
+        },
+        {
+          "label": "2023",
+          "data": [
+            45000,
+            48000,
+            52000,
+            50000,
+            54000,
+            56000
+          ]
+        }
+      ]
+    }
+  }
+]

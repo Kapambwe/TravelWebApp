@@ -1,0 +1,178 @@
+[
+  {
+    "id": 1,
+    "billNumber": "BILL-2025-001",
+    "vendorName": "Mumba Communications Solutions",
+    "description": "Content Distribution",
+    "billDate": "2024-12-29T00:00:00",
+    "dueDate": "2025-01-28T00:00:00",
+    "amount": 618749.25,
+    "paidAmount": 618749.25,
+    "status": "Paid"
+  },
+  {
+    "id": 2,
+    "billNumber": "BILL-2025-002",
+    "vendorName": "Lungu Broadcasting Enterprises",
+    "description": "Broadcasting Equipment Hire",
+    "billDate": "2025-01-11T00:00:00",
+    "dueDate": "2025-02-10T00:00:00",
+    "amount": 1213151.86,
+    "paidAmount": 1213151.86,
+    "status": "Paid"
+  },
+  {
+    "id": 3,
+    "billNumber": "BILL-2025-003",
+    "vendorName": "Mwale Communications Limited",
+    "description": "Studio Production Costs",
+    "billDate": "2024-12-08T00:00:00",
+    "dueDate": "2025-01-22T00:00:00",
+    "amount": 2979672.05,
+    "paidAmount": 2979672.05,
+    "status": "Paid"
+  },
+  {
+    "id": 4,
+    "billNumber": "BILL-2025-004",
+    "vendorName": "Kabwe Media Ltd",
+    "description": "Printing Costs",
+    "billDate": "2025-03-11T00:00:00",
+    "dueDate": "2025-03-26T00:00:00",
+    "amount": 2467657.18,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 5,
+    "billNumber": "BILL-2025-005",
+    "vendorName": "Kabwe Media Holdings",
+    "description": "Freelancer Fees",
+    "billDate": "2024-12-13T00:00:00",
+    "dueDate": "2025-01-27T00:00:00",
+    "amount": 2312005.55,
+    "paidAmount": 2312005.55,
+    "status": "Paid"
+  },
+  {
+    "id": 6,
+    "billNumber": "BILL-2025-006",
+    "vendorName": "Kabwe Media Inc.",
+    "description": "Studio Production Costs",
+    "billDate": "2024-11-11T00:00:00",
+    "dueDate": "2024-11-26T00:00:00",
+    "amount": 2460797.26,
+    "paidAmount": 2460797.26,
+    "status": "Paid"
+  },
+  {
+    "id": 7,
+    "billNumber": "BILL-2025-007",
+    "vendorName": "Zulu Publishers Solutions",
+    "description": "Printing Costs",
+    "billDate": "2025-01-09T00:00:00",
+    "dueDate": "2025-02-23T00:00:00",
+    "amount": 856104.98,
+    "paidAmount": 275049.78,
+    "status": "PartiallyPaid"
+  },
+  {
+    "id": 8,
+    "billNumber": "BILL-2025-008",
+    "vendorName": "Lungu Broadcasting Enterprises",
+    "description": "Studio Production Costs",
+    "billDate": "2025-01-31T00:00:00",
+    "dueDate": "2025-02-15T00:00:00",
+    "amount": 1433661.44,
+    "paidAmount": 0.0,
+    "status": "Overdue"
+  },
+  {
+    "id": 9,
+    "billNumber": "BILL-2025-009",
+    "vendorName": "Zulu Publishers Solutions",
+    "description": "Printing Costs",
+    "billDate": "2024-11-09T00:00:00",
+    "dueDate": "2024-12-24T00:00:00",
+    "amount": 1464708.28,
+    "paidAmount": 1464708.28,
+    "status": "Paid"
+  },
+  {
+    "id": 10,
+    "billNumber": "BILL-2025-010",
+    "vendorName": "Kabwe Media Ltd",
+    "description": "Freelancer Fees",
+    "billDate": "2025-01-28T00:00:00",
+    "dueDate": "2025-03-14T00:00:00",
+    "amount": 816371.75,
+    "paidAmount": 0.0,
+    "status": "Overdue"
+  },
+  {
+    "id": 11,
+    "billNumber": "BILL-2025-011",
+    "vendorName": "Mumba Communications Solutions",
+    "description": "Broadcasting Equipment Hire",
+    "billDate": "2024-09-17T00:00:00",
+    "dueDate": "2024-10-17T00:00:00",
+    "amount": 2151173.82,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 12,
+    "billNumber": "BILL-2025-012",
+    "vendorName": "Chileshe Communications Co.",
+    "description": "Printing Costs",
+    "billDate": "2024-12-29T00:00:00",
+    "dueDate": "2025-01-28T00:00:00",
+    "amount": 410751.21,
+    "paidAmount": 0.0,
+    "status": "Overdue"
+  },
+  {
+    "id": 13,
+    "billNumber": "BILL-2025-013",
+    "vendorName": "Mumba Communications Solutions",
+    "description": "Freelancer Fees",
+    "billDate": "2025-01-24T00:00:00",
+    "dueDate": "2025-03-10T00:00:00",
+    "amount": 1981143.75,
+    "paidAmount": 1981143.75,
+    "status": "Paid"
+  },
+  {
+    "id": 14,
+    "billNumber": "BILL-2025-014",
+    "vendorName": "Kabwe Media Ltd",
+    "description": "Studio Production Costs",
+    "billDate": "2024-12-10T00:00:00",
+    "dueDate": "2024-12-25T00:00:00",
+    "amount": 2324354.46,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 15,
+    "billNumber": "BILL-2025-015",
+    "vendorName": "Lungu Broadcasting Enterprises",
+    "description": "License Fees",
+    "billDate": "2024-11-15T00:00:00",
+    "dueDate": "2024-12-30T00:00:00",
+    "amount": 3115071.53,
+    "paidAmount": 1837279.77,
+    "status": "PartiallyPaid"
+  },
+  {
+    "id": 16,
+    "billNumber": "BILL-2025-016",
+    "vendorName": "Banda Publishers Ltd",
+    "description": "Broadcasting Equipment Hire",
+    "billDate": "2025-01-19T00:00:00",
+    "dueDate": "2025-02-03T00:00:00",
+    "amount": 851659.32,
+    "paidAmount": 0.0,
+    "status": "Open"
+  }
+]

@@ -1,0 +1,93 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "admin",
+      "email": "admin@etfc.zm",
+      "firstName": "Grace",
+      "lastName": "Mwamba",
+      "isActive": true,
+      "twoFactorEnabled": true,
+      "createdMonthsAgo": 18,
+      "lastLoginHoursAgo": 6
+    },
+    {
+      "id": 2,
+      "username": "mbanda",
+      "email": "moses.banda@etfc.zm",
+      "firstName": "Moses",
+      "lastName": "Banda",
+      "isActive": true,
+      "twoFactorEnabled": false,
+      "createdMonthsAgo": 14,
+      "lastLoginDaysAgo": 1
+    },
+    {
+      "id": 3,
+      "username": "lphiri",
+      "email": "lillian.phiri@etfc.zm",
+      "firstName": "Lillian",
+      "lastName": "Phiri",
+      "isActive": true,
+      "twoFactorEnabled": true,
+      "createdMonthsAgo": 12,
+      "lastLoginDaysAgo": 2
+    },
+    {
+      "id": 4,
+      "username": "pmwansa",
+      "email": "patrick.mwansa@etfc.zm",
+      "firstName": "Patrick",
+      "lastName": "Mwansa",
+      "isActive": true,
+      "twoFactorEnabled": false,
+      "createdMonthsAgo": 10,
+      "lastLoginDaysAgo": 4
+    },
+    {
+      "id": 5,
+      "username": "ctembo",
+      "email": "chanda.tembo@etfc.zm",
+      "firstName": "Chanda",
+      "lastName": "Tembo",
+      "isActive": true,
+      "twoFactorEnabled": false,
+      "createdMonthsAgo": 9,
+      "lastLoginDaysAgo": 3
+    }
+  ],
+  "roles": [
+    {
+      "id": 1,
+      "roleName": "Administrator",
+      "description": "Full administrative access",
+      "isSystemRole": true,
+      "isActive": true,
+      "createdMonthsAgo": 24
+    },
+    {
+      "id": 2,
+      "roleName": "Accountant",
+      "description": "Accounting and reporting access",
+      "isSystemRole": false,
+      "isActive": true,
+      "createdMonthsAgo": 20
+    },
+    {
+      "id": 3,
+      "roleName": "Sales Manager",
+      "description": "CRM and account ownership access",
+      "isSystemRole": false,
+      "isActive": true,
+      "createdMonthsAgo": 16
+    }
+  ],
+  "userRoles": [
+    { "id": 1, "userId": 1, "roleId": 1, "assignedMonthsAgo": 18, "assignedBy": "System" },
+    { "id": 2, "userId": 2, "roleId": 3, "assignedMonthsAgo": 12, "assignedBy": "System" },
+    { "id": 3, "userId": 3, "roleId": 2, "assignedMonthsAgo": 10, "assignedBy": "System" },
+    { "id": 4, "userId": 4, "roleId": 3, "assignedMonthsAgo": 9, "assignedBy": "System" },
+    { "id": 5, "userId": 5, "roleId": 2, "assignedMonthsAgo": 8, "assignedBy": "System" }
+  ],
+  "auditLogs": []
+}

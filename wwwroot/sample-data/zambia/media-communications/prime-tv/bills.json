@@ -1,0 +1,101 @@
+[
+  {
+    "id": 1,
+    "billNumber": "BILL-2025-001",
+    "vendorName": "Musonda Media Inc.",
+    "description": "Studio Production Costs",
+    "billDate": "2025-02-18T00:00:00",
+    "dueDate": "2025-03-20T00:00:00",
+    "amount": 3082025.72,
+    "paidAmount": 3082025.72,
+    "status": "Paid"
+  },
+  {
+    "id": 2,
+    "billNumber": "BILL-2025-002",
+    "vendorName": "Phiri Digital Media Co.",
+    "description": "Broadcasting Equipment Hire",
+    "billDate": "2024-12-21T00:00:00",
+    "dueDate": "2025-02-04T00:00:00",
+    "amount": 3344278.63,
+    "paidAmount": 0.0,
+    "status": "Overdue"
+  },
+  {
+    "id": 3,
+    "billNumber": "BILL-2025-003",
+    "vendorName": "Mumba Digital Media Holdings",
+    "description": "Freelancer Fees",
+    "billDate": "2024-10-27T00:00:00",
+    "dueDate": "2024-12-11T00:00:00",
+    "amount": 1969590.28,
+    "paidAmount": 0.0,
+    "status": "Overdue"
+  },
+  {
+    "id": 4,
+    "billNumber": "BILL-2025-004",
+    "vendorName": "Musonda Digital Media Group",
+    "description": "Studio Production Costs",
+    "billDate": "2025-03-14T00:00:00",
+    "dueDate": "2025-04-28T00:00:00",
+    "amount": 592746.8,
+    "paidAmount": 592746.8,
+    "status": "Paid"
+  },
+  {
+    "id": 5,
+    "billNumber": "BILL-2025-005",
+    "vendorName": "Siame Digital Media Inc.",
+    "description": "Studio Production Costs",
+    "billDate": "2025-02-01T00:00:00",
+    "dueDate": "2025-03-18T00:00:00",
+    "amount": 1361339.82,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 6,
+    "billNumber": "BILL-2025-006",
+    "vendorName": "Mumba Media Limited",
+    "description": "License Fees",
+    "billDate": "2024-12-12T00:00:00",
+    "dueDate": "2024-12-27T00:00:00",
+    "amount": 1713945.83,
+    "paidAmount": 0.0,
+    "status": "Overdue"
+  },
+  {
+    "id": 7,
+    "billNumber": "BILL-2025-007",
+    "vendorName": "Musonda Media Inc.",
+    "description": "Content Distribution",
+    "billDate": "2025-01-03T00:00:00",
+    "dueDate": "2025-02-17T00:00:00",
+    "amount": 3391151.18,
+    "paidAmount": 3391151.18,
+    "status": "Paid"
+  },
+  {
+    "id": 8,
+    "billNumber": "BILL-2025-008",
+    "vendorName": "Siame Broadcasting Group",
+    "description": "Content Distribution",
+    "billDate": "2024-09-24T00:00:00",
+    "dueDate": "2024-10-09T00:00:00",
+    "amount": 2723632.87,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 9,
+    "billNumber": "BILL-2025-009",
+    "vendorName": "Mumba Digital Media Holdings",
+    "description": "Broadcasting Equipment Hire",
+    "billDate": "2024-12-09T00:00:00",
+    "dueDate": "2024-12-24T00:00:00",
+    "amount": 2634978.41,
+    "paidAmount": 0.0,
+    "status": "Open"
+  }
+]

@@ -1,0 +1,181 @@
+@using TravelWebApp.Models
+@inject NavigationManager Navigation
+
+<div class="ottobot @(_isOpen ? "open" : "")">
+    @if (!_isOpen)
+    {
+        <div class="otto-fab" @onclick="@ToggleChat">
+            <span class="otto-icon">ðŸ¤–</span>
+        </div>
+    }
+    else
+    {
+        <div class="otto-panel">
+            <div class="otto-header">
+                <div style="display:flex;align-items:center;gap:8px;">
+                    <span style="font-size:1.5rem;">ðŸ¤–</span>
+                    <div>
+                        <RadzenText TextStyle="TextStyle.Body1" Style="font-weight:600;color:white;">Otto</RadzenText>
+                        <RadzenText TextStyle="TextStyle.Caption" Style="color:rgba(255,255,255,0.7);">AI Travel Assistant</RadzenText>
+                    </div>
+                </div>
+                <RadzenButton ButtonStyle="ButtonStyle.Primary" Variant="Variant.Text" Click="@ToggleChat" Style="color:white;padding:0;">
+                    <span style="font-size:1.25rem;">âœ•</span>
+                </RadzenButton>
+            </div>
+            <div class="otto-messages" @ref="_messagesContainer">
+                @foreach (var msg in _messages)
+                {
+                    <div class="otto-msg @(msg.Role == "user" ? "user" : "bot")">
+                        <div class="msg-content">@msg.Content</div>
+                        <div class="msg-time">@msg.Timestamp.ToString("HH:mm")</div>
+                    </div>
+                }
+                @if (_isTyping)
+                {
+                    <div class="otto-msg bot">
+                        <div class="typing-indicator">
+                            <span></span><span></span><span></span>
+                        </div>
+                    </div>
+                }
+            </div>
+            <div class="otto-input">
+                <RadzenTextBox @bind-Value="@_input" Placeholder="Ask me about your trip..." Style="flex:1;border:none;padding:12px;outline:none;"
+                               OnKeyPress="@(async (Microsoft.AspNetCore.Components.Web.KeyboardEventArgs args) => { if (args.Key == "Enter") await SendMessage(); })" />
+                <RadzenButton ButtonStyle="ButtonStyle.Primary" Click="@SendMessage" Style="border-radius:50%;width:40px;height:40px;padding:0;display:flex;align-items:center;justify-content:center;min-width:unset;">
+                    <span>âž¤</span>
+                </RadzenButton>
+            </div>
+            <div class="otto-suggestions">
+                @foreach (var s in _suggestions)
+                {
+                    <div class="suggestion-chip" @onclick="@(() => QuickQuery(s))">@s</div>
+                }
+            </div>
+        </div>
+    }
+</div>
+
+<style>
+    .ottobot { position: fixed; bottom: 24px; right: 24px; z-index: 1000; font-family: Inter, sans-serif; }
+    .otto-fab {
+        width: 60px; height: 60px; border-radius: 50%; background: #003B95; color: white;
+        display: flex; align-items: center; justify-content: center; cursor: pointer;
+        box-shadow: 0 4px 16px rgba(0,59,149,0.3); transition: transform 0.2s;
+    }
+    .otto-fab:hover { transform: scale(1.1); }
+    .otto-icon { font-size: 1.75rem; }
+    .otto-panel {
+        width: 360px; height: 520px; background: white; border-radius: 16px;
+        box-shadow: 0 12px 48px rgba(0,0,0,0.2); display: flex; flex-direction: column;
+        overflow: hidden; animation: slideUp 0.3s ease;
+    }
+    @@keyframes slideUp { from { opacity: 0; transform: translateY(20px); } to { opacity: 1; transform: translateY(0); } }
+    .otto-header {
+        background: linear-gradient(135deg, #003B95, #002A6E); padding: 16px;
+        display: flex; justify-content: space-between; align-items: center;
+    }
+    .otto-messages { flex: 1; overflow-y: auto; padding: 16px; display: flex; flex-direction: column; gap: 8px; }
+    .otto-msg { max-width: 85%; padding: 10px 14px; border-radius: 12px; font-size: 0.875rem; }
+    .otto-msg.bot { background: #F0F4FF; align-self: flex-start; }
+    .otto-msg.user { background: #003B95; color: white; align-self: flex-end; }
+    .msg-time { font-size: 0.688rem; color: #999; margin-top: 4px; }
+    .typing-indicator { display: flex; gap: 4px; padding: 4px 0; }
+    .typing-indicator span { width: 8px; height: 8px; border-radius: 50%; background: #003B95; animation: bounce 1.4s infinite; }
+    .typing-indicator span:nth-child(2) { animation-delay: 0.2s; }
+    .typing-indicator span:nth-child(3) { animation-delay: 0.4s; }
+    @@keyframes bounce { 0%, 60%, 100% { transform: translateY(0); } 30% { transform: translateY(-6px); } }
+    .otto-input { display: flex; padding: 8px 12px; border-top: 1px solid #E0E4EC; align-items: center; }
+    .otto-suggestions { display: flex; gap: 6px; padding: 8px 12px; flex-wrap: wrap; border-top: 1px solid #E0E4EC; }
+    .suggestion-chip {
+        background: #E8F0FE; color: #003B95; padding: 4px 10px; border-radius: 16px;
+        font-size: 0.75rem; cursor: pointer; white-space: nowrap;
+    }
+    .suggestion-chip:hover { background: #003B95; color: white; }
+
+    @@media (max-width: 480px) {
+        .otto-panel { width: calc(100vw - 32px); height: 60vh; bottom: 0; right: 0; border-radius: 16px 16px 0 0; }
+    }
+</style>
+
+@code {
+    private bool _isOpen;
+    private List<TravelWebApp.Models.ChatMessage> _messages = [];
+    private string _input = "";
+    private bool _isTyping;
+    private ElementReference _messagesContainer;
+
+    private readonly string[] _suggestions =
+    [
+        "Find flights to Cape Town",
+        "Best safari packages",
+        "Visa requirements for Zambia",
+        "Beach holidays in Zanzibar",
+        "Last minute deals",
+    ];
+
+    private readonly Dictionary<string, string> _responses = new(StringComparer.OrdinalIgnoreCase)
+    {
+        ["find flights"] = "I can help you find flights! Where are you flying from and where would you like to go? Our cheapest routes are from Johannesburg to Cape Town (from R850) and Johannesburg to Victoria Falls (from R1,200).",
+        ["cape town"] = "Cape Town is incredible! I recommend The Table Bay Hotel (R1,800/night) or Gorgeous George (R1,350/night). Both are in great locations. Would you like to see more options?",
+        ["safari"] = "We have amazing safari options! Kruger Shalati (R4,500/night) is our top pick, or the Four Seasons Serengeti (R6,500/night) for an ultra-luxury experience. Both include game drives!",
+        ["visa"] = "I can help with visa information! South African passport holders enjoy visa-free travel to Botswana (90 days), Zambia (90 days), Namibia (90 days), and Kenya (30 days). For Schengen, UK, or US - visas are required. Check our Travellers Guide for details!",
+        ["zanzibar"] = "Zanzibar is paradise! Zanzibar White Sands Resort (R2,200/night) is our top pick with beach access, spa, and water sports. The best time to visit is June to October.",
+        ["deal"] = "We have some great deals right now! 🎉 The Safari Special is 40% off luxury lodges, and our Weekend Escape flash sale gives you 25% off. Check the Travel Deals section on our homepage!",
+        ["discount"] = "We have some great deals right now! 🎉 The Safari Special is 40% off luxury lodges, and our Weekend Escape flash sale gives you 25% off. Check the Travel Deals section on our homepage!",
+        ["special"] = "We have some great deals right now! 🎉 The Safari Special is 40% off luxury lodges, and our Weekend Escape flash sale gives you 25% off. Check the Travel Deals section on our homepage!",
+        ["last minute"] = "Our best last-minute deal is the Weekend Escape with 25% off! Also check the Safari Special - 40% off luxury lodges, valid for 20 more days.",
+        ["luggage"] = "For an African safari, pack: lightweight neutral clothing, comfortable walking shoes, a warm jacket for early morning drives, sunscreen, hat, insect repellent, binoculars, and a camera! Check our Travellers Guide for the full packing list.",
+        ["pack"] = "For an African safari, pack: lightweight neutral clothing, comfortable walking shoes, a warm jacket for early morning drives, sunscreen, hat, insect repellent, binoculars, and a camera! Check our Travellers Guide for the full packing list.",
+        ["booking"] = "You can view all your bookings in the My Bookings section. Log in to see upcoming, past, and cancelled bookings with full details.",
+        ["my booking"] = "You can view all your bookings in the My Bookings section. Log in to see upcoming, past, and cancelled bookings with full details.",
+        ["help"] = "I'm Otto, your AI travel assistant! I can help you find flights, book hotels, check visa requirements, find deals, and more. Just ask me anything about your trip!",
+    };
+
+    protected override void OnInitialized()
+    {
+        _messages.Add(new TravelWebApp.Models.ChatMessage
+        {
+            Role = "bot",
+            Content = "ðŸ‘‹ Hi! I'm Otto, your AI travel assistant. Ask me about flights, hotels, safaris, visa requirements, or anything travel-related!",
+            Timestamp = DateTime.UtcNow
+        });
+    }
+
+    private void ToggleChat() => _isOpen = !_isOpen;
+
+    private async Task SendMessage()
+    {
+        if (string.IsNullOrWhiteSpace(_input)) return;
+        var userMsg = _input.Trim();
+        _messages.Add(new TravelWebApp.Models.ChatMessage { Role = "user", Content = userMsg, Timestamp = DateTime.UtcNow });
+        _input = "";
+        _isTyping = true;
+        StateHasChanged();
+        await Task.Delay(800 + new Random().Next(600));
+
+        var response = GetResponse(userMsg);
+        _messages.Add(new TravelWebApp.Models.ChatMessage { Role = "bot", Content = response, Timestamp = DateTime.UtcNow });
+        _isTyping = false;
+        StateHasChanged();
+    }
+
+    private string GetResponse(string input)
+    {
+        var lower = input.ToLower();
+        foreach (var kv in _responses)
+        {
+            if (lower.Contains(kv.Key))
+                return kv.Value;
+        }
+        return "That's a great question! I'm still learning, but I can help with flights, hotels, safaris, visa info, and travel tips. Could you be more specific? Or try one of the suggestions below!";
+    }
+
+    private async Task QuickQuery(string query)
+    {
+        _input = query;
+        await SendMessage();
+    }
+}
+

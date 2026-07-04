@@ -1,0 +1,272 @@
+[
+  {
+    "id": "prod-001",
+    "productName": "Bread (Wheat Loaf)",
+    "productCode": "SKU-36756",
+    "category": "Bakery",
+    "price": 10063.49,
+    "cost": 7270.3,
+    "description": "Quality Bread (Wheat Loaf) for bakery business"
+  },
+  {
+    "id": "prod-002",
+    "productName": "Bread (Maize Meal Loaf)",
+    "productCode": "SKU-23383",
+    "category": "Bakery",
+    "price": 6560.84,
+    "cost": 3278.2,
+    "description": "Quality Bread (Maize Meal Loaf) for bakery business"
+  },
+  {
+    "id": "prod-003",
+    "productName": "Buns",
+    "productCode": "SKU-75066",
+    "category": "Bakery",
+    "price": 2290.76,
+    "cost": 5813.18,
+    "description": "Quality Buns for bakery business"
+  },
+  {
+    "id": "prod-004",
+    "productName": "Scones",
+    "productCode": "SKU-32092",
+    "category": "Bakery",
+    "price": 12164.59,
+    "cost": 7867.26,
+    "description": "Quality Scones for bakery business"
+  },
+  {
+    "id": "prod-005",
+    "productName": "Cakes",
+    "productCode": "SKU-14391",
+    "category": "Bakery",
+    "price": 1597.83,
+    "cost": 803.37,
+    "description": "Quality Cakes for bakery business"
+  },
+  {
+    "id": "prod-006",
+    "productName": "Pastries",
+    "productCode": "SKU-60300",
+    "category": "Bakery",
+    "price": 11301.87,
+    "cost": 7834.61,
+    "description": "Quality Pastries for bakery business"
+  },
+  {
+    "id": "prod-007",
+    "productName": "Doughnuts",
+    "productCode": "SKU-43607",
+    "category": "Bakery",
+    "price": 11004.11,
+    "cost": 1863.77,
+    "description": "Quality Doughnuts for bakery business"
+  },
+  {
+    "id": "prod-008",
+    "productName": "Cookies",
+    "productCode": "SKU-99141",
+    "category": "Bakery",
+    "price": 13915.0,
+    "cost": 4800.36,
+    "description": "Quality Cookies for bakery business"
+  },
+  {
+    "id": "prod-009",
+    "productName": "Pizza Base",
+    "productCode": "SKU-56141",
+    "category": "Bakery",
+    "price": 12582.97,
+    "cost": 1984.24,
+    "description": "Quality Pizza Base for bakery business"
+  },
+  {
+    "id": "prod-010",
+    "productName": "Bread (White Loaf)",
+    "productCode": "SKU-25625",
+    "category": "Bakery",
+    "price": 584.23,
+    "cost": 4001.99,
+    "description": "Quality Bread (White Loaf) for bakery business"
+  },
+  {
+    "id": "prod-011",
+    "productName": "Bread (Wheat Loaf)",
+    "productCode": "SKU-86552",
+    "category": "Bakery",
+    "price": 3342.0,
+    "cost": 5925.59,
+    "description": "Quality Bread (Wheat Loaf) for bakery business"
+  },
+  {
+    "id": "prod-012",
+    "productName": "Bread (Maize Meal Loaf)",
+    "productCode": "SKU-81020",
+    "category": "Bakery",
+    "price": 3529.86,
+    "cost": 7064.74,
+    "description": "Quality Bread (Maize Meal Loaf) for bakery business"
+  },
+  {
+    "id": "prod-013",
+    "productName": "Buns",
+    "productCode": "SKU-68276",
+    "category": "Bakery",
+    "price": 10274.82,
+    "cost": 901.38,
+    "description": "Quality Buns for bakery business"
+  },
+  {
+    "id": "prod-014",
+    "productName": "Scones",
+    "productCode": "SKU-40341",
+    "category": "Bakery",
+    "price": 9572.09,
+    "cost": 670.95,
+    "description": "Quality Scones for bakery business"
+  },
+  {
+    "id": "prod-015",
+    "productName": "Cakes",
+    "productCode": "SKU-50018",
+    "category": "Bakery",
+    "price": 3434.26,
+    "cost": 7082.38,
+    "description": "Quality Cakes for bakery business"
+  },
+  {
+    "id": "prod-016",
+    "productName": "Pastries",
+    "productCode": "SKU-14925",
+    "category": "Bakery",
+    "price": 7515.29,
+    "cost": 7360.57,
+    "description": "Quality Pastries for bakery business"
+  },
+  {
+    "id": "prod-017",
+    "productName": "Doughnuts",
+    "productCode": "SKU-48256",
+    "category": "Bakery",
+    "price": 12448.42,
+    "cost": 1567.87,
+    "description": "Quality Doughnuts for bakery business"
+  },
+  {
+    "id": "prod-018",
+    "productName": "Cookies",
+    "productCode": "SKU-91734",
+    "category": "Bakery",
+    "price": 6503.74,
+    "cost": 7485.73,
+    "description": "Quality Cookies for bakery business"
+  },
+  {
+    "id": "prod-019",
+    "productName": "Pizza Base",
+    "productCode": "SKU-61481",
+    "category": "Bakery",
+    "price": 10201.65,
+    "cost": 2089.19,
+    "description": "Quality Pizza Base for bakery business"
+  },
+  {
+    "id": "prod-020",
+    "productName": "Bread (White Loaf)",
+    "productCode": "SKU-40368",
+    "category": "Bakery",
+    "price": 4056.92,
+    "cost": 5809.02,
+    "description": "Quality Bread (White Loaf) for bakery business"
+  },
+  {
+    "id": "prod-021",
+    "productName": "Bread (Wheat Loaf)",
+    "productCode": "SKU-56208",
+    "category": "Bakery",
+    "price": 11763.07,
+    "cost": 6984.3,
+    "description": "Quality Bread (Wheat Loaf) for bakery business"
+  },
+  {
+    "id": "prod-022",
+    "productName": "Bread (Maize Meal Loaf)",
+    "productCode": "SKU-13253",
+    "category": "Bakery",
+    "price": 1360.88,
+    "cost": 1793.71,
+    "description": "Quality Bread (Maize Meal Loaf) for bakery business"
+  },
+  {
+    "id": "prod-023",
+    "productName": "Buns",
+    "productCode": "SKU-19004",
+    "category": "Bakery",
+    "price": 10894.75,
+    "cost": 4593.12,
+    "description": "Quality Buns for bakery business"
+  },
+  {
+    "id": "prod-024",
+    "productName": "Scones",
+    "productCode": "SKU-61723",
+    "category": "Bakery",
+    "price": 906.02,
+    "cost": 7138.27,
+    "description": "Quality Scones for bakery business"
+  },
+  {
+    "id": "prod-025",
+    "productName": "Cakes",
+    "productCode": "SKU-21680",
+    "category": "Bakery",
+    "price": 6190.76,
+    "cost": 4992.36,
+    "description": "Quality Cakes for bakery business"
+  },
+  {
+    "id": "prod-026",
+    "productName": "Pastries",
+    "productCode": "SKU-80568",
+    "category": "Bakery",
+    "price": 11518.1,
+    "cost": 754.0,
+    "description": "Quality Pastries for bakery business"
+  },
+  {
+    "id": "prod-027",
+    "productName": "Doughnuts",
+    "productCode": "SKU-85392",
+    "category": "Bakery",
+    "price": 3822.23,
+    "cost": 3487.1,
+    "description": "Quality Doughnuts for bakery business"
+  },
+  {
+    "id": "prod-028",
+    "productName": "Cookies",
+    "productCode": "SKU-95691",
+    "category": "Bakery",
+    "price": 9839.32,
+    "cost": 4917.43,
+    "description": "Quality Cookies for bakery business"
+  },
+  {
+    "id": "prod-029",
+    "productName": "Pizza Base",
+    "productCode": "SKU-45866",
+    "category": "Bakery",
+    "price": 4349.02,
+    "cost": 4242.64,
+    "description": "Quality Pizza Base for bakery business"
+  },
+  {
+    "id": "prod-030",
+    "productName": "Bread (White Loaf)",
+    "productCode": "SKU-14063",
+    "category": "Bakery",
+    "price": 5475.13,
+    "cost": 7567.73,
+    "description": "Quality Bread (White Loaf) for bakery business"
+  }
+]

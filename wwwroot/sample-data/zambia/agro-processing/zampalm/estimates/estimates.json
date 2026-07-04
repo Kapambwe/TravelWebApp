@@ -1,0 +1,218 @@
+[
+  {
+    "id": 1,
+    "estimateNumber": "EST-2025-001",
+    "customerId": 14,
+    "customerName": "Siame Agricultural Inc.",
+    "estimateDateDaysAgo": 44,
+    "expirationDateDaysFromNow": 17,
+    "status": "Sent",
+    "subTotal": 734932.89,
+    "taxRate": 0,
+    "taxAmount": 0.0,
+    "total": 734932.89,
+    "terms": "Net 45",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 44,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Palm Oil Supply",
+        "quantity": 3,
+        "unitPrice": 244977.63,
+        "amount": 734932.89,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 43
+  },
+  {
+    "id": 2,
+    "estimateNumber": "EST-2025-002",
+    "customerId": 8,
+    "customerName": "Mutale Agro Limited",
+    "estimateDateDaysAgo": 46,
+    "expirationDateDaysFromNow": 44,
+    "status": "Expired",
+    "subTotal": 2072844.74,
+    "taxRate": 16,
+    "taxAmount": 331655.16,
+    "total": 2404499.9,
+    "terms": "Net 45",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 46,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Mango Juice Concentrate",
+        "quantity": 1,
+        "unitPrice": 2072844.74,
+        "amount": 2072844.74,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 45
+  },
+  {
+    "id": 3,
+    "estimateNumber": "EST-2025-003",
+    "customerId": 7,
+    "customerName": "Bwalya Agricultural Enterprises",
+    "estimateDateDaysAgo": 55,
+    "expirationDateDaysFromNow": 43,
+    "status": "Expired",
+    "subTotal": 1837325.5,
+    "taxRate": 15,
+    "taxAmount": 275598.83,
+    "total": 2112924.33,
+    "terms": "Net 45",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 55,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Palm Oil Supply",
+        "quantity": 1,
+        "unitPrice": 1837325.5,
+        "amount": 1837325.5,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 54
+  },
+  {
+    "id": 4,
+    "estimateNumber": "EST-2025-004",
+    "customerId": 8,
+    "customerName": "Mutale Agro Limited",
+    "estimateDateDaysAgo": 48,
+    "expirationDateDaysFromNow": 21,
+    "status": "Accepted",
+    "subTotal": 968600.4,
+    "taxRate": 0,
+    "taxAmount": 0.0,
+    "total": 968600.4,
+    "terms": "Net 30",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 48,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Palm Oil Supply",
+        "quantity": 4,
+        "unitPrice": 242150.1,
+        "amount": 968600.4,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 47
+  },
+  {
+    "id": 5,
+    "estimateNumber": "EST-2025-005",
+    "customerId": 7,
+    "customerName": "Bwalya Agricultural Enterprises",
+    "estimateDateDaysAgo": 24,
+    "expirationDateDaysFromNow": 17,
+    "status": "Open",
+    "subTotal": 145083.81,
+    "taxRate": 18,
+    "taxAmount": 26115.09,
+    "total": 171198.9,
+    "terms": "Net 15",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 24,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Organic Cashew Nuts",
+        "quantity": 3,
+        "unitPrice": 48361.27,
+        "amount": 145083.81,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 23
+  },
+  {
+    "id": 6,
+    "estimateNumber": "EST-2025-006",
+    "customerId": 3,
+    "customerName": "Mulenga Farms Co.",
+    "estimateDateDaysAgo": 47,
+    "expirationDateDaysFromNow": 35,
+    "status": "Open",
+    "subTotal": 1881712.44,
+    "taxRate": 16,
+    "taxAmount": 301073.99,
+    "total": 2182786.43,
+    "terms": "Net 15",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 47,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Organic Cashew Nuts",
+        "quantity": 1,
+        "unitPrice": 1881712.44,
+        "amount": 1881712.44,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 46
+  },
+  {
+    "id": 7,
+    "estimateNumber": "EST-2025-007",
+    "customerId": 12,
+    "customerName": "Tembo Farms Limited",
+    "estimateDateDaysAgo": 46,
+    "expirationDateDaysFromNow": 32,
+    "status": "Open",
+    "subTotal": 129186.99,
+    "taxRate": 0,
+    "taxAmount": 0.0,
+    "total": 129186.99,
+    "terms": "Net 45",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 46,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Dried Fruit Mix",
+        "quantity": 2,
+        "unitPrice": 64593.5,
+        "amount": 129186.99,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 45
+  },
+  {
+    "id": 8,
+    "estimateNumber": "EST-2025-008",
+    "customerId": 10,
+    "customerName": "Phiri Agricultural Ltd",
+    "estimateDateDaysAgo": 15,
+    "expirationDateDaysFromNow": 19,
+    "status": "Open",
+    "subTotal": 923903.74,
+    "taxRate": 15,
+    "taxAmount": 138585.56,
+    "total": 1062489.3,
+    "terms": "Net 15",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 15,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Palm Oil Supply",
+        "quantity": 1,
+        "unitPrice": 923903.74,
+        "amount": 923903.74,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 14
+  }
+]

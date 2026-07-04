@@ -1,0 +1,135 @@
+[
+  {
+    "id": 1,
+    "estimateNumber": "EST-2025-001",
+    "customerId": 6,
+    "customerName": "Chileshe Industries Group",
+    "estimateDateDaysAgo": 12,
+    "expirationDateDaysFromNow": 23,
+    "status": "Expired",
+    "subTotal": 2688471.96,
+    "taxRate": 0,
+    "taxAmount": 0.0,
+    "total": 2688471.96,
+    "terms": "Net 45",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 12,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Industrial Chemicals",
+        "quantity": 4,
+        "unitPrice": 672117.99,
+        "amount": 2688471.96,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 11
+  },
+  {
+    "id": 2,
+    "estimateNumber": "EST-2025-002",
+    "customerId": 4,
+    "customerName": "Mutale Industries Inc.",
+    "estimateDateDaysAgo": 27,
+    "expirationDateDaysFromNow": 21,
+    "status": "Draft",
+    "subTotal": 1418614.09,
+    "taxRate": 15,
+    "taxAmount": 212792.11,
+    "total": 1631406.2,
+    "terms": "Net 45",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 27,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Steel Products",
+        "quantity": 5,
+        "unitPrice": 283722.82,
+        "amount": 1418614.09,
+        "itemType": "Service"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "estimateNumber": "EST-2025-003",
+    "customerId": 2,
+    "customerName": "Lungu Industries Group",
+    "estimateDateDaysAgo": 13,
+    "expirationDateDaysFromNow": 29,
+    "status": "Draft",
+    "subTotal": 2540008.4,
+    "taxRate": 15,
+    "taxAmount": 381001.26,
+    "total": 2921009.66,
+    "terms": "Net 15",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 13,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Industrial Chemicals",
+        "quantity": 5,
+        "unitPrice": 508001.68,
+        "amount": 2540008.4,
+        "itemType": "Service"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "estimateNumber": "EST-2025-004",
+    "customerId": 2,
+    "customerName": "Lungu Industries Group",
+    "estimateDateDaysAgo": 46,
+    "expirationDateDaysFromNow": 20,
+    "status": "Accepted",
+    "subTotal": 1614420.41,
+    "taxRate": 16,
+    "taxAmount": 258307.27,
+    "total": 1872727.68,
+    "terms": "Net 30",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 46,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Steel Products",
+        "quantity": 1,
+        "unitPrice": 1614420.41,
+        "amount": 1614420.41,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 45
+  },
+  {
+    "id": 5,
+    "estimateNumber": "EST-2025-005",
+    "customerId": 11,
+    "customerName": "Zulu Industrial Inc.",
+    "estimateDateDaysAgo": 41,
+    "expirationDateDaysFromNow": 45,
+    "status": "Expired",
+    "subTotal": 2088911.59,
+    "taxRate": 16,
+    "taxAmount": 334225.85,
+    "total": 2423137.44,
+    "terms": "Net 45",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 41,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Building Materials",
+        "quantity": 5,
+        "unitPrice": 417782.32,
+        "amount": 2088911.59,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 40
+  }
+]

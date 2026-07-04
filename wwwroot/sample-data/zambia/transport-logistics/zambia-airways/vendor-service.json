@@ -1,0 +1,302 @@
+[
+  {
+    "id": "vendor-001",
+    "vendorName": "Fuel Suppliers 1",
+    "email": "vendor1@supplier.zm",
+    "phone": "+260-094-622414",
+    "address": "Aviation House, Lusaka International Airport, Lusaka",
+    "taxId": "TPIN-4384103185",
+    "paymentTerms": "NET30",
+    "accountBalance": 7195
+  },
+  {
+    "id": "vendor-002",
+    "vendorName": "Aircraft Manufacturers 2",
+    "email": "vendor2@supplier.zm",
+    "phone": "+260-216-883130",
+    "address": "Aviation House, Lusaka International Airport, Lusaka",
+    "taxId": "TPIN-5275710179",
+    "paymentTerms": "NET60",
+    "accountBalance": 23014
+  },
+  {
+    "id": "vendor-003",
+    "vendorName": "Maintenance Providers 3",
+    "email": "vendor3@supplier.zm",
+    "phone": "+260-094-747816",
+    "address": "Aviation House, Lusaka International Airport, Lusaka",
+    "taxId": "TPIN-9581971446",
+    "paymentTerms": "COD",
+    "accountBalance": 27561
+  },
+  {
+    "id": "vendor-004",
+    "vendorName": "Maintenance Providers 4",
+    "email": "vendor4@supplier.zm",
+    "phone": "+260-096-461964",
+    "address": "Aviation House, Lusaka International Airport, Lusaka",
+    "taxId": "TPIN-7088623363",
+    "paymentTerms": "COD",
+    "accountBalance": 28024
+  },
+  {
+    "id": "vendor-005",
+    "vendorName": "Fuel Suppliers 5",
+    "email": "vendor5@supplier.zm",
+    "phone": "+260-216-118791",
+    "address": "Aviation House, Lusaka International Airport, Lusaka",
+    "taxId": "TPIN-7447769989",
+    "paymentTerms": "NET60",
+    "accountBalance": 5628
+  },
+  {
+    "id": "vendor-006",
+    "vendorName": "Fuel Suppliers 6",
+    "email": "vendor6@supplier.zm",
+    "phone": "+260-095-820936",
+    "address": "Aviation House, Lusaka International Airport, Lusaka",
+    "taxId": "TPIN-5246207892",
+    "paymentTerms": "NET60",
+    "accountBalance": 35840
+  },
+  {
+    "id": "vendor-007",
+    "vendorName": "Fuel Suppliers 7",
+    "email": "vendor7@supplier.zm",
+    "phone": "+260-097-407229",
+    "address": "Aviation House, Lusaka International Airport, Lusaka",
+    "taxId": "TPIN-2119341511",
+    "paymentTerms": "NET60",
+    "accountBalance": 17270
+  },
+  {
+    "id": "vendor-008",
+    "vendorName": "Maintenance Providers 8",
+    "email": "vendor8@supplier.zm",
+    "phone": "+260-095-126626",
+    "address": "Aviation House, Lusaka International Airport, Lusaka",
+    "taxId": "TPIN-2285202699",
+    "paymentTerms": "COD",
+    "accountBalance": 34640
+  },
+  {
+    "id": "vendor-009",
+    "vendorName": "Maintenance Providers 9",
+    "email": "vendor9@supplier.zm",
+    "phone": "+260-217-317106",
+    "address": "Aviation House, Lusaka International Airport, Lusaka",
+    "taxId": "TPIN-3653369853",
+    "paymentTerms": "NET30",
+    "accountBalance": 6678
+  },
+  {
+    "id": "vendor-010",
+    "vendorName": "Maintenance Providers 10",
+    "email": "vendor10@supplier.zm",
+    "phone": "+260-094-596000",
+    "address": "Aviation House, Lusaka International Airport, Lusaka",
+    "taxId": "TPIN-3923316646",
+    "paymentTerms": "NET30",
+    "accountBalance": 43421
+  },
+  {
+    "id": "vendor-011",
+    "vendorName": "Fuel Suppliers 11",
+    "email": "vendor11@supplier.zm",
+    "phone": "+260-094-943803",
+    "address": "Aviation House, Lusaka International Airport, Lusaka",
+    "taxId": "TPIN-9564926267",
+    "paymentTerms": "NET30",
+    "accountBalance": 11511
+  },
+  {
+    "id": "vendor-012",
+    "vendorName": "Fuel Suppliers 12",
+    "email": "vendor12@supplier.zm",
+    "phone": "+260-097-675326",
+    "address": "Aviation House, Lusaka International Airport, Lusaka",
+    "taxId": "TPIN-4976198997",
+    "paymentTerms": "COD",
+    "accountBalance": 40378
+  },
+  {
+    "id": "vendor-013",
+    "vendorName": "Aircraft Manufacturers 13",
+    "email": "vendor13@supplier.zm",
+    "phone": "+260-095-296039",
+    "address": "Aviation House, Lusaka International Airport, Lusaka",
+    "taxId": "TPIN-3378520109",
+    "paymentTerms": "NET60",
+    "accountBalance": 38700
+  },
+  {
+    "id": "vendor-014",
+    "vendorName": "Fuel Suppliers 14",
+    "email": "vendor14@supplier.zm",
+    "phone": "+260-097-127894",
+    "address": "Aviation House, Lusaka International Airport, Lusaka",
+    "taxId": "TPIN-7547559602",
+    "paymentTerms": "NET60",
+    "accountBalance": 5917
+  },
+  {
+    "id": "vendor-015",
+    "vendorName": "Maintenance Providers 15",
+    "email": "vendor15@supplier.zm",
+    "phone": "+260-094-977779",
+    "address": "Aviation House, Lusaka International Airport, Lusaka",
+    "taxId": "TPIN-2242848878",
+    "paymentTerms": "NET60",
+    "accountBalance": 31587
+  },
+  {
+    "id": "vendor-016",
+    "vendorName": "Fuel Suppliers 16",
+    "email": "vendor16@supplier.zm",
+    "phone": "+260-216-342391",
+    "address": "Aviation House, Lusaka International Airport, Lusaka",
+    "taxId": "TPIN-4880204136",
+    "paymentTerms": "NET30",
+    "accountBalance": 30114
+  },
+  {
+    "id": "vendor-017",
+    "vendorName": "Maintenance Providers 17",
+    "email": "vendor17@supplier.zm",
+    "phone": "+260-096-705347",
+    "address": "Aviation House, Lusaka International Airport, Lusaka",
+    "taxId": "TPIN-8011857694",
+    "paymentTerms": "COD",
+    "accountBalance": 29370
+  },
+  {
+    "id": "vendor-018",
+    "vendorName": "Fuel Suppliers 18",
+    "email": "vendor18@supplier.zm",
+    "phone": "+260-217-417446",
+    "address": "Aviation House, Lusaka International Airport, Lusaka",
+    "taxId": "TPIN-9142970196",
+    "paymentTerms": "NET30",
+    "accountBalance": 30481
+  },
+  {
+    "id": "vendor-019",
+    "vendorName": "Aircraft Manufacturers 19",
+    "email": "vendor19@supplier.zm",
+    "phone": "+260-096-459663",
+    "address": "Aviation House, Lusaka International Airport, Lusaka",
+    "taxId": "TPIN-3154013724",
+    "paymentTerms": "NET30",
+    "accountBalance": 6825
+  },
+  {
+    "id": "vendor-020",
+    "vendorName": "Maintenance Providers 20",
+    "email": "vendor20@supplier.zm",
+    "phone": "+260-217-890376",
+    "address": "Aviation House, Lusaka International Airport, Lusaka",
+    "taxId": "TPIN-1003721769",
+    "paymentTerms": "COD",
+    "accountBalance": 30652
+  },
+  {
+    "id": "vendor-021",
+    "vendorName": "Maintenance Providers 21",
+    "email": "vendor21@supplier.zm",
+    "phone": "+260-096-841415",
+    "address": "Aviation House, Lusaka International Airport, Lusaka",
+    "taxId": "TPIN-5090088581",
+    "paymentTerms": "NET30",
+    "accountBalance": 28344
+  },
+  {
+    "id": "vendor-022",
+    "vendorName": "Aircraft Manufacturers 22",
+    "email": "vendor22@supplier.zm",
+    "phone": "+260-095-218853",
+    "address": "Aviation House, Lusaka International Airport, Lusaka",
+    "taxId": "TPIN-3530643565",
+    "paymentTerms": "NET30",
+    "accountBalance": 21607
+  },
+  {
+    "id": "vendor-023",
+    "vendorName": "Fuel Suppliers 23",
+    "email": "vendor23@supplier.zm",
+    "phone": "+260-094-974939",
+    "address": "Aviation House, Lusaka International Airport, Lusaka",
+    "taxId": "TPIN-5060340891",
+    "paymentTerms": "NET30",
+    "accountBalance": 46893
+  },
+  {
+    "id": "vendor-024",
+    "vendorName": "Fuel Suppliers 24",
+    "email": "vendor24@supplier.zm",
+    "phone": "+260-217-276599",
+    "address": "Aviation House, Lusaka International Airport, Lusaka",
+    "taxId": "TPIN-9989692950",
+    "paymentTerms": "NET60",
+    "accountBalance": 27284
+  },
+  {
+    "id": "vendor-025",
+    "vendorName": "Fuel Suppliers 25",
+    "email": "vendor25@supplier.zm",
+    "phone": "+260-216-452063",
+    "address": "Aviation House, Lusaka International Airport, Lusaka",
+    "taxId": "TPIN-8111704670",
+    "paymentTerms": "COD",
+    "accountBalance": 46681
+  },
+  {
+    "id": "vendor-026",
+    "vendorName": "Fuel Suppliers 26",
+    "email": "vendor26@supplier.zm",
+    "phone": "+260-216-634182",
+    "address": "Aviation House, Lusaka International Airport, Lusaka",
+    "taxId": "TPIN-6202534670",
+    "paymentTerms": "COD",
+    "accountBalance": 19122
+  },
+  {
+    "id": "vendor-027",
+    "vendorName": "Aircraft Manufacturers 27",
+    "email": "vendor27@supplier.zm",
+    "phone": "+260-096-108968",
+    "address": "Aviation House, Lusaka International Airport, Lusaka",
+    "taxId": "TPIN-5782833838",
+    "paymentTerms": "NET30",
+    "accountBalance": 17909
+  },
+  {
+    "id": "vendor-028",
+    "vendorName": "Maintenance Providers 28",
+    "email": "vendor28@supplier.zm",
+    "phone": "+260-217-585888",
+    "address": "Aviation House, Lusaka International Airport, Lusaka",
+    "taxId": "TPIN-1190454312",
+    "paymentTerms": "COD",
+    "accountBalance": 1970
+  },
+  {
+    "id": "vendor-029",
+    "vendorName": "Maintenance Providers 29",
+    "email": "vendor29@supplier.zm",
+    "phone": "+260-095-534248",
+    "address": "Aviation House, Lusaka International Airport, Lusaka",
+    "taxId": "TPIN-5267255043",
+    "paymentTerms": "NET60",
+    "accountBalance": 17868
+  },
+  {
+    "id": "vendor-030",
+    "vendorName": "Fuel Suppliers 30",
+    "email": "vendor30@supplier.zm",
+    "phone": "+260-217-746499",
+    "address": "Aviation House, Lusaka International Airport, Lusaka",
+    "taxId": "TPIN-2704959069",
+    "paymentTerms": "NET30",
+    "accountBalance": 29508
+  }
+]

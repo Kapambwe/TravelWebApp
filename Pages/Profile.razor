@@ -1,0 +1,111 @@
+﻿@page "/profile"
+@inject ITravelService TravelService
+
+<div class="page-section">
+    @if (_profile == null)
+    {
+        <div style="text-align:center;padding:60px 0;">
+            <RadzenProgressBarCircular />
+        </div>
+    }
+    else
+    {
+        <RadzenRow>
+            <RadzenColumn Size="4" SizeMD="12">
+                <div class="profile-card">
+                    <div style="width:96px;height:96px;border-radius:50%;background:linear-gradient(135deg,#003B95,#002A6E);margin:0 auto 16px;display:flex;align-items:center;justify-content:center;">
+                        <span style="font-size:2.5rem;color:white;">@_profile.FullName[0]</span>
+                    </div>
+                    <RadzenText TextStyle="TextStyle.H5">@_profile.FullName</RadzenText>
+                    <RadzenText TextStyle="TextStyle.Body2" Style="color:var(--text-secondary);">@_profile.Email</RadzenText>
+
+                    <div style="margin-top:20px;padding-top:20px;border-top:1px solid var(--border);">
+                        <RadzenText TextStyle="TextStyle.H4" Style="color:var(--accent);font-weight:700;">@_profile.LoyaltyPoints</RadzenText>
+                        <RadzenText TextStyle="TextStyle.Body2" Style="color:var(--text-secondary);">Loyalty Points</RadzenText>
+                    </div>
+                    <div style="margin-top:12px;">
+                        <RadzenBadge Text="@_profile.MembershipTier" BadgeStyle="BadgeStyle.Warning" />
+                    </div>
+
+                    <RadzenButton Text="Edit Profile" ButtonStyle="ButtonStyle.Primary" Variant="Variant.Outlined" Style="width:100%;margin-top:20px;border-radius:8px;" />
+                    <RadzenButton Text="Logout" ButtonStyle="ButtonStyle.Danger" Style="width:100%;margin-top:8px;border-radius:8px;" Click="@Logout" />
+                </div>
+            </RadzenColumn>
+            <RadzenColumn Size="8" SizeMD="12">
+                <div class="profile-card">
+                    <RadzenText TextStyle="TextStyle.H6" Style="margin-bottom:16px;">Personal Information</RadzenText>
+                    <div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;">
+                        <div>
+                            <RadzenText TextStyle="TextStyle.Caption" Style="color:var(--text-secondary);">Full Name</RadzenText>
+                            <RadzenText TextStyle="TextStyle.Body1" Style="font-weight:500;">@_profile.FullName</RadzenText>
+                        </div>
+                        <div>
+                            <RadzenText TextStyle="TextStyle.Caption" Style="color:var(--text-secondary);">Email</RadzenText>
+                            <RadzenText TextStyle="TextStyle.Body1" Style="font-weight:500;">@_profile.Email</RadzenText>
+                        </div>
+                        <div>
+                            <RadzenText TextStyle="TextStyle.Caption" Style="color:var(--text-secondary);">Phone</RadzenText>
+                            <RadzenText TextStyle="TextStyle.Body1" Style="font-weight:500;">@_profile.Phone</RadzenText>
+                        </div>
+                        <div>
+                            <RadzenText TextStyle="TextStyle.Caption" Style="color:var(--text-secondary);">Member Since</RadzenText>
+                            <RadzenText TextStyle="TextStyle.Body1" Style="font-weight:500;">January 2025</RadzenText>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="profile-card">
+                    <RadzenText TextStyle="TextStyle.H6" Style="margin-bottom:16px;">Recent Bookings</RadzenText>
+                    @if (_profile.BookingHistory.Count == 0)
+                    {
+                        <RadzenText TextStyle="TextStyle.Body2" Style="color:var(--text-secondary);">No bookings yet</RadzenText>
+                    }
+                    else
+                    {
+                        @foreach (var b in _profile.BookingHistory.Take(3))
+                        {
+                            <div style="display:flex;justify-content:space-between;align-items:center;padding:12px 0;border-bottom:1px solid var(--border);">
+                                <div>
+                                    <RadzenText TextStyle="TextStyle.Body1" Style="font-weight:500;">@b.PropertyName</RadzenText>
+                                    <RadzenText TextStyle="TextStyle.Caption" Style="color:var(--text-secondary);">@b.CheckIn.ToString("dd MMM yyyy") - @b.CheckOut.ToString("dd MMM yyyy")</RadzenText>
+                                </div>
+                                <div style="text-align:right;">
+                                    <RadzenBadge Text="@b.Status" BadgeStyle="@GetBadgeStyle(b.Status)" />
+                                    <RadzenText TextStyle="TextStyle.Body1" Style="font-weight:600;color:var(--primary);margin-top:2px;">R@((int)b.TotalAmount)</RadzenText>
+                                </div>
+                            </div>
+                        }
+                        <RadzenButton Text="View All Bookings" ButtonStyle="ButtonStyle.Primary" Variant="Variant.Outlined" Style="width:100%;margin-top:12px;border-radius:8px;" Click="@GoToBookings" />
+                    }
+                </div>
+            </RadzenColumn>
+        </RadzenRow>
+    }
+</div>
+
+<style>
+    .profile-card { background:white;padding:24px;border-radius:12px;border:1px solid var(--border);margin-bottom:16px; }
+</style>
+
+@code {
+    [Inject] private NavigationManager Navigation { get; set; } = default!;
+
+    private UserProfile? _profile;
+
+    protected override async Task OnInitializedAsync()
+    {
+        _profile = await TravelService.GetUserProfileAsync("sarah@example.com");
+    }
+
+    private void Logout() => Navigation.NavigateTo("/");
+    private void GoToBookings() => Navigation.NavigateTo("/my-bookings");
+
+    private BadgeStyle GetBadgeStyle(string status) => status switch
+    {
+        "Confirmed" => BadgeStyle.Success,
+        "Completed" => BadgeStyle.Info,
+        "Cancelled" => BadgeStyle.Danger,
+        _ => BadgeStyle.Light
+    };
+}
+

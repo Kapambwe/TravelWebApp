@@ -1,0 +1,572 @@
+[
+  {
+    "id": "est-001",
+    "customerId": "cust-001",
+    "estimateNumber": "EST-2024-001",
+    "date": "2025-03-19",
+    "validUntil": "2024-02-10",
+    "items": [
+      {
+        "description": "Accounting Software License",
+        "quantity": 5,
+        "unitPrice": 1000.0,
+        "total": 5000.0
+      }
+    ],
+    "subtotal": 9394.88,
+    "tax": 800.0,
+    "total": 34548.42,
+    "status": "Pending"
+  },
+  {
+    "id": "est-002",
+    "customerId": "cust-001",
+    "estimateNumber": "EST-2024-001",
+    "date": "2025-09-20",
+    "validUntil": "2024-02-10",
+    "items": [
+      {
+        "description": "Accounting Software License",
+        "quantity": 5,
+        "unitPrice": 1000.0,
+        "total": 5000.0
+      }
+    ],
+    "subtotal": 9198.94,
+    "tax": 800.0,
+    "total": 15937.26,
+    "status": "On Hold"
+  },
+  {
+    "id": "est-003",
+    "customerId": "cust-001",
+    "estimateNumber": "EST-2024-001",
+    "date": "2025-02-06",
+    "validUntil": "2024-02-10",
+    "items": [
+      {
+        "description": "Accounting Software License",
+        "quantity": 5,
+        "unitPrice": 1000.0,
+        "total": 5000.0
+      }
+    ],
+    "subtotal": 83694.64,
+    "tax": 800.0,
+    "total": 59928.03,
+    "status": "Pending"
+  },
+  {
+    "id": "est-004",
+    "customerId": "cust-001",
+    "estimateNumber": "EST-2024-001",
+    "date": "2025-10-02",
+    "validUntil": "2024-02-10",
+    "items": [
+      {
+        "description": "Accounting Software License",
+        "quantity": 5,
+        "unitPrice": 1000.0,
+        "total": 5000.0
+      }
+    ],
+    "subtotal": 60445.61,
+    "tax": 800.0,
+    "total": 4174.16,
+    "status": "Active"
+  },
+  {
+    "id": "est-005",
+    "customerId": "cust-001",
+    "estimateNumber": "EST-2024-001",
+    "date": "2025-11-07",
+    "validUntil": "2024-02-10",
+    "items": [
+      {
+        "description": "Accounting Software License",
+        "quantity": 5,
+        "unitPrice": 1000.0,
+        "total": 5000.0
+      }
+    ],
+    "subtotal": 59072.22,
+    "tax": 800.0,
+    "total": 87684.24,
+    "status": "Pending"
+  },
+  {
+    "id": "est-006",
+    "customerId": "cust-001",
+    "estimateNumber": "EST-2024-001",
+    "date": "2025-05-27",
+    "validUntil": "2024-02-10",
+    "items": [
+      {
+        "description": "Accounting Software License",
+        "quantity": 5,
+        "unitPrice": 1000.0,
+        "total": 5000.0
+      }
+    ],
+    "subtotal": 73631.24,
+    "tax": 800.0,
+    "total": 41250.52,
+    "status": "Draft"
+  },
+  {
+    "id": "est-007",
+    "customerId": "cust-001",
+    "estimateNumber": "EST-2024-001",
+    "date": "2025-07-07",
+    "validUntil": "2024-02-10",
+    "items": [
+      {
+        "description": "Accounting Software License",
+        "quantity": 5,
+        "unitPrice": 1000.0,
+        "total": 5000.0
+      }
+    ],
+    "subtotal": 18074.98,
+    "tax": 800.0,
+    "total": 94039.88,
+    "status": "Completed"
+  },
+  {
+    "id": "est-008",
+    "customerId": "cust-001",
+    "estimateNumber": "EST-2024-001",
+    "date": "2025-03-04",
+    "validUntil": "2024-02-10",
+    "items": [
+      {
+        "description": "Accounting Software License",
+        "quantity": 5,
+        "unitPrice": 1000.0,
+        "total": 5000.0
+      }
+    ],
+    "subtotal": 50887.23,
+    "tax": 800.0,
+    "total": 18712.36,
+    "status": "Pending"
+  },
+  {
+    "id": "est-009",
+    "customerId": "cust-001",
+    "estimateNumber": "EST-2024-001",
+    "date": "2025-08-03",
+    "validUntil": "2024-02-10",
+    "items": [
+      {
+        "description": "Accounting Software License",
+        "quantity": 5,
+        "unitPrice": 1000.0,
+        "total": 5000.0
+      }
+    ],
+    "subtotal": 3197.16,
+    "tax": 800.0,
+    "total": 61281.03,
+    "status": "Rejected"
+  },
+  {
+    "id": "est-010",
+    "customerId": "cust-001",
+    "estimateNumber": "EST-2024-001",
+    "date": "2025-11-06",
+    "validUntil": "2024-02-10",
+    "items": [
+      {
+        "description": "Accounting Software License",
+        "quantity": 5,
+        "unitPrice": 1000.0,
+        "total": 5000.0
+      }
+    ],
+    "subtotal": 27558.97,
+    "tax": 800.0,
+    "total": 63347.92,
+    "status": "Cancelled"
+  },
+  {
+    "id": "est-011",
+    "customerId": "cust-001",
+    "estimateNumber": "EST-2024-001",
+    "date": "2025-04-24",
+    "validUntil": "2024-02-10",
+    "items": [
+      {
+        "description": "Accounting Software License",
+        "quantity": 5,
+        "unitPrice": 1000.0,
+        "total": 5000.0
+      }
+    ],
+    "subtotal": 87171.79,
+    "tax": 800.0,
+    "total": 32063.4,
+    "status": "Approved"
+  },
+  {
+    "id": "est-012",
+    "customerId": "cust-001",
+    "estimateNumber": "EST-2024-001",
+    "date": "2025-07-03",
+    "validUntil": "2024-02-10",
+    "items": [
+      {
+        "description": "Accounting Software License",
+        "quantity": 5,
+        "unitPrice": 1000.0,
+        "total": 5000.0
+      }
+    ],
+    "subtotal": 98613.39,
+    "tax": 800.0,
+    "total": 13272.42,
+    "status": "Draft"
+  },
+  {
+    "id": "est-013",
+    "customerId": "cust-001",
+    "estimateNumber": "EST-2024-001",
+    "date": "2025-02-28",
+    "validUntil": "2024-02-10",
+    "items": [
+      {
+        "description": "Accounting Software License",
+        "quantity": 5,
+        "unitPrice": 1000.0,
+        "total": 5000.0
+      }
+    ],
+    "subtotal": 8343.72,
+    "tax": 800.0,
+    "total": 77788.62,
+    "status": "On Hold"
+  },
+  {
+    "id": "est-014",
+    "customerId": "cust-001",
+    "estimateNumber": "EST-2024-001",
+    "date": "2025-06-08",
+    "validUntil": "2024-02-10",
+    "items": [
+      {
+        "description": "Accounting Software License",
+        "quantity": 5,
+        "unitPrice": 1000.0,
+        "total": 5000.0
+      }
+    ],
+    "subtotal": 30796.16,
+    "tax": 800.0,
+    "total": 40970.9,
+    "status": "Pending"
+  },
+  {
+    "id": "est-015",
+    "customerId": "cust-001",
+    "estimateNumber": "EST-2024-001",
+    "date": "2025-03-29",
+    "validUntil": "2024-02-10",
+    "items": [
+      {
+        "description": "Accounting Software License",
+        "quantity": 5,
+        "unitPrice": 1000.0,
+        "total": 5000.0
+      }
+    ],
+    "subtotal": 94620.67,
+    "tax": 800.0,
+    "total": 17712.56,
+    "status": "Cancelled"
+  },
+  {
+    "id": "est-016",
+    "customerId": "cust-001",
+    "estimateNumber": "EST-2024-001",
+    "date": "2025-05-18",
+    "validUntil": "2024-02-10",
+    "items": [
+      {
+        "description": "Accounting Software License",
+        "quantity": 5,
+        "unitPrice": 1000.0,
+        "total": 5000.0
+      }
+    ],
+    "subtotal": 87055.9,
+    "tax": 800.0,
+    "total": 60634.81,
+    "status": "Draft"
+  },
+  {
+    "id": "est-017",
+    "customerId": "cust-001",
+    "estimateNumber": "EST-2024-001",
+    "date": "2025-03-27",
+    "validUntil": "2024-02-10",
+    "items": [
+      {
+        "description": "Accounting Software License",
+        "quantity": 5,
+        "unitPrice": 1000.0,
+        "total": 5000.0
+      }
+    ],
+    "subtotal": 60282.13,
+    "tax": 800.0,
+    "total": 32796.94,
+    "status": "On Hold"
+  },
+  {
+    "id": "est-018",
+    "customerId": "cust-001",
+    "estimateNumber": "EST-2024-001",
+    "date": "2025-04-14",
+    "validUntil": "2024-02-10",
+    "items": [
+      {
+        "description": "Accounting Software License",
+        "quantity": 5,
+        "unitPrice": 1000.0,
+        "total": 5000.0
+      }
+    ],
+    "subtotal": 43991.13,
+    "tax": 800.0,
+    "total": 85209.97,
+    "status": "Draft"
+  },
+  {
+    "id": "est-019",
+    "customerId": "cust-001",
+    "estimateNumber": "EST-2024-001",
+    "date": "2025-09-01",
+    "validUntil": "2024-02-10",
+    "items": [
+      {
+        "description": "Accounting Software License",
+        "quantity": 5,
+        "unitPrice": 1000.0,
+        "total": 5000.0
+      }
+    ],
+    "subtotal": 39020.16,
+    "tax": 800.0,
+    "total": 21954.7,
+    "status": "On Hold"
+  },
+  {
+    "id": "est-020",
+    "customerId": "cust-001",
+    "estimateNumber": "EST-2024-001",
+    "date": "2025-05-22",
+    "validUntil": "2024-02-10",
+    "items": [
+      {
+        "description": "Accounting Software License",
+        "quantity": 5,
+        "unitPrice": 1000.0,
+        "total": 5000.0
+      }
+    ],
+    "subtotal": 33013.71,
+    "tax": 800.0,
+    "total": 13263.95,
+    "status": "Cancelled"
+  },
+  {
+    "id": "est-021",
+    "customerId": "cust-001",
+    "estimateNumber": "EST-2024-001",
+    "date": "2025-10-08",
+    "validUntil": "2024-02-10",
+    "items": [
+      {
+        "description": "Accounting Software License",
+        "quantity": 5,
+        "unitPrice": 1000.0,
+        "total": 5000.0
+      }
+    ],
+    "subtotal": 19140.14,
+    "tax": 800.0,
+    "total": 39863.59,
+    "status": "Cancelled"
+  },
+  {
+    "id": "est-022",
+    "customerId": "cust-001",
+    "estimateNumber": "EST-2024-001",
+    "date": "2025-04-25",
+    "validUntil": "2024-02-10",
+    "items": [
+      {
+        "description": "Accounting Software License",
+        "quantity": 5,
+        "unitPrice": 1000.0,
+        "total": 5000.0
+      }
+    ],
+    "subtotal": 8050.42,
+    "tax": 800.0,
+    "total": 27333.63,
+    "status": "Completed"
+  },
+  {
+    "id": "est-023",
+    "customerId": "cust-001",
+    "estimateNumber": "EST-2024-001",
+    "date": "2025-02-16",
+    "validUntil": "2024-02-10",
+    "items": [
+      {
+        "description": "Accounting Software License",
+        "quantity": 5,
+        "unitPrice": 1000.0,
+        "total": 5000.0
+      }
+    ],
+    "subtotal": 36363.81,
+    "tax": 800.0,
+    "total": 66128.66,
+    "status": "Draft"
+  },
+  {
+    "id": "est-024",
+    "customerId": "cust-001",
+    "estimateNumber": "EST-2024-001",
+    "date": "2025-04-04",
+    "validUntil": "2024-02-10",
+    "items": [
+      {
+        "description": "Accounting Software License",
+        "quantity": 5,
+        "unitPrice": 1000.0,
+        "total": 5000.0
+      }
+    ],
+    "subtotal": 58803.3,
+    "tax": 800.0,
+    "total": 70934.0,
+    "status": "Rejected"
+  },
+  {
+    "id": "est-025",
+    "customerId": "cust-001",
+    "estimateNumber": "EST-2024-001",
+    "date": "2025-08-12",
+    "validUntil": "2024-02-10",
+    "items": [
+      {
+        "description": "Accounting Software License",
+        "quantity": 5,
+        "unitPrice": 1000.0,
+        "total": 5000.0
+      }
+    ],
+    "subtotal": 27776.77,
+    "tax": 800.0,
+    "total": 99745.53,
+    "status": "On Hold"
+  },
+  {
+    "id": "est-026",
+    "customerId": "cust-001",
+    "estimateNumber": "EST-2024-001",
+    "date": "2026-01-12",
+    "validUntil": "2024-02-10",
+    "items": [
+      {
+        "description": "Accounting Software License",
+        "quantity": 5,
+        "unitPrice": 1000.0,
+        "total": 5000.0
+      }
+    ],
+    "subtotal": 14972.81,
+    "tax": 800.0,
+    "total": 88755.72,
+    "status": "Completed"
+  },
+  {
+    "id": "est-027",
+    "customerId": "cust-001",
+    "estimateNumber": "EST-2024-001",
+    "date": "2025-05-13",
+    "validUntil": "2024-02-10",
+    "items": [
+      {
+        "description": "Accounting Software License",
+        "quantity": 5,
+        "unitPrice": 1000.0,
+        "total": 5000.0
+      }
+    ],
+    "subtotal": 76346.03,
+    "tax": 800.0,
+    "total": 22591.38,
+    "status": "Cancelled"
+  },
+  {
+    "id": "est-028",
+    "customerId": "cust-001",
+    "estimateNumber": "EST-2024-001",
+    "date": "2025-07-04",
+    "validUntil": "2024-02-10",
+    "items": [
+      {
+        "description": "Accounting Software License",
+        "quantity": 5,
+        "unitPrice": 1000.0,
+        "total": 5000.0
+      }
+    ],
+    "subtotal": 59001.44,
+    "tax": 800.0,
+    "total": 32950.6,
+    "status": "Cancelled"
+  },
+  {
+    "id": "est-029",
+    "customerId": "cust-001",
+    "estimateNumber": "EST-2024-001",
+    "date": "2025-10-05",
+    "validUntil": "2024-02-10",
+    "items": [
+      {
+        "description": "Accounting Software License",
+        "quantity": 5,
+        "unitPrice": 1000.0,
+        "total": 5000.0
+      }
+    ],
+    "subtotal": 53419.77,
+    "tax": 800.0,
+    "total": 52044.86,
+    "status": "Active"
+  },
+  {
+    "id": "est-030",
+    "customerId": "cust-001",
+    "estimateNumber": "EST-2024-001",
+    "date": "2025-11-06",
+    "validUntil": "2024-02-10",
+    "items": [
+      {
+        "description": "Accounting Software License",
+        "quantity": 5,
+        "unitPrice": 1000.0,
+        "total": 5000.0
+      }
+    ],
+    "subtotal": 12617.67,
+    "tax": 800.0,
+    "total": 39927.61,
+    "status": "Completed"
+  }
+]

@@ -1,0 +1,156 @@
+[
+  {
+    "id": 1,
+    "billNumber": "BILL-2025-001",
+    "vendorName": "Chanda Haulage Holdings",
+    "description": "Port Handling Charges",
+    "billDate": "2024-12-22T00:00:00",
+    "dueDate": "2025-01-21T00:00:00",
+    "amount": 2313150.05,
+    "paidAmount": 937102.66,
+    "status": "PartiallyPaid"
+  },
+  {
+    "id": 2,
+    "billNumber": "BILL-2025-002",
+    "vendorName": "Chileshe Logistics Holdings",
+    "description": "Spare Parts & Tyres",
+    "billDate": "2024-10-01T00:00:00",
+    "dueDate": "2024-11-15T00:00:00",
+    "amount": 434211.02,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 3,
+    "billNumber": "BILL-2025-003",
+    "vendorName": "Tembo Cargo Co.",
+    "description": "Fleet Insurance",
+    "billDate": "2025-01-15T00:00:00",
+    "dueDate": "2025-01-30T00:00:00",
+    "amount": 2824415.7,
+    "paidAmount": 0.0,
+    "status": "Overdue"
+  },
+  {
+    "id": 4,
+    "billNumber": "BILL-2025-004",
+    "vendorName": "Chanda Haulage Holdings",
+    "description": "Port Handling Charges",
+    "billDate": "2024-12-20T00:00:00",
+    "dueDate": "2025-01-19T00:00:00",
+    "amount": 3301458.73,
+    "paidAmount": 2146892.06,
+    "status": "PartiallyPaid"
+  },
+  {
+    "id": 5,
+    "billNumber": "BILL-2025-005",
+    "vendorName": "Tembo Cargo Co.",
+    "description": "Vehicle Maintenance",
+    "billDate": "2024-09-18T00:00:00",
+    "dueDate": "2024-10-18T00:00:00",
+    "amount": 1740055.06,
+    "paidAmount": 1740055.06,
+    "status": "Paid"
+  },
+  {
+    "id": 6,
+    "billNumber": "BILL-2025-006",
+    "vendorName": "Lungu Transport Solutions",
+    "description": "Port Handling Charges",
+    "billDate": "2024-10-27T00:00:00",
+    "dueDate": "2024-11-11T00:00:00",
+    "amount": 3347322.46,
+    "paidAmount": 3347322.46,
+    "status": "Paid"
+  },
+  {
+    "id": 7,
+    "billNumber": "BILL-2025-007",
+    "vendorName": "Ngosa Haulage Solutions",
+    "description": "Spare Parts & Tyres",
+    "billDate": "2024-11-21T00:00:00",
+    "dueDate": "2024-12-06T00:00:00",
+    "amount": 2821272.64,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 8,
+    "billNumber": "BILL-2025-008",
+    "vendorName": "Ngosa Haulage Solutions",
+    "description": "Fleet Insurance",
+    "billDate": "2025-02-19T00:00:00",
+    "dueDate": "2025-03-21T00:00:00",
+    "amount": 590035.72,
+    "paidAmount": 590035.72,
+    "status": "Paid"
+  },
+  {
+    "id": 9,
+    "billNumber": "BILL-2025-009",
+    "vendorName": "Chanda Haulage Holdings",
+    "description": "Vehicle Maintenance",
+    "billDate": "2024-09-17T00:00:00",
+    "dueDate": "2024-11-01T00:00:00",
+    "amount": 2097234.6,
+    "paidAmount": 2097234.6,
+    "status": "Paid"
+  },
+  {
+    "id": 10,
+    "billNumber": "BILL-2025-010",
+    "vendorName": "Siame Freight Solutions",
+    "description": "Fuel Purchase",
+    "billDate": "2025-03-13T00:00:00",
+    "dueDate": "2025-03-28T00:00:00",
+    "amount": 3185284.76,
+    "paidAmount": 3185284.76,
+    "status": "Paid"
+  },
+  {
+    "id": 11,
+    "billNumber": "BILL-2025-011",
+    "vendorName": "Mutale Cargo Holdings",
+    "description": "Spare Parts & Tyres",
+    "billDate": "2024-11-11T00:00:00",
+    "dueDate": "2024-11-26T00:00:00",
+    "amount": 477097.37,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 12,
+    "billNumber": "BILL-2025-012",
+    "vendorName": "Mwamba Haulage Ltd",
+    "description": "Port Handling Charges",
+    "billDate": "2024-09-17T00:00:00",
+    "dueDate": "2024-10-17T00:00:00",
+    "amount": 2186398.34,
+    "paidAmount": 2186398.34,
+    "status": "Paid"
+  },
+  {
+    "id": 13,
+    "billNumber": "BILL-2025-013",
+    "vendorName": "Siame Freight Solutions",
+    "description": "Driver Wages",
+    "billDate": "2024-11-30T00:00:00",
+    "dueDate": "2024-12-15T00:00:00",
+    "amount": 1902380.7,
+    "paidAmount": 952917.25,
+    "status": "PartiallyPaid"
+  },
+  {
+    "id": 14,
+    "billNumber": "BILL-2025-014",
+    "vendorName": "Lungu Transport Solutions",
+    "description": "Fleet Insurance",
+    "billDate": "2024-10-04T00:00:00",
+    "dueDate": "2024-10-19T00:00:00",
+    "amount": 1158495.68,
+    "paidAmount": 0.0,
+    "status": "Open"
+  }
+]

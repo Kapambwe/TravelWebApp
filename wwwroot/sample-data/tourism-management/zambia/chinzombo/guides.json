@@ -1,0 +1,18 @@
+﻿[
+    {
+        "Id":  105,
+        "Name":  "Yona Phiri",
+        "EmployeeId":  "EMP-C105",
+        "IsAvailable":  true,
+        "Specialization":  "Spiders \u0026 Carnivores",
+        "Rating":  5
+    },
+    {
+        "Id":  106,
+        "Name":  "Lameck Tembo",
+        "EmployeeId":  "EMP-C106",
+        "IsAvailable":  true,
+        "Specialization":  "Leopard tracking",
+        "Rating":  4.9
+    }
+]

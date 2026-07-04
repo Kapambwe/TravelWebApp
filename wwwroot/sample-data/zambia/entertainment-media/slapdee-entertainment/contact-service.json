@@ -1,0 +1,272 @@
+[
+  {
+    "id": "contact-001",
+    "firstName": "John",
+    "lastName": "Smith",
+    "email": "contact1@business.zm",
+    "phone": "+260-216-290614",
+    "jobTitle": "Supervisor",
+    "company": "Hotels"
+  },
+  {
+    "id": "contact-002",
+    "firstName": "Mary",
+    "lastName": "Johnson",
+    "email": "contact2@business.zm",
+    "phone": "+260-095-192268",
+    "jobTitle": "Specialist",
+    "company": "Farm Cooperatives"
+  },
+  {
+    "id": "contact-003",
+    "firstName": "Peter",
+    "lastName": "Williams",
+    "email": "contact3@business.zm",
+    "phone": "+260-095-106692",
+    "jobTitle": "Officer",
+    "company": "Local Orchards"
+  },
+  {
+    "id": "contact-004",
+    "firstName": "Grace",
+    "lastName": "Brown",
+    "email": "contact4@business.zm",
+    "phone": "+260-097-763342",
+    "jobTitle": "Supervisor",
+    "company": "Agricultural Dealers"
+  },
+  {
+    "id": "contact-005",
+    "firstName": "David",
+    "lastName": "Jones",
+    "email": "contact5@business.zm",
+    "phone": "+260-094-386306",
+    "jobTitle": "Specialist",
+    "company": "Hotels"
+  },
+  {
+    "id": "contact-006",
+    "firstName": "John",
+    "lastName": "Smith",
+    "email": "contact6@business.zm",
+    "phone": "+260-216-894954",
+    "jobTitle": "Specialist",
+    "company": "Retailers"
+  },
+  {
+    "id": "contact-007",
+    "firstName": "Mary",
+    "lastName": "Johnson",
+    "email": "contact7@business.zm",
+    "phone": "+260-095-477611",
+    "jobTitle": "Manager",
+    "company": "Exporters"
+  },
+  {
+    "id": "contact-008",
+    "firstName": "Peter",
+    "lastName": "Williams",
+    "email": "contact8@business.zm",
+    "phone": "+260-095-370049",
+    "jobTitle": "Specialist",
+    "company": "Seed Suppliers"
+  },
+  {
+    "id": "contact-009",
+    "firstName": "Grace",
+    "lastName": "Brown",
+    "email": "contact9@business.zm",
+    "phone": "+260-094-617471",
+    "jobTitle": "Specialist",
+    "company": "Agricultural Dealers"
+  },
+  {
+    "id": "contact-010",
+    "firstName": "David",
+    "lastName": "Jones",
+    "email": "contact10@business.zm",
+    "phone": "+260-097-669728",
+    "jobTitle": "Officer",
+    "company": "Hotels"
+  },
+  {
+    "id": "contact-011",
+    "firstName": "John",
+    "lastName": "Smith",
+    "email": "contact11@business.zm",
+    "phone": "+260-217-147724",
+    "jobTitle": "Manager",
+    "company": "Seed Suppliers"
+  },
+  {
+    "id": "contact-012",
+    "firstName": "Mary",
+    "lastName": "Johnson",
+    "email": "contact12@business.zm",
+    "phone": "+260-095-503638",
+    "jobTitle": "Supervisor",
+    "company": "Retailers"
+  },
+  {
+    "id": "contact-013",
+    "firstName": "Peter",
+    "lastName": "Williams",
+    "email": "contact13@business.zm",
+    "phone": "+260-097-260999",
+    "jobTitle": "Officer",
+    "company": "Agricultural Dealers"
+  },
+  {
+    "id": "contact-014",
+    "firstName": "Grace",
+    "lastName": "Brown",
+    "email": "contact14@business.zm",
+    "phone": "+260-094-859729",
+    "jobTitle": "Officer",
+    "company": "Agricultural Dealers"
+  },
+  {
+    "id": "contact-015",
+    "firstName": "David",
+    "lastName": "Jones",
+    "email": "contact15@business.zm",
+    "phone": "+260-095-113641",
+    "jobTitle": "Supervisor",
+    "company": "Agricultural Dealers"
+  },
+  {
+    "id": "contact-016",
+    "firstName": "John",
+    "lastName": "Smith",
+    "email": "contact16@business.zm",
+    "phone": "+260-095-568643",
+    "jobTitle": "Officer",
+    "company": "Seed Suppliers"
+  },
+  {
+    "id": "contact-017",
+    "firstName": "Mary",
+    "lastName": "Johnson",
+    "email": "contact17@business.zm",
+    "phone": "+260-094-595125",
+    "jobTitle": "Coordinator",
+    "company": "Food Processors"
+  },
+  {
+    "id": "contact-018",
+    "firstName": "Peter",
+    "lastName": "Williams",
+    "email": "contact18@business.zm",
+    "phone": "+260-097-252759",
+    "jobTitle": "Coordinator",
+    "company": "Hotels"
+  },
+  {
+    "id": "contact-019",
+    "firstName": "Grace",
+    "lastName": "Brown",
+    "email": "contact19@business.zm",
+    "phone": "+260-095-310200",
+    "jobTitle": "Supervisor",
+    "company": "Hotels"
+  },
+  {
+    "id": "contact-020",
+    "firstName": "David",
+    "lastName": "Jones",
+    "email": "contact20@business.zm",
+    "phone": "+260-095-691517",
+    "jobTitle": "Officer",
+    "company": "Seed Suppliers"
+  },
+  {
+    "id": "contact-021",
+    "firstName": "John",
+    "lastName": "Smith",
+    "email": "contact21@business.zm",
+    "phone": "+260-097-816760",
+    "jobTitle": "Manager",
+    "company": "Hotels"
+  },
+  {
+    "id": "contact-022",
+    "firstName": "Mary",
+    "lastName": "Johnson",
+    "email": "contact22@business.zm",
+    "phone": "+260-097-754013",
+    "jobTitle": "Manager",
+    "company": "Retailers"
+  },
+  {
+    "id": "contact-023",
+    "firstName": "Peter",
+    "lastName": "Williams",
+    "email": "contact23@business.zm",
+    "phone": "+260-096-442182",
+    "jobTitle": "Manager",
+    "company": "Retailers"
+  },
+  {
+    "id": "contact-024",
+    "firstName": "Grace",
+    "lastName": "Brown",
+    "email": "contact24@business.zm",
+    "phone": "+260-094-177134",
+    "jobTitle": "Specialist",
+    "company": "Farm Cooperatives"
+  },
+  {
+    "id": "contact-025",
+    "firstName": "David",
+    "lastName": "Jones",
+    "email": "contact25@business.zm",
+    "phone": "+260-097-893122",
+    "jobTitle": "Coordinator",
+    "company": "Local Orchards"
+  },
+  {
+    "id": "contact-026",
+    "firstName": "John",
+    "lastName": "Smith",
+    "email": "contact26@business.zm",
+    "phone": "+260-217-299134",
+    "jobTitle": "Coordinator",
+    "company": "Farm Cooperatives"
+  },
+  {
+    "id": "contact-027",
+    "firstName": "Mary",
+    "lastName": "Johnson",
+    "email": "contact27@business.zm",
+    "phone": "+260-217-837925",
+    "jobTitle": "Supervisor",
+    "company": "Seed Suppliers"
+  },
+  {
+    "id": "contact-028",
+    "firstName": "Peter",
+    "lastName": "Williams",
+    "email": "contact28@business.zm",
+    "phone": "+260-095-627568",
+    "jobTitle": "Supervisor",
+    "company": "Retailers"
+  },
+  {
+    "id": "contact-029",
+    "firstName": "Grace",
+    "lastName": "Brown",
+    "email": "contact29@business.zm",
+    "phone": "+260-096-278792",
+    "jobTitle": "Coordinator",
+    "company": "Agricultural Dealers"
+  },
+  {
+    "id": "contact-030",
+    "firstName": "David",
+    "lastName": "Jones",
+    "email": "contact30@business.zm",
+    "phone": "+260-096-294124",
+    "jobTitle": "Manager",
+    "company": "Hotels"
+  }
+]

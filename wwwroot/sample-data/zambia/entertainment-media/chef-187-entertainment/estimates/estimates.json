@@ -1,0 +1,217 @@
+[
+  {
+    "id": 1,
+    "estimateNumber": "EST-2025-001",
+    "customerId": 12,
+    "customerName": "Tembo Productions Inc.",
+    "estimateDateDaysAgo": 37,
+    "expirationDateDaysFromNow": 42,
+    "status": "Open",
+    "subTotal": 1021133.1,
+    "taxRate": 16,
+    "taxAmount": 163381.3,
+    "total": 1184514.4,
+    "terms": "Net 15",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 37,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Streaming Royalty",
+        "quantity": 2,
+        "unitPrice": 510566.55,
+        "amount": 1021133.1,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 36
+  },
+  {
+    "id": 2,
+    "estimateNumber": "EST-2025-002",
+    "customerId": 3,
+    "customerName": "Sakala Media Co.",
+    "estimateDateDaysAgo": 25,
+    "expirationDateDaysFromNow": 45,
+    "status": "Declined",
+    "subTotal": 3474145.68,
+    "taxRate": 15,
+    "taxAmount": 521121.85,
+    "total": 3995267.53,
+    "terms": "Net 15",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 25,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Merchandise Revenue",
+        "quantity": 4,
+        "unitPrice": 868536.42,
+        "amount": 3474145.68,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 24
+  },
+  {
+    "id": 3,
+    "estimateNumber": "EST-2025-003",
+    "customerId": 3,
+    "customerName": "Sakala Media Co.",
+    "estimateDateDaysAgo": 34,
+    "expirationDateDaysFromNow": 30,
+    "status": "Draft",
+    "subTotal": 2179323.49,
+    "taxRate": 15,
+    "taxAmount": 326898.52,
+    "total": 2506222.01,
+    "terms": "Net 30",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 34,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Brand Deal",
+        "quantity": 2,
+        "unitPrice": 1089661.75,
+        "amount": 2179323.49,
+        "itemType": "Service"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "estimateNumber": "EST-2025-004",
+    "customerId": 13,
+    "customerName": "Banda Media Inc.",
+    "estimateDateDaysAgo": 25,
+    "expirationDateDaysFromNow": 44,
+    "status": "Open",
+    "subTotal": 2694221.57,
+    "taxRate": 18,
+    "taxAmount": 484959.88,
+    "total": 3179181.45,
+    "terms": "Net 15",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 25,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Endorsement Deal",
+        "quantity": 5,
+        "unitPrice": 538844.31,
+        "amount": 2694221.57,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 24
+  },
+  {
+    "id": 5,
+    "estimateNumber": "EST-2025-005",
+    "customerId": 8,
+    "customerName": "Mumba Productions Co.",
+    "estimateDateDaysAgo": 15,
+    "expirationDateDaysFromNow": 18,
+    "status": "Declined",
+    "subTotal": 222433.83,
+    "taxRate": 16,
+    "taxAmount": 35589.41,
+    "total": 258023.24,
+    "terms": "Net 45",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 15,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Concert Headlining Fee",
+        "quantity": 5,
+        "unitPrice": 44486.77,
+        "amount": 222433.83,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 14
+  },
+  {
+    "id": 6,
+    "estimateNumber": "EST-2025-006",
+    "customerId": 13,
+    "customerName": "Banda Media Inc.",
+    "estimateDateDaysAgo": 48,
+    "expirationDateDaysFromNow": 17,
+    "status": "Accepted",
+    "subTotal": 3922248.65,
+    "taxRate": 18,
+    "taxAmount": 706004.76,
+    "total": 4628253.41,
+    "terms": "Net 30",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 48,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Merchandise Revenue",
+        "quantity": 2,
+        "unitPrice": 1961124.32,
+        "amount": 3922248.65,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 47
+  },
+  {
+    "id": 7,
+    "estimateNumber": "EST-2025-007",
+    "customerId": 11,
+    "customerName": "Phiri Music Group Holdings",
+    "estimateDateDaysAgo": 53,
+    "expirationDateDaysFromNow": 30,
+    "status": "Declined",
+    "subTotal": 3936699.22,
+    "taxRate": 15,
+    "taxAmount": 590504.88,
+    "total": 4527204.1,
+    "terms": "Net 15",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 53,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Streaming Royalty",
+        "quantity": 5,
+        "unitPrice": 787339.84,
+        "amount": 3936699.22,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 52
+  },
+  {
+    "id": 8,
+    "estimateNumber": "EST-2025-008",
+    "customerId": 14,
+    "customerName": "Musonda Music Group Holdings",
+    "estimateDateDaysAgo": 45,
+    "expirationDateDaysFromNow": 33,
+    "status": "Expired",
+    "subTotal": 540983.33,
+    "taxRate": 18,
+    "taxAmount": 97377.0,
+    "total": 638360.33,
+    "terms": "Net 15",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 45,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Performance Fee",
+        "quantity": 1,
+        "unitPrice": 540983.33,
+        "amount": 540983.33,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 44
+  }
+]

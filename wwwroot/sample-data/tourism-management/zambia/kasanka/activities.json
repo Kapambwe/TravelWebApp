@@ -1,0 +1,32 @@
+﻿[
+    {
+        "BasePrice":  5000,
+        "Capacity":  10,
+        "IsActive":  true,
+        "Id":  10,
+        "Name":  "Bat Migration Canopy View",
+        "Type":  3,
+        "Description":  "Observe 10 million fruit bats from the Fibwe hide.",
+        "Duration":  120
+    },
+    {
+        "BasePrice":  3500,
+        "Capacity":  6,
+        "IsActive":  true,
+        "Id":  11,
+        "Name":  "Sitatunga Swamp Walk",
+        "Type":  1,
+        "Description":  "Wade through marsh trails to spot sitatunga antelopes.",
+        "Duration":  180
+    },
+    {
+        "BasePrice":  7500,
+        "Capacity":  4,
+        "IsActive":  true,
+        "Id":  12,
+        "Name":  "Shoebill Birding Excursion",
+        "Type":  3,
+        "Description":  "Specialist birding search for the rare Shoebill Stork.",
+        "Duration":  300
+    }
+]

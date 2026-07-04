@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "estimateNumber": "EST-2025-001",
+    "customerId": 4,
+    "customerName": "Zulu Commerce Limited",
+    "estimateDateDaysAgo": 41,
+    "expirationDateDaysFromNow": 41,
+    "status": "Sent",
+    "subTotal": 2366267.49,
+    "taxRate": 18,
+    "taxAmount": 425928.15,
+    "total": 2792195.64,
+    "terms": "Net 45",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 41,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Electronics Supply",
+        "quantity": 5,
+        "unitPrice": 473253.5,
+        "amount": 2366267.49,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 40
+  },
+  {
+    "id": 2,
+    "estimateNumber": "EST-2025-002",
+    "customerId": 11,
+    "customerName": "Sakala Retail Inc.",
+    "estimateDateDaysAgo": 41,
+    "expirationDateDaysFromNow": 39,
+    "status": "Expired",
+    "subTotal": 1077945.95,
+    "taxRate": 16,
+    "taxAmount": 172471.35,
+    "total": 1250417.3,
+    "terms": "Net 15",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 41,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Craft & Curio Products",
+        "quantity": 5,
+        "unitPrice": 215589.19,
+        "amount": 1077945.95,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 40
+  },
+  {
+    "id": 3,
+    "estimateNumber": "EST-2025-003",
+    "customerId": 11,
+    "customerName": "Sakala Retail Inc.",
+    "estimateDateDaysAgo": 22,
+    "expirationDateDaysFromNow": 29,
+    "status": "Sent",
+    "subTotal": 2022184.74,
+    "taxRate": 18,
+    "taxAmount": 363993.25,
+    "total": 2386177.99,
+    "terms": "Net 30",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 22,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Clothing & Textiles",
+        "quantity": 2,
+        "unitPrice": 1011092.37,
+        "amount": 2022184.74,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 21
+  },
+  {
+    "id": 4,
+    "estimateNumber": "EST-2025-004",
+    "customerId": 1,
+    "customerName": "Tembo Traders Ltd",
+    "estimateDateDaysAgo": 31,
+    "expirationDateDaysFromNow": 38,
+    "status": "Expired",
+    "subTotal": 3412427.02,
+    "taxRate": 0,
+    "taxAmount": 0.0,
+    "total": 3412427.02,
+    "terms": "Net 45",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 31,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Craft & Curio Products",
+        "quantity": 5,
+        "unitPrice": 682485.4,
+        "amount": 3412427.02,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 30
+  },
+  {
+    "id": 5,
+    "estimateNumber": "EST-2025-005",
+    "customerId": 10,
+    "customerName": "Musonda Trading Enterprises",
+    "estimateDateDaysAgo": 39,
+    "expirationDateDaysFromNow": 39,
+    "status": "Declined",
+    "subTotal": 1644279.83,
+    "taxRate": 0,
+    "taxAmount": 0.0,
+    "total": 1644279.83,
+    "terms": "Net 15",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 39,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Electronics Supply",
+        "quantity": 5,
+        "unitPrice": 328855.97,
+        "amount": 1644279.83,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 38
+  }
+]

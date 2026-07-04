@@ -1,0 +1,190 @@
+[
+  {
+    "id": 1,
+    "estimateNumber": "EST-2025-001",
+    "customerId": 2,
+    "customerName": "Mwale Transport Group",
+    "estimateDateDaysAgo": 48,
+    "expirationDateDaysFromNow": 41,
+    "status": "Declined",
+    "subTotal": 2813800.37,
+    "taxRate": 16,
+    "taxAmount": 450208.06,
+    "total": 3264008.43,
+    "terms": "Net 30",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 48,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Cross-Border Transport",
+        "quantity": 5,
+        "unitPrice": 562760.07,
+        "amount": 2813800.37,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 47
+  },
+  {
+    "id": 2,
+    "estimateNumber": "EST-2025-002",
+    "customerId": 5,
+    "customerName": "Chileshe Logistics Co.",
+    "estimateDateDaysAgo": 50,
+    "expirationDateDaysFromNow": 37,
+    "status": "Draft",
+    "subTotal": 3046571.65,
+    "taxRate": 16,
+    "taxAmount": 487451.46,
+    "total": 3534023.11,
+    "terms": "Net 30",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 50,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Road Freight Services",
+        "quantity": 4,
+        "unitPrice": 761642.91,
+        "amount": 3046571.65,
+        "itemType": "Service"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "estimateNumber": "EST-2025-003",
+    "customerId": 8,
+    "customerName": "Bwalya Cargo Solutions",
+    "estimateDateDaysAgo": 52,
+    "expirationDateDaysFromNow": 32,
+    "status": "Declined",
+    "subTotal": 3251775.41,
+    "taxRate": 15,
+    "taxAmount": 487766.31,
+    "total": 3739541.72,
+    "terms": "Net 30",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 52,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Warehousing & Storage",
+        "quantity": 5,
+        "unitPrice": 650355.08,
+        "amount": 3251775.41,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 51
+  },
+  {
+    "id": 4,
+    "estimateNumber": "EST-2025-004",
+    "customerId": 4,
+    "customerName": "Mwale Freight Limited",
+    "estimateDateDaysAgo": 49,
+    "expirationDateDaysFromNow": 36,
+    "status": "Open",
+    "subTotal": 2449876.08,
+    "taxRate": 16,
+    "taxAmount": 391980.17,
+    "total": 2841856.25,
+    "terms": "Net 45",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 49,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Warehousing & Storage",
+        "quantity": 5,
+        "unitPrice": 489975.22,
+        "amount": 2449876.08,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 48
+  },
+  {
+    "id": 5,
+    "estimateNumber": "EST-2025-005",
+    "customerId": 8,
+    "customerName": "Bwalya Cargo Solutions",
+    "estimateDateDaysAgo": 41,
+    "expirationDateDaysFromNow": 37,
+    "status": "Sent",
+    "subTotal": 3202449.39,
+    "taxRate": 18,
+    "taxAmount": 576440.89,
+    "total": 3778890.28,
+    "terms": "Net 15",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 41,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Warehousing & Storage",
+        "quantity": 1,
+        "unitPrice": 3202449.39,
+        "amount": 3202449.39,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 40
+  },
+  {
+    "id": 6,
+    "estimateNumber": "EST-2025-006",
+    "customerId": 10,
+    "customerName": "Tembo Transport Enterprises",
+    "estimateDateDaysAgo": 12,
+    "expirationDateDaysFromNow": 36,
+    "status": "Expired",
+    "subTotal": 683770.56,
+    "taxRate": 18,
+    "taxAmount": 123078.7,
+    "total": 806849.26,
+    "terms": "Net 15",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 12,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Road Freight Services",
+        "quantity": 5,
+        "unitPrice": 136754.11,
+        "amount": 683770.56,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 11
+  },
+  {
+    "id": 7,
+    "estimateNumber": "EST-2025-007",
+    "customerId": 3,
+    "customerName": "Kaputo Freight Solutions",
+    "estimateDateDaysAgo": 27,
+    "expirationDateDaysFromNow": 20,
+    "status": "Sent",
+    "subTotal": 1156803.03,
+    "taxRate": 18,
+    "taxAmount": 208224.55,
+    "total": 1365027.58,
+    "terms": "Net 30",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 27,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Air Cargo Haulage",
+        "quantity": 3,
+        "unitPrice": 385601.01,
+        "amount": 1156803.03,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 26
+  }
+]

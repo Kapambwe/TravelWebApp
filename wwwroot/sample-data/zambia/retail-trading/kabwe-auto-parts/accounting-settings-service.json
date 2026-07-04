@@ -1,0 +1,13 @@
+{
+  "companyName": "Kabwe Auto Parts",
+  "defaultCurrency": "ZMW",
+  "fiscalYearStart": "01-01",
+  "taxRate": 16.0,
+  "dateFormat": "DD/MM/YYYY",
+  "numberFormat": "en-ZM",
+  "enableMultiCurrency": false,
+  "defaultPaymentTerms": 14,
+  "companyTpin": "TPIN-5631287451",
+  "companyAddress": "Plot 156, Chilimbulu Road, Kabwe",
+  "businessType": "automotive"
+}

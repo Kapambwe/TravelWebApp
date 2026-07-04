@@ -1,0 +1,110 @@
+﻿@inherits LayoutComponentBase
+@inject NavigationManager Navigation
+
+<div class="travel-app">
+    <header class="travel-header">
+        <div class="header-inner">
+            <a href="/" class="logo" @onclick="GoHome" @onclick:preventDefault="true">
+                <span class="logo-icon" style="filter: drop-shadow(0 2px 4px rgba(0,0,0,0.2));">ðŸŒ</span>
+                <span class="logo-text" style="letter-spacing: -0.5px; font-size: 1.5rem;">Travel<span class="logo-accent" style="color:#FEBB02;">PRO</span></span>
+            </a>
+            <NavMenu />
+            <div class="header-actions">
+                <RadzenButton Text="List Property" ButtonStyle="ButtonStyle.Secondary" Size="ButtonSize.Small" Style="border-radius:8px;" />
+                <RadzenButton Icon="person" ButtonStyle="ButtonStyle.Primary" Variant="Variant.Outlined" Size="ButtonSize.Small" Style="border-radius:50%;width:36px;height:36px;padding:0;" Click="@GoToLogin" />
+            </div>
+            <button class="hamburger" @onclick="ToggleMobileMenu">
+                <span class="hamburger-line"></span>
+                <span class="hamburger-line"></span>
+                <span class="hamburger-line"></span>
+            </button>
+        </div>
+    </header>
+
+    <main class="travel-main">
+        @Body
+    </main>
+
+    <footer class="travel-footer">
+        <div class="footer-inner">
+            <div class="footer-grid">
+                <div class="footer-col">
+                    <div class="footer-logo">TravelSA</div>
+                    <p class="footer-desc">Discover Africa's most incredible destinations with TravelSA â€” your trusted travel companion since 2024.</p>
+                    <div class="footer-social">
+                        <a href="#" class="social-link">FB</a>
+                        <a href="#" class="social-link">IG</a>
+                        <a href="#" class="social-link">XA</a>
+                        <a href="#" class="social-link">LI</a>
+                    </div>
+                </div>
+                <div class="footer-col">
+                    <h4>Explore</h4>
+                    <a href="/search?q=destinations">Destinations</a>
+                    <a href="/search?q=packages">Packages</a>
+                    <a href="/guide">Travellers Guide</a>
+                    <a href="/search">Deals</a>
+                </div>
+                <div class="footer-col">
+                    <h4>Support</h4>
+                    <a href="#">Contact Us</a>
+                    <a href="#">FAQs</a>
+                    <a href="#">Cancellation Policy</a>
+                    <a href="#">Travel Insurance</a>
+                </div>
+                <div class="footer-col">
+                    <h4>Company</h4>
+                    <a href="#">About Us</a>
+                    <a href="#">Careers</a>
+                    <a href="#">Terms &amp; Conditions</a>
+                    <a href="#">Privacy Policy</a>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <span>&copy; @DateTime.UtcNow.Year TravelSA. All rights reserved.</span>
+                <span class="footer-currency">Prices in ZAR (R) &bull; Secure payments</span>
+            </div>
+        </div>
+    </footer>
+
+    <OttoChat />
+</div>
+
+<div class="@(_mobileMenuOpen ? "mobile-overlay open" : "mobile-overlay")" @onclick="ToggleMobileMenu">
+    <div class="mobile-menu" @onclick:stopPropagation="true">
+        <div class="mobile-menu-header">
+            <span class="logo-text">Travel<span class="logo-accent">SA</span></span>
+            <button class="close-btn" @onclick="ToggleMobileMenu">&times;</button>
+        </div>
+        <nav class="mobile-nav">
+            <a href="/" @onclick="ToggleMobileMenu">Home</a>
+            <a href="/activities" @onclick="ToggleMobileMenu">Activities</a>
+            <a href="/holiday-packages" @onclick="ToggleMobileMenu">Packages</a>
+            <a href="/park-entry" @onclick="ToggleMobileMenu">Permits</a>
+            <a href="/corporate-travel" @onclick="ToggleMobileMenu">Corporate</a>
+            <a href="/group-bookings" @onclick="ToggleMobileMenu">Groups</a>
+            <a href="/loyalty" @onclick="ToggleMobileMenu">Loyalty</a>
+            <a href="/guide" @onclick="ToggleMobileMenu">Guide</a>
+        </nav>
+        <div class="mobile-menu-actions">
+            <RadzenButton Text="Sign In" ButtonStyle="ButtonStyle.Primary" Style="width:100%;border-radius:8px;" Click="@MobileSignIn" />
+            <RadzenButton Text="List Your Property" ButtonStyle="ButtonStyle.Secondary" Style="width:100%;border-radius:8px;margin-top:8px;" />
+        </div>
+    </div>
+</div>
+
+@code {
+    private bool _mobileMenuOpen;
+
+    private void ToggleMobileMenu() => _mobileMenuOpen = !_mobileMenuOpen;
+    private void GoHome() { _mobileMenuOpen = false; Navigation.NavigateTo("/"); }
+    private void GoToLogin() { _mobileMenuOpen = false; Navigation.NavigateTo("/login"); }
+    private void MobileSignIn() { _mobileMenuOpen = false; Navigation.NavigateTo("/login"); }
+}
+NavigateTo("/login"); }
+    private void MobileSignIn() { _mobileMenuOpen = false; Navigation.NavigateTo("/login"); }
+}
+ate void GoToLogin() { _mobileMenuOpen = false; Navigation.NavigateTo("/login"); }
+    private void MobileSignIn() { _mobileMenuOpen = false; Navigation.NavigateTo("/login"); }
+}
+

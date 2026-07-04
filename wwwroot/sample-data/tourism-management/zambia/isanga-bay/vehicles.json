@@ -1,0 +1,12 @@
+﻿{
+    "Capacity":  10,
+    "Id":  305,
+    "RegistrationNumber":  "ZM-IBR-35",
+    "VehicleType":  1,
+    "FuelType":  "Petrol",
+    "Name":  "Isanga Shuttle Boat",
+    "NextServiceDue":  "2024-12-02",
+    "Status":  0,
+    "LastServiceDate":  "2024-06-02",
+    "FuelLevel":  0.88
+}

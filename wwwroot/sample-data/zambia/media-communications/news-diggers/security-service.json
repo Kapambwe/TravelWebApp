@@ -1,0 +1,482 @@
+[
+  {
+    "id": "security-001",
+    "userId": "user-001",
+    "userName": "Kunda Chola",
+    "roles": [
+      "Accountant",
+      "Manager"
+    ],
+    "permissions": [
+      "ViewReports",
+      "CreateTransactions",
+      "ApproveBudgets"
+    ],
+    "lastLogin": "2024-01-20T08:30:00Z",
+    "isActive": true
+  },
+  {
+    "id": "security-002",
+    "userId": "user-001",
+    "userName": "Kunda Chola",
+    "roles": [
+      "Accountant",
+      "Manager"
+    ],
+    "permissions": [
+      "ViewReports",
+      "CreateTransactions",
+      "ApproveBudgets"
+    ],
+    "lastLogin": "2024-01-20T08:30:00Z",
+    "isActive": true
+  },
+  {
+    "id": "security-003",
+    "userId": "user-001",
+    "userName": "Kunda Chola",
+    "roles": [
+      "Accountant",
+      "Manager"
+    ],
+    "permissions": [
+      "ViewReports",
+      "CreateTransactions",
+      "ApproveBudgets"
+    ],
+    "lastLogin": "2024-01-20T08:30:00Z",
+    "isActive": true
+  },
+  {
+    "id": "security-004",
+    "userId": "user-001",
+    "userName": "Kunda Chola",
+    "roles": [
+      "Accountant",
+      "Manager"
+    ],
+    "permissions": [
+      "ViewReports",
+      "CreateTransactions",
+      "ApproveBudgets"
+    ],
+    "lastLogin": "2024-01-20T08:30:00Z",
+    "isActive": true
+  },
+  {
+    "id": "security-005",
+    "userId": "user-001",
+    "userName": "Kunda Chola",
+    "roles": [
+      "Accountant",
+      "Manager"
+    ],
+    "permissions": [
+      "ViewReports",
+      "CreateTransactions",
+      "ApproveBudgets"
+    ],
+    "lastLogin": "2024-01-20T08:30:00Z",
+    "isActive": true
+  },
+  {
+    "id": "security-006",
+    "userId": "user-001",
+    "userName": "Kunda Chola",
+    "roles": [
+      "Accountant",
+      "Manager"
+    ],
+    "permissions": [
+      "ViewReports",
+      "CreateTransactions",
+      "ApproveBudgets"
+    ],
+    "lastLogin": "2024-01-20T08:30:00Z",
+    "isActive": true
+  },
+  {
+    "id": "security-007",
+    "userId": "user-001",
+    "userName": "Kunda Chola",
+    "roles": [
+      "Accountant",
+      "Manager"
+    ],
+    "permissions": [
+      "ViewReports",
+      "CreateTransactions",
+      "ApproveBudgets"
+    ],
+    "lastLogin": "2024-01-20T08:30:00Z",
+    "isActive": true
+  },
+  {
+    "id": "security-008",
+    "userId": "user-001",
+    "userName": "Kunda Chola",
+    "roles": [
+      "Accountant",
+      "Manager"
+    ],
+    "permissions": [
+      "ViewReports",
+      "CreateTransactions",
+      "ApproveBudgets"
+    ],
+    "lastLogin": "2024-01-20T08:30:00Z",
+    "isActive": true
+  },
+  {
+    "id": "security-009",
+    "userId": "user-001",
+    "userName": "Kunda Chola",
+    "roles": [
+      "Accountant",
+      "Manager"
+    ],
+    "permissions": [
+      "ViewReports",
+      "CreateTransactions",
+      "ApproveBudgets"
+    ],
+    "lastLogin": "2024-01-20T08:30:00Z",
+    "isActive": true
+  },
+  {
+    "id": "security-010",
+    "userId": "user-001",
+    "userName": "Kunda Chola",
+    "roles": [
+      "Accountant",
+      "Manager"
+    ],
+    "permissions": [
+      "ViewReports",
+      "CreateTransactions",
+      "ApproveBudgets"
+    ],
+    "lastLogin": "2024-01-20T08:30:00Z",
+    "isActive": true
+  },
+  {
+    "id": "security-011",
+    "userId": "user-001",
+    "userName": "Kunda Chola",
+    "roles": [
+      "Accountant",
+      "Manager"
+    ],
+    "permissions": [
+      "ViewReports",
+      "CreateTransactions",
+      "ApproveBudgets"
+    ],
+    "lastLogin": "2024-01-20T08:30:00Z",
+    "isActive": true
+  },
+  {
+    "id": "security-012",
+    "userId": "user-001",
+    "userName": "Kunda Chola",
+    "roles": [
+      "Accountant",
+      "Manager"
+    ],
+    "permissions": [
+      "ViewReports",
+      "CreateTransactions",
+      "ApproveBudgets"
+    ],
+    "lastLogin": "2024-01-20T08:30:00Z",
+    "isActive": true
+  },
+  {
+    "id": "security-013",
+    "userId": "user-001",
+    "userName": "Kunda Chola",
+    "roles": [
+      "Accountant",
+      "Manager"
+    ],
+    "permissions": [
+      "ViewReports",
+      "CreateTransactions",
+      "ApproveBudgets"
+    ],
+    "lastLogin": "2024-01-20T08:30:00Z",
+    "isActive": true
+  },
+  {
+    "id": "security-014",
+    "userId": "user-001",
+    "userName": "Kunda Chola",
+    "roles": [
+      "Accountant",
+      "Manager"
+    ],
+    "permissions": [
+      "ViewReports",
+      "CreateTransactions",
+      "ApproveBudgets"
+    ],
+    "lastLogin": "2024-01-20T08:30:00Z",
+    "isActive": true
+  },
+  {
+    "id": "security-015",
+    "userId": "user-001",
+    "userName": "Kunda Chola",
+    "roles": [
+      "Accountant",
+      "Manager"
+    ],
+    "permissions": [
+      "ViewReports",
+      "CreateTransactions",
+      "ApproveBudgets"
+    ],
+    "lastLogin": "2024-01-20T08:30:00Z",
+    "isActive": true
+  },
+  {
+    "id": "security-016",
+    "userId": "user-001",
+    "userName": "Kunda Chola",
+    "roles": [
+      "Accountant",
+      "Manager"
+    ],
+    "permissions": [
+      "ViewReports",
+      "CreateTransactions",
+      "ApproveBudgets"
+    ],
+    "lastLogin": "2024-01-20T08:30:00Z",
+    "isActive": true
+  },
+  {
+    "id": "security-017",
+    "userId": "user-001",
+    "userName": "Kunda Chola",
+    "roles": [
+      "Accountant",
+      "Manager"
+    ],
+    "permissions": [
+      "ViewReports",
+      "CreateTransactions",
+      "ApproveBudgets"
+    ],
+    "lastLogin": "2024-01-20T08:30:00Z",
+    "isActive": true
+  },
+  {
+    "id": "security-018",
+    "userId": "user-001",
+    "userName": "Kunda Chola",
+    "roles": [
+      "Accountant",
+      "Manager"
+    ],
+    "permissions": [
+      "ViewReports",
+      "CreateTransactions",
+      "ApproveBudgets"
+    ],
+    "lastLogin": "2024-01-20T08:30:00Z",
+    "isActive": true
+  },
+  {
+    "id": "security-019",
+    "userId": "user-001",
+    "userName": "Kunda Chola",
+    "roles": [
+      "Accountant",
+      "Manager"
+    ],
+    "permissions": [
+      "ViewReports",
+      "CreateTransactions",
+      "ApproveBudgets"
+    ],
+    "lastLogin": "2024-01-20T08:30:00Z",
+    "isActive": true
+  },
+  {
+    "id": "security-020",
+    "userId": "user-001",
+    "userName": "Kunda Chola",
+    "roles": [
+      "Accountant",
+      "Manager"
+    ],
+    "permissions": [
+      "ViewReports",
+      "CreateTransactions",
+      "ApproveBudgets"
+    ],
+    "lastLogin": "2024-01-20T08:30:00Z",
+    "isActive": true
+  },
+  {
+    "id": "security-021",
+    "userId": "user-001",
+    "userName": "Kunda Chola",
+    "roles": [
+      "Accountant",
+      "Manager"
+    ],
+    "permissions": [
+      "ViewReports",
+      "CreateTransactions",
+      "ApproveBudgets"
+    ],
+    "lastLogin": "2024-01-20T08:30:00Z",
+    "isActive": true
+  },
+  {
+    "id": "security-022",
+    "userId": "user-001",
+    "userName": "Kunda Chola",
+    "roles": [
+      "Accountant",
+      "Manager"
+    ],
+    "permissions": [
+      "ViewReports",
+      "CreateTransactions",
+      "ApproveBudgets"
+    ],
+    "lastLogin": "2024-01-20T08:30:00Z",
+    "isActive": true
+  },
+  {
+    "id": "security-023",
+    "userId": "user-001",
+    "userName": "Kunda Chola",
+    "roles": [
+      "Accountant",
+      "Manager"
+    ],
+    "permissions": [
+      "ViewReports",
+      "CreateTransactions",
+      "ApproveBudgets"
+    ],
+    "lastLogin": "2024-01-20T08:30:00Z",
+    "isActive": true
+  },
+  {
+    "id": "security-024",
+    "userId": "user-001",
+    "userName": "Kunda Chola",
+    "roles": [
+      "Accountant",
+      "Manager"
+    ],
+    "permissions": [
+      "ViewReports",
+      "CreateTransactions",
+      "ApproveBudgets"
+    ],
+    "lastLogin": "2024-01-20T08:30:00Z",
+    "isActive": true
+  },
+  {
+    "id": "security-025",
+    "userId": "user-001",
+    "userName": "Kunda Chola",
+    "roles": [
+      "Accountant",
+      "Manager"
+    ],
+    "permissions": [
+      "ViewReports",
+      "CreateTransactions",
+      "ApproveBudgets"
+    ],
+    "lastLogin": "2024-01-20T08:30:00Z",
+    "isActive": true
+  },
+  {
+    "id": "security-026",
+    "userId": "user-001",
+    "userName": "Kunda Chola",
+    "roles": [
+      "Accountant",
+      "Manager"
+    ],
+    "permissions": [
+      "ViewReports",
+      "CreateTransactions",
+      "ApproveBudgets"
+    ],
+    "lastLogin": "2024-01-20T08:30:00Z",
+    "isActive": true
+  },
+  {
+    "id": "security-027",
+    "userId": "user-001",
+    "userName": "Kunda Chola",
+    "roles": [
+      "Accountant",
+      "Manager"
+    ],
+    "permissions": [
+      "ViewReports",
+      "CreateTransactions",
+      "ApproveBudgets"
+    ],
+    "lastLogin": "2024-01-20T08:30:00Z",
+    "isActive": true
+  },
+  {
+    "id": "security-028",
+    "userId": "user-001",
+    "userName": "Kunda Chola",
+    "roles": [
+      "Accountant",
+      "Manager"
+    ],
+    "permissions": [
+      "ViewReports",
+      "CreateTransactions",
+      "ApproveBudgets"
+    ],
+    "lastLogin": "2024-01-20T08:30:00Z",
+    "isActive": true
+  },
+  {
+    "id": "security-029",
+    "userId": "user-001",
+    "userName": "Kunda Chola",
+    "roles": [
+      "Accountant",
+      "Manager"
+    ],
+    "permissions": [
+      "ViewReports",
+      "CreateTransactions",
+      "ApproveBudgets"
+    ],
+    "lastLogin": "2024-01-20T08:30:00Z",
+    "isActive": true
+  },
+  {
+    "id": "security-030",
+    "userId": "user-001",
+    "userName": "Kunda Chola",
+    "roles": [
+      "Accountant",
+      "Manager"
+    ],
+    "permissions": [
+      "ViewReports",
+      "CreateTransactions",
+      "ApproveBudgets"
+    ],
+    "lastLogin": "2024-01-20T08:30:00Z",
+    "isActive": true
+  }
+]

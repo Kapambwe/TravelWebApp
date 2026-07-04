@@ -1,0 +1,29 @@
+﻿[
+    {
+        "Id":  13,
+        "Name":  "Straw-colored Fruit Bat",
+        "ScientificName":  "Eidolon helvum",
+        "Population":  10000000,
+        "PopulationTrend":  0,
+        "ConservationStatus":  "Near Threatened",
+        "LastCensusDate":  "2024-11-20T00:00:00"
+    },
+    {
+        "Id":  14,
+        "Name":  "Sitatunga",
+        "ScientificName":  "Tragelaphus spekii",
+        "Population":  450,
+        "PopulationTrend":  1,
+        "ConservationStatus":  "Least Concern",
+        "LastCensusDate":  "2024-05-02T00:00:00"
+    },
+    {
+        "Id":  15,
+        "Name":  "Shoebill Stork",
+        "ScientificName":  "Balaeniceps rex",
+        "Population":  12,
+        "PopulationTrend":  0,
+        "ConservationStatus":  "Vulnerable",
+        "LastCensusDate":  "2024-05-05T00:00:00"
+    }
+]

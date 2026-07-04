@@ -1,0 +1,308 @@
+{
+  "templates": [
+    {
+      "id": 1,
+      "name": "Profit and Loss Summary",
+      "description": "Monthly profit and loss with revenue, gross margin, and operating expense breakdown.",
+      "reportType": "ProfitAndLoss",
+      "category": "Financial",
+      "isSystemTemplate": true,
+      "usageCount": 14
+    },
+    {
+      "id": 2,
+      "name": "Balance Sheet Snapshot",
+      "description": "Statement of financial position with asset, liability, and equity sections.",
+      "reportType": "BalanceSheet",
+      "category": "Financial",
+      "isSystemTemplate": true,
+      "usageCount": 11
+    },
+    {
+      "id": 3,
+      "name": "Cash Flow Tracker",
+      "description": "Operating, investing, and financing cash movements for the selected period.",
+      "reportType": "CashFlow",
+      "category": "Financial",
+      "isSystemTemplate": true,
+      "usageCount": 9
+    },
+    {
+      "id": 4,
+      "name": "Aged Receivables Review",
+      "description": "Customer balances grouped by aging buckets for collections follow-up.",
+      "reportType": "AgedReceivables",
+      "category": "Operational",
+      "isSystemTemplate": false,
+      "usageCount": 8
+    },
+    {
+      "id": 5,
+      "name": "Inventory Valuation",
+      "description": "Inventory by item, location, and valuation method for stock control.",
+      "reportType": "InventoryValuation",
+      "category": "Operational",
+      "isSystemTemplate": false,
+      "usageCount": 6
+    },
+    {
+      "id": 6,
+      "name": "Sales Analysis by Customer",
+      "description": "Revenue by customer and region with comparative period analysis.",
+      "reportType": "SalesAnalysis",
+      "category": "Sales",
+      "isSystemTemplate": false,
+      "usageCount": 5
+    }
+  ],
+  "reports": [
+    {
+      "id": 1,
+      "name": "October 2025 Profit Review",
+      "description": "Monthly profitability review for Eastern Tropical Fruit Company.",
+      "reportType": "ProfitAndLoss",
+      "createdBy": "current-user",
+      "createdMonthsAgo": 1,
+      "isMemorized": true,
+      "isShared": true,
+      "sharedWithRoles": ["Finance Manager", "Operations Manager"]
+    },
+    {
+      "id": 2,
+      "name": "Quarterly Balance Sheet Pack",
+      "description": "Quarter-end position statement for the board pack.",
+      "reportType": "BalanceSheet",
+      "createdBy": "current-user",
+      "createdMonthsAgo": 2,
+      "isMemorized": true,
+      "isShared": false,
+      "sharedWithRoles": []
+    },
+    {
+      "id": 3,
+      "name": "Weekly Cash Flow Watch",
+      "description": "Short-term liquidity monitoring for the finance team.",
+      "reportType": "CashFlow",
+      "createdBy": "mmwale",
+      "createdMonthsAgo": 0,
+      "isMemorized": false,
+      "isShared": true,
+      "sharedWithRoles": ["Treasury"]
+    },
+    {
+      "id": 4,
+      "name": "Receivables Collections Priority",
+      "description": "Aged receivables focused on top debtors and overdue balances.",
+      "reportType": "AgedReceivables",
+      "createdBy": "jphiri",
+      "createdMonthsAgo": 3,
+      "isMemorized": true,
+      "isShared": false,
+      "sharedWithRoles": []
+    },
+    {
+      "id": 5,
+      "name": "Inventory Turnover Review",
+      "description": "Stock movement and valuation for raw materials and finished goods.",
+      "reportType": "InventoryValuation",
+      "createdBy": "current-user",
+      "createdMonthsAgo": 1,
+      "isMemorized": false,
+      "isShared": true,
+      "sharedWithRoles": ["Warehouse Supervisor", "Procurement"]
+    }
+  ],
+  "schedules": [
+    {
+      "id": 1,
+      "customReportId": 1,
+      "isActive": true,
+      "frequency": "Monthly",
+      "dayOfMonth": 5,
+      "executionTimeHour": 7,
+      "executionTimeMinute": 30,
+      "emailRecipients": ["finance@easternfruit.co.zm", "cfo@easternfruit.co.zm"],
+      "exportFormats": ["PDF", "Excel"],
+      "emailSubject": "Monthly Profit Review",
+      "emailBody": "Attached is the monthly profitability review for Eastern Tropical Fruit Company.",
+      "lastRunDaysAgo": 4,
+      "nextRunDaysFromNow": 3
+    },
+    {
+      "id": 2,
+      "customReportId": 2,
+      "isActive": true,
+      "frequency": "Quarterly",
+      "dayOfMonth": 1,
+      "executionTimeHour": 8,
+      "executionTimeMinute": 0,
+      "emailRecipients": ["board@easternfruit.co.zm", "finance@easternfruit.co.zm"],
+      "exportFormats": ["PDF"],
+      "emailSubject": "Quarterly Balance Sheet Pack",
+      "emailBody": "Board pack balance sheet export for quarter-end review.",
+      "lastRunDaysAgo": 28,
+      "nextRunDaysFromNow": 62
+    },
+    {
+      "id": 3,
+      "customReportId": 3,
+      "isActive": false,
+      "frequency": "Weekly",
+      "dayOfWeek": 1,
+      "executionTimeHour": 6,
+      "executionTimeMinute": 15,
+      "emailRecipients": ["treasury@easternfruit.co.zm"],
+      "exportFormats": ["Excel", "CSV"],
+      "emailSubject": "Weekly Cash Flow Watch",
+      "emailBody": "Liquidity watch report for treasury follow-up.",
+      "lastRunDaysAgo": 10,
+      "nextRunDaysFromNow": 7
+    }
+  ],
+  "executions": [
+    {
+      "id": 1,
+      "customReportId": 1,
+      "executedBy": "current-user",
+      "executionDate": "2025-04-28T07:35:00",
+      "executionDurationSeconds": 2.4,
+      "rowCount": 28,
+      "status": "Completed",
+      "exportFormat": "PDF"
+    },
+    {
+      "id": 2,
+      "customReportId": 1,
+      "executedBy": "finance.user",
+      "executionDate": "2025-04-22T07:32:00",
+      "executionDurationSeconds": 2.1,
+      "rowCount": 28,
+      "status": "Completed",
+      "exportFormat": "Excel"
+    },
+    {
+      "id": 3,
+      "customReportId": 2,
+      "executedBy": "board.admin",
+      "executionDate": "2025-04-15T08:05:00",
+      "executionDurationSeconds": 3.2,
+      "rowCount": 19,
+      "status": "Completed",
+      "exportFormat": "PDF"
+    },
+    {
+      "id": 4,
+      "customReportId": 3,
+      "executedBy": "treasury.user",
+      "executionDate": "2025-04-30T06:20:00",
+      "executionDurationSeconds": 1.8,
+      "rowCount": 12,
+      "status": "Completed",
+      "exportFormat": "CSV"
+    }
+  ],
+  "comparativeData": [
+    {
+      "label": "Revenue",
+      "currentPeriodValue": 2450000.0,
+      "comparisonPeriodValue": 2100000.0,
+      "category": "Income"
+    },
+    {
+      "label": "Cost of Goods Sold",
+      "currentPeriodValue": 1230000.0,
+      "comparisonPeriodValue": 1050000.0,
+      "category": "Expense"
+    },
+    {
+      "label": "Gross Profit",
+      "currentPeriodValue": 1220000.0,
+      "comparisonPeriodValue": 1050000.0,
+      "category": "Income"
+    },
+    {
+      "label": "Operating Expenses",
+      "currentPeriodValue": 560000.0,
+      "comparisonPeriodValue": 520000.0,
+      "category": "Expense"
+    },
+    {
+      "label": "Net Income",
+      "currentPeriodValue": 660000.0,
+      "comparisonPeriodValue": 530000.0,
+      "category": "Income"
+    }
+  ],
+  "comparisonSlices": [
+    {
+      "startDate": "2025-03-01T00:00:00",
+      "endDate": "2025-03-31T23:59:59",
+      "comparativeData": [
+        { "label": "Revenue", "currentPeriodValue": 1980000.0, "comparisonPeriodValue": 1860000.0, "category": "Income" },
+        { "label": "Cost of Goods Sold", "currentPeriodValue": 980000.0, "comparisonPeriodValue": 940000.0, "category": "Expense" },
+        { "label": "Gross Profit", "currentPeriodValue": 1000000.0, "comparisonPeriodValue": 920000.0, "category": "Income" },
+        { "label": "Operating Expenses", "currentPeriodValue": 490000.0, "comparisonPeriodValue": 470000.0, "category": "Expense" },
+        { "label": "Net Income", "currentPeriodValue": 510000.0, "comparisonPeriodValue": 450000.0, "category": "Income" }
+      ]
+    },
+    {
+      "startDate": "2025-04-01T00:00:00",
+      "endDate": "2025-04-30T23:59:59",
+      "comparativeData": [
+        { "label": "Revenue", "currentPeriodValue": 2450000.0, "comparisonPeriodValue": 2100000.0, "category": "Income" },
+        { "label": "Cost of Goods Sold", "currentPeriodValue": 1230000.0, "comparisonPeriodValue": 1050000.0, "category": "Expense" },
+        { "label": "Gross Profit", "currentPeriodValue": 1220000.0, "comparisonPeriodValue": 1050000.0, "category": "Income" },
+        { "label": "Operating Expenses", "currentPeriodValue": 560000.0, "comparisonPeriodValue": 520000.0, "category": "Expense" },
+        { "label": "Net Income", "currentPeriodValue": 660000.0, "comparisonPeriodValue": 530000.0, "category": "Income" }
+      ]
+    }
+  ],
+  "drillDownData": [
+    {
+      "reportId": 1,
+      "fieldName": "Customer",
+      "fieldValue": "Mopani Copper Mines",
+      "rows": [
+        {
+          "Date": "2025-04-18T00:00:00",
+          "TransactionType": "Invoice",
+          "TransactionNumber": "INV-2025-041",
+          "Customer": "Mopani Copper Mines",
+          "Amount": 125000.0,
+          "Status": "Paid"
+        },
+        {
+          "Date": "2025-04-23T00:00:00",
+          "TransactionType": "Receipt",
+          "TransactionNumber": "RCPT-2025-019",
+          "Customer": "Mopani Copper Mines",
+          "Amount": 85000.0,
+          "Status": "Cleared"
+        }
+      ]
+    },
+    {
+      "reportId": 4,
+      "fieldName": "Customer",
+      "fieldValue": "Konkola Copper Mines",
+      "rows": [
+        {
+          "Date": "2025-04-12T00:00:00",
+          "TransactionType": "Invoice",
+          "TransactionNumber": "INV-2025-052",
+          "Customer": "Konkola Copper Mines",
+          "Amount": 98000.0,
+          "Status": "Pending"
+        },
+        {
+          "Date": "2025-04-19T00:00:00",
+          "TransactionType": "Credit Note",
+          "TransactionNumber": "CN-2025-006",
+          "Customer": "Konkola Copper Mines",
+          "Amount": -12000.0,
+          "Status": "Posted"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+﻿[
+    {
+        "Price":  180,
+        "Category":  0,
+        "Name":  "Copperbelt Club Sandwich",
+        "Id":  1,
+        "IsAvailable":  true
+    },
+    {
+        "Price":  150,
+        "Category":  1,
+        "Name":  "Ndola Botanical Gin \u0026 Tonic",
+        "Id":  2,
+        "IsAvailable":  true
+    },
+    {
+        "Price":  80,
+        "Category":  3,
+        "Name":  "Local Copper Souvenir Keyring",
+        "Id":  3,
+        "IsAvailable":  true
+    }
+]

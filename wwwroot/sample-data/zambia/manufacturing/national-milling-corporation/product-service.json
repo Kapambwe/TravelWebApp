@@ -1,0 +1,272 @@
+[
+  {
+    "id": "prod-001",
+    "productName": "Accounting Software License",
+    "productCode": "ASL-001",
+    "category": "Software",
+    "price": 57304.79,
+    "cost": 18594.04,
+    "description": "Annual financial management software license"
+  },
+  {
+    "id": "prod-002",
+    "productName": "Consulting Services",
+    "productCode": "CS-002",
+    "category": "Services",
+    "price": 5307.6,
+    "cost": 78358.45,
+    "description": "Financial consulting per project"
+  },
+  {
+    "id": "prod-003",
+    "productName": "Accounting Software License",
+    "productCode": "ASL-003",
+    "category": "Software",
+    "price": 51394.47,
+    "cost": 96611.34,
+    "description": "Annual financial management software license"
+  },
+  {
+    "id": "prod-004",
+    "productName": "Consulting Services",
+    "productCode": "CS-004",
+    "category": "Services",
+    "price": 2202.59,
+    "cost": 17042.97,
+    "description": "Financial consulting per project"
+  },
+  {
+    "id": "prod-005",
+    "productName": "Accounting Software License",
+    "productCode": "ASL-005",
+    "category": "Software",
+    "price": 44746.69,
+    "cost": 57450.83,
+    "description": "Annual financial management software license"
+  },
+  {
+    "id": "prod-006",
+    "productName": "Consulting Services",
+    "productCode": "CS-006",
+    "category": "Services",
+    "price": 67058.93,
+    "cost": 58309.75,
+    "description": "Financial consulting per project"
+  },
+  {
+    "id": "prod-007",
+    "productName": "Accounting Software License",
+    "productCode": "ASL-007",
+    "category": "Software",
+    "price": 95821.74,
+    "cost": 25463.94,
+    "description": "Annual financial management software license"
+  },
+  {
+    "id": "prod-008",
+    "productName": "Consulting Services",
+    "productCode": "CS-008",
+    "category": "Services",
+    "price": 98021.66,
+    "cost": 4828.02,
+    "description": "Financial consulting per project"
+  },
+  {
+    "id": "prod-009",
+    "productName": "Accounting Software License",
+    "productCode": "ASL-009",
+    "category": "Software",
+    "price": 28830.33,
+    "cost": 34957.73,
+    "description": "Annual financial management software license"
+  },
+  {
+    "id": "prod-010",
+    "productName": "Consulting Services",
+    "productCode": "CS-010",
+    "category": "Services",
+    "price": 11413.61,
+    "cost": 61307.93,
+    "description": "Financial consulting per project"
+  },
+  {
+    "id": "prod-011",
+    "productName": "Accounting Software License",
+    "productCode": "ASL-011",
+    "category": "Software",
+    "price": 16031.09,
+    "cost": 67620.02,
+    "description": "Annual financial management software license"
+  },
+  {
+    "id": "prod-012",
+    "productName": "Consulting Services",
+    "productCode": "CS-012",
+    "category": "Services",
+    "price": 28114.72,
+    "cost": 37197.16,
+    "description": "Financial consulting per project"
+  },
+  {
+    "id": "prod-013",
+    "productName": "Accounting Software License",
+    "productCode": "ASL-013",
+    "category": "Software",
+    "price": 14542.1,
+    "cost": 116.4,
+    "description": "Annual financial management software license"
+  },
+  {
+    "id": "prod-014",
+    "productName": "Consulting Services",
+    "productCode": "CS-014",
+    "category": "Services",
+    "price": 87399.04,
+    "cost": 2290.45,
+    "description": "Financial consulting per project"
+  },
+  {
+    "id": "prod-015",
+    "productName": "Accounting Software License",
+    "productCode": "ASL-015",
+    "category": "Software",
+    "price": 37277.51,
+    "cost": 44407.7,
+    "description": "Annual financial management software license"
+  },
+  {
+    "id": "prod-016",
+    "productName": "Consulting Services",
+    "productCode": "CS-016",
+    "category": "Services",
+    "price": 91121.34,
+    "cost": 90117.8,
+    "description": "Financial consulting per project"
+  },
+  {
+    "id": "prod-017",
+    "productName": "Accounting Software License",
+    "productCode": "ASL-017",
+    "category": "Software",
+    "price": 30348.24,
+    "cost": 65569.46,
+    "description": "Annual financial management software license"
+  },
+  {
+    "id": "prod-018",
+    "productName": "Consulting Services",
+    "productCode": "CS-018",
+    "category": "Services",
+    "price": 14368.65,
+    "cost": 82212.74,
+    "description": "Financial consulting per project"
+  },
+  {
+    "id": "prod-019",
+    "productName": "Accounting Software License",
+    "productCode": "ASL-019",
+    "category": "Software",
+    "price": 28416.34,
+    "cost": 96389.97,
+    "description": "Annual financial management software license"
+  },
+  {
+    "id": "prod-020",
+    "productName": "Consulting Services",
+    "productCode": "CS-020",
+    "category": "Services",
+    "price": 34542.76,
+    "cost": 57901.1,
+    "description": "Financial consulting per project"
+  },
+  {
+    "id": "prod-021",
+    "productName": "Accounting Software License",
+    "productCode": "ASL-021",
+    "category": "Software",
+    "price": 30174.85,
+    "cost": 3174.5,
+    "description": "Annual financial management software license"
+  },
+  {
+    "id": "prod-022",
+    "productName": "Consulting Services",
+    "productCode": "CS-022",
+    "category": "Services",
+    "price": 54958.87,
+    "cost": 96164.62,
+    "description": "Financial consulting per project"
+  },
+  {
+    "id": "prod-023",
+    "productName": "Accounting Software License",
+    "productCode": "ASL-023",
+    "category": "Software",
+    "price": 34027.76,
+    "cost": 59406.56,
+    "description": "Annual financial management software license"
+  },
+  {
+    "id": "prod-024",
+    "productName": "Consulting Services",
+    "productCode": "CS-024",
+    "category": "Services",
+    "price": 4021.46,
+    "cost": 27067.98,
+    "description": "Financial consulting per project"
+  },
+  {
+    "id": "prod-025",
+    "productName": "Accounting Software License",
+    "productCode": "ASL-025",
+    "category": "Software",
+    "price": 29861.96,
+    "cost": 57002.52,
+    "description": "Annual financial management software license"
+  },
+  {
+    "id": "prod-026",
+    "productName": "Consulting Services",
+    "productCode": "CS-026",
+    "category": "Services",
+    "price": 42556.52,
+    "cost": 28073.62,
+    "description": "Financial consulting per project"
+  },
+  {
+    "id": "prod-027",
+    "productName": "Accounting Software License",
+    "productCode": "ASL-027",
+    "category": "Software",
+    "price": 53684.53,
+    "cost": 24278.56,
+    "description": "Annual financial management software license"
+  },
+  {
+    "id": "prod-028",
+    "productName": "Consulting Services",
+    "productCode": "CS-028",
+    "category": "Services",
+    "price": 23337.86,
+    "cost": 48653.36,
+    "description": "Financial consulting per project"
+  },
+  {
+    "id": "prod-029",
+    "productName": "Accounting Software License",
+    "productCode": "ASL-029",
+    "category": "Software",
+    "price": 24311.01,
+    "cost": 18946.17,
+    "description": "Annual financial management software license"
+  },
+  {
+    "id": "prod-030",
+    "productName": "Consulting Services",
+    "productCode": "CS-030",
+    "category": "Services",
+    "price": 28932.58,
+    "cost": 32325.37,
+    "description": "Financial consulting per project"
+  }
+]

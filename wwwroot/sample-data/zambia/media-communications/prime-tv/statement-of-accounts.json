@@ -1,0 +1,148 @@
+{
+  "companyName": "Prime Tv",
+  "companyAddress": "Kitwe, Zambia",
+  "companyTaxId": "TPIN-7614729-PT",
+  "generatedDate": "2025-09-30",
+  "currency": "ZMW",
+  "period": {
+    "from": "2025-01-01",
+    "to": "2025-09-30"
+  },
+  "customerStatements": [
+    {
+      "customerId": 1,
+      "customerName": "Zain Investments Ltd",
+      "customerEmail": "accounts@zain.com",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-06-26",
+          "reference": "INV-Z-2025-017",
+          "description": "Digital content licensing",
+          "debit": 1187000,
+          "credit": 0.0,
+          "balance": 1187000
+        },
+        {
+          "date": "2025-08-15",
+          "reference": "PMT-Z-2025-016",
+          "description": "Installment payment received",
+          "debit": 0.0,
+          "credit": 1187000,
+          "balance": 0.0
+        }
+      ],
+      "closingBalance": 0.0,
+      "status": "Settled"
+    },
+    {
+      "customerId": 2,
+      "customerName": "Kansanshi Investments Ltd",
+      "customerEmail": "finance@kansanshi.co.zm",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-04-03",
+          "reference": "INV-Z-2025-027",
+          "description": "Media placement package",
+          "debit": 603500,
+          "credit": 0.0,
+          "balance": 603500
+        },
+        {
+          "date": "2025-06-13",
+          "reference": "PMT-Z-2025-023",
+          "description": "Partial payment received - wire transfer",
+          "debit": 0.0,
+          "credit": 228500,
+          "balance": 375000
+        }
+      ],
+      "closingBalance": 375000,
+      "status": "Partially Paid"
+    },
+    {
+      "customerId": 3,
+      "customerName": "Zambezi Enterprises Ltd",
+      "customerEmail": "finance@zambezi.com",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-06-24",
+          "reference": "INV-Z-2025-036",
+          "description": "Advertising campaign - Jan-Mar",
+          "debit": 1295000,
+          "credit": 0.0,
+          "balance": 1295000
+        }
+      ],
+      "closingBalance": 1295000,
+      "status": "Outstanding"
+    },
+    {
+      "customerId": 4,
+      "customerName": "Copperbelt Trading Ltd",
+      "customerEmail": "accounts@copperbelt.co.zm",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-06-16",
+          "reference": "INV-Z-2025-049",
+          "description": "Sponsored content package",
+          "debit": 100000,
+          "credit": 0.0,
+          "balance": 100000
+        },
+        {
+          "date": "2025-08-15",
+          "reference": "PMT-Z-2025-043",
+          "description": "Final payment received",
+          "debit": 0.0,
+          "credit": 100000,
+          "balance": 0.0
+        }
+      ],
+      "closingBalance": 0.0,
+      "status": "Settled"
+    },
+    {
+      "customerId": 5,
+      "customerName": "Lusaka Holdings PLC",
+      "customerEmail": "info@lusaka.co.zm",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-03-04",
+          "reference": "INV-Z-2025-057",
+          "description": "Radio advertising spots",
+          "debit": 1684000,
+          "credit": 0.0,
+          "balance": 1684000
+        },
+        {
+          "date": "2025-04-06",
+          "reference": "PMT-Z-2025-057",
+          "description": "Partial final payment received",
+          "debit": 0.0,
+          "credit": 546500,
+          "balance": 1137500
+        }
+      ],
+      "closingBalance": 1137500,
+      "status": "Partially Paid"
+    }
+  ],
+  "summary": {
+    "totalInvoiced": 4869500,
+    "totalReceived": 2062000,
+    "totalOutstanding": 2807500,
+    "totalOverdue": 2807500.0,
+    "agingSummary": {
+      "current": 0.0,
+      "days1to30": 0.0,
+      "days31to60": 0.0,
+      "days61to90": 1295000.0,
+      "over90days": 1512500.0
+    }
+  }
+}

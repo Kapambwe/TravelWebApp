@@ -1,0 +1,13 @@
+{
+  "companyName": "Matero Hardware Store",
+  "defaultCurrency": "ZMW",
+  "fiscalYearStart": "01-01",
+  "taxRate": 16.0,
+  "dateFormat": "DD/MM/YYYY",
+  "numberFormat": "en-ZM",
+  "enableMultiCurrency": false,
+  "defaultPaymentTerms": 14,
+  "companyTpin": "TPIN-3821945672",
+  "companyAddress": "Shop 12, Matero Market, Lusaka",
+  "businessType": "retail"
+}

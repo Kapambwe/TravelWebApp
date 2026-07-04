@@ -1,0 +1,189 @@
+[
+  {
+    "id": 1,
+    "estimateNumber": "EST-2025-001",
+    "customerId": 7,
+    "customerName": "Ngosa Bakery Ltd",
+    "estimateDateDaysAgo": 20,
+    "expirationDateDaysFromNow": 20,
+    "status": "Sent",
+    "subTotal": 1937040.24,
+    "taxRate": 18,
+    "taxAmount": 348667.24,
+    "total": 2285707.48,
+    "terms": "Net 15",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 20,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Dairy Products",
+        "quantity": 3,
+        "unitPrice": 645680.08,
+        "amount": 1937040.24,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 19
+  },
+  {
+    "id": 2,
+    "estimateNumber": "EST-2025-002",
+    "customerId": 5,
+    "customerName": "Mumba Bakery Enterprises",
+    "estimateDateDaysAgo": 12,
+    "expirationDateDaysFromNow": 20,
+    "status": "Draft",
+    "subTotal": 1307998.78,
+    "taxRate": 0,
+    "taxAmount": 0.0,
+    "total": 1307998.78,
+    "terms": "Net 30",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 12,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Dairy Products",
+        "quantity": 1,
+        "unitPrice": 1307998.78,
+        "amount": 1307998.78,
+        "itemType": "Service"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "estimateNumber": "EST-2025-003",
+    "customerId": 8,
+    "customerName": "Mulenga Beverages Enterprises",
+    "estimateDateDaysAgo": 18,
+    "expirationDateDaysFromNow": 24,
+    "status": "Expired",
+    "subTotal": 824297.19,
+    "taxRate": 16,
+    "taxAmount": 131887.55,
+    "total": 956184.74,
+    "terms": "Net 30",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 18,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Fresh Fish Products",
+        "quantity": 2,
+        "unitPrice": 412148.59,
+        "amount": 824297.19,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 17
+  },
+  {
+    "id": 4,
+    "estimateNumber": "EST-2025-004",
+    "customerId": 6,
+    "customerName": "Mwale Foods Holdings",
+    "estimateDateDaysAgo": 56,
+    "expirationDateDaysFromNow": 30,
+    "status": "Draft",
+    "subTotal": 589774.78,
+    "taxRate": 16,
+    "taxAmount": 94363.96,
+    "total": 684138.74,
+    "terms": "Net 30",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 56,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Beverages",
+        "quantity": 5,
+        "unitPrice": 117954.96,
+        "amount": 589774.78,
+        "itemType": "Service"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "estimateNumber": "EST-2025-005",
+    "customerId": 7,
+    "customerName": "Ngosa Bakery Ltd",
+    "estimateDateDaysAgo": 19,
+    "expirationDateDaysFromNow": 26,
+    "status": "Open",
+    "subTotal": 2809954.32,
+    "taxRate": 18,
+    "taxAmount": 505791.78,
+    "total": 3315746.1,
+    "terms": "Net 30",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 19,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Beverages",
+        "quantity": 1,
+        "unitPrice": 2809954.32,
+        "amount": 2809954.32,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 18
+  },
+  {
+    "id": 6,
+    "estimateNumber": "EST-2025-006",
+    "customerId": 10,
+    "customerName": "Mumba Bakery Group",
+    "estimateDateDaysAgo": 30,
+    "expirationDateDaysFromNow": 45,
+    "status": "Declined",
+    "subTotal": 2330570.01,
+    "taxRate": 16,
+    "taxAmount": 372891.2,
+    "total": 2703461.21,
+    "terms": "Net 15",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 30,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Dairy Products",
+        "quantity": 1,
+        "unitPrice": 2330570.01,
+        "amount": 2330570.01,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 29
+  },
+  {
+    "id": 7,
+    "estimateNumber": "EST-2025-007",
+    "customerId": 9,
+    "customerName": "Zulu Provisions Solutions",
+    "estimateDateDaysAgo": 6,
+    "expirationDateDaysFromNow": 29,
+    "status": "Open",
+    "subTotal": 373782.76,
+    "taxRate": 16,
+    "taxAmount": 59805.24,
+    "total": 433588.0,
+    "terms": "Net 15",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 6,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Processed Meats",
+        "quantity": 4,
+        "unitPrice": 93445.69,
+        "amount": 373782.76,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 5
+  }
+]

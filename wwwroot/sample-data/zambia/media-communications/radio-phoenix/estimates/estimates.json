@@ -1,0 +1,189 @@
+[
+  {
+    "id": 1,
+    "estimateNumber": "EST-2025-001",
+    "customerId": 5,
+    "customerName": "Lungu Digital Media Solutions",
+    "estimateDateDaysAgo": 6,
+    "expirationDateDaysFromNow": 37,
+    "status": "Sent",
+    "subTotal": 3166994.77,
+    "taxRate": 18,
+    "taxAmount": 570059.06,
+    "total": 3737053.83,
+    "terms": "Net 30",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 6,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Digital Advertising",
+        "quantity": 4,
+        "unitPrice": 791748.69,
+        "amount": 3166994.77,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 5
+  },
+  {
+    "id": 2,
+    "estimateNumber": "EST-2025-002",
+    "customerId": 1,
+    "customerName": "Mutale Broadcasting Ltd",
+    "estimateDateDaysAgo": 17,
+    "expirationDateDaysFromNow": 19,
+    "status": "Expired",
+    "subTotal": 1553124.24,
+    "taxRate": 18,
+    "taxAmount": 279562.36,
+    "total": 1832686.6,
+    "terms": "Net 15",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 17,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Radio Airtime",
+        "quantity": 3,
+        "unitPrice": 517708.08,
+        "amount": 1553124.24,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 16
+  },
+  {
+    "id": 3,
+    "estimateNumber": "EST-2025-003",
+    "customerId": 4,
+    "customerName": "Sakala Media Limited",
+    "estimateDateDaysAgo": 50,
+    "expirationDateDaysFromNow": 25,
+    "status": "Sent",
+    "subTotal": 163524.9,
+    "taxRate": 15,
+    "taxAmount": 24528.74,
+    "total": 188053.64,
+    "terms": "Net 45",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 50,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Media Production",
+        "quantity": 2,
+        "unitPrice": 81762.45,
+        "amount": 163524.9,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 49
+  },
+  {
+    "id": 4,
+    "estimateNumber": "EST-2025-004",
+    "customerId": 8,
+    "customerName": "Banda Communications Ltd",
+    "estimateDateDaysAgo": 17,
+    "expirationDateDaysFromNow": 23,
+    "status": "Sent",
+    "subTotal": 726716.57,
+    "taxRate": 16,
+    "taxAmount": 116274.65,
+    "total": 842991.22,
+    "terms": "Net 15",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 17,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "TV Commercial Slot",
+        "quantity": 5,
+        "unitPrice": 145343.31,
+        "amount": 726716.57,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 16
+  },
+  {
+    "id": 5,
+    "estimateNumber": "EST-2025-005",
+    "customerId": 3,
+    "customerName": "Zulu Digital Media Enterprises",
+    "estimateDateDaysAgo": 54,
+    "expirationDateDaysFromNow": 37,
+    "status": "Sent",
+    "subTotal": 1304182.79,
+    "taxRate": 0,
+    "taxAmount": 0.0,
+    "total": 1304182.79,
+    "terms": "Net 30",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 54,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Online Content Package",
+        "quantity": 4,
+        "unitPrice": 326045.7,
+        "amount": 1304182.79,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 53
+  },
+  {
+    "id": 6,
+    "estimateNumber": "EST-2025-006",
+    "customerId": 7,
+    "customerName": "Musonda Broadcasting Co.",
+    "estimateDateDaysAgo": 45,
+    "expirationDateDaysFromNow": 17,
+    "status": "Draft",
+    "subTotal": 1784701.32,
+    "taxRate": 15,
+    "taxAmount": 267705.2,
+    "total": 2052406.52,
+    "terms": "Net 30",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 45,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Online Content Package",
+        "quantity": 3,
+        "unitPrice": 594900.44,
+        "amount": 1784701.32,
+        "itemType": "Service"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "estimateNumber": "EST-2025-007",
+    "customerId": 3,
+    "customerName": "Zulu Digital Media Enterprises",
+    "estimateDateDaysAgo": 21,
+    "expirationDateDaysFromNow": 19,
+    "status": "Draft",
+    "subTotal": 1466306.38,
+    "taxRate": 18,
+    "taxAmount": 263935.15,
+    "total": 1730241.53,
+    "terms": "Net 15",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 21,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Print Advertising Space",
+        "quantity": 3,
+        "unitPrice": 488768.79,
+        "amount": 1466306.38,
+        "itemType": "Service"
+      }
+    ]
+  }
+]

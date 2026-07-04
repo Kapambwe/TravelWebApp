@@ -1,0 +1,21 @@
+{
+  "userId": "user-slapdee-001",
+  "userName": "admin@slapdee.co.zm",
+  "fullName": "Mwila Musonda (Slapdee)",
+  "roles": [
+    "CEO",
+    "Artist",
+    "Property Developer"
+  ],
+  "companyId": "slapdee-ent-001",
+  "companyName": "Slapdee Entertainment & Properties",
+  "permissions": [
+    "ViewReports",
+    "CreateTransactions",
+    "ApproveBudgets",
+    "ManageProperties",
+    "ManageMusicSales",
+    "ViewRoyalties",
+    "ManageInvestments"
+  ]
+}

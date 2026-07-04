@@ -1,0 +1,18 @@
+﻿[
+    {
+        "Id":  101,
+        "Name":  "Harrison Banda",
+        "EmployeeId":  "EMP-H101",
+        "IsAvailable":  true,
+        "Specialization":  "Local History \u0026 Ornithology",
+        "Rating":  4.9
+    },
+    {
+        "Id":  102,
+        "Name":  "Sarah Mumba",
+        "EmployeeId":  "EMP-H102",
+        "IsAvailable":  true,
+        "Specialization":  "Victoria Falls Tours",
+        "Rating":  4.8
+    }
+]

@@ -1,0 +1,101 @@
+[
+  {
+    "id": 1,
+    "billNumber": "BILL-2025-001",
+    "vendorName": "Kabwe Authority Inc.",
+    "description": "Stationery & Office",
+    "billDate": "2024-11-15T00:00:00",
+    "dueDate": "2024-11-30T00:00:00",
+    "amount": 1984719.62,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 2,
+    "billNumber": "BILL-2025-002",
+    "vendorName": "Kabwe Board Group",
+    "description": "IT Systems & Services",
+    "billDate": "2024-12-08T00:00:00",
+    "dueDate": "2025-01-22T00:00:00",
+    "amount": 130086.57,
+    "paidAmount": 130086.57,
+    "status": "Paid"
+  },
+  {
+    "id": 3,
+    "billNumber": "BILL-2025-003",
+    "vendorName": "Siame Corporation Co.",
+    "description": "Stationery & Office",
+    "billDate": "2024-11-21T00:00:00",
+    "dueDate": "2024-12-06T00:00:00",
+    "amount": 1790480.21,
+    "paidAmount": 822163.17,
+    "status": "PartiallyPaid"
+  },
+  {
+    "id": 4,
+    "billNumber": "BILL-2025-004",
+    "vendorName": "Zulu Board Limited",
+    "description": "Civil Construction Works",
+    "billDate": "2024-11-15T00:00:00",
+    "dueDate": "2024-11-30T00:00:00",
+    "amount": 1829494.4,
+    "paidAmount": 1829494.4,
+    "status": "Paid"
+  },
+  {
+    "id": 5,
+    "billNumber": "BILL-2025-005",
+    "vendorName": "Zimba Commission Enterprises",
+    "description": "Equipment Procurement",
+    "billDate": "2025-01-07T00:00:00",
+    "dueDate": "2025-01-22T00:00:00",
+    "amount": 807260.47,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 6,
+    "billNumber": "BILL-2025-006",
+    "vendorName": "Kabwe Authority Inc.",
+    "description": "IT Systems & Services",
+    "billDate": "2024-10-05T00:00:00",
+    "dueDate": "2024-10-20T00:00:00",
+    "amount": 2300063.75,
+    "paidAmount": 2300063.75,
+    "status": "Paid"
+  },
+  {
+    "id": 7,
+    "billNumber": "BILL-2025-007",
+    "vendorName": "Mwale Agency Ltd",
+    "description": "Security Services",
+    "billDate": "2024-11-10T00:00:00",
+    "dueDate": "2024-12-25T00:00:00",
+    "amount": 878482.07,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 8,
+    "billNumber": "BILL-2025-008",
+    "vendorName": "Zulu Board Limited",
+    "description": "IT Systems & Services",
+    "billDate": "2024-10-11T00:00:00",
+    "dueDate": "2024-10-26T00:00:00",
+    "amount": 2152867.55,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 9,
+    "billNumber": "BILL-2025-009",
+    "vendorName": "Mulenga Authority Limited",
+    "description": "IT Systems & Services",
+    "billDate": "2025-02-25T00:00:00",
+    "dueDate": "2025-03-27T00:00:00",
+    "amount": 581469.78,
+    "paidAmount": 581469.78,
+    "status": "Paid"
+  }
+]

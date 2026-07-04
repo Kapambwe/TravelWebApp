@@ -1,0 +1,81 @@
+@page "/my-bookings"
+@using TravelWebApp.Models
+@using TravelWebApp.Services
+@using Radzen.Blazor
+@inject ITravelService TravelService
+
+<div class="bookings-page">
+    <RadzenText TextStyle="TextStyle.H4" Style="margin-bottom:24px;">My Bookings</RadzenText>
+
+    @if (_bookings.Count == 0)
+    {
+        <div style="text-align:center;padding:60px 0;">
+            <RadzenText TextStyle="TextStyle.H5">No bookings yet</RadzenText>
+            <RadzenText Style="color:#5A5A7A;margin:8px 0;">Start planning your next adventure!</RadzenText>
+            <RadzenButton Text="Browse Destinations" ButtonStyle="ButtonStyle.Primary" Target="/" />
+        </div>
+    }
+    else
+    {
+        <RadzenTabs RenderMode="TabRenderMode.Client">
+            <RadzenTabsItem Text="Upcoming">
+                @if (_upcoming.Count == 0)
+                {
+                    <div style="text-align:center;padding:40px;color:#5A5A7A;">No upcoming bookings</div>
+                }
+                else
+                {
+                    @foreach (var b in _upcoming)
+                    {
+                        <BookingCardItem Booking="b" />
+                    }
+                }
+            </RadzenTabsItem>
+            <RadzenTabsItem Text="Past">
+                @if (_past.Count == 0)
+                {
+                    <div style="text-align:center;padding:40px;color:#5A5A7A;">No past bookings</div>
+                }
+                else
+                {
+                    @foreach (var b in _past)
+                    {
+                        <BookingCardItem Booking="b" />
+                    }
+                }
+            </RadzenTabsItem>
+            <RadzenTabsItem Text="Cancelled">
+                @if (_cancelled.Count == 0)
+                {
+                    <div style="text-align:center;padding:40px;color:#5A5A7A;">No cancelled bookings</div>
+                }
+                else
+                {
+                    @foreach (var b in _cancelled)
+                    {
+                        <BookingCardItem Booking="b" />
+                    }
+                }
+            </RadzenTabsItem>
+        </RadzenTabs>
+    }
+</div>
+
+<style>
+    .bookings-page { max-width: 800px; margin: 0 auto; padding: 24px; }
+</style>
+
+@code {
+    private List<Booking> _bookings = [];
+    private List<Booking> _upcoming = [];
+    private List<Booking> _past = [];
+    private List<Booking> _cancelled = [];
+
+    protected override async Task OnInitializedAsync()
+    {
+        _bookings = await TravelService.GetMyBookingsAsync("sarah@example.com");
+        _upcoming = _bookings.Where(b => b.Status == "Confirmed" && b.CheckIn > DateTime.UtcNow).ToList();
+        _past = _bookings.Where(b => b.Status == "Completed").ToList();
+        _cancelled = _bookings.Where(b => b.Status == "Cancelled").ToList();
+    }
+}

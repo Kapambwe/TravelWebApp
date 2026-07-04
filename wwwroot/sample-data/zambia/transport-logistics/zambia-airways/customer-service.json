@@ -1,0 +1,302 @@
+[
+  {
+    "id": "cust-001",
+    "customerName": "Passengers 1",
+    "email": "contact1@customer.zm",
+    "phone": "+260-094-776302",
+    "address": "Aviation House, Lusaka International Airport, Lusaka",
+    "taxId": "TPIN-2151973881",
+    "creditLimit": 20000,
+    "outstandingBalance": 24045
+  },
+  {
+    "id": "cust-002",
+    "customerName": "Tour Operators 2",
+    "email": "contact2@customer.zm",
+    "phone": "+260-095-982012",
+    "address": "Aviation House, Lusaka International Airport, Lusaka",
+    "taxId": "TPIN-1915237577",
+    "creditLimit": 30000,
+    "outstandingBalance": 11590
+  },
+  {
+    "id": "cust-003",
+    "customerName": "Passengers 3",
+    "email": "contact3@customer.zm",
+    "phone": "+260-097-907526",
+    "address": "Aviation House, Lusaka International Airport, Lusaka",
+    "taxId": "TPIN-7543645551",
+    "creditLimit": 75000,
+    "outstandingBalance": 18719
+  },
+  {
+    "id": "cust-004",
+    "customerName": "Cargo Shippers 4",
+    "email": "contact4@customer.zm",
+    "phone": "+260-216-158055",
+    "address": "Aviation House, Lusaka International Airport, Lusaka",
+    "taxId": "TPIN-4839447005",
+    "creditLimit": 30000,
+    "outstandingBalance": 24600
+  },
+  {
+    "id": "cust-005",
+    "customerName": "Passengers 5",
+    "email": "contact5@customer.zm",
+    "phone": "+260-096-777665",
+    "address": "Aviation House, Lusaka International Airport, Lusaka",
+    "taxId": "TPIN-3944162296",
+    "creditLimit": 20000,
+    "outstandingBalance": 18962
+  },
+  {
+    "id": "cust-006",
+    "customerName": "Passengers 6",
+    "email": "contact6@customer.zm",
+    "phone": "+260-094-787561",
+    "address": "Aviation House, Lusaka International Airport, Lusaka",
+    "taxId": "TPIN-5306281234",
+    "creditLimit": 50000,
+    "outstandingBalance": 22896
+  },
+  {
+    "id": "cust-007",
+    "customerName": "Corporate Clients 7",
+    "email": "contact7@customer.zm",
+    "phone": "+260-216-376244",
+    "address": "Aviation House, Lusaka International Airport, Lusaka",
+    "taxId": "TPIN-9728290609",
+    "creditLimit": 50000,
+    "outstandingBalance": 23539
+  },
+  {
+    "id": "cust-008",
+    "customerName": "Cargo Shippers 8",
+    "email": "contact8@customer.zm",
+    "phone": "+260-096-791057",
+    "address": "Aviation House, Lusaka International Airport, Lusaka",
+    "taxId": "TPIN-6314523472",
+    "creditLimit": 50000,
+    "outstandingBalance": 2377
+  },
+  {
+    "id": "cust-009",
+    "customerName": "Tour Operators 9",
+    "email": "contact9@customer.zm",
+    "phone": "+260-216-738689",
+    "address": "Aviation House, Lusaka International Airport, Lusaka",
+    "taxId": "TPIN-2305422100",
+    "creditLimit": 30000,
+    "outstandingBalance": 9729
+  },
+  {
+    "id": "cust-010",
+    "customerName": "Tour Operators 10",
+    "email": "contact10@customer.zm",
+    "phone": "+260-097-575211",
+    "address": "Aviation House, Lusaka International Airport, Lusaka",
+    "taxId": "TPIN-2905805222",
+    "creditLimit": 50000,
+    "outstandingBalance": 11482
+  },
+  {
+    "id": "cust-011",
+    "customerName": "Tour Operators 11",
+    "email": "contact11@customer.zm",
+    "phone": "+260-097-648317",
+    "address": "Aviation House, Lusaka International Airport, Lusaka",
+    "taxId": "TPIN-5959074987",
+    "creditLimit": 30000,
+    "outstandingBalance": 1467
+  },
+  {
+    "id": "cust-012",
+    "customerName": "Passengers 12",
+    "email": "contact12@customer.zm",
+    "phone": "+260-096-983150",
+    "address": "Aviation House, Lusaka International Airport, Lusaka",
+    "taxId": "TPIN-9329314792",
+    "creditLimit": 30000,
+    "outstandingBalance": 22242
+  },
+  {
+    "id": "cust-013",
+    "customerName": "Corporate Clients 13",
+    "email": "contact13@customer.zm",
+    "phone": "+260-097-803107",
+    "address": "Aviation House, Lusaka International Airport, Lusaka",
+    "taxId": "TPIN-1296808794",
+    "creditLimit": 20000,
+    "outstandingBalance": 4659
+  },
+  {
+    "id": "cust-014",
+    "customerName": "Corporate Clients 14",
+    "email": "contact14@customer.zm",
+    "phone": "+260-095-497412",
+    "address": "Aviation House, Lusaka International Airport, Lusaka",
+    "taxId": "TPIN-1158023232",
+    "creditLimit": 50000,
+    "outstandingBalance": 5845
+  },
+  {
+    "id": "cust-015",
+    "customerName": "Corporate Clients 15",
+    "email": "contact15@customer.zm",
+    "phone": "+260-095-501634",
+    "address": "Aviation House, Lusaka International Airport, Lusaka",
+    "taxId": "TPIN-5067553784",
+    "creditLimit": 30000,
+    "outstandingBalance": 13078
+  },
+  {
+    "id": "cust-016",
+    "customerName": "Passengers 16",
+    "email": "contact16@customer.zm",
+    "phone": "+260-097-424748",
+    "address": "Aviation House, Lusaka International Airport, Lusaka",
+    "taxId": "TPIN-6392354221",
+    "creditLimit": 20000,
+    "outstandingBalance": 3060
+  },
+  {
+    "id": "cust-017",
+    "customerName": "Corporate Clients 17",
+    "email": "contact17@customer.zm",
+    "phone": "+260-217-697035",
+    "address": "Aviation House, Lusaka International Airport, Lusaka",
+    "taxId": "TPIN-7504499505",
+    "creditLimit": 100000,
+    "outstandingBalance": 18493
+  },
+  {
+    "id": "cust-018",
+    "customerName": "Tour Operators 18",
+    "email": "contact18@customer.zm",
+    "phone": "+260-094-795028",
+    "address": "Aviation House, Lusaka International Airport, Lusaka",
+    "taxId": "TPIN-5532008150",
+    "creditLimit": 20000,
+    "outstandingBalance": 12179
+  },
+  {
+    "id": "cust-019",
+    "customerName": "Passengers 19",
+    "email": "contact19@customer.zm",
+    "phone": "+260-094-427080",
+    "address": "Aviation House, Lusaka International Airport, Lusaka",
+    "taxId": "TPIN-4633073584",
+    "creditLimit": 75000,
+    "outstandingBalance": 6086
+  },
+  {
+    "id": "cust-020",
+    "customerName": "Passengers 20",
+    "email": "contact20@customer.zm",
+    "phone": "+260-217-283833",
+    "address": "Aviation House, Lusaka International Airport, Lusaka",
+    "taxId": "TPIN-3376273230",
+    "creditLimit": 50000,
+    "outstandingBalance": 15348
+  },
+  {
+    "id": "cust-021",
+    "customerName": "Corporate Clients 21",
+    "email": "contact21@customer.zm",
+    "phone": "+260-094-291756",
+    "address": "Aviation House, Lusaka International Airport, Lusaka",
+    "taxId": "TPIN-9609259317",
+    "creditLimit": 50000,
+    "outstandingBalance": 21042
+  },
+  {
+    "id": "cust-022",
+    "customerName": "Tour Operators 22",
+    "email": "contact22@customer.zm",
+    "phone": "+260-097-172907",
+    "address": "Aviation House, Lusaka International Airport, Lusaka",
+    "taxId": "TPIN-1382831171",
+    "creditLimit": 100000,
+    "outstandingBalance": 5797
+  },
+  {
+    "id": "cust-023",
+    "customerName": "Cargo Shippers 23",
+    "email": "contact23@customer.zm",
+    "phone": "+260-096-195708",
+    "address": "Aviation House, Lusaka International Airport, Lusaka",
+    "taxId": "TPIN-8705976272",
+    "creditLimit": 50000,
+    "outstandingBalance": 13463
+  },
+  {
+    "id": "cust-024",
+    "customerName": "Passengers 24",
+    "email": "contact24@customer.zm",
+    "phone": "+260-095-524783",
+    "address": "Aviation House, Lusaka International Airport, Lusaka",
+    "taxId": "TPIN-1029538087",
+    "creditLimit": 20000,
+    "outstandingBalance": 7267
+  },
+  {
+    "id": "cust-025",
+    "customerName": "Tour Operators 25",
+    "email": "contact25@customer.zm",
+    "phone": "+260-094-765559",
+    "address": "Aviation House, Lusaka International Airport, Lusaka",
+    "taxId": "TPIN-4289751030",
+    "creditLimit": 30000,
+    "outstandingBalance": 7456
+  },
+  {
+    "id": "cust-026",
+    "customerName": "Tour Operators 26",
+    "email": "contact26@customer.zm",
+    "phone": "+260-095-952842",
+    "address": "Aviation House, Lusaka International Airport, Lusaka",
+    "taxId": "TPIN-4658868568",
+    "creditLimit": 75000,
+    "outstandingBalance": 12807
+  },
+  {
+    "id": "cust-027",
+    "customerName": "Corporate Clients 27",
+    "email": "contact27@customer.zm",
+    "phone": "+260-096-269855",
+    "address": "Aviation House, Lusaka International Airport, Lusaka",
+    "taxId": "TPIN-8558458785",
+    "creditLimit": 50000,
+    "outstandingBalance": 1984
+  },
+  {
+    "id": "cust-028",
+    "customerName": "Tour Operators 28",
+    "email": "contact28@customer.zm",
+    "phone": "+260-094-378219",
+    "address": "Aviation House, Lusaka International Airport, Lusaka",
+    "taxId": "TPIN-4000361445",
+    "creditLimit": 50000,
+    "outstandingBalance": 23601
+  },
+  {
+    "id": "cust-029",
+    "customerName": "Tour Operators 29",
+    "email": "contact29@customer.zm",
+    "phone": "+260-097-312997",
+    "address": "Aviation House, Lusaka International Airport, Lusaka",
+    "taxId": "TPIN-3089878296",
+    "creditLimit": 20000,
+    "outstandingBalance": 2689
+  },
+  {
+    "id": "cust-030",
+    "customerName": "Tour Operators 30",
+    "email": "contact30@customer.zm",
+    "phone": "+260-216-564871",
+    "address": "Aviation House, Lusaka International Airport, Lusaka",
+    "taxId": "TPIN-1629579768",
+    "creditLimit": 100000,
+    "outstandingBalance": 12963
+  }
+]

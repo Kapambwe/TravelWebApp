@@ -1,0 +1,191 @@
+[
+  {
+    "id": 1,
+    "estimateNumber": "EST-2025-001",
+    "customerId": 8,
+    "customerName": "Chanda Commission Limited",
+    "estimateDateDaysAgo": 44,
+    "expirationDateDaysFromNow": 21,
+    "status": "Accepted",
+    "subTotal": 1080583.06,
+    "taxRate": 0,
+    "taxAmount": 0.0,
+    "total": 1080583.06,
+    "terms": "Net 45",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 44,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Audit Services",
+        "quantity": 4,
+        "unitPrice": 270145.77,
+        "amount": 1080583.06,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 43
+  },
+  {
+    "id": 2,
+    "estimateNumber": "EST-2025-002",
+    "customerId": 2,
+    "customerName": "Bwalya Commission Limited",
+    "estimateDateDaysAgo": 38,
+    "expirationDateDaysFromNow": 45,
+    "status": "Accepted",
+    "subTotal": 2842606.63,
+    "taxRate": 18,
+    "taxAmount": 511669.19,
+    "total": 3354275.82,
+    "terms": "Net 15",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 38,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Project Management",
+        "quantity": 4,
+        "unitPrice": 710651.66,
+        "amount": 2842606.63,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 37
+  },
+  {
+    "id": 3,
+    "estimateNumber": "EST-2025-003",
+    "customerId": 5,
+    "customerName": "Bwalya Commission Limited",
+    "estimateDateDaysAgo": 37,
+    "expirationDateDaysFromNow": 19,
+    "status": "Expired",
+    "subTotal": 2472219.67,
+    "taxRate": 16,
+    "taxAmount": 395555.15,
+    "total": 2867774.82,
+    "terms": "Net 30",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 37,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Technical Consulting",
+        "quantity": 5,
+        "unitPrice": 494443.93,
+        "amount": 2472219.67,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 36
+  },
+  {
+    "id": 4,
+    "estimateNumber": "EST-2025-004",
+    "customerId": 7,
+    "customerName": "Zulu Commission Holdings",
+    "estimateDateDaysAgo": 24,
+    "expirationDateDaysFromNow": 32,
+    "status": "Sent",
+    "subTotal": 3932974.08,
+    "taxRate": 15,
+    "taxAmount": 589946.11,
+    "total": 4522920.19,
+    "terms": "Net 30",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 24,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Audit Services",
+        "quantity": 5,
+        "unitPrice": 786594.82,
+        "amount": 3932974.08,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 23
+  },
+  {
+    "id": 5,
+    "estimateNumber": "EST-2025-005",
+    "customerId": 6,
+    "customerName": "Siame Corporation Co.",
+    "estimateDateDaysAgo": 29,
+    "expirationDateDaysFromNow": 44,
+    "status": "Open",
+    "subTotal": 591966.41,
+    "taxRate": 0,
+    "taxAmount": 0.0,
+    "total": 591966.41,
+    "terms": "Net 15",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 29,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Infrastructure Project Fee",
+        "quantity": 5,
+        "unitPrice": 118393.28,
+        "amount": 591966.41,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 28
+  },
+  {
+    "id": 6,
+    "estimateNumber": "EST-2025-006",
+    "customerId": 5,
+    "customerName": "Bwalya Commission Limited",
+    "estimateDateDaysAgo": 9,
+    "expirationDateDaysFromNow": 39,
+    "status": "Accepted",
+    "subTotal": 3384675.17,
+    "taxRate": 15,
+    "taxAmount": 507701.28,
+    "total": 3892376.45,
+    "terms": "Net 15",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 9,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Project Management",
+        "quantity": 4,
+        "unitPrice": 846168.79,
+        "amount": 3384675.17,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 8
+  },
+  {
+    "id": 7,
+    "estimateNumber": "EST-2025-007",
+    "customerId": 1,
+    "customerName": "Sakala Commission Limited",
+    "estimateDateDaysAgo": 60,
+    "expirationDateDaysFromNow": 38,
+    "status": "Sent",
+    "subTotal": 2398927.7,
+    "taxRate": 0,
+    "taxAmount": 0.0,
+    "total": 2398927.7,
+    "terms": "Net 45",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 60,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Capacity Building Program",
+        "quantity": 4,
+        "unitPrice": 599731.93,
+        "amount": 2398927.7,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 59
+  }
+]

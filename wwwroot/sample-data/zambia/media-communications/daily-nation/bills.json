@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "billNumber": "BILL-2025-001",
+    "vendorName": "Mumba Broadcasting Group",
+    "description": "Studio Production Costs",
+    "billDate": "2024-12-07T00:00:00",
+    "dueDate": "2025-01-06T00:00:00",
+    "amount": 165084.2,
+    "paidAmount": 0.0,
+    "status": "Overdue"
+  },
+  {
+    "id": 2,
+    "billNumber": "BILL-2025-002",
+    "vendorName": "Mumba Broadcasting Group",
+    "description": "License Fees",
+    "billDate": "2025-02-05T00:00:00",
+    "dueDate": "2025-03-07T00:00:00",
+    "amount": 1475045.16,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 3,
+    "billNumber": "BILL-2025-003",
+    "vendorName": "Sakala Media Enterprises",
+    "description": "License Fees",
+    "billDate": "2025-02-28T00:00:00",
+    "dueDate": "2025-03-15T00:00:00",
+    "amount": 696100.26,
+    "paidAmount": 696100.26,
+    "status": "Paid"
+  },
+  {
+    "id": 4,
+    "billNumber": "BILL-2025-004",
+    "vendorName": "Mulenga Broadcasting Limited",
+    "description": "Broadcasting Equipment Hire",
+    "billDate": "2024-12-31T00:00:00",
+    "dueDate": "2025-01-30T00:00:00",
+    "amount": 108737.06,
+    "paidAmount": 108737.06,
+    "status": "Paid"
+  },
+  {
+    "id": 5,
+    "billNumber": "BILL-2025-005",
+    "vendorName": "Phiri Digital Media Inc.",
+    "description": "Broadcasting Equipment Hire",
+    "billDate": "2025-01-02T00:00:00",
+    "dueDate": "2025-01-17T00:00:00",
+    "amount": 2604862.15,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 6,
+    "billNumber": "BILL-2025-006",
+    "vendorName": "Sakala Media Enterprises",
+    "description": "Printing Costs",
+    "billDate": "2024-11-11T00:00:00",
+    "dueDate": "2024-12-26T00:00:00",
+    "amount": 87547.52,
+    "paidAmount": 87547.52,
+    "status": "Paid"
+  },
+  {
+    "id": 7,
+    "billNumber": "BILL-2025-007",
+    "vendorName": "Ngosa Broadcasting Inc.",
+    "description": "License Fees",
+    "billDate": "2024-10-15T00:00:00",
+    "dueDate": "2024-10-30T00:00:00",
+    "amount": 1440503.7,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 8,
+    "billNumber": "BILL-2025-008",
+    "vendorName": "Mulenga Digital Media Group",
+    "description": "License Fees",
+    "billDate": "2024-11-28T00:00:00",
+    "dueDate": "2025-01-12T00:00:00",
+    "amount": 2915956.3,
+    "paidAmount": 2915956.3,
+    "status": "Paid"
+  }
+]

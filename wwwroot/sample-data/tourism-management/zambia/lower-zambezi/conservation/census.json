@@ -1,0 +1,18 @@
+﻿[
+    {
+        "Id":  1,
+        "Count":  2100,
+        "Method":  "Direct Count / Aerial Survey",
+        "Date":  "2024-05-01T00:00:00",
+        "SpeciesId":  5,
+        "Location":  "Lower Zambezi National Park Sector Alpha"
+    },
+    {
+        "Id":  2,
+        "Count":  3800,
+        "Method":  "Camera Trapping \u0026 Spoor Count",
+        "Date":  "2024-05-03T00:00:00",
+        "SpeciesId":  6,
+        "Location":  "Lower Zambezi National Park Sector Beta"
+    }
+]

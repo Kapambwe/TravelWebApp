@@ -1,0 +1,135 @@
+[
+  {
+    "id": 1,
+    "estimateNumber": "EST-2025-001",
+    "customerId": 3,
+    "customerName": "Phiri Music Group Ltd",
+    "estimateDateDaysAgo": 35,
+    "expirationDateDaysFromNow": 20,
+    "status": "Sent",
+    "subTotal": 606869.03,
+    "taxRate": 18,
+    "taxAmount": 109236.43,
+    "total": 716105.46,
+    "terms": "Net 30",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 35,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Performance Fee",
+        "quantity": 3,
+        "unitPrice": 202289.68,
+        "amount": 606869.03,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 34
+  },
+  {
+    "id": 2,
+    "estimateNumber": "EST-2025-002",
+    "customerId": 5,
+    "customerName": "Lungu Music Group Enterprises",
+    "estimateDateDaysAgo": 23,
+    "expirationDateDaysFromNow": 16,
+    "status": "Accepted",
+    "subTotal": 2030213.61,
+    "taxRate": 15,
+    "taxAmount": 304532.04,
+    "total": 2334745.65,
+    "terms": "Net 30",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 23,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Brand Deal",
+        "quantity": 2,
+        "unitPrice": 1015106.81,
+        "amount": 2030213.61,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 22
+  },
+  {
+    "id": 3,
+    "estimateNumber": "EST-2025-003",
+    "customerId": 2,
+    "customerName": "Musonda Entertainment Ltd",
+    "estimateDateDaysAgo": 24,
+    "expirationDateDaysFromNow": 38,
+    "status": "Draft",
+    "subTotal": 3696758.82,
+    "taxRate": 18,
+    "taxAmount": 665416.59,
+    "total": 4362175.41,
+    "terms": "Net 45",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 24,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Streaming Royalty",
+        "quantity": 5,
+        "unitPrice": 739351.76,
+        "amount": 3696758.82,
+        "itemType": "Service"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "estimateNumber": "EST-2025-004",
+    "customerId": 1,
+    "customerName": "Bwalya Creative Agency Solutions",
+    "estimateDateDaysAgo": 22,
+    "expirationDateDaysFromNow": 43,
+    "status": "Sent",
+    "subTotal": 65150.31,
+    "taxRate": 16,
+    "taxAmount": 10424.05,
+    "total": 75574.36,
+    "terms": "Net 45",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 22,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Brand Deal",
+        "quantity": 4,
+        "unitPrice": 16287.58,
+        "amount": 65150.31,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 21
+  },
+  {
+    "id": 5,
+    "estimateNumber": "EST-2025-005",
+    "customerId": 8,
+    "customerName": "Chileshe Creative Agency Enterprises",
+    "estimateDateDaysAgo": 47,
+    "expirationDateDaysFromNow": 38,
+    "status": "Draft",
+    "subTotal": 1977374.31,
+    "taxRate": 16,
+    "taxAmount": 316379.89,
+    "total": 2293754.2,
+    "terms": "Net 30",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 47,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Music Licensing",
+        "quantity": 2,
+        "unitPrice": 988687.16,
+        "amount": 1977374.31,
+        "itemType": "Service"
+      }
+    ]
+  }
+]

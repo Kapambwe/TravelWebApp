@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "billNumber": "BILL-2025-001",
+    "vendorName": "Lungu Haulage Limited",
+    "description": "Vehicle Maintenance",
+    "billDate": "2024-10-03T00:00:00",
+    "dueDate": "2024-11-02T00:00:00",
+    "amount": 260268.21,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 2,
+    "billNumber": "BILL-2025-002",
+    "vendorName": "Kaputo Haulage Inc.",
+    "description": "Vehicle Maintenance",
+    "billDate": "2024-10-08T00:00:00",
+    "dueDate": "2024-11-22T00:00:00",
+    "amount": 1281447.71,
+    "paidAmount": 1281447.71,
+    "status": "Paid"
+  },
+  {
+    "id": 3,
+    "billNumber": "BILL-2025-003",
+    "vendorName": "Bwalya Freight Enterprises",
+    "description": "Driver Wages",
+    "billDate": "2024-09-27T00:00:00",
+    "dueDate": "2024-10-12T00:00:00",
+    "amount": 1329509.64,
+    "paidAmount": 800203.72,
+    "status": "PartiallyPaid"
+  },
+  {
+    "id": 4,
+    "billNumber": "BILL-2025-004",
+    "vendorName": "Chanda Freight Group",
+    "description": "Fleet Insurance",
+    "billDate": "2025-01-11T00:00:00",
+    "dueDate": "2025-02-10T00:00:00",
+    "amount": 2190267.86,
+    "paidAmount": 0.0,
+    "status": "Overdue"
+  },
+  {
+    "id": 5,
+    "billNumber": "BILL-2025-005",
+    "vendorName": "Lungu Haulage Limited",
+    "description": "Driver Wages",
+    "billDate": "2024-10-19T00:00:00",
+    "dueDate": "2024-11-03T00:00:00",
+    "amount": 1143227.37,
+    "paidAmount": 650491.23,
+    "status": "PartiallyPaid"
+  },
+  {
+    "id": 6,
+    "billNumber": "BILL-2025-006",
+    "vendorName": "Lungu Freight Group",
+    "description": "Driver Wages",
+    "billDate": "2024-12-13T00:00:00",
+    "dueDate": "2024-12-28T00:00:00",
+    "amount": 472841.09,
+    "paidAmount": 472841.09,
+    "status": "Paid"
+  },
+  {
+    "id": 7,
+    "billNumber": "BILL-2025-007",
+    "vendorName": "Kaputo Haulage Inc.",
+    "description": "Fuel Purchase",
+    "billDate": "2024-11-04T00:00:00",
+    "dueDate": "2024-12-19T00:00:00",
+    "amount": 36593.34,
+    "paidAmount": 0.0,
+    "status": "Overdue"
+  },
+  {
+    "id": 8,
+    "billNumber": "BILL-2025-008",
+    "vendorName": "Lungu Haulage Limited",
+    "description": "Spare Parts & Tyres",
+    "billDate": "2024-12-31T00:00:00",
+    "dueDate": "2025-01-15T00:00:00",
+    "amount": 436794.06,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 9,
+    "billNumber": "BILL-2025-009",
+    "vendorName": "Phiri Cargo Limited",
+    "description": "Fuel Purchase",
+    "billDate": "2025-02-25T00:00:00",
+    "dueDate": "2025-03-12T00:00:00",
+    "amount": 99678.69,
+    "paidAmount": 99678.69,
+    "status": "Paid"
+  },
+  {
+    "id": 10,
+    "billNumber": "BILL-2025-010",
+    "vendorName": "Lungu Haulage Inc.",
+    "description": "Fleet Insurance",
+    "billDate": "2024-10-01T00:00:00",
+    "dueDate": "2024-10-16T00:00:00",
+    "amount": 756013.94,
+    "paidAmount": 0.0,
+    "status": "Open"
+  },
+  {
+    "id": 11,
+    "billNumber": "BILL-2025-011",
+    "vendorName": "Lungu Haulage Inc.",
+    "description": "Spare Parts & Tyres",
+    "billDate": "2024-11-30T00:00:00",
+    "dueDate": "2024-12-30T00:00:00",
+    "amount": 3285711.53,
+    "paidAmount": 0.0,
+    "status": "Overdue"
+  },
+  {
+    "id": 12,
+    "billNumber": "BILL-2025-012",
+    "vendorName": "Chanda Freight Group",
+    "description": "Spare Parts & Tyres",
+    "billDate": "2024-10-12T00:00:00",
+    "dueDate": "2024-11-11T00:00:00",
+    "amount": 1434510.97,
+    "paidAmount": 0.0,
+    "status": "Open"
+  }
+]

@@ -1,0 +1,21 @@
+{
+  "userId": "user-macky2-001",
+  "userName": "admin@macky2.co.zm",
+  "fullName": "Mulaza Kaira (Macky 2)",
+  "roles": [
+    "CEO",
+    "Artist",
+    "Property Developer"
+  ],
+  "companyId": "macky2-ent-001",
+  "companyName": "Macky 2 Entertainment & Properties",
+  "permissions": [
+    "ViewReports",
+    "CreateTransactions",
+    "ApproveBudgets",
+    "ManageProperties",
+    "ManageMusicSales",
+    "ViewRoyalties",
+    "ManageInvestments"
+  ]
+}

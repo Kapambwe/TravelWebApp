@@ -1,0 +1,109 @@
+{
+  "vendors": [
+    {
+      "id": 1,
+      "vendorName": "Chanda Banda",
+      "companyName": "Mulenga Industrial Enterprises",
+      "contactPerson": "Chanda Banda",
+      "email": "chandabanda@banda.co.zm",
+      "phone": "+260 391 381 161",
+      "city": "Lusaka",
+      "country": "Zambia",
+      "defaultPaymentTerms": "Net 45",
+      "taxId": "TAX-616917",
+      "totalAmountOwed": 526996.43
+    },
+    {
+      "id": 2,
+      "vendorName": "Bwalya Chileshe",
+      "companyName": "Lungu Industries Co.",
+      "contactPerson": "Bwalya Chileshe",
+      "email": "bwalyachiles@chileshe.co.zm",
+      "phone": "+260 253 972 393",
+      "city": "Ndola",
+      "country": "Zambia",
+      "defaultPaymentTerms": "Due on Receipt",
+      "taxId": "TAX-711252",
+      "totalAmountOwed": 352913.45
+    },
+    {
+      "id": 3,
+      "vendorName": "Sakala Mutale",
+      "companyName": "Chanda Industries Holdings",
+      "contactPerson": "Sakala Mutale",
+      "email": "sakalamutale@mutale.co.zm",
+      "phone": "+260 510 249 399",
+      "city": "Ndola",
+      "country": "Zambia",
+      "defaultPaymentTerms": "Net 30",
+      "taxId": "TAX-170234",
+      "totalAmountOwed": 443965.92
+    },
+    {
+      "id": 4,
+      "vendorName": "Ngosa Bwalya",
+      "companyName": "Mutale Factory Ltd Inc.",
+      "contactPerson": "Ngosa Bwalya",
+      "email": "ngosabwalya@bwalya.co.zm",
+      "phone": "+260 278 743 382",
+      "city": "Livingstone",
+      "country": "Zambia",
+      "defaultPaymentTerms": "Net 15",
+      "taxId": "TAX-262696",
+      "totalAmountOwed": 61933.96
+    },
+    {
+      "id": 5,
+      "vendorName": "Chanda Sakala",
+      "companyName": "Mwale Products Co.",
+      "contactPerson": "Chanda Sakala",
+      "email": "chandasakala@sakala.co.zm",
+      "phone": "+260 131 254 945",
+      "city": "Kabwe",
+      "country": "Zambia",
+      "defaultPaymentTerms": "Due on Receipt",
+      "taxId": "TAX-542310",
+      "totalAmountOwed": 152854.25
+    },
+    {
+      "id": 6,
+      "vendorName": "Sakala Chanda",
+      "companyName": "Mwamba Factory Ltd Inc.",
+      "contactPerson": "Sakala Chanda",
+      "email": "sakalachanda@chanda.co.zm",
+      "phone": "+260 777 203 997",
+      "city": "Ndola",
+      "country": "Zambia",
+      "defaultPaymentTerms": "Due on Receipt",
+      "taxId": "TAX-124088",
+      "totalAmountOwed": 556651.51
+    },
+    {
+      "id": 7,
+      "vendorName": "Nkole Mwamba",
+      "companyName": "Bwalya Industrial Group",
+      "contactPerson": "Nkole Mwamba",
+      "email": "nkolemwamba@mwamba.co.zm",
+      "phone": "+260 324 816 577",
+      "city": "Lusaka",
+      "country": "Zambia",
+      "defaultPaymentTerms": "Net 45",
+      "taxId": "TAX-692263",
+      "totalAmountOwed": 154650.57
+    },
+    {
+      "id": 8,
+      "vendorName": "Chisanga Kaputo",
+      "companyName": "Phiri Industries Solutions",
+      "contactPerson": "Chisanga Kaputo",
+      "email": "chisangakapu@kaputo.co.zm",
+      "phone": "+260 706 776 776",
+      "city": "Mufulira",
+      "country": "Zambia",
+      "defaultPaymentTerms": "Due on Receipt",
+      "taxId": "TAX-359919",
+      "totalAmountOwed": 202518.64
+    }
+  ],
+  "vendorCredits": []
+}

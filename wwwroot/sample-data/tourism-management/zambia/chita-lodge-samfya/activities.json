@@ -1,0 +1,32 @@
+﻿[
+    {
+        "BasePrice":  6500,
+        "Capacity":  6,
+        "IsActive":  true,
+        "Id":  401,
+        "Name":  "Bangweulu Swamps Shoebill Search",
+        "Type":  8,
+        "Description":  "Guided boat excursion into the swamps to spot the rare Shoebill Stork.",
+        "Duration":  360
+    },
+    {
+        "BasePrice":  2500,
+        "Capacity":  2,
+        "IsActive":  true,
+        "Id":  402,
+        "Name":  "Lake Bangweulu Jet Skiing",
+        "Type":  5,
+        "Description":  "Premium jet ski rental on the lake.",
+        "Duration":  60
+    },
+    {
+        "BasePrice":  1800,
+        "Capacity":  40,
+        "IsActive":  true,
+        "Id":  403,
+        "Name":  "Beach Volleyball \u0026 BBQ Party",
+        "Type":  8,
+        "Description":  "Evening social event on Chita\u0027s private white sand beach.",
+        "Duration":  240
+    }
+]

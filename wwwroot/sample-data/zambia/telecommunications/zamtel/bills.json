@@ -1,0 +1,12 @@
+[
+  {"id":1,"billNumber":"BILL-2025-001","vendorName":"Huawei Technologies Zambia","description":"Huawei Network Equipment Maintenance","billDate":"2025-01-10T00:00:00","dueDate":"2025-02-09T00:00:00","amount":4800000.00,"paidAmount":4800000.00,"status":"Paid"},
+  {"id":2,"billNumber":"BILL-2025-002","vendorName":"Nokia Networks Zambia","description":"Nokia Radio Network Service Contract","billDate":"2025-01-18T00:00:00","dueDate":"2025-02-17T00:00:00","amount":3200000.00,"paidAmount":3200000.00,"status":"Paid"},
+  {"id":3,"billNumber":"BILL-2025-003","vendorName":"Ericsson Zambia","description":"Ericsson Core Network Support","billDate":"2025-02-01T00:00:00","dueDate":"2025-03-03T00:00:00","amount":2800000.00,"paidAmount":0.00,"status":"Open"},
+  {"id":4,"billNumber":"BILL-2025-004","vendorName":"NAPSA","description":"NAPSA Employer Contributions - Q1 2025","billDate":"2025-03-01T00:00:00","dueDate":"2025-03-31T00:00:00","amount":1850000.00,"paidAmount":1850000.00,"status":"Paid"},
+  {"id":5,"billNumber":"BILL-2025-005","vendorName":"Cisco Systems Zambia","description":"Cisco Router and Switching Equipment","billDate":"2025-02-10T00:00:00","dueDate":"2025-03-12T00:00:00","amount":2100000.00,"paidAmount":2100000.00,"status":"Paid"},
+  {"id":6,"billNumber":"BILL-2025-006","vendorName":"Liquid Telecom Zambia","description":"Liquid Telecom International Bandwidth","billDate":"2025-02-15T00:00:00","dueDate":"2025-03-17T00:00:00","amount":3500000.00,"paidAmount":0.00,"status":"Open"},
+  {"id":7,"billNumber":"BILL-2025-007","vendorName":"Oracle Zambia","description":"Oracle Database Licensing","billDate":"2025-03-05T00:00:00","dueDate":"2025-04-04T00:00:00","amount":2600000.00,"paidAmount":0.00,"status":"Open"},
+  {"id":8,"billNumber":"BILL-2025-008","vendorName":"ZESCO Limited","description":"ZESCO Tower Site Electricity Supply","billDate":"2025-01-20T00:00:00","dueDate":"2025-02-19T00:00:00","amount":4200000.00,"paidAmount":4200000.00,"status":"Paid"},
+  {"id":9,"billNumber":"BILL-2025-009","vendorName":"SAP Zambia Ltd","description":"SAP Enterprise System License and Support","billDate":"2025-01-25T00:00:00","dueDate":"2025-02-24T00:00:00","amount":1800000.00,"paidAmount":0.00,"status":"Overdue"},
+  {"id":10,"billNumber":"BILL-2025-010","vendorName":"Zambia Revenue Authority","description":"ZRA Corporate Tax Q1 2025","billDate":"2025-03-31T00:00:00","dueDate":"2025-04-30T00:00:00","amount":5500000.00,"paidAmount":5500000.00,"status":"Paid"}
+]

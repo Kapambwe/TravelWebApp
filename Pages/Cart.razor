@@ -1,0 +1,105 @@
+@page "/cart"
+@using TravelWebApp.Services
+@inject ICartService CartService
+@inject NavigationManager Navigation
+
+<div class="page-section">
+    <RadzenText TextStyle="TextStyle.H3" Style="margin-bottom:24px;">Your Travel Plan</RadzenText>
+
+    @if (CartService.Items.Count == 0)
+    {
+        <RadzenCard Style="text-align:center;padding:60px 0;">
+            <div style="font-size:4rem;margin-bottom:16px;">🛒</div>
+            <RadzenText TextStyle="TextStyle.H5">Your cart is empty</RadzenText>
+            <RadzenText Style="color:var(--text-secondary);margin:8px 0 24px;">Start adding accommodations and activities to your adventure!</RadzenText>
+            <RadzenButton Text="Browse Destinations" ButtonStyle="ButtonStyle.Primary" Click="@(() => Navigation.NavigateTo("/"))" />
+        </RadzenCard>
+    }
+    else
+    {
+        <RadzenRow>
+            <RadzenColumn Size="8" SizeMD="12">
+                @foreach (var item in CartService.Items)
+                {
+                    <RadzenCard Style="margin-bottom:16px;padding:0;overflow:hidden;">
+                        <div style="display:flex;gap:20px;">
+                            <div style="width:180px;height:140px;background:linear-gradient(135deg,#003B95,#002A6E);display:flex;align-items:center;justify-content:center;flex-shrink:0;">
+                                <span style="font-size:3rem;">@(GetIcon(item.Type))</span>
+                            </div>
+                            <div style="flex:1;padding:16px;display:flex;flex-direction:column;justify-content:space-between;">
+                                <div>
+                                    <div style="display:flex;justify-content:space-between;">
+                                        <RadzenText TextStyle="TextStyle.H6">@item.Name</RadzenText>
+                                        <RadzenButton Icon="delete" ButtonStyle="ButtonStyle.Light" Size="ButtonSize.Small" Click="@(() => CartService.RemoveItem(item.Id))" />
+                                    </div>
+                                    <RadzenText TextStyle="TextStyle.Body2" Style="color:var(--text-secondary);">@item.Description</RadzenText>
+                                    @if (item.Date.HasValue)
+                                    {
+                                        <div style="margin-top:8px;font-size:0.875rem;color:var(--primary);font-weight:500;">
+                                            📅 @item.Date.Value.ToString("dd MMM yyyy") 
+                                            @if (item.EndDate.HasValue) { <text> - @item.EndDate.Value.ToString("dd MMM yyyy")</text> }
+                                        </div>
+                                    }
+                                </div>
+                                <div style="display:flex;justify-content:space-between;align-items:flex-end;margin-top:12px;">
+                                    <RadzenText TextStyle="TextStyle.Body1">
+                                        R@((int)item.Price) x @item.Quantity @(item.Type == "Accommodation" ? "nights" : "person(s)")
+                                    </RadzenText>
+                                    <RadzenText TextStyle="TextStyle.H6" Style="color:var(--primary);font-weight:700;">R@((int)(item.Price * item.Quantity))</RadzenText>
+                                </div>
+                            </div>
+                        </div>
+                    </RadzenCard>
+                }
+            </RadzenColumn>
+            <RadzenColumn Size="4" SizeMD="12">
+                <RadzenCard Style="padding:24px;position:sticky;top:88px;">
+                    <RadzenText TextStyle="TextStyle.H5" Style="margin-bottom:20px;">Summary</RadzenText>
+                    
+                    <div style="display:flex;justify-content:space-between;margin-bottom:12px;">
+                        <span>Subtotal (@CartService.Items.Count items)</span>
+                        <span>R@((int)CartService.GetTotal())</span>
+                    </div>
+                    <div style="display:flex;justify-content:space-between;margin-bottom:12px;">
+                        <span>Taxes & Fees</span>
+                        <span>Included</span>
+                    </div>
+                    
+                    <div style="border-top:2px solid #1A1A2E;margin-top:16px;padding-top:16px;display:flex;justify-content:space-between;font-size:1.25rem;font-weight:700;margin-bottom:24px;">
+                        <span>Total</span>
+                        <span style="color:var(--primary);">R@((int)CartService.GetTotal())</span>
+                    </div>
+                    
+                    <RadzenButton Text="Checkout" ButtonStyle="ButtonStyle.Primary" Style="width:100%;padding:14px;font-size:1.1rem;border-radius:8px;" Click="@(() => Navigation.NavigateTo("/checkout"))" />
+                    
+                    <div style="text-align:center;margin-top:16px;">
+                        <RadzenText TextStyle="TextStyle.Caption" Style="color:var(--text-secondary);">
+                            🔒 Secure booking &middot; No hidden fees
+                        </RadzenText>
+                    </div>
+                </RadzenCard>
+            </RadzenColumn>
+        </RadzenRow>
+    }
+</div>
+
+@code {
+    protected override void OnInitialized()
+    {
+        CartService.OnChange += StateHasChanged;
+    }
+
+    public void Dispose()
+    {
+        CartService.OnChange -= StateHasChanged;
+    }
+
+    private string GetIcon(string type) => type switch
+    {
+        "Accommodation" => "🏨",
+        "Activity" => "🦁",
+        "Permit" => "🎟️",
+        "Package" => "📦",
+        _ => "🛒"
+    };
+}

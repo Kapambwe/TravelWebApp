@@ -1,0 +1,302 @@
+[
+  {
+    "id": "vendor-001",
+    "vendorName": "Agricultural Dealers 1",
+    "email": "vendor1@supplier.zm",
+    "phone": "+260-097-678586",
+    "address": "Plot 1942, Twin Palm Road, Eastern Province",
+    "taxId": "TPIN-2757405963",
+    "paymentTerms": "NET60",
+    "accountBalance": 22167
+  },
+  {
+    "id": "vendor-002",
+    "vendorName": "Local Orchards 2",
+    "email": "vendor2@supplier.zm",
+    "phone": "+260-095-143003",
+    "address": "Plot 1193, Freedom Way, Central Province",
+    "taxId": "TPIN-1288888681",
+    "paymentTerms": "NET30",
+    "accountBalance": 20699
+  },
+  {
+    "id": "vendor-003",
+    "vendorName": "Seed Suppliers 3",
+    "email": "vendor3@supplier.zm",
+    "phone": "+260-097-244772",
+    "address": "Plot 9143, Freedom Way, Central Province",
+    "taxId": "TPIN-2866773365",
+    "paymentTerms": "NET30",
+    "accountBalance": 4683
+  },
+  {
+    "id": "vendor-004",
+    "vendorName": "Farm Cooperatives 4",
+    "email": "vendor4@supplier.zm",
+    "phone": "+260-096-402977",
+    "address": "Plot 4682, Freedom Way, Central Province",
+    "taxId": "TPIN-7189662211",
+    "paymentTerms": "COD",
+    "accountBalance": 5045
+  },
+  {
+    "id": "vendor-005",
+    "vendorName": "Agricultural Dealers 5",
+    "email": "vendor5@supplier.zm",
+    "phone": "+260-216-745814",
+    "address": "Plot 3652, Great East Road, Eastern Province",
+    "taxId": "TPIN-9707634602",
+    "paymentTerms": "COD",
+    "accountBalance": 15231
+  },
+  {
+    "id": "vendor-006",
+    "vendorName": "Local Orchards 6",
+    "email": "vendor6@supplier.zm",
+    "phone": "+260-097-660525",
+    "address": "Plot 4088, Great East Road, Eastern Province",
+    "taxId": "TPIN-5747966908",
+    "paymentTerms": "COD",
+    "accountBalance": 24877
+  },
+  {
+    "id": "vendor-007",
+    "vendorName": "Local Orchards 7",
+    "email": "vendor7@supplier.zm",
+    "phone": "+260-217-460607",
+    "address": "Plot 8767, Twin Palm Road, Copperbelt",
+    "taxId": "TPIN-6263958648",
+    "paymentTerms": "NET60",
+    "accountBalance": 32647
+  },
+  {
+    "id": "vendor-008",
+    "vendorName": "Farm Cooperatives 8",
+    "email": "vendor8@supplier.zm",
+    "phone": "+260-097-479541",
+    "address": "Plot 5662, Cairo Road, Lusaka",
+    "taxId": "TPIN-1941381535",
+    "paymentTerms": "COD",
+    "accountBalance": 11504
+  },
+  {
+    "id": "vendor-009",
+    "vendorName": "Farm Cooperatives 9",
+    "email": "vendor9@supplier.zm",
+    "phone": "+260-095-640520",
+    "address": "Plot 7578, Cairo Road, Lusaka",
+    "taxId": "TPIN-3257353104",
+    "paymentTerms": "COD",
+    "accountBalance": 12496
+  },
+  {
+    "id": "vendor-010",
+    "vendorName": "Farm Cooperatives 10",
+    "email": "vendor10@supplier.zm",
+    "phone": "+260-097-445452",
+    "address": "Plot 1604, Cairo Road, Eastern Province",
+    "taxId": "TPIN-7188466393",
+    "paymentTerms": "NET60",
+    "accountBalance": 3937
+  },
+  {
+    "id": "vendor-011",
+    "vendorName": "Seed Suppliers 11",
+    "email": "vendor11@supplier.zm",
+    "phone": "+260-097-436638",
+    "address": "Plot 6476, Freedom Way, Eastern Province",
+    "taxId": "TPIN-8264816330",
+    "paymentTerms": "COD",
+    "accountBalance": 17450
+  },
+  {
+    "id": "vendor-012",
+    "vendorName": "Seed Suppliers 12",
+    "email": "vendor12@supplier.zm",
+    "phone": "+260-094-849938",
+    "address": "Plot 1478, Freedom Way, Central Province",
+    "taxId": "TPIN-2492144794",
+    "paymentTerms": "COD",
+    "accountBalance": 7316
+  },
+  {
+    "id": "vendor-013",
+    "vendorName": "Farm Cooperatives 13",
+    "email": "vendor13@supplier.zm",
+    "phone": "+260-095-712562",
+    "address": "Plot 8697, Cairo Road, Eastern Province",
+    "taxId": "TPIN-1278024598",
+    "paymentTerms": "NET60",
+    "accountBalance": 40161
+  },
+  {
+    "id": "vendor-014",
+    "vendorName": "Seed Suppliers 14",
+    "email": "vendor14@supplier.zm",
+    "phone": "+260-097-385680",
+    "address": "Plot 8073, Independence Avenue, Copperbelt",
+    "taxId": "TPIN-1787635829",
+    "paymentTerms": "NET60",
+    "accountBalance": 8022
+  },
+  {
+    "id": "vendor-015",
+    "vendorName": "Local Orchards 15",
+    "email": "vendor15@supplier.zm",
+    "phone": "+260-097-752086",
+    "address": "Plot 4413, Great East Road, Northern Province",
+    "taxId": "TPIN-5575802471",
+    "paymentTerms": "NET60",
+    "accountBalance": 11465
+  },
+  {
+    "id": "vendor-016",
+    "vendorName": "Agricultural Dealers 16",
+    "email": "vendor16@supplier.zm",
+    "phone": "+260-097-186682",
+    "address": "Plot 9313, Great East Road, Eastern Province",
+    "taxId": "TPIN-1599547416",
+    "paymentTerms": "COD",
+    "accountBalance": 2617
+  },
+  {
+    "id": "vendor-017",
+    "vendorName": "Local Orchards 17",
+    "email": "vendor17@supplier.zm",
+    "phone": "+260-097-845592",
+    "address": "Plot 7563, Great East Road, Central Province",
+    "taxId": "TPIN-9458821941",
+    "paymentTerms": "NET30",
+    "accountBalance": 5094
+  },
+  {
+    "id": "vendor-018",
+    "vendorName": "Seed Suppliers 18",
+    "email": "vendor18@supplier.zm",
+    "phone": "+260-097-920533",
+    "address": "Plot 8314, Great East Road, Southern Province",
+    "taxId": "TPIN-3758458734",
+    "paymentTerms": "COD",
+    "accountBalance": 47160
+  },
+  {
+    "id": "vendor-019",
+    "vendorName": "Farm Cooperatives 19",
+    "email": "vendor19@supplier.zm",
+    "phone": "+260-216-439692",
+    "address": "Plot 4068, Freedom Way, Central Province",
+    "taxId": "TPIN-5837063869",
+    "paymentTerms": "COD",
+    "accountBalance": 6550
+  },
+  {
+    "id": "vendor-020",
+    "vendorName": "Farm Cooperatives 20",
+    "email": "vendor20@supplier.zm",
+    "phone": "+260-095-437761",
+    "address": "Plot 5433, Independence Avenue, Central Province",
+    "taxId": "TPIN-8378173982",
+    "paymentTerms": "COD",
+    "accountBalance": 44417
+  },
+  {
+    "id": "vendor-021",
+    "vendorName": "Seed Suppliers 21",
+    "email": "vendor21@supplier.zm",
+    "phone": "+260-094-751895",
+    "address": "Plot 9805, Twin Palm Road, Lusaka",
+    "taxId": "TPIN-1731006304",
+    "paymentTerms": "NET30",
+    "accountBalance": 36164
+  },
+  {
+    "id": "vendor-022",
+    "vendorName": "Local Orchards 22",
+    "email": "vendor22@supplier.zm",
+    "phone": "+260-097-836149",
+    "address": "Plot 7923, Twin Palm Road, Southern Province",
+    "taxId": "TPIN-7218046376",
+    "paymentTerms": "COD",
+    "accountBalance": 1501
+  },
+  {
+    "id": "vendor-023",
+    "vendorName": "Agricultural Dealers 23",
+    "email": "vendor23@supplier.zm",
+    "phone": "+260-097-106692",
+    "address": "Plot 5920, Freedom Way, Eastern Province",
+    "taxId": "TPIN-7026076750",
+    "paymentTerms": "NET60",
+    "accountBalance": 34762
+  },
+  {
+    "id": "vendor-024",
+    "vendorName": "Seed Suppliers 24",
+    "email": "vendor24@supplier.zm",
+    "phone": "+260-095-441999",
+    "address": "Plot 8913, Great East Road, Eastern Province",
+    "taxId": "TPIN-8651277410",
+    "paymentTerms": "COD",
+    "accountBalance": 24785
+  },
+  {
+    "id": "vendor-025",
+    "vendorName": "Local Orchards 25",
+    "email": "vendor25@supplier.zm",
+    "phone": "+260-096-274819",
+    "address": "Plot 8333, Cairo Road, Northern Province",
+    "taxId": "TPIN-4482644760",
+    "paymentTerms": "COD",
+    "accountBalance": 45465
+  },
+  {
+    "id": "vendor-026",
+    "vendorName": "Seed Suppliers 26",
+    "email": "vendor26@supplier.zm",
+    "phone": "+260-097-632958",
+    "address": "Plot 8396, Freedom Way, Central Province",
+    "taxId": "TPIN-4366290162",
+    "paymentTerms": "NET30",
+    "accountBalance": 29689
+  },
+  {
+    "id": "vendor-027",
+    "vendorName": "Agricultural Dealers 27",
+    "email": "vendor27@supplier.zm",
+    "phone": "+260-217-292044",
+    "address": "Plot 5720, Twin Palm Road, Lusaka",
+    "taxId": "TPIN-8449286456",
+    "paymentTerms": "NET30",
+    "accountBalance": 26195
+  },
+  {
+    "id": "vendor-028",
+    "vendorName": "Agricultural Dealers 28",
+    "email": "vendor28@supplier.zm",
+    "phone": "+260-094-377015",
+    "address": "Plot 2258, Independence Avenue, Southern Province",
+    "taxId": "TPIN-2111474679",
+    "paymentTerms": "NET60",
+    "accountBalance": 30245
+  },
+  {
+    "id": "vendor-029",
+    "vendorName": "Seed Suppliers 29",
+    "email": "vendor29@supplier.zm",
+    "phone": "+260-097-116503",
+    "address": "Plot 5277, Cairo Road, Lusaka",
+    "taxId": "TPIN-1923330348",
+    "paymentTerms": "NET60",
+    "accountBalance": 42431
+  },
+  {
+    "id": "vendor-030",
+    "vendorName": "Seed Suppliers 30",
+    "email": "vendor30@supplier.zm",
+    "phone": "+260-095-962606",
+    "address": "Plot 3239, Twin Palm Road, Lusaka",
+    "taxId": "TPIN-7627375572",
+    "paymentTerms": "NET30",
+    "accountBalance": 22448
+  }
+]

@@ -1,0 +1,132 @@
+{
+  "companyName": "National Milling Corporation",
+  "companyAddress": "Kitwe, Zambia",
+  "companyTaxId": "TPIN-8568485-NMC",
+  "generatedDate": "2025-09-30",
+  "currency": "ZMW",
+  "period": {
+    "from": "2025-01-01",
+    "to": "2025-09-30"
+  },
+  "customerStatements": [
+    {
+      "customerId": 1,
+      "customerName": "Zain Partners Co.",
+      "customerEmail": "billing@zain.com",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-07-22",
+          "reference": "INV-Z-2025-016",
+          "description": "Bulk supply agreement",
+          "debit": 363000,
+          "credit": 0.0,
+          "balance": 363000
+        }
+      ],
+      "closingBalance": 363000,
+      "status": "Outstanding"
+    },
+    {
+      "customerId": 2,
+      "customerName": "Zambezi Partners Co.",
+      "customerEmail": "accounts@zambezi.com",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-03-13",
+          "reference": "INV-Z-2025-021",
+          "description": "Packaging & distribution services",
+          "debit": 1084000,
+          "credit": 0.0,
+          "balance": 1084000
+        },
+        {
+          "date": "2025-04-24",
+          "reference": "PMT-Z-2025-021",
+          "description": "Payment on delivery received",
+          "debit": 0.0,
+          "credit": 1084000,
+          "balance": 0.0
+        }
+      ],
+      "closingBalance": 0.0,
+      "status": "Settled"
+    },
+    {
+      "customerId": 3,
+      "customerName": "Luangwa Partners Co.",
+      "customerEmail": "info@luangwa.com",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-06-07",
+          "reference": "INV-Z-2025-034",
+          "description": "Quality control services",
+          "debit": 2897000,
+          "credit": 0.0,
+          "balance": 2897000
+        }
+      ],
+      "closingBalance": 2897000,
+      "status": "Outstanding"
+    },
+    {
+      "customerId": 4,
+      "customerName": "Chambeshi Investments Ltd",
+      "customerEmail": "contact@chambeshi.co.zm",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-05-27",
+          "reference": "INV-Z-2025-047",
+          "description": "Contract manufacturing - cement bags",
+          "debit": 2075000,
+          "credit": 0.0,
+          "balance": 2075000
+        }
+      ],
+      "closingBalance": 2075000,
+      "status": "Overdue"
+    },
+    {
+      "customerId": 5,
+      "customerName": "Chambeshi Trading Ltd",
+      "customerEmail": "billing@chambeshi.co.zm",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-05-09",
+          "reference": "INV-Z-2025-056",
+          "description": "Packaging & distribution services",
+          "debit": 1671500,
+          "credit": 0.0,
+          "balance": 1671500
+        },
+        {
+          "date": "2025-06-09",
+          "reference": "PMT-Z-2025-058",
+          "description": "Partial payment received",
+          "debit": 0.0,
+          "credit": 1671500,
+          "balance": 0.0
+        }
+      ],
+      "closingBalance": 0.0,
+      "status": "Settled"
+    }
+  ],
+  "summary": {
+    "totalInvoiced": 8090500,
+    "totalReceived": 2755500,
+    "totalOutstanding": 5335000,
+    "totalOverdue": 5335000.0,
+    "agingSummary": {
+      "current": 0.0,
+      "days1to30": 0.0,
+      "days31to60": 363000.0,
+      "days61to90": 2897000.0,
+      "over90days": 2075000.0
+    }
+  }
+}

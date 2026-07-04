@@ -1,0 +1,272 @@
+[
+  {
+    "id": "je-001",
+    "entryDate": "21-10-2025",
+    "description": "Inventory adjustment",
+    "amount": 12621.75,
+    "debitAccount": "ACC-1765",
+    "creditAccount": "ACC-8494",
+    "reference": "REF-84674"
+  },
+  {
+    "id": "je-002",
+    "entryDate": "22-10-2025",
+    "description": "Rent payment",
+    "amount": 8046.42,
+    "debitAccount": "ACC-9200",
+    "creditAccount": "ACC-4818",
+    "reference": "REF-80776"
+  },
+  {
+    "id": "je-003",
+    "entryDate": "23-10-2025",
+    "description": "Utilities payment",
+    "amount": 14001.02,
+    "debitAccount": "ACC-2266",
+    "creditAccount": "ACC-9026",
+    "reference": "REF-99532"
+  },
+  {
+    "id": "je-004",
+    "entryDate": "24-10-2025",
+    "description": "Inventory adjustment",
+    "amount": 3695.91,
+    "debitAccount": "ACC-4540",
+    "creditAccount": "ACC-1524",
+    "reference": "REF-99987"
+  },
+  {
+    "id": "je-005",
+    "entryDate": "25-10-2025",
+    "description": "Customer refund",
+    "amount": 12702.34,
+    "debitAccount": "ACC-6730",
+    "creditAccount": "ACC-5648",
+    "reference": "REF-42227"
+  },
+  {
+    "id": "je-006",
+    "entryDate": "26-10-2025",
+    "description": "Staff salary advance",
+    "amount": 5335.11,
+    "debitAccount": "ACC-8526",
+    "creditAccount": "ACC-6582",
+    "reference": "REF-18537"
+  },
+  {
+    "id": "je-007",
+    "entryDate": "27-10-2025",
+    "description": "Utilities payment",
+    "amount": 8367.33,
+    "debitAccount": "ACC-7083",
+    "creditAccount": "ACC-2583",
+    "reference": "REF-56199"
+  },
+  {
+    "id": "je-008",
+    "entryDate": "28-10-2025",
+    "description": "Inventory adjustment",
+    "amount": 10840.47,
+    "debitAccount": "ACC-9491",
+    "creditAccount": "ACC-2317",
+    "reference": "REF-12118"
+  },
+  {
+    "id": "je-009",
+    "entryDate": "29-10-2025",
+    "description": "Equipment purchase",
+    "amount": 7254.37,
+    "debitAccount": "ACC-9315",
+    "creditAccount": "ACC-6866",
+    "reference": "REF-28797"
+  },
+  {
+    "id": "je-010",
+    "entryDate": "30-10-2025",
+    "description": "Customer refund",
+    "amount": 5430.65,
+    "debitAccount": "ACC-5594",
+    "creditAccount": "ACC-3920",
+    "reference": "REF-33230"
+  },
+  {
+    "id": "je-011",
+    "entryDate": "31-10-2025",
+    "description": "Customer refund",
+    "amount": 1920.54,
+    "debitAccount": "ACC-1299",
+    "creditAccount": "ACC-7594",
+    "reference": "REF-94079"
+  },
+  {
+    "id": "je-012",
+    "entryDate": "01-11-2025",
+    "description": "Customer refund",
+    "amount": 10305.1,
+    "debitAccount": "ACC-7601",
+    "creditAccount": "ACC-6938",
+    "reference": "REF-91950"
+  },
+  {
+    "id": "je-013",
+    "entryDate": "02-11-2025",
+    "description": "Equipment purchase",
+    "amount": 11607.72,
+    "debitAccount": "ACC-2864",
+    "creditAccount": "ACC-2095",
+    "reference": "REF-40223"
+  },
+  {
+    "id": "je-014",
+    "entryDate": "03-11-2025",
+    "description": "Sales transaction",
+    "amount": 2542.38,
+    "debitAccount": "ACC-3436",
+    "creditAccount": "ACC-6198",
+    "reference": "REF-72727"
+  },
+  {
+    "id": "je-015",
+    "entryDate": "04-11-2025",
+    "description": "Sales transaction",
+    "amount": 12137.84,
+    "debitAccount": "ACC-2364",
+    "creditAccount": "ACC-7616",
+    "reference": "REF-15528"
+  },
+  {
+    "id": "je-016",
+    "entryDate": "05-11-2025",
+    "description": "Customer refund",
+    "amount": 12207.05,
+    "debitAccount": "ACC-9635",
+    "creditAccount": "ACC-4638",
+    "reference": "REF-39811"
+  },
+  {
+    "id": "je-017",
+    "entryDate": "06-11-2025",
+    "description": "Inventory adjustment",
+    "amount": 3227.34,
+    "debitAccount": "ACC-6971",
+    "creditAccount": "ACC-1388",
+    "reference": "REF-75486"
+  },
+  {
+    "id": "je-018",
+    "entryDate": "07-11-2025",
+    "description": "Customer refund",
+    "amount": 13474.33,
+    "debitAccount": "ACC-6752",
+    "creditAccount": "ACC-6172",
+    "reference": "REF-20059"
+  },
+  {
+    "id": "je-019",
+    "entryDate": "08-11-2025",
+    "description": "Utilities payment",
+    "amount": 956.72,
+    "debitAccount": "ACC-6705",
+    "creditAccount": "ACC-6336",
+    "reference": "REF-84775"
+  },
+  {
+    "id": "je-020",
+    "entryDate": "09-11-2025",
+    "description": "Utilities payment",
+    "amount": 3680.14,
+    "debitAccount": "ACC-8041",
+    "creditAccount": "ACC-5607",
+    "reference": "REF-36326"
+  },
+  {
+    "id": "je-021",
+    "entryDate": "10-11-2025",
+    "description": "Staff salary advance",
+    "amount": 8725.18,
+    "debitAccount": "ACC-6498",
+    "creditAccount": "ACC-6758",
+    "reference": "REF-90892"
+  },
+  {
+    "id": "je-022",
+    "entryDate": "11-11-2025",
+    "description": "Utilities payment",
+    "amount": 6535.24,
+    "debitAccount": "ACC-5698",
+    "creditAccount": "ACC-3007",
+    "reference": "REF-66293"
+  },
+  {
+    "id": "je-023",
+    "entryDate": "12-11-2025",
+    "description": "Purchase of supplies",
+    "amount": 9754.1,
+    "debitAccount": "ACC-2345",
+    "creditAccount": "ACC-7144",
+    "reference": "REF-89004"
+  },
+  {
+    "id": "je-024",
+    "entryDate": "13-11-2025",
+    "description": "Inventory adjustment",
+    "amount": 13889.85,
+    "debitAccount": "ACC-1638",
+    "creditAccount": "ACC-4120",
+    "reference": "REF-71564"
+  },
+  {
+    "id": "je-025",
+    "entryDate": "14-11-2025",
+    "description": "Purchase of supplies",
+    "amount": 14730.65,
+    "debitAccount": "ACC-9628",
+    "creditAccount": "ACC-7104",
+    "reference": "REF-79180"
+  },
+  {
+    "id": "je-026",
+    "entryDate": "15-11-2025",
+    "description": "Rent payment",
+    "amount": 1396.58,
+    "debitAccount": "ACC-7626",
+    "creditAccount": "ACC-3878",
+    "reference": "REF-10734"
+  },
+  {
+    "id": "je-027",
+    "entryDate": "16-11-2025",
+    "description": "Staff salary advance",
+    "amount": 1435.05,
+    "debitAccount": "ACC-7640",
+    "creditAccount": "ACC-6483",
+    "reference": "REF-69678"
+  },
+  {
+    "id": "je-028",
+    "entryDate": "17-11-2025",
+    "description": "Purchase of supplies",
+    "amount": 7059.05,
+    "debitAccount": "ACC-6585",
+    "creditAccount": "ACC-9157",
+    "reference": "REF-45779"
+  },
+  {
+    "id": "je-029",
+    "entryDate": "18-11-2025",
+    "description": "Purchase of supplies",
+    "amount": 14527.74,
+    "debitAccount": "ACC-5873",
+    "creditAccount": "ACC-4006",
+    "reference": "REF-15483"
+  },
+  {
+    "id": "je-030",
+    "entryDate": "19-11-2025",
+    "description": "Sales transaction",
+    "amount": 9251.13,
+    "debitAccount": "ACC-5909",
+    "creditAccount": "ACC-4853",
+    "reference": "REF-35839"
+  }
+]

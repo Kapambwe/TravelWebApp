@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "poNumber": "PO-2025-001",
+    "vendorName": "Mutale Publishers Co.",
+    "description": "Freelancer Fees",
+    "orderDate": "2024-12-25T00:00:00",
+    "expectedDate": "2025-01-08T00:00:00",
+    "amount": 847970.12,
+    "receivedAmount": 0.0,
+    "status": "Cancelled",
+    "approvalStatus": "Approved",
+    "approvedBy": "Procurement Officer"
+  },
+  {
+    "id": 2,
+    "poNumber": "PO-2025-002",
+    "vendorName": "Mutale Publishers Limited",
+    "description": "License Fees",
+    "orderDate": "2024-12-30T00:00:00",
+    "expectedDate": "2025-01-22T00:00:00",
+    "amount": 2060951.51,
+    "receivedAmount": 0.0,
+    "status": "Cancelled",
+    "approvalStatus": "Pending",
+    "approvedBy": "Procurement Officer"
+  },
+  {
+    "id": 3,
+    "poNumber": "PO-2025-003",
+    "vendorName": "Mutale Publishers Limited",
+    "description": "Broadcasting Equipment Hire",
+    "orderDate": "2025-01-07T00:00:00",
+    "expectedDate": "2025-01-20T00:00:00",
+    "amount": 49436.33,
+    "receivedAmount": 27056.16,
+    "status": "PartiallyReceived",
+    "approvalStatus": "Approved",
+    "approvedBy": "CFO"
+  },
+  {
+    "id": 4,
+    "poNumber": "PO-2025-004",
+    "vendorName": "Mwamba Digital Media Inc.",
+    "description": "Printing Costs",
+    "orderDate": "2025-01-19T00:00:00",
+    "expectedDate": "2025-02-03T00:00:00",
+    "amount": 1909864.56,
+    "receivedAmount": 524192.35,
+    "status": "PartiallyReceived",
+    "approvalStatus": "Approved",
+    "approvedBy": "CFO"
+  },
+  {
+    "id": 5,
+    "poNumber": "PO-2025-005",
+    "vendorName": "Chanda Digital Media Ltd",
+    "description": "Content Distribution",
+    "orderDate": "2025-02-26T00:00:00",
+    "expectedDate": "2025-03-26T00:00:00",
+    "amount": 2224369.68,
+    "receivedAmount": 2224369.68,
+    "status": "Closed",
+    "approvalStatus": "Approved",
+    "approvedBy": "Finance Manager"
+  }
+]

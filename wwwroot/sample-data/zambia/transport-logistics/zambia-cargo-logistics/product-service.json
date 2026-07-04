@@ -1,0 +1,302 @@
+[
+  {
+    "id": "prod-001",
+    "productName": "Warehousing - Variant 1",
+    "description": "Quality International Shipping product",
+    "category": "Operational",
+    "unitPrice": 3724.51,
+    "quantityInStock": 467,
+    "reorderLevel": 25,
+    "supplier": "Vehicle Maintenance"
+  },
+  {
+    "id": "prod-002",
+    "productName": "Local Freight - Variant 2",
+    "description": "Quality Warehousing product",
+    "category": "Operational",
+    "unitPrice": 1518.15,
+    "quantityInStock": 304,
+    "reorderLevel": 19,
+    "supplier": "Vehicle Maintenance"
+  },
+  {
+    "id": "prod-003",
+    "productName": "Warehousing - Variant 3",
+    "description": "Quality Distribution product",
+    "category": "Operational",
+    "unitPrice": 2437.67,
+    "quantityInStock": 438,
+    "reorderLevel": 8,
+    "supplier": "Insurance Providers"
+  },
+  {
+    "id": "prod-004",
+    "productName": "Distribution - Variant 4",
+    "description": "Quality Local Freight product",
+    "category": "Operational",
+    "unitPrice": 7520.86,
+    "quantityInStock": 105,
+    "reorderLevel": 49,
+    "supplier": "Fuel Suppliers"
+  },
+  {
+    "id": "prod-005",
+    "productName": "Local Freight - Variant 5",
+    "description": "Quality Distribution product",
+    "category": "Operational",
+    "unitPrice": 2677.42,
+    "quantityInStock": 134,
+    "reorderLevel": 35,
+    "supplier": "Fuel Suppliers"
+  },
+  {
+    "id": "prod-006",
+    "productName": "Warehousing - Variant 6",
+    "description": "Quality International Shipping product",
+    "category": "Operational",
+    "unitPrice": 9588.56,
+    "quantityInStock": 356,
+    "reorderLevel": 33,
+    "supplier": "Vehicle Maintenance"
+  },
+  {
+    "id": "prod-007",
+    "productName": "Distribution - Variant 7",
+    "description": "Quality Warehousing product",
+    "category": "Operational",
+    "unitPrice": 9272.81,
+    "quantityInStock": 362,
+    "reorderLevel": 13,
+    "supplier": "Insurance Providers"
+  },
+  {
+    "id": "prod-008",
+    "productName": "International Shipping - Variant 8",
+    "description": "Quality Local Freight product",
+    "category": "Operational",
+    "unitPrice": 8486.89,
+    "quantityInStock": 235,
+    "reorderLevel": 36,
+    "supplier": "Fuel Suppliers"
+  },
+  {
+    "id": "prod-009",
+    "productName": "International Shipping - Variant 9",
+    "description": "Quality International Shipping product",
+    "category": "Operational",
+    "unitPrice": 413.0,
+    "quantityInStock": 388,
+    "reorderLevel": 45,
+    "supplier": "Fuel Suppliers"
+  },
+  {
+    "id": "prod-010",
+    "productName": "International Shipping - Variant 10",
+    "description": "Quality Warehousing product",
+    "category": "Operational",
+    "unitPrice": 3275.9,
+    "quantityInStock": 79,
+    "reorderLevel": 18,
+    "supplier": "Vehicle Maintenance"
+  },
+  {
+    "id": "prod-011",
+    "productName": "Local Freight - Variant 11",
+    "description": "Quality International Shipping product",
+    "category": "Operational",
+    "unitPrice": 7579.53,
+    "quantityInStock": 55,
+    "reorderLevel": 7,
+    "supplier": "Insurance Providers"
+  },
+  {
+    "id": "prod-012",
+    "productName": "Distribution - Variant 12",
+    "description": "Quality Local Freight product",
+    "category": "Operational",
+    "unitPrice": 6174.52,
+    "quantityInStock": 204,
+    "reorderLevel": 15,
+    "supplier": "Vehicle Maintenance"
+  },
+  {
+    "id": "prod-013",
+    "productName": "Local Freight - Variant 13",
+    "description": "Quality International Shipping product",
+    "category": "Operational",
+    "unitPrice": 9537.88,
+    "quantityInStock": 176,
+    "reorderLevel": 13,
+    "supplier": "Insurance Providers"
+  },
+  {
+    "id": "prod-014",
+    "productName": "Local Freight - Variant 14",
+    "description": "Quality Local Freight product",
+    "category": "Operational",
+    "unitPrice": 7203.79,
+    "quantityInStock": 239,
+    "reorderLevel": 36,
+    "supplier": "Fuel Suppliers"
+  },
+  {
+    "id": "prod-015",
+    "productName": "International Shipping - Variant 15",
+    "description": "Quality Distribution product",
+    "category": "Operational",
+    "unitPrice": 3203.77,
+    "quantityInStock": 327,
+    "reorderLevel": 28,
+    "supplier": "Insurance Providers"
+  },
+  {
+    "id": "prod-016",
+    "productName": "Local Freight - Variant 16",
+    "description": "Quality Warehousing product",
+    "category": "Operational",
+    "unitPrice": 507.26,
+    "quantityInStock": 188,
+    "reorderLevel": 5,
+    "supplier": "Fuel Suppliers"
+  },
+  {
+    "id": "prod-017",
+    "productName": "Local Freight - Variant 17",
+    "description": "Quality Local Freight product",
+    "category": "Operational",
+    "unitPrice": 9154.39,
+    "quantityInStock": 300,
+    "reorderLevel": 13,
+    "supplier": "Vehicle Maintenance"
+  },
+  {
+    "id": "prod-018",
+    "productName": "Distribution - Variant 18",
+    "description": "Quality International Shipping product",
+    "category": "Operational",
+    "unitPrice": 5337.99,
+    "quantityInStock": 147,
+    "reorderLevel": 42,
+    "supplier": "Fuel Suppliers"
+  },
+  {
+    "id": "prod-019",
+    "productName": "Distribution - Variant 19",
+    "description": "Quality Local Freight product",
+    "category": "Operational",
+    "unitPrice": 1202.79,
+    "quantityInStock": 144,
+    "reorderLevel": 15,
+    "supplier": "Insurance Providers"
+  },
+  {
+    "id": "prod-020",
+    "productName": "Warehousing - Variant 20",
+    "description": "Quality International Shipping product",
+    "category": "Operational",
+    "unitPrice": 1790.81,
+    "quantityInStock": 238,
+    "reorderLevel": 25,
+    "supplier": "Fuel Suppliers"
+  },
+  {
+    "id": "prod-021",
+    "productName": "Local Freight - Variant 21",
+    "description": "Quality Distribution product",
+    "category": "Operational",
+    "unitPrice": 7186.81,
+    "quantityInStock": 23,
+    "reorderLevel": 38,
+    "supplier": "Vehicle Maintenance"
+  },
+  {
+    "id": "prod-022",
+    "productName": "Distribution - Variant 22",
+    "description": "Quality Local Freight product",
+    "category": "Operational",
+    "unitPrice": 8218.58,
+    "quantityInStock": 34,
+    "reorderLevel": 7,
+    "supplier": "Vehicle Maintenance"
+  },
+  {
+    "id": "prod-023",
+    "productName": "Distribution - Variant 23",
+    "description": "Quality Distribution product",
+    "category": "Operational",
+    "unitPrice": 9134.66,
+    "quantityInStock": 24,
+    "reorderLevel": 31,
+    "supplier": "Insurance Providers"
+  },
+  {
+    "id": "prod-024",
+    "productName": "Local Freight - Variant 24",
+    "description": "Quality Local Freight product",
+    "category": "Operational",
+    "unitPrice": 9930.0,
+    "quantityInStock": 252,
+    "reorderLevel": 32,
+    "supplier": "Fuel Suppliers"
+  },
+  {
+    "id": "prod-025",
+    "productName": "Warehousing - Variant 25",
+    "description": "Quality Warehousing product",
+    "category": "Operational",
+    "unitPrice": 4747.12,
+    "quantityInStock": 194,
+    "reorderLevel": 39,
+    "supplier": "Vehicle Maintenance"
+  },
+  {
+    "id": "prod-026",
+    "productName": "Warehousing - Variant 26",
+    "description": "Quality Local Freight product",
+    "category": "Operational",
+    "unitPrice": 2073.98,
+    "quantityInStock": 402,
+    "reorderLevel": 34,
+    "supplier": "Fuel Suppliers"
+  },
+  {
+    "id": "prod-027",
+    "productName": "International Shipping - Variant 27",
+    "description": "Quality International Shipping product",
+    "category": "Operational",
+    "unitPrice": 3282.55,
+    "quantityInStock": 141,
+    "reorderLevel": 23,
+    "supplier": "Fuel Suppliers"
+  },
+  {
+    "id": "prod-028",
+    "productName": "Warehousing - Variant 28",
+    "description": "Quality Local Freight product",
+    "category": "Operational",
+    "unitPrice": 7501.28,
+    "quantityInStock": 243,
+    "reorderLevel": 12,
+    "supplier": "Fuel Suppliers"
+  },
+  {
+    "id": "prod-029",
+    "productName": "International Shipping - Variant 29",
+    "description": "Quality Warehousing product",
+    "category": "Operational",
+    "unitPrice": 8632.24,
+    "quantityInStock": 292,
+    "reorderLevel": 17,
+    "supplier": "Vehicle Maintenance"
+  },
+  {
+    "id": "prod-030",
+    "productName": "International Shipping - Variant 30",
+    "description": "Quality Distribution product",
+    "category": "Operational",
+    "unitPrice": 831.16,
+    "quantityInStock": 338,
+    "reorderLevel": 48,
+    "supplier": "Vehicle Maintenance"
+  }
+]

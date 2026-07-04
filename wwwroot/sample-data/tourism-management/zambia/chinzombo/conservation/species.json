@@ -1,0 +1,20 @@
+﻿[
+    {
+        "Id":  105,
+        "Name":  "Leopard",
+        "ScientificName":  "Panthera pardus",
+        "Population":  45,
+        "PopulationTrend":  0,
+        "ConservationStatus":  "Vulnerable",
+        "LastCensusDate":  "2024-05-10T00:00:00"
+    },
+    {
+        "Id":  106,
+        "Name":  "Thornicroft Giraffe",
+        "ScientificName":  "Giraffa camelopardalis thornicrofti",
+        "Population":  80,
+        "PopulationTrend":  0,
+        "ConservationStatus":  "Vulnerable",
+        "LastCensusDate":  "2024-05-10T00:00:00"
+    }
+]

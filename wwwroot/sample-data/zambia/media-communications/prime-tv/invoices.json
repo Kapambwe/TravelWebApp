@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "invoiceNumber": "INV-2025-001",
+    "clientName": "Mutale Media Enterprises",
+    "description": "Digital Advertising",
+    "invoiceDate": "2025-03-12T00:00:00",
+    "dueDate": "2025-05-11T00:00:00",
+    "amount": 384976.09,
+    "receivedAmount": 209807.31,
+    "status": "PartiallyPaid",
+    "customerId": 3
+  },
+  {
+    "id": 2,
+    "invoiceNumber": "INV-2025-002",
+    "clientName": "Sakala Digital Media Co.",
+    "description": "Online Content Package",
+    "invoiceDate": "2024-12-27T00:00:00",
+    "dueDate": "2025-02-25T00:00:00",
+    "amount": 2836623.91,
+    "receivedAmount": 2836623.91,
+    "status": "Paid",
+    "customerId": 13
+  },
+  {
+    "id": 3,
+    "invoiceNumber": "INV-2025-003",
+    "clientName": "Mumba Broadcasting Inc.",
+    "description": "Radio Airtime",
+    "invoiceDate": "2024-12-22T00:00:00",
+    "dueDate": "2025-01-21T00:00:00",
+    "amount": 2206985.47,
+    "receivedAmount": 2206985.47,
+    "status": "Paid",
+    "customerId": 7
+  },
+  {
+    "id": 4,
+    "invoiceNumber": "INV-2025-004",
+    "clientName": "Phiri Broadcasting Solutions",
+    "description": "Online Content Package",
+    "invoiceDate": "2024-09-29T00:00:00",
+    "dueDate": "2024-10-14T00:00:00",
+    "amount": 248616.7,
+    "receivedAmount": 0.0,
+    "status": "Overdue",
+    "customerId": 15
+  },
+  {
+    "id": 5,
+    "invoiceNumber": "INV-2025-005",
+    "clientName": "Mulenga Publishers Solutions",
+    "description": "Radio Airtime",
+    "invoiceDate": "2024-09-18T00:00:00",
+    "dueDate": "2024-10-03T00:00:00",
+    "amount": 3880896.51,
+    "receivedAmount": 1188640.16,
+    "status": "PartiallyPaid",
+    "customerId": 12
+  },
+  {
+    "id": 6,
+    "invoiceNumber": "INV-2025-006",
+    "clientName": "Banda Publishers Co.",
+    "description": "Radio Airtime",
+    "invoiceDate": "2025-02-27T00:00:00",
+    "dueDate": "2025-03-29T00:00:00",
+    "amount": 1194555.45,
+    "receivedAmount": 1194555.45,
+    "status": "Paid",
+    "customerId": 6
+  },
+  {
+    "id": 7,
+    "invoiceNumber": "INV-2025-007",
+    "clientName": "Bwalya Digital Media Inc.",
+    "description": "Online Content Package",
+    "invoiceDate": "2024-10-05T00:00:00",
+    "dueDate": "2024-10-20T00:00:00",
+    "amount": 1186357.12,
+    "receivedAmount": 0.0,
+    "status": "Overdue",
+    "customerId": 2
+  },
+  {
+    "id": 8,
+    "invoiceNumber": "INV-2025-008",
+    "clientName": "Phiri Broadcasting Solutions",
+    "description": "Digital Advertising",
+    "invoiceDate": "2024-10-20T00:00:00",
+    "dueDate": "2024-12-19T00:00:00",
+    "amount": 2003197.95,
+    "receivedAmount": 2003197.95,
+    "status": "Paid",
+    "customerId": 15
+  },
+  {
+    "id": 9,
+    "invoiceNumber": "INV-2025-009",
+    "clientName": "Banda Publishers Co.",
+    "description": "Digital Advertising",
+    "invoiceDate": "2024-10-31T00:00:00",
+    "dueDate": "2024-12-15T00:00:00",
+    "amount": 2692886.21,
+    "receivedAmount": 2692886.21,
+    "status": "Paid",
+    "customerId": 6
+  }
+]

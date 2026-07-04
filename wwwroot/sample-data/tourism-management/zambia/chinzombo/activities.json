@@ -1,0 +1,22 @@
+﻿[
+    {
+        "BasePrice":  5000,
+        "Capacity":  6,
+        "IsActive":  true,
+        "Id":  207,
+        "Name":  "Chinzombo Walking Safari",
+        "Type":  1,
+        "Description":  "High-end walking safari with senior naturalist guides.",
+        "Duration":  180
+    },
+    {
+        "BasePrice":  4500,
+        "Capacity":  8,
+        "IsActive":  true,
+        "Id":  208,
+        "Name":  "Leopard Tracking Drive",
+        "Type":  0,
+        "Description":  "Game drive focused on predator sightings.",
+        "Duration":  240
+    }
+]

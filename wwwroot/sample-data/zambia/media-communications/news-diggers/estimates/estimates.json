@@ -1,0 +1,163 @@
+[
+  {
+    "id": 1,
+    "estimateNumber": "EST-2025-001",
+    "customerId": 1,
+    "customerName": "Tembo Publishers Co.",
+    "estimateDateDaysAgo": 43,
+    "expirationDateDaysFromNow": 29,
+    "status": "Expired",
+    "subTotal": 3634406.13,
+    "taxRate": 18,
+    "taxAmount": 654193.1,
+    "total": 4288599.23,
+    "terms": "Net 30",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 43,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Print Advertising Space",
+        "quantity": 1,
+        "unitPrice": 3634406.13,
+        "amount": 3634406.13,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 42
+  },
+  {
+    "id": 2,
+    "estimateNumber": "EST-2025-002",
+    "customerId": 2,
+    "customerName": "Siame Digital Media Co.",
+    "estimateDateDaysAgo": 33,
+    "expirationDateDaysFromNow": 24,
+    "status": "Expired",
+    "subTotal": 3658136.52,
+    "taxRate": 15,
+    "taxAmount": 548720.48,
+    "total": 4206857.0,
+    "terms": "Net 30",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 33,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "TV Commercial Slot",
+        "quantity": 3,
+        "unitPrice": 1219378.84,
+        "amount": 3658136.52,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 32
+  },
+  {
+    "id": 3,
+    "estimateNumber": "EST-2025-003",
+    "customerId": 9,
+    "customerName": "Bwalya Broadcasting Limited",
+    "estimateDateDaysAgo": 10,
+    "expirationDateDaysFromNow": 45,
+    "status": "Draft",
+    "subTotal": 260116.69,
+    "taxRate": 15,
+    "taxAmount": 39017.5,
+    "total": 299134.19,
+    "terms": "Net 30",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 10,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Online Content Package",
+        "quantity": 1,
+        "unitPrice": 260116.69,
+        "amount": 260116.69,
+        "itemType": "Service"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "estimateNumber": "EST-2025-004",
+    "customerId": 3,
+    "customerName": "Ngosa Communications Co.",
+    "estimateDateDaysAgo": 48,
+    "expirationDateDaysFromNow": 45,
+    "status": "Expired",
+    "subTotal": 994924.91,
+    "taxRate": 16,
+    "taxAmount": 159187.99,
+    "total": 1154112.9,
+    "terms": "Net 45",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 48,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Print Advertising Space",
+        "quantity": 4,
+        "unitPrice": 248731.23,
+        "amount": 994924.91,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 47
+  },
+  {
+    "id": 5,
+    "estimateNumber": "EST-2025-005",
+    "customerId": 5,
+    "customerName": "Siame Media Inc.",
+    "estimateDateDaysAgo": 60,
+    "expirationDateDaysFromNow": 44,
+    "status": "Open",
+    "subTotal": 3570290.38,
+    "taxRate": 0,
+    "taxAmount": 0.0,
+    "total": 3570290.38,
+    "terms": "Net 45",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 60,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "TV Commercial Slot",
+        "quantity": 4,
+        "unitPrice": 892572.59,
+        "amount": 3570290.38,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 59
+  },
+  {
+    "id": 6,
+    "estimateNumber": "EST-2025-006",
+    "customerId": 2,
+    "customerName": "Siame Digital Media Co.",
+    "estimateDateDaysAgo": 36,
+    "expirationDateDaysFromNow": 21,
+    "status": "Sent",
+    "subTotal": 444340.57,
+    "taxRate": 16,
+    "taxAmount": 71094.49,
+    "total": 515435.06,
+    "terms": "Net 30",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 36,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Online Content Package",
+        "quantity": 3,
+        "unitPrice": 148113.52,
+        "amount": 444340.57,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 35
+  }
+]

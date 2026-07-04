@@ -1,0 +1,112 @@
+@using TravelWebApp.Models
+@using TravelWebApp.Services
+@inject ITravelService TravelService
+@inject NavigationManager Navigation
+
+<div class="filter-sidebar">
+    <RadzenText TextStyle="TextStyle.H6" Style="margin-bottom:16px;">Filters</RadzenText>
+
+    <div class="filter-group">
+        <RadzenText TextStyle="TextStyle.Body1" Style="font-weight:600;margin-bottom:8px;">Price Range (per night)</RadzenText>
+        <RadzenNumeric TValue="decimal?" @bind-Value="@_minPrice" Placeholder="Min" Style="width:100%;margin-bottom:8px;" />
+        <RadzenNumeric TValue="decimal?" @bind-Value="@_maxPrice" Placeholder="Max" Style="width:100%;" />
+    </div>
+
+    <div class="filter-group">
+        <RadzenText TextStyle="TextStyle.Body1" Style="font-weight:600;margin-bottom:8px;">Property Type</RadzenText>
+        @foreach (var pt in _propertyTypes)
+        {
+            <RadzenCheckBox @bind-Value="@pt.Selected" Style="margin-bottom:4px;">
+                <span style="margin-left:4px;">@pt.Name</span>
+            </RadzenCheckBox>
+        }
+    </div>
+
+    <div class="filter-group">
+        <RadzenText TextStyle="TextStyle.Body1" Style="font-weight:600;margin-bottom:8px;">Star Rating</RadzenText>
+        @for (int s = 5; s >= 1; s--)
+        {
+            <RadzenCheckBox @bind-Value="@_starFilters[s]" Style="margin-bottom:4px;">
+                <span style="margin-left:4px;">@(new string('\u2605', s)) @s star</span>
+            </RadzenCheckBox>
+        }
+    </div>
+
+    <div class="filter-group">
+        <RadzenText TextStyle="TextStyle.Body1" Style="font-weight:600;margin-bottom:8px;">Review Score</RadzenText>
+        @foreach (var r in _ratingOptions)
+        {
+            <RadzenCheckBox @bind-Value="@r.Selected" Style="margin-bottom:4px;">
+                <span style="margin-left:4px;">@r.Name</span>
+            </RadzenCheckBox>
+        }
+    </div>
+
+    <div class="filter-group">
+        <RadzenCheckBox @bind-Value="@_freeCancel">Free cancellation</RadzenCheckBox>
+        <RadzenCheckBox @bind-Value="@_breakfast">Breakfast included</RadzenCheckBox>
+    </div>
+
+    <RadzenButton Text="Apply Filters" ButtonStyle="ButtonStyle.Primary" Click="@ApplyFilters" Style="width:100%;margin-top:12px;" />
+    <RadzenButton Text="Clear All" ButtonStyle="ButtonStyle.Base" Click="@ClearFilters" Style="width:100%;margin-top:8px;" />
+</div>
+
+<style>
+    .filter-sidebar {
+        background: white; padding: 20px; border-radius: 12px;
+        border: 1px solid #E0E4EC; position: sticky; top: 90px;
+    }
+    .filter-group {
+        padding: 12px 0; border-bottom: 1px solid #E0E4EC;
+    }
+    .filter-group:last-child { border-bottom: none; }
+</style>
+
+@code {
+    [Parameter] public EventCallback<SearchFilters> OnApply { get; set; }
+
+    private decimal? _minPrice;
+    private decimal? _maxPrice;
+    private bool _freeCancel;
+    private bool _breakfast;
+    private Dictionary<int, bool> _starFilters = new() { [1] = false, [2] = false, [3] = false, [4] = false, [5] = false };
+
+    private List<FilterOption> _propertyTypes =
+    [
+        new("Hotel"), new("Lodge"), new("Resort"), new("Chalet")
+    ];
+
+    private List<FilterOption> _ratingOptions =
+    [
+        new("Wonderful 9+", 9), new("Very Good 8+", 8), new("Good 7+", 7)
+    ];
+
+    private void ApplyFilters()
+    {
+        var f = new SearchFilters
+        {
+            MinPrice = _minPrice,
+            MaxPrice = _maxPrice,
+            FreeCancellation = _freeCancel ? true : null,
+            BreakfastIncluded = _breakfast ? true : null,
+            MinStars = _starFilters.Any(kv => kv.Value) ? _starFilters.Where(kv => kv.Value).Min(kv => kv.Key) : null,
+            MinRating = _ratingOptions.Any(r => r.Selected) ? _ratingOptions.Where(r => r.Selected).Min(r => r.Value) : null,
+        };
+        OnApply.InvokeAsync(f);
+    }
+
+    private void ClearFilters()
+    {
+        _minPrice = null; _maxPrice = null; _freeCancel = false; _breakfast = false;
+        foreach (var k in _starFilters.Keys.ToList()) _starFilters[k] = false;
+        foreach (var r in _ratingOptions) r.Selected = false;
+        ApplyFilters();
+    }
+
+    private class FilterOption(string name, double value = 0)
+    {
+        public string Name { get; set; } = name;
+        public double Value { get; set; } = value;
+        public bool Selected { get; set; }
+    }
+}

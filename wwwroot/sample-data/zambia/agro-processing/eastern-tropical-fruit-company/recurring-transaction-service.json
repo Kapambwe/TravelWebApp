@@ -1,0 +1,48 @@
+{
+  "recurringTransactions": [
+    {
+      "id": "rt-001",
+      "description": "Monthly factory lease",
+      "amount": 42000.00,
+      "frequency": "Monthly",
+      "startDate": "2025-01-01",
+      "endDate": "2026-12-31",
+      "accountId": "accounting-005",
+      "category": "Expense",
+      "isActive": true
+    },
+    {
+      "id": "rt-002",
+      "description": "Monthly internet and telecoms",
+      "amount": 8600.00,
+      "frequency": "Monthly",
+      "startDate": "2025-01-01",
+      "endDate": "2026-12-31",
+      "accountId": "accounting-012",
+      "category": "Expense",
+      "isActive": true
+    },
+    {
+      "id": "rt-003",
+      "description": "Quarterly corporate tax provision",
+      "amount": 850000.00,
+      "frequency": "Quarterly",
+      "startDate": "2025-03-31",
+      "endDate": "2026-12-31",
+      "accountId": "accounting-006",
+      "category": "Liability",
+      "isActive": true
+    },
+    {
+      "id": "rt-004",
+      "description": "Annual software license renewal",
+      "amount": 125000.00,
+      "frequency": "Yearly",
+      "startDate": "2025-07-01",
+      "endDate": "2026-06-30",
+      "accountId": "accounting-012",
+      "category": "Expense",
+      "isActive": true
+    }
+  ]
+}

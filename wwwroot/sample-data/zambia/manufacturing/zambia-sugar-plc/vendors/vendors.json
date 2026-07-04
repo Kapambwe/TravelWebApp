@@ -1,0 +1,17 @@
+{
+  "vendors": [
+    {"id":1,"vendorName":"Chanda Tembo","companyName":"ZESCO Limited","contactPerson":"Chanda Tembo","email":"accounts@zesco.co.zm","phone":"+260 211 000 001","city":"Lusaka","country":"Zambia","defaultPaymentTerms":"Net 30","taxId":"TPIN-ZES-001","totalAmountOwed":0.00},
+    {"id":2,"vendorName":"Mwansa Phiri","companyName":"Illovo Sugar Africa Ltd","contactPerson":"Mwansa Phiri","email":"m.phiri@illovo.co.za","phone":"+260 977 000 002","city":"Mazabuka","country":"Zambia","defaultPaymentTerms":"Net 30","taxId":"TPIN-ILL-002","totalAmountOwed":0.00},
+    {"id":3,"vendorName":"Ngosa Mwale","companyName":"Total Zambia Ltd","contactPerson":"Ngosa Mwale","email":"n.mwale@total.co.zm","phone":"+260 211 000 003","city":"Lusaka","country":"Zambia","defaultPaymentTerms":"Net 30","taxId":"TPIN-TOT-003","totalAmountOwed":1600000.00},
+    {"id":4,"vendorName":"Bwalya Kapata","companyName":"NAPSA","contactPerson":"Bwalya Kapata","email":"b.kapata@napsa.co.zm","phone":"+260 211 000 004","city":"Lusaka","country":"Zambia","defaultPaymentTerms":"Net 30","taxId":"TPIN-NPS-004","totalAmountOwed":0.00},
+    {"id":5,"vendorName":"Malama Banda","companyName":"Zambia Revenue Authority","contactPerson":"Malama Banda","email":"m.banda@zra.org.zm","phone":"+260 211 000 005","city":"Lusaka","country":"Zambia","defaultPaymentTerms":"Net 30","taxId":"TPIN-ZRA-005","totalAmountOwed":0.00},
+    {"id":6,"vendorName":"Sakala Lungu","companyName":"Bosch Rexroth Zambia","contactPerson":"Sakala Lungu","email":"s.lungu@boschrexroth.co.zm","phone":"+260 211 000 006","city":"Lusaka","country":"Zambia","defaultPaymentTerms":"Net 30","taxId":"TPIN-BSR-006","totalAmountOwed":0.00},
+    {"id":7,"vendorName":"Zimba Mumba","companyName":"Nalco Water","contactPerson":"Zimba Mumba","email":"z.mumba@nalco.co.zm","phone":"+260 977 000 007","city":"Ndola","country":"Zambia","defaultPaymentTerms":"Net 30","taxId":"TPIN-NLC-007","totalAmountOwed":780000.00},
+    {"id":8,"vendorName":"Chipasha Zulu","companyName":"Omnia Fertilizers Zambia","contactPerson":"Chipasha Zulu","email":"c.zulu@omnia.co.zm","phone":"+260 211 000 008","city":"Lusaka","country":"Zambia","defaultPaymentTerms":"Net 30","taxId":"TPIN-OMN-008","totalAmountOwed":0.00},
+    {"id":9,"vendorName":"Susan Kaunda","companyName":"SKF Bearings Zambia","contactPerson":"Susan Kaunda","email":"s.kaunda@skf.co.zm","phone":"+260 211 000 009","city":"Ndola","country":"Zambia","defaultPaymentTerms":"Net 30","taxId":"TPIN-SKF-009","totalAmountOwed":0.00},
+    {"id":10,"vendorName":"Peter Nkonde","companyName":"Siemens Zambia","contactPerson":"Peter Nkonde","email":"p.nkonde@siemens.co.zm","phone":"+260 211 000 010","city":"Lusaka","country":"Zambia","defaultPaymentTerms":"Net 30","taxId":"TPIN-SIE-010","totalAmountOwed":0.00},
+    {"id":11,"vendorName":"Agnes Mutale","companyName":"ABB Zambia Ltd","contactPerson":"Agnes Mutale","email":"a.mutale@abb.co.zm","phone":"+260 211 000 011","city":"Lusaka","country":"Zambia","defaultPaymentTerms":"Net 30","taxId":"TPIN-ABB-011","totalAmountOwed":1200000.00},
+    {"id":12,"vendorName":"John Mwangi","companyName":"John Deere Zambia","contactPerson":"John Mwangi","email":"j.mwangi@johndeere.co.zm","phone":"+260 977 000 012","city":"Lusaka","country":"Zambia","defaultPaymentTerms":"Net 30","taxId":"TPIN-JDZ-012","totalAmountOwed":1850000.00}
+  ],
+  "vendorCredits": []
+}

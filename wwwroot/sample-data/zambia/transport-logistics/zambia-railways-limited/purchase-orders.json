@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1,
+    "poNumber": "PO-2025-001",
+    "vendorName": "Mwamba Haulage Ltd",
+    "description": "Vehicle Maintenance",
+    "orderDate": "2025-02-21T00:00:00",
+    "expectedDate": "2025-03-18T00:00:00",
+    "amount": 95919.5,
+    "receivedAmount": 0.0,
+    "status": "Open",
+    "approvalStatus": "Approved",
+    "approvedBy": "CFO"
+  },
+  {
+    "id": 2,
+    "poNumber": "PO-2025-002",
+    "vendorName": "Kaputo Haulage Inc.",
+    "description": "Spare Parts & Tyres",
+    "orderDate": "2024-12-27T00:00:00",
+    "expectedDate": "2025-01-17T00:00:00",
+    "amount": 834372.73,
+    "receivedAmount": 0.0,
+    "status": "Open",
+    "approvalStatus": "Approved",
+    "approvedBy": "Finance Manager"
+  },
+  {
+    "id": 3,
+    "poNumber": "PO-2025-003",
+    "vendorName": "Kaputo Haulage Inc.",
+    "description": "Port Handling Charges",
+    "orderDate": "2025-02-24T00:00:00",
+    "expectedDate": "2025-03-15T00:00:00",
+    "amount": 1823472.72,
+    "receivedAmount": 0.0,
+    "status": "Open",
+    "approvalStatus": "Approved",
+    "approvedBy": "Finance Manager"
+  },
+  {
+    "id": 4,
+    "poNumber": "PO-2025-004",
+    "vendorName": "Siame Freight Solutions",
+    "description": "Driver Wages",
+    "orderDate": "2025-01-16T00:00:00",
+    "expectedDate": "2025-02-12T00:00:00",
+    "amount": 1737550.56,
+    "receivedAmount": 0.0,
+    "status": "Open",
+    "approvalStatus": "Approved",
+    "approvedBy": "CFO"
+  },
+  {
+    "id": 5,
+    "poNumber": "PO-2025-005",
+    "vendorName": "Tembo Cargo Co.",
+    "description": "Fuel Purchase",
+    "orderDate": "2025-02-26T00:00:00",
+    "expectedDate": "2025-03-12T00:00:00",
+    "amount": 352213.67,
+    "receivedAmount": 352213.67,
+    "status": "Closed",
+    "approvalStatus": "Approved",
+    "approvedBy": "CFO"
+  },
+  {
+    "id": 6,
+    "poNumber": "PO-2025-006",
+    "vendorName": "Kaputo Haulage Inc.",
+    "description": "Driver Wages",
+    "orderDate": "2025-02-21T00:00:00",
+    "expectedDate": "2025-03-10T00:00:00",
+    "amount": 1041570.0,
+    "receivedAmount": 0.0,
+    "status": "Cancelled",
+    "approvalStatus": "Approved",
+    "approvedBy": "Procurement Officer"
+  }
+]

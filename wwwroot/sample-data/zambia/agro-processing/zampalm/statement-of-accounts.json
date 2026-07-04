@@ -1,0 +1,166 @@
+{
+  "companyName": "Zampalm",
+  "companyAddress": "Kabwe, Zambia",
+  "companyTaxId": "TPIN-3825990-Z",
+  "generatedDate": "2025-09-30",
+  "currency": "ZMW",
+  "period": {
+    "from": "2025-01-01",
+    "to": "2025-09-30"
+  },
+  "customerStatements": [
+    {
+      "customerId": 1,
+      "customerName": "Lusaka Investments Ltd",
+      "customerEmail": "billing@lusaka.co.zm",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-06-02",
+          "reference": "INV-Z-2025-018",
+          "description": "Supply of sunflower seeds - batch 8715",
+          "debit": 1507500,
+          "credit": 0.0,
+          "balance": 1507500
+        }
+      ],
+      "closingBalance": 1507500,
+      "status": "Outstanding"
+    },
+    {
+      "customerId": 2,
+      "customerName": "Zain Solutions Ltd",
+      "customerEmail": "info@zain.com",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-07-26",
+          "reference": "INV-Z-2025-029",
+          "description": "Supply of groundnuts - batch 2932",
+          "debit": 2822000,
+          "credit": 0.0,
+          "balance": 2822000
+        },
+        {
+          "date": "2025-09-11",
+          "reference": "PMT-Z-2025-027",
+          "description": "Final payment - contract completion",
+          "debit": 0.0,
+          "credit": 2822000,
+          "balance": 0.0
+        }
+      ],
+      "closingBalance": 0.0,
+      "status": "Settled"
+    },
+    {
+      "customerId": 3,
+      "customerName": "Kafue Industries Ltd",
+      "customerEmail": "finance@kafue.co.zm",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-07-09",
+          "reference": "INV-Z-2025-032",
+          "description": "Processing fee - soya meal",
+          "debit": 2032000,
+          "credit": 0.0,
+          "balance": 2032000
+        },
+        {
+          "date": "2025-08-05",
+          "reference": "PMT-Z-2025-039",
+          "description": "Export proceeds received",
+          "debit": 0.0,
+          "credit": 2032000,
+          "balance": 0.0
+        }
+      ],
+      "closingBalance": 0.0,
+      "status": "Settled"
+    },
+    {
+      "customerId": 4,
+      "customerName": "Kafue Partners Co.",
+      "customerEmail": "finance@kafue.com",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-02-04",
+          "reference": "INV-Z-2025-049",
+          "description": "Cold storage & logistics fee",
+          "debit": 2912500,
+          "credit": 0.0,
+          "balance": 2912500
+        },
+        {
+          "date": "2025-04-26",
+          "reference": "PMT-Z-2025-047",
+          "description": "Export proceeds received",
+          "debit": 0.0,
+          "credit": 2912500,
+          "balance": 0.0
+        }
+      ],
+      "closingBalance": 0.0,
+      "status": "Settled"
+    },
+    {
+      "customerId": 5,
+      "customerName": "Chambeshi Investments Ltd",
+      "customerEmail": "billing@chambeshi.co.zm",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-07-25",
+          "reference": "INV-Z-2025-057",
+          "description": "Processing fee - sunflower seeds",
+          "debit": 2605000,
+          "credit": 0.0,
+          "balance": 2605000
+        }
+      ],
+      "closingBalance": 2605000,
+      "status": "Outstanding"
+    },
+    {
+      "customerId": 6,
+      "customerName": "Copperbelt Holdings PLC",
+      "customerEmail": "accounts@copperbelt.co.zm",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-03-24",
+          "reference": "INV-Z-2025-066",
+          "description": "Seasonal harvest supply agreement",
+          "debit": 891000,
+          "credit": 0.0,
+          "balance": 891000
+        },
+        {
+          "date": "2025-05-14",
+          "reference": "PMT-Z-2025-061",
+          "description": "Partial payment received",
+          "debit": 0.0,
+          "credit": 891000,
+          "balance": 0.0
+        }
+      ],
+      "closingBalance": 0.0,
+      "status": "Settled"
+    }
+  ],
+  "summary": {
+    "totalInvoiced": 12770000,
+    "totalReceived": 8657500,
+    "totalOutstanding": 4112500,
+    "totalOverdue": 4112500.0,
+    "agingSummary": {
+      "current": 0.0,
+      "days1to30": 0.0,
+      "days31to60": 2605000.0,
+      "days61to90": 1507500.0,
+      "over90days": 0.0
+    }
+  }
+}

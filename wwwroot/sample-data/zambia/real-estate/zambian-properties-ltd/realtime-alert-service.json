@@ -1,0 +1,272 @@
+[
+  {
+    "id": "ra-001",
+    "alertType": "Low Cash Balance",
+    "severity": "High",
+    "message": "Cash balance has fallen below ZMW 10,000",
+    "timestamp": "2025-03-29",
+    "accountId": "acc-001",
+    "acknowledged": false
+  },
+  {
+    "id": "ra-002",
+    "alertType": "Overdue Invoice",
+    "severity": "Medium",
+    "message": "Invoice INV-2024-001 is 30 days overdue",
+    "timestamp": "2025-08-15",
+    "customerId": "cust-001",
+    "acknowledged": true
+  },
+  {
+    "id": "ra-003",
+    "alertType": "Low Cash Balance",
+    "severity": "High",
+    "message": "Cash balance has fallen below ZMW 10,000",
+    "timestamp": "2025-11-03",
+    "accountId": "acc-001",
+    "acknowledged": false
+  },
+  {
+    "id": "ra-004",
+    "alertType": "Overdue Invoice",
+    "severity": "Medium",
+    "message": "Invoice INV-2024-001 is 30 days overdue",
+    "timestamp": "2025-02-03",
+    "customerId": "cust-001",
+    "acknowledged": true
+  },
+  {
+    "id": "ra-005",
+    "alertType": "Low Cash Balance",
+    "severity": "High",
+    "message": "Cash balance has fallen below ZMW 10,000",
+    "timestamp": "2025-08-11",
+    "accountId": "acc-001",
+    "acknowledged": false
+  },
+  {
+    "id": "ra-006",
+    "alertType": "Overdue Invoice",
+    "severity": "Medium",
+    "message": "Invoice INV-2024-001 is 30 days overdue",
+    "timestamp": "2025-11-06",
+    "customerId": "cust-001",
+    "acknowledged": true
+  },
+  {
+    "id": "ra-007",
+    "alertType": "Low Cash Balance",
+    "severity": "High",
+    "message": "Cash balance has fallen below ZMW 10,000",
+    "timestamp": "2025-03-09",
+    "accountId": "acc-001",
+    "acknowledged": false
+  },
+  {
+    "id": "ra-008",
+    "alertType": "Overdue Invoice",
+    "severity": "Medium",
+    "message": "Invoice INV-2024-001 is 30 days overdue",
+    "timestamp": "2025-12-04",
+    "customerId": "cust-001",
+    "acknowledged": true
+  },
+  {
+    "id": "ra-009",
+    "alertType": "Low Cash Balance",
+    "severity": "High",
+    "message": "Cash balance has fallen below ZMW 10,000",
+    "timestamp": "2025-05-20",
+    "accountId": "acc-001",
+    "acknowledged": false
+  },
+  {
+    "id": "ra-010",
+    "alertType": "Overdue Invoice",
+    "severity": "Medium",
+    "message": "Invoice INV-2024-001 is 30 days overdue",
+    "timestamp": "2025-06-21",
+    "customerId": "cust-001",
+    "acknowledged": true
+  },
+  {
+    "id": "ra-011",
+    "alertType": "Low Cash Balance",
+    "severity": "High",
+    "message": "Cash balance has fallen below ZMW 10,000",
+    "timestamp": "2025-02-08",
+    "accountId": "acc-001",
+    "acknowledged": false
+  },
+  {
+    "id": "ra-012",
+    "alertType": "Overdue Invoice",
+    "severity": "Medium",
+    "message": "Invoice INV-2024-001 is 30 days overdue",
+    "timestamp": "2025-09-15",
+    "customerId": "cust-001",
+    "acknowledged": true
+  },
+  {
+    "id": "ra-013",
+    "alertType": "Low Cash Balance",
+    "severity": "High",
+    "message": "Cash balance has fallen below ZMW 10,000",
+    "timestamp": "2025-08-01",
+    "accountId": "acc-001",
+    "acknowledged": false
+  },
+  {
+    "id": "ra-014",
+    "alertType": "Overdue Invoice",
+    "severity": "Medium",
+    "message": "Invoice INV-2024-001 is 30 days overdue",
+    "timestamp": "2025-02-05",
+    "customerId": "cust-001",
+    "acknowledged": true
+  },
+  {
+    "id": "ra-015",
+    "alertType": "Low Cash Balance",
+    "severity": "High",
+    "message": "Cash balance has fallen below ZMW 10,000",
+    "timestamp": "2025-12-05",
+    "accountId": "acc-001",
+    "acknowledged": false
+  },
+  {
+    "id": "ra-016",
+    "alertType": "Overdue Invoice",
+    "severity": "Medium",
+    "message": "Invoice INV-2024-001 is 30 days overdue",
+    "timestamp": "2026-01-17",
+    "customerId": "cust-001",
+    "acknowledged": true
+  },
+  {
+    "id": "ra-017",
+    "alertType": "Low Cash Balance",
+    "severity": "High",
+    "message": "Cash balance has fallen below ZMW 10,000",
+    "timestamp": "2025-07-18",
+    "accountId": "acc-001",
+    "acknowledged": false
+  },
+  {
+    "id": "ra-018",
+    "alertType": "Overdue Invoice",
+    "severity": "Medium",
+    "message": "Invoice INV-2024-001 is 30 days overdue",
+    "timestamp": "2025-10-06",
+    "customerId": "cust-001",
+    "acknowledged": true
+  },
+  {
+    "id": "ra-019",
+    "alertType": "Low Cash Balance",
+    "severity": "High",
+    "message": "Cash balance has fallen below ZMW 10,000",
+    "timestamp": "2025-05-07",
+    "accountId": "acc-001",
+    "acknowledged": false
+  },
+  {
+    "id": "ra-020",
+    "alertType": "Overdue Invoice",
+    "severity": "Medium",
+    "message": "Invoice INV-2024-001 is 30 days overdue",
+    "timestamp": "2025-07-13",
+    "customerId": "cust-001",
+    "acknowledged": true
+  },
+  {
+    "id": "ra-021",
+    "alertType": "Low Cash Balance",
+    "severity": "High",
+    "message": "Cash balance has fallen below ZMW 10,000",
+    "timestamp": "2025-01-28",
+    "accountId": "acc-001",
+    "acknowledged": false
+  },
+  {
+    "id": "ra-022",
+    "alertType": "Overdue Invoice",
+    "severity": "Medium",
+    "message": "Invoice INV-2024-001 is 30 days overdue",
+    "timestamp": "2025-04-02",
+    "customerId": "cust-001",
+    "acknowledged": true
+  },
+  {
+    "id": "ra-023",
+    "alertType": "Low Cash Balance",
+    "severity": "High",
+    "message": "Cash balance has fallen below ZMW 10,000",
+    "timestamp": "2025-12-15",
+    "accountId": "acc-001",
+    "acknowledged": false
+  },
+  {
+    "id": "ra-024",
+    "alertType": "Overdue Invoice",
+    "severity": "Medium",
+    "message": "Invoice INV-2024-001 is 30 days overdue",
+    "timestamp": "2025-07-11",
+    "customerId": "cust-001",
+    "acknowledged": true
+  },
+  {
+    "id": "ra-025",
+    "alertType": "Low Cash Balance",
+    "severity": "High",
+    "message": "Cash balance has fallen below ZMW 10,000",
+    "timestamp": "2025-04-23",
+    "accountId": "acc-001",
+    "acknowledged": false
+  },
+  {
+    "id": "ra-026",
+    "alertType": "Overdue Invoice",
+    "severity": "Medium",
+    "message": "Invoice INV-2024-001 is 30 days overdue",
+    "timestamp": "2025-12-05",
+    "customerId": "cust-001",
+    "acknowledged": true
+  },
+  {
+    "id": "ra-027",
+    "alertType": "Low Cash Balance",
+    "severity": "High",
+    "message": "Cash balance has fallen below ZMW 10,000",
+    "timestamp": "2025-03-26",
+    "accountId": "acc-001",
+    "acknowledged": false
+  },
+  {
+    "id": "ra-028",
+    "alertType": "Overdue Invoice",
+    "severity": "Medium",
+    "message": "Invoice INV-2024-001 is 30 days overdue",
+    "timestamp": "2025-03-24",
+    "customerId": "cust-001",
+    "acknowledged": true
+  },
+  {
+    "id": "ra-029",
+    "alertType": "Low Cash Balance",
+    "severity": "High",
+    "message": "Cash balance has fallen below ZMW 10,000",
+    "timestamp": "2025-09-07",
+    "accountId": "acc-001",
+    "acknowledged": false
+  },
+  {
+    "id": "ra-030",
+    "alertType": "Overdue Invoice",
+    "severity": "Medium",
+    "message": "Invoice INV-2024-001 is 30 days overdue",
+    "timestamp": "2025-09-11",
+    "customerId": "cust-001",
+    "acknowledged": true
+  }
+]

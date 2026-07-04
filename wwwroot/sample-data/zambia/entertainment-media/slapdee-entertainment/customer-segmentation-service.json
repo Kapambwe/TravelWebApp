@@ -1,0 +1,302 @@
+[
+  {
+    "id": "customer-segmentation-001",
+    "segmentName": "High Value Customers 1",
+    "criteria": {
+      "minRevenue": 100000.0,
+      "minTransactions": 10
+    },
+    "customerCount": 25,
+    "totalRevenue": 5000000.0
+  },
+  {
+    "id": "customer-segmentation-002",
+    "segmentName": "High Value Customers 1",
+    "criteria": {
+      "minRevenue": 100000.0,
+      "minTransactions": 10
+    },
+    "customerCount": 25,
+    "totalRevenue": 5000000.0
+  },
+  {
+    "id": "customer-segmentation-003",
+    "segmentName": "High Value Customers 1",
+    "criteria": {
+      "minRevenue": 100000.0,
+      "minTransactions": 10
+    },
+    "customerCount": 25,
+    "totalRevenue": 5000000.0
+  },
+  {
+    "id": "customer-segmentation-004",
+    "segmentName": "High Value Customers 1",
+    "criteria": {
+      "minRevenue": 100000.0,
+      "minTransactions": 10
+    },
+    "customerCount": 25,
+    "totalRevenue": 5000000.0
+  },
+  {
+    "id": "customer-segmentation-005",
+    "segmentName": "High Value Customers 1",
+    "criteria": {
+      "minRevenue": 100000.0,
+      "minTransactions": 10
+    },
+    "customerCount": 25,
+    "totalRevenue": 5000000.0
+  },
+  {
+    "id": "customer-segmentation-006",
+    "segmentName": "High Value Customers 1",
+    "criteria": {
+      "minRevenue": 100000.0,
+      "minTransactions": 10
+    },
+    "customerCount": 25,
+    "totalRevenue": 5000000.0
+  },
+  {
+    "id": "customer-segmentation-007",
+    "segmentName": "High Value Customers 1",
+    "criteria": {
+      "minRevenue": 100000.0,
+      "minTransactions": 10
+    },
+    "customerCount": 25,
+    "totalRevenue": 5000000.0
+  },
+  {
+    "id": "customer-segmentation-008",
+    "segmentName": "High Value Customers 1",
+    "criteria": {
+      "minRevenue": 100000.0,
+      "minTransactions": 10
+    },
+    "customerCount": 25,
+    "totalRevenue": 5000000.0
+  },
+  {
+    "id": "customer-segmentation-009",
+    "segmentName": "High Value Customers 1",
+    "criteria": {
+      "minRevenue": 100000.0,
+      "minTransactions": 10
+    },
+    "customerCount": 25,
+    "totalRevenue": 5000000.0
+  },
+  {
+    "id": "customer-segmentation-010",
+    "segmentName": "High Value Customers 1",
+    "criteria": {
+      "minRevenue": 100000.0,
+      "minTransactions": 10
+    },
+    "customerCount": 25,
+    "totalRevenue": 5000000.0
+  },
+  {
+    "id": "customer-segmentation-011",
+    "segmentName": "High Value Customers 1",
+    "criteria": {
+      "minRevenue": 100000.0,
+      "minTransactions": 10
+    },
+    "customerCount": 25,
+    "totalRevenue": 5000000.0
+  },
+  {
+    "id": "customer-segmentation-012",
+    "segmentName": "High Value Customers 1",
+    "criteria": {
+      "minRevenue": 100000.0,
+      "minTransactions": 10
+    },
+    "customerCount": 25,
+    "totalRevenue": 5000000.0
+  },
+  {
+    "id": "customer-segmentation-013",
+    "segmentName": "High Value Customers 1",
+    "criteria": {
+      "minRevenue": 100000.0,
+      "minTransactions": 10
+    },
+    "customerCount": 25,
+    "totalRevenue": 5000000.0
+  },
+  {
+    "id": "customer-segmentation-014",
+    "segmentName": "High Value Customers 1",
+    "criteria": {
+      "minRevenue": 100000.0,
+      "minTransactions": 10
+    },
+    "customerCount": 25,
+    "totalRevenue": 5000000.0
+  },
+  {
+    "id": "customer-segmentation-015",
+    "segmentName": "High Value Customers 1",
+    "criteria": {
+      "minRevenue": 100000.0,
+      "minTransactions": 10
+    },
+    "customerCount": 25,
+    "totalRevenue": 5000000.0
+  },
+  {
+    "id": "customer-segmentation-016",
+    "segmentName": "High Value Customers 1",
+    "criteria": {
+      "minRevenue": 100000.0,
+      "minTransactions": 10
+    },
+    "customerCount": 25,
+    "totalRevenue": 5000000.0
+  },
+  {
+    "id": "customer-segmentation-017",
+    "segmentName": "High Value Customers 1",
+    "criteria": {
+      "minRevenue": 100000.0,
+      "minTransactions": 10
+    },
+    "customerCount": 25,
+    "totalRevenue": 5000000.0
+  },
+  {
+    "id": "customer-segmentation-018",
+    "segmentName": "High Value Customers 1",
+    "criteria": {
+      "minRevenue": 100000.0,
+      "minTransactions": 10
+    },
+    "customerCount": 25,
+    "totalRevenue": 5000000.0
+  },
+  {
+    "id": "customer-segmentation-019",
+    "segmentName": "High Value Customers 1",
+    "criteria": {
+      "minRevenue": 100000.0,
+      "minTransactions": 10
+    },
+    "customerCount": 25,
+    "totalRevenue": 5000000.0
+  },
+  {
+    "id": "customer-segmentation-020",
+    "segmentName": "High Value Customers 1",
+    "criteria": {
+      "minRevenue": 100000.0,
+      "minTransactions": 10
+    },
+    "customerCount": 25,
+    "totalRevenue": 5000000.0
+  },
+  {
+    "id": "customer-segmentation-021",
+    "segmentName": "High Value Customers 1",
+    "criteria": {
+      "minRevenue": 100000.0,
+      "minTransactions": 10
+    },
+    "customerCount": 25,
+    "totalRevenue": 5000000.0
+  },
+  {
+    "id": "customer-segmentation-022",
+    "segmentName": "High Value Customers 1",
+    "criteria": {
+      "minRevenue": 100000.0,
+      "minTransactions": 10
+    },
+    "customerCount": 25,
+    "totalRevenue": 5000000.0
+  },
+  {
+    "id": "customer-segmentation-023",
+    "segmentName": "High Value Customers 1",
+    "criteria": {
+      "minRevenue": 100000.0,
+      "minTransactions": 10
+    },
+    "customerCount": 25,
+    "totalRevenue": 5000000.0
+  },
+  {
+    "id": "customer-segmentation-024",
+    "segmentName": "High Value Customers 1",
+    "criteria": {
+      "minRevenue": 100000.0,
+      "minTransactions": 10
+    },
+    "customerCount": 25,
+    "totalRevenue": 5000000.0
+  },
+  {
+    "id": "customer-segmentation-025",
+    "segmentName": "High Value Customers 1",
+    "criteria": {
+      "minRevenue": 100000.0,
+      "minTransactions": 10
+    },
+    "customerCount": 25,
+    "totalRevenue": 5000000.0
+  },
+  {
+    "id": "customer-segmentation-026",
+    "segmentName": "High Value Customers 1",
+    "criteria": {
+      "minRevenue": 100000.0,
+      "minTransactions": 10
+    },
+    "customerCount": 25,
+    "totalRevenue": 5000000.0
+  },
+  {
+    "id": "customer-segmentation-027",
+    "segmentName": "High Value Customers 1",
+    "criteria": {
+      "minRevenue": 100000.0,
+      "minTransactions": 10
+    },
+    "customerCount": 25,
+    "totalRevenue": 5000000.0
+  },
+  {
+    "id": "customer-segmentation-028",
+    "segmentName": "High Value Customers 1",
+    "criteria": {
+      "minRevenue": 100000.0,
+      "minTransactions": 10
+    },
+    "customerCount": 25,
+    "totalRevenue": 5000000.0
+  },
+  {
+    "id": "customer-segmentation-029",
+    "segmentName": "High Value Customers 1",
+    "criteria": {
+      "minRevenue": 100000.0,
+      "minTransactions": 10
+    },
+    "customerCount": 25,
+    "totalRevenue": 5000000.0
+  },
+  {
+    "id": "customer-segmentation-030",
+    "segmentName": "High Value Customers 1",
+    "criteria": {
+      "minRevenue": 100000.0,
+      "minTransactions": 10
+    },
+    "customerCount": 25,
+    "totalRevenue": 5000000.0
+  }
+]

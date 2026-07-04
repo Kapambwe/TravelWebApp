@@ -1,0 +1,166 @@
+{
+  "companyName": "Daily Nation Zambia",
+  "companyAddress": "Kabwe, Zambia",
+  "companyTaxId": "TPIN-8689901-DNZ",
+  "generatedDate": "2025-09-30",
+  "currency": "ZMW",
+  "period": {
+    "from": "2025-01-01",
+    "to": "2025-09-30"
+  },
+  "customerStatements": [
+    {
+      "customerId": 1,
+      "customerName": "Luangwa Group Ltd",
+      "customerEmail": "info@luangwa.co.zm",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-05-13",
+          "reference": "INV-Z-2025-017",
+          "description": "Advertising campaign - Apr-Jun",
+          "debit": 2429500,
+          "credit": 0.0,
+          "balance": 2429500
+        },
+        {
+          "date": "2025-06-23",
+          "reference": "PMT-Z-2025-018",
+          "description": "Partial payment received - bank transfer",
+          "debit": 0.0,
+          "credit": 1604500,
+          "balance": 825000
+        }
+      ],
+      "closingBalance": 825000,
+      "status": "Partially Paid"
+    },
+    {
+      "customerId": 2,
+      "customerName": "Kansanshi Partners Co.",
+      "customerEmail": "info@kansanshi.co.zm",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-03-03",
+          "reference": "INV-Z-2025-029",
+          "description": "Digital content licensing",
+          "debit": 2400000,
+          "credit": 0.0,
+          "balance": 2400000
+        },
+        {
+          "date": "2025-05-17",
+          "reference": "PMT-Z-2025-023",
+          "description": "Payment received - bank transfer",
+          "debit": 0.0,
+          "credit": 2400000,
+          "balance": 0.0
+        }
+      ],
+      "closingBalance": 0.0,
+      "status": "Settled"
+    },
+    {
+      "customerId": 3,
+      "customerName": "Copperbelt Partners Co.",
+      "customerEmail": "contact@copperbelt.co.zm",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-09-10",
+          "reference": "INV-Z-2025-038",
+          "description": "Sponsored content package",
+          "debit": 1002000,
+          "credit": 0.0,
+          "balance": 1002000
+        }
+      ],
+      "closingBalance": 1002000,
+      "status": "Outstanding"
+    },
+    {
+      "customerId": 4,
+      "customerName": "Lusaka Group Ltd",
+      "customerEmail": "billing@lusaka.com",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-07-08",
+          "reference": "INV-Z-2025-049",
+          "description": "Sponsored content package",
+          "debit": 598000,
+          "credit": 0.0,
+          "balance": 598000
+        },
+        {
+          "date": "2025-08-12",
+          "reference": "PMT-Z-2025-046",
+          "description": "Installment payment received",
+          "debit": 0.0,
+          "credit": 598000,
+          "balance": 0.0
+        }
+      ],
+      "closingBalance": 0.0,
+      "status": "Settled"
+    },
+    {
+      "customerId": 5,
+      "customerName": "Mukuba Investments Ltd",
+      "customerEmail": "billing@mukuba.co.zm",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-08-09",
+          "reference": "INV-Z-2025-051",
+          "description": "Broadcast airtime contract",
+          "debit": 1907000,
+          "credit": 0.0,
+          "balance": 1907000
+        }
+      ],
+      "closingBalance": 1907000,
+      "status": "Outstanding"
+    },
+    {
+      "customerId": 6,
+      "customerName": "Copperbelt Partners Co.",
+      "customerEmail": "info@copperbelt.co.zm",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-05-20",
+          "reference": "INV-Z-2025-067",
+          "description": "Television commercial airtime",
+          "debit": 1330500,
+          "credit": 0.0,
+          "balance": 1330500
+        },
+        {
+          "date": "2025-06-15",
+          "reference": "PMT-Z-2025-061",
+          "description": "Partial installment payment received",
+          "debit": 0.0,
+          "credit": 698500,
+          "balance": 632000
+        }
+      ],
+      "closingBalance": 632000,
+      "status": "Partially Paid"
+    }
+  ],
+  "summary": {
+    "totalInvoiced": 9667000,
+    "totalReceived": 5301000,
+    "totalOutstanding": 4366000,
+    "totalOverdue": 3364000.0,
+    "agingSummary": {
+      "current": 1002000.0,
+      "days1to30": 1907000.0,
+      "days31to60": 0.0,
+      "days61to90": 0.0,
+      "over90days": 1457000.0
+    }
+  }
+}

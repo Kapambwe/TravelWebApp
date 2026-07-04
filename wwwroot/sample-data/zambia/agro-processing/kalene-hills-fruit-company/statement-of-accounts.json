@@ -1,0 +1,174 @@
+{
+  "companyName": "Kalene Hills Fruit Company",
+  "companyAddress": "Lusaka, Zambia",
+  "companyTaxId": "TPIN-7357273-KHFC",
+  "generatedDate": "2025-09-30",
+  "currency": "ZMW",
+  "period": {
+    "from": "2025-01-01",
+    "to": "2025-09-30"
+  },
+  "customerStatements": [
+    {
+      "customerId": 1,
+      "customerName": "Luangwa Partners Co.",
+      "customerEmail": "billing@luangwa.co.zm",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-06-28",
+          "reference": "INV-Z-2025-019",
+          "description": "Supply of cashew nuts - batch 6471",
+          "debit": 1023500,
+          "credit": 0.0,
+          "balance": 1023500
+        },
+        {
+          "date": "2025-08-14",
+          "reference": "PMT-Z-2025-014",
+          "description": "Payment received - letter of credit",
+          "debit": 0.0,
+          "credit": 1023500,
+          "balance": 0.0
+        }
+      ],
+      "closingBalance": 0.0,
+      "status": "Settled"
+    },
+    {
+      "customerId": 2,
+      "customerName": "Chambeshi Enterprises Ltd",
+      "customerEmail": "info@chambeshi.co.zm",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-01-28",
+          "reference": "INV-Z-2025-022",
+          "description": "Agricultural produce export contract",
+          "debit": 587500,
+          "credit": 0.0,
+          "balance": 587500
+        },
+        {
+          "date": "2025-02-04",
+          "reference": "PMT-Z-2025-023",
+          "description": "Export proceeds received",
+          "debit": 0.0,
+          "credit": 587500,
+          "balance": 0.0
+        }
+      ],
+      "closingBalance": 0.0,
+      "status": "Settled"
+    },
+    {
+      "customerId": 3,
+      "customerName": "Kansanshi Enterprises Ltd",
+      "customerEmail": "info@kansanshi.com",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-07-19",
+          "reference": "INV-Z-2025-038",
+          "description": "Quality certification services",
+          "debit": 1139000,
+          "credit": 0.0,
+          "balance": 1139000
+        },
+        {
+          "date": "2025-08-03",
+          "reference": "PMT-Z-2025-036",
+          "description": "Final payment - contract completion",
+          "debit": 0.0,
+          "credit": 1139000,
+          "balance": 0.0
+        }
+      ],
+      "closingBalance": 0.0,
+      "status": "Settled"
+    },
+    {
+      "customerId": 4,
+      "customerName": "Mukuba Group Ltd",
+      "customerEmail": "admin@mukuba.co.zm",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-01-16",
+          "reference": "INV-Z-2025-049",
+          "description": "Quality certification services",
+          "debit": 586500,
+          "credit": 0.0,
+          "balance": 586500
+        },
+        {
+          "date": "2025-02-22",
+          "reference": "PMT-Z-2025-044",
+          "description": "Export proceeds received",
+          "debit": 0.0,
+          "credit": 586500,
+          "balance": 0.0
+        }
+      ],
+      "closingBalance": 0.0,
+      "status": "Settled"
+    },
+    {
+      "customerId": 5,
+      "customerName": "Zambezi Trading Ltd",
+      "customerEmail": "billing@zambezi.co.zm",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-06-18",
+          "reference": "INV-Z-2025-051",
+          "description": "Crop storage facility rental",
+          "debit": 2624000,
+          "credit": 0.0,
+          "balance": 2624000
+        }
+      ],
+      "closingBalance": 2624000,
+      "status": "Outstanding"
+    },
+    {
+      "customerId": 6,
+      "customerName": "Chambeshi Group Ltd",
+      "customerEmail": "contact@chambeshi.com",
+      "openingBalance": 0.0,
+      "transactions": [
+        {
+          "date": "2025-03-04",
+          "reference": "INV-Z-2025-066",
+          "description": "Seasonal harvest supply agreement",
+          "debit": 1088500,
+          "credit": 0.0,
+          "balance": 1088500
+        },
+        {
+          "date": "2025-04-01",
+          "reference": "PMT-Z-2025-062",
+          "description": "Partial payment received",
+          "debit": 0.0,
+          "credit": 1088500,
+          "balance": 0.0
+        }
+      ],
+      "closingBalance": 0.0,
+      "status": "Settled"
+    }
+  ],
+  "summary": {
+    "totalInvoiced": 7049000,
+    "totalReceived": 4425000,
+    "totalOutstanding": 2624000,
+    "totalOverdue": 2624000.0,
+    "agingSummary": {
+      "current": 0.0,
+      "days1to30": 0.0,
+      "days31to60": 0.0,
+      "days61to90": 2624000.0,
+      "over90days": 0.0
+    }
+  }
+}

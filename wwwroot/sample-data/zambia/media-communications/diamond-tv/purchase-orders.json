@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1,
+    "poNumber": "PO-2025-001",
+    "vendorName": "Kaputo Communications Co.",
+    "description": "Content Distribution",
+    "orderDate": "2024-12-25T00:00:00",
+    "expectedDate": "2025-01-07T00:00:00",
+    "amount": 2543878.45,
+    "receivedAmount": 2543878.45,
+    "status": "Closed",
+    "approvalStatus": "Approved",
+    "approvedBy": "Procurement Officer"
+  },
+  {
+    "id": 2,
+    "poNumber": "PO-2025-002",
+    "vendorName": "Tembo Digital Media Enterprises",
+    "description": "Freelancer Fees",
+    "orderDate": "2024-12-23T00:00:00",
+    "expectedDate": "2025-01-17T00:00:00",
+    "amount": 804897.37,
+    "receivedAmount": 0.0,
+    "status": "Cancelled",
+    "approvalStatus": "Approved",
+    "approvedBy": "CEO"
+  },
+  {
+    "id": 3,
+    "poNumber": "PO-2025-003",
+    "vendorName": "Mutale Publishers Co.",
+    "description": "Studio Production Costs",
+    "orderDate": "2025-02-08T00:00:00",
+    "expectedDate": "2025-02-17T00:00:00",
+    "amount": 799606.75,
+    "receivedAmount": 239922.51,
+    "status": "PartiallyReceived",
+    "approvalStatus": "Approved",
+    "approvedBy": "Procurement Officer"
+  },
+  {
+    "id": 4,
+    "poNumber": "PO-2025-004",
+    "vendorName": "Chileshe Communications Co.",
+    "description": "Freelancer Fees",
+    "orderDate": "2024-12-28T00:00:00",
+    "expectedDate": "2025-01-14T00:00:00",
+    "amount": 1788549.1,
+    "receivedAmount": 1788549.1,
+    "status": "Closed",
+    "approvalStatus": "Approved",
+    "approvedBy": "CEO"
+  },
+  {
+    "id": 5,
+    "poNumber": "PO-2025-005",
+    "vendorName": "Siame Broadcasting Enterprises",
+    "description": "Studio Production Costs",
+    "orderDate": "2025-02-12T00:00:00",
+    "expectedDate": "2025-02-23T00:00:00",
+    "amount": 1640350.78,
+    "receivedAmount": 1640350.78,
+    "status": "Closed",
+    "approvalStatus": "Pending",
+    "approvedBy": "Finance Manager"
+  },
+  {
+    "id": 6,
+    "poNumber": "PO-2025-006",
+    "vendorName": "Phiri Digital Media Inc.",
+    "description": "Content Distribution",
+    "orderDate": "2025-03-03T00:00:00",
+    "expectedDate": "2025-03-31T00:00:00",
+    "amount": 2321652.46,
+    "receivedAmount": 0.0,
+    "status": "Cancelled",
+    "approvalStatus": "Approved",
+    "approvedBy": "CEO"
+  }
+]

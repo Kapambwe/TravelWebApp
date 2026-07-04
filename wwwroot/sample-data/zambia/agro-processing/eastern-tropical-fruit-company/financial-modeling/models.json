@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Eastern Tropical Fruit Export Plan",
+    "description": "Agro-processing model for export revenue, packhouse costs, and cold chain cash flow.",
+    "modelType": "Forecast",
+    "startDate": "2026-01-01T00:00:00",
+    "endDate": "2028-12-31T00:00:00",
+    "periodType": "Monthly",
+    "currency": "ZMW",
+    "status": "Active",
+    "createdBy": "Tenant Sample",
+    "modifiedBy": "Tenant Sample",
+    "createdDate": "2026-05-01T00:00:00",
+    "modifiedDate": "2026-05-01T00:00:00",
+    "assumptions": [
+      {
+        "category": "Revenue",
+        "name": "Export Revenue",
+        "description": "Fresh fruit export revenue",
+        "type": "PercentGrowth",
+        "unit": "ZMW/month",
+        "baseValue": 320000.0,
+        "growthRate": 0.12,
+        "displayOrder": 1,
+        "isEditable": true,
+        "isKeyDriver": true
+      },
+      {
+        "category": "Cost",
+        "name": "Packing Cost Ratio",
+        "description": "Sorting, packing, and box material cost ratio",
+        "type": "Constant",
+        "unit": "%",
+        "constantValue": 0.18,
+        "displayOrder": 2,
+        "isEditable": true,
+        "isKeyDriver": true
+      },
+      {
+        "category": "Cost",
+        "name": "Cold Chain Cost",
+        "description": "Cooling, storage, and transport costs",
+        "type": "Constant",
+        "unit": "ZMW/month",
+        "constantValue": 42000.0,
+        "displayOrder": 3,
+        "isEditable": true,
+        "isKeyDriver": true
+      }
+    ],
+    "scenarios": [
+      {
+        "name": "Base Case",
+        "description": "Typical seasonal export cycle",
+        "type": "Base",
+        "isBaseline": true,
+        "probability": 0.55,
+        "assumptionOverrides": []
+      },
+      {
+        "name": "Peak Harvest",
+        "description": "High yield and strong export demand",
+        "type": "Optimistic",
+        "isBaseline": false,
+        "probability": 0.25,
+        "assumptionOverrides": [
+          {
+            "assumptionName": "Export Revenue",
+            "overrideGrowthRate": 0.16
+          }
+        ]
+      },
+      {
+        "name": "Spoilage Pressure",
+        "description": "Weather and cold-chain disruptions reduce margin",
+        "type": "Pessimistic",
+        "isBaseline": false,
+        "probability": 0.2,
+        "assumptionOverrides": [
+          {
+            "assumptionName": "Export Revenue",
+            "overrideGrowthRate": 0.07
+          },
+          {
+            "assumptionName": "Cold Chain Cost",
+            "overrideBaseValue": 60000.0
+          }
+        ]
+      }
+    ]
+  }
+]

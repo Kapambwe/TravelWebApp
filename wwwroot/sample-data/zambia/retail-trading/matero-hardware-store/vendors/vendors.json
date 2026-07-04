@@ -1,0 +1,122 @@
+{
+  "vendors": [
+    {
+      "id": 1,
+      "vendorName": "Sakala Mwamba",
+      "companyName": "Zimba Trading Limited",
+      "contactPerson": "Sakala Mwamba",
+      "email": "sakalamwamba@mwamba.co.zm",
+      "phone": "+260 522 433 779",
+      "city": "Chingola",
+      "country": "Zambia",
+      "defaultPaymentTerms": "Net 45",
+      "taxId": "TAX-683964",
+      "totalAmountOwed": 158833.2
+    },
+    {
+      "id": 2,
+      "vendorName": "Chanda Bwalya",
+      "companyName": "Ngosa Traders Solutions",
+      "contactPerson": "Chanda Bwalya",
+      "email": "chandabwalya@bwalya.co.zm",
+      "phone": "+260 968 977 975",
+      "city": "Lusaka",
+      "country": "Zambia",
+      "defaultPaymentTerms": "Net 30",
+      "taxId": "TAX-659738",
+      "totalAmountOwed": 646158.43
+    },
+    {
+      "id": 3,
+      "vendorName": "Nkole Chileshe",
+      "companyName": "Siame Commerce Enterprises",
+      "contactPerson": "Nkole Chileshe",
+      "email": "nkolechilesh@chileshe.co.zm",
+      "phone": "+260 025 285 780",
+      "city": "Kabwe",
+      "country": "Zambia",
+      "defaultPaymentTerms": "Due on Receipt",
+      "taxId": "TAX-468118",
+      "totalAmountOwed": 207161.89
+    },
+    {
+      "id": 4,
+      "vendorName": "Chanda Bwalya",
+      "companyName": "Lungu Traders Holdings",
+      "contactPerson": "Chanda Bwalya",
+      "email": "chandabwalya@bwalya.co.zm",
+      "phone": "+260 123 006 770",
+      "city": "Ndola",
+      "country": "Zambia",
+      "defaultPaymentTerms": "Net 30",
+      "taxId": "TAX-828885",
+      "totalAmountOwed": 174473.91
+    },
+    {
+      "id": 5,
+      "vendorName": "Mwamba Mutale",
+      "companyName": "Kabwe Commerce Inc.",
+      "contactPerson": "Mwamba Mutale",
+      "email": "mwambamutale@mutale.co.zm",
+      "phone": "+260 938 290 483",
+      "city": "Chipata",
+      "country": "Zambia",
+      "defaultPaymentTerms": "Due on Receipt",
+      "taxId": "TAX-329661",
+      "totalAmountOwed": 479724.22
+    },
+    {
+      "id": 6,
+      "vendorName": "Chisanga Bwalya",
+      "companyName": "Mwamba Commerce Limited",
+      "contactPerson": "Chisanga Bwalya",
+      "email": "chisangabwal@bwalya.co.zm",
+      "phone": "+260 361 784 242",
+      "city": "Livingstone",
+      "country": "Zambia",
+      "defaultPaymentTerms": "Net 45",
+      "taxId": "TAX-739174",
+      "totalAmountOwed": 521413.43
+    },
+    {
+      "id": 7,
+      "vendorName": "Musonda Mulenga",
+      "companyName": "Lungu Retail Inc.",
+      "contactPerson": "Musonda Mulenga",
+      "email": "musondamulen@mulenga.co.zm",
+      "phone": "+260 563 975 469",
+      "city": "Kitwe",
+      "country": "Zambia",
+      "defaultPaymentTerms": "Net 15",
+      "taxId": "TAX-617238",
+      "totalAmountOwed": 298737.45
+    },
+    {
+      "id": 8,
+      "vendorName": "Malama Phiri",
+      "companyName": "Lungu Commerce Enterprises",
+      "contactPerson": "Malama Phiri",
+      "email": "malamaphiri@phiri.co.zm",
+      "phone": "+260 489 926 154",
+      "city": "Livingstone",
+      "country": "Zambia",
+      "defaultPaymentTerms": "Net 15",
+      "taxId": "TAX-333103",
+      "totalAmountOwed": 676282.25
+    },
+    {
+      "id": 9,
+      "vendorName": "Mulenga Mumba",
+      "companyName": "Tembo Commerce Group",
+      "contactPerson": "Mulenga Mumba",
+      "email": "mulengamumba@mumba.co.zm",
+      "phone": "+260 522 973 914",
+      "city": "Mufulira",
+      "country": "Zambia",
+      "defaultPaymentTerms": "Net 45",
+      "taxId": "TAX-352370",
+      "totalAmountOwed": 480785.74
+    }
+  ],
+  "vendorCredits": []
+}

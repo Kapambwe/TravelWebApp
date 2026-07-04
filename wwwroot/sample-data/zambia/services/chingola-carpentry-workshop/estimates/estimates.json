@@ -1,0 +1,136 @@
+[
+  {
+    "id": 1,
+    "estimateNumber": "EST-2025-001",
+    "customerId": 9,
+    "customerName": "Mwamba Technical Services Limited",
+    "estimateDateDaysAgo": 36,
+    "expirationDateDaysFromNow": 30,
+    "status": "Expired",
+    "subTotal": 2668356.2,
+    "taxRate": 16,
+    "taxAmount": 426936.99,
+    "total": 3095293.19,
+    "terms": "Net 30",
+    "createdBy": "Account Executive",
+    "createdDateDaysAgo": 36,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Consulting Services",
+        "quantity": 3,
+        "unitPrice": 889452.07,
+        "amount": 2668356.2,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 35
+  },
+  {
+    "id": 2,
+    "estimateNumber": "EST-2025-002",
+    "customerId": 9,
+    "customerName": "Mwamba Technical Services Limited",
+    "estimateDateDaysAgo": 15,
+    "expirationDateDaysFromNow": 30,
+    "status": "Declined",
+    "subTotal": 3162722.39,
+    "taxRate": 15,
+    "taxAmount": 474408.36,
+    "total": 3637130.75,
+    "terms": "Net 30",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 15,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Tailoring & Alterations",
+        "quantity": 2,
+        "unitPrice": 1581361.2,
+        "amount": 3162722.39,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 14
+  },
+  {
+    "id": 3,
+    "estimateNumber": "EST-2025-003",
+    "customerId": 3,
+    "customerName": "Zimba Maintenance Inc.",
+    "estimateDateDaysAgo": 59,
+    "expirationDateDaysFromNow": 19,
+    "status": "Declined",
+    "subTotal": 3053689.19,
+    "taxRate": 18,
+    "taxAmount": 549664.05,
+    "total": 3603353.24,
+    "terms": "Net 15",
+    "createdBy": "Sales Manager",
+    "createdDateDaysAgo": 59,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Installation Services",
+        "quantity": 5,
+        "unitPrice": 610737.84,
+        "amount": 3053689.19,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 58
+  },
+  {
+    "id": 4,
+    "estimateNumber": "EST-2025-004",
+    "customerId": 6,
+    "customerName": "Sakala Solutions Limited",
+    "estimateDateDaysAgo": 54,
+    "expirationDateDaysFromNow": 35,
+    "status": "Draft",
+    "subTotal": 1364832.2,
+    "taxRate": 0,
+    "taxAmount": 0.0,
+    "total": 1364832.2,
+    "terms": "Net 30",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 54,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Custom Fabrication",
+        "quantity": 2,
+        "unitPrice": 682416.1,
+        "amount": 1364832.2,
+        "itemType": "Service"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "estimateNumber": "EST-2025-005",
+    "customerId": 2,
+    "customerName": "Mutale Technical Services Limited",
+    "estimateDateDaysAgo": 25,
+    "expirationDateDaysFromNow": 37,
+    "status": "Declined",
+    "subTotal": 2915721.27,
+    "taxRate": 16,
+    "taxAmount": 466515.4,
+    "total": 3382236.67,
+    "terms": "Net 15",
+    "createdBy": "Business Development Manager",
+    "createdDateDaysAgo": 25,
+    "lines": [
+      {
+        "lineNumber": 1,
+        "description": "Carpentry Work",
+        "quantity": 3,
+        "unitPrice": 971907.09,
+        "amount": 2915721.27,
+        "itemType": "Service"
+      }
+    ],
+    "sentDateDaysAgo": 24
+  }
+]

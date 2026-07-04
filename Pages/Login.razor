@@ -1,0 +1,85 @@
+@page "/login"
+@inject NavigationManager Navigation
+
+<div class="auth-page">
+    <RadzenCard Style="max-width:440px;margin:0 auto;padding:40px;border-radius:16px;">
+        <div style="text-align:center;margin-bottom:32px;">
+            <div class="auth-logo">Travel<span class="auth-accent">SA</span></div>
+            <RadzenText TextStyle="TextStyle.H5" Style="margin-top:16px;">Welcome back</RadzenText>
+            <RadzenText TextStyle="TextStyle.Body2" Style="color:var(--text-secondary);">Sign in to manage your bookings</RadzenText>
+        </div>
+
+        <RadzenTemplateForm TItem="Login.LoginModel" Model="@_loginModel" Submit="@HandleLogin">
+            <RadzenFormField Text="Email Address">
+                <RadzenTextBox @bind-Value="@_loginModel.Email" Placeholder="john@example.com" Style="width:100%;" />
+                <RadzenRequiredValidator Component="Email" Text="Email is required" />
+            </RadzenFormField>
+            <RadzenFormField Text="Password">
+                <RadzenTextBox @bind-Value="@_loginModel.Password" Placeholder="Enter your password" Password="true" Style="width:100%;" />
+                <RadzenRequiredValidator Component="Password" Text="Password is required" />
+            </RadzenFormField>
+
+            <div style="display:flex;justify-content:space-between;align-items:center;margin:8px 0 20px;">
+                <RadzenCheckBox @bind-Value="@_rememberMe">
+                    <span style="margin-left:4px;font-size:0.875rem;">Remember me</span>
+                </RadzenCheckBox>
+                <a href="#" style="font-size:0.875rem;">Forgot password?</a>
+            </div>
+
+            <RadzenButton Text="Sign In" ButtonStyle="ButtonStyle.Primary" FormSubmit="true" Style="width:100%;padding:12px;font-size:1rem;" />
+
+            @if (_error)
+            {
+                <RadzenAlert AlertStyle="AlertStyle.Danger" Style="margin-top:16px;">
+                    Invalid email or password. Please try again.
+                </RadzenAlert>
+            }
+        </RadzenTemplateForm>
+
+        <div style="text-align:center;margin-top:24px;padding-top:24px;border-top:1px solid var(--border);">
+            <RadzenText TextStyle="TextStyle.Body2" Style="color:var(--text-secondary);">
+                Don't have an account?
+                <a href="/register" style="font-weight:600;">Sign up</a>
+            </RadzenText>
+        </div>
+
+        <div style="margin-top:24px;">
+            <RadzenText TextStyle="TextStyle.Caption" Style="color:var(--text-secondary);text-align:center;display:block;margin-bottom:12px;">Or continue with</RadzenText>
+            <div style="display:flex;gap:8px;">
+                <RadzenButton Text="Google" ButtonStyle="ButtonStyle.Light" Variant="Variant.Outlined" Style="flex:1;border-radius:8px;" />
+                <RadzenButton Text="Apple" ButtonStyle="ButtonStyle.Light" Variant="Variant.Outlined" Style="flex:1;border-radius:8px;" />
+            </div>
+        </div>
+    </RadzenCard>
+</div>
+
+<style>
+    .auth-page { display:flex;align-items:center;justify-content:center;min-height:70vh;padding:24px; }
+    .auth-logo { font-size:1.75rem;font-weight:800;color:var(--text-primary); }
+    .auth-accent { color:var(--accent); }
+</style>
+
+@code {
+    private LoginModel _loginModel = new();
+    private bool _rememberMe;
+    private bool _error;
+
+    private void HandleLogin(LoginModel args)
+    {
+        if (_loginModel.Email == "demo@travelsa.com" && _loginModel.Password == "demo")
+        {
+            Navigation.NavigateTo("/");
+        }
+        else
+        {
+            _error = true;
+        }
+    }
+
+    private class LoginModel
+    {
+        public string Email { get; set; } = "";
+        public string Password { get; set; } = "";
+    }
+}
+

@@ -1,0 +1,21 @@
+{
+    "userId":  "user-The Urban Ndola-001",
+    "userName":  "accounts@theurbanhotel.co.zm",
+    "fullName":  "The Urban Ndola",
+    "roles":  [
+                  "General Manager",
+                  "Lodge Host",
+                  "Head of Finance"
+              ],
+    "companyId":  "uhn-001",
+    "companyName":  "The Urban Hotel Ndola",
+    "permissions":  [
+                        "ViewReports",
+                        "CreateTransactions",
+                        "ApproveBudgets",
+                        "ManageBookings",
+                        "ManageRooms",
+                        "ViewOccupancy",
+                        "ManageAmenities"
+                    ]
+}
