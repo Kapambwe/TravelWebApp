@@ -114,6 +114,15 @@ try {
         throw "Failed to publish project"
     }
     
+    # Fix base href in published index.html for Cloudflare Pages (uses root path)
+    $indexHtml = Join-Path $publishDir "wwwroot/index.html"
+    if (Test-Path $indexHtml) {
+        $html = Get-Content $indexHtml -Raw
+        $html = $html -replace '(?s)<!-- Smart base path.*?<\/script>', '<base href="/" />'
+        Set-Content $indexHtml -Value $html -NoNewline -Encoding utf8
+        Write-Host "  ✓ Patched index.html base href to '/' for Cloudflare Pages deployment" -ForegroundColor Green
+    }
+    
     # Deploy to Cloudflare Pages using Wrangler
     Write-Host "Deploying to Cloudflare Pages..." -ForegroundColor Yellow
     $wwwrootPath = Join-Path $publishDir "wwwroot"
